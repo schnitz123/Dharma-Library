@@ -38,16 +38,16 @@ body {
 }
 
    
- .markdown-rendered ul, .markdown-rendered ol {
-    margin-block-start: -30px;
-    margin-block-end: 0px;
+ul, ol {
+    margin-block-start: 0;
+    margin-block-end: 0;
 }
 
 
-.markdown-preview-view hr {
+/*.markdown-preview-view hr {
   margin-top: 30px;
   margin-bottom: -10px;
-} 
+} */
 
 
    
