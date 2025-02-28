@@ -170,7 +170,7 @@
 - [[Perfection of Wisdom/Topics/Instantaneous application\|Instantaneous application]]
 
 
-**Chapter 8: Resultant Dharmakaya** འབྲས་བུ་ཆོས་སྐུ། 
+**Chapter 8: Resultant Dharmakaya** འབྲས་བུ་ཆོས་སྐུ།
 { #7c2ebf}
 
 - [[Perfection of Wisdom/Topics/Attaining the result\|Attaining the result]]
