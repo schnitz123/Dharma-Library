@@ -39,11 +39,13 @@ body {
 
    
 ul, ol {
-    margin-block-start: -20px;
     margin-top: -20px;
-    margin-block-end: 0px;
 }
 
+ul ul, ol ol {
+  margin-top: 0; /* Reset margin for nested lists */
+  margin-bottom: 0; /* Optional: Reset bottom margin for nested lists */
+}
 
  hr {
   margin-top: 30px;
