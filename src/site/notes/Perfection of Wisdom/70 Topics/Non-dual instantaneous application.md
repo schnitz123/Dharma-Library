@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/non-dual-instantaneous-application/"}
+---
+
+གཟུང་འཛིན་རྫས་གཞན་གྱིས་སྟོང་པ་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སྒོ་ནས་ཤེས་སྒྲིབ་ཀྱི་དངོས་གཉེན་དུ་གྱུར་པའི་སེམས་དཔའི་རྣལ་འབྱོར་དེ། གཉིས་སུ་མེད་པའི་སྐད་ཅིག་མའི་སྦྱོར་བའི་མཚན་ཉིད། 
+
+**Definition:** A Bodhisattva’s yoga that is the direct antidote to the knowledge obscurations by way of being conjoined with the wisdom directly realising apprehendeds and apprehenders as empty of being different substances.
+
+---
+Up a level: [[Perfection of Wisdom/70 Topics/70 Topics#^324b0f\|70 Topics]]

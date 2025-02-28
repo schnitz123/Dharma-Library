@@ -1,0 +1,66 @@
+---
+{"dg-publish":true,"permalink":"/tarig/pramanavartika-overview/"}
+---
+
+3a: 4 - penultimate
+- 3b: 4 - 12
+	- "Of three types": 4-8
+		- effect sign: 4abc
+		- nature sign: 4cd
+		- non-observation sign:
+			- non-appearing: 5ab
+			- suitable to appear
+				- definition: 5cd
+				- divisions: 6
+				- dispelling debates: 7-8
+	- "Just" (definite number): 9-12
+		- succession: 9-10
+			- collection of causes to proves the suitability of producing effect; therefore, not a 4th sign: 9
+			- collection of causes cannot prove definite production of effect: 10
+		- simultaneous: 11-12
+- 3d (pseudo-signs): 13 - 16
+	- incomplete collection of causes is not correct: 13
+	- general effect to particular cause is not correct: 14
+	- non-simultaneous different substances and not cause and effect is not correct: 15-16
+- 3c (relationship of indispensability of the sign and predicate): 17 - penultimate
+	- Refuting that the reverse pervasion is established through the mere non-observation of the sign in the discordant position: 17 - 24
+		- Ācārya Dignāga did not assert that the reverse pervasion is established by the mere non-perception of the sign in the discordant class: 17
+		- Refutation by means of six contradictions with scripture: 18-22
+			- the words of Dignāga’s Gateway of Reasoning become defiled:
+				- actual refutation: 18ab
+				- dispelling objections: 18cd-19
+			- stating that [signs] with remainder are mistaken would be incorrect: 20ab
+			- those explained as merely possessing the reverse pervasion would be signs: 20c
+			- doubts regarding the reverse pervasion would not eliminate [something] being a correct sign: 20d
+			- a distinguishing feature, i.e. “object of hearing”, would be suitable as a sign: 21-22ab
+			- the Ācārya’s refutation of the syllogisms of Vaiśeṣika would not be suitable: 22cd
+		- direct perception that commonly refutes the Buddhists and Non-Buddhists who assert as such: 23
+		- refutation of Non-Buddhists who assert as such by way of the internal contradictions of their assertions: 24
+	- The proof that the ascertainment by valid cognition of the forward and reverse pervasions of a correct sign is taken to depend upon the ascertainment by valid cognition of the relationship of indispensability of the sign and predicate: 25 - 35
+		- way of establishing the pervasion of positive signs in our own system: 25-30
+			- establishment of the forward and reverse pervasions of correct effect and nature signs is established in dependence upon the relationship between the sign and predicate: 25
+			- otherwise, consequence that the reverse pervasion is not established: 26
+			- otherwise, consequence that the forward pervasion is not established: 27
+			- dispelling of objections: 28-30
+		- way of establishing the pervasion of the negation signs in our own system: 31-35
+			- same as v25 but for non-observation of cause and pervader: 31ab
+			- plus non-observation of nature: 31cd
+			- non-observation signs = 3, but many by way of mode of statement: 32
+			- summary of v17-25 (refuting, then est of pervasion depends on asc or relationship): 33
+				- v17-24 summarised by: 33d
+				- v25abc summarised by 33bc
+				- v25cd summarised by 33a
+			- summary of depending on relationship + absurdity of not: 34
+				- v26 summarised by 34ab
+				- v27 summarised by 34cd
+			- are impermanent and product same substance? 35ab
+			- 35cd???
+	- Extensive indication of the valid cognitions that ascertain the relationship:
+		- Positive signs:
+			- Effect signs: 36 - 40
+			- Nature signs: 41 - 198
+			- Summary of these two: 199
+		- Negation signs:
+			- non-appearing: 200 - 202b
+			- suitable to appear: 202c - 206
+		- Dispelling objections: 207 onwards
