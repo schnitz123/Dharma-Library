@@ -21,7 +21,20 @@ body {
   margin-bottom: -10px;
 }
 
-   width: 100%;
+/* Base content width expansion */
+.markdown-preview-view {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 2rem 5%;
+}
+
+@media (min-width: 1400px) {
+  .markdown-preview-view {
+    max-width: 1200px;
+    padding: 3rem 8%;
+  }
+}
+
 
    
 }
