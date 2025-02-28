@@ -9,6 +9,7 @@ body {
   --font-editor: var(--font-editor-override), var(--font-text-override),
     var(--font-editor-theme);
 
+   --file-line-width: 850px;
     
 .markdown-rendered ul, .markdown-rendered ol {
     margin-block-start: -20px;
@@ -19,20 +20,6 @@ body {
 .markdown-preview-view hr {
   margin-top: 30px;
   margin-bottom: -10px;
-}
-
-/* Base content width expansion */
-.markdown-preview-view {
-  max-width: 90%;
-  margin: 0 auto;
-  padding: 2rem 5%;
-}
-
-@media (min-width: 1400px) {
-  .markdown-preview-view {
-    max-width: 1200px;
-    padding: 3rem 8%;
-  }
 }
 
 
