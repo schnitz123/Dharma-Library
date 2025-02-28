@@ -1,13 +1,23 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+   /* Font families */
+  --font-text-theme:  'Times New Roman', 'Monlam Uni OuChan2';
+  --font-editor-theme: 'Times New Roman', 'Monlam Uni OuChan2';
+  --font-monospace-theme: 'JetBrains Mono', 'Fira Code', Menlo, SFMono-Regular,
+    Consolas, 'Roboto Mono', monospace;
+  --font-interface-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Inter, Ubuntu, sans-serif;
+  --font-editor: var(--font-editor-override), var(--font-text-override),
+    var(--font-editor-theme);
+
+    
+.markdown-rendered ul, .markdown-rendered ol {
+    margin-block-start: -20px;
+    margin-block-end: 0px;
+}
+
+
+.markdown-preview-view hr {
+  margin-top: 30px;
+  margin-bottom: -10px;
+}
 }
