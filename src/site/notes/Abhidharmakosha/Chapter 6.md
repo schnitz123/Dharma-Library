@@ -33,7 +33,7 @@ That which is other that that exist ultimately. [4]
 
 །ཚུལ་གནས་ཐོས་དང་བསམ་ལྡན་པས། །སྒོམ་པ་ལ་ནི་རབ་ཏུ་སྦྱོར། 
 Those endowed with proper abiding in listening and contemplation
-Thoroughly engage in meditation. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=282&selection=24,1,24,6\|5ab]]
+Thoroughly engage in meditation. [5ab]
 
 །ཐོས་སོགས་ལས་བྱུང་བློ་རྣམས་ནི། །མིང་དང་གཉིས་ཀ་དོན་ཡུལ་ཅན། 
 Awarenesses arisen from hearing and so forth
@@ -497,27 +497,27 @@ The others through wisdom. [64ab]
 །གཉིས་ཀྱིས་མི་སློབ་ཡོངས་སུ་རྫོགས། 
 Due to absorption, faculty and result
 Learners should be known as thoroughly complete.
-Due to two, Non-learners are thoroughly complete. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=310&selection=114,1,114,7\|64cd 65a]]
+Due to two, Non-learners are thoroughly complete. [64cd 65a]
 
 །མདོར་ན་ལམ་ནི་རྣམ་བཞི་སྟེ། །ཁྱད་པར་ཅན་དང་རྣམ་གྲོལ་དང་། 
 །བར་ཆད་མེད་དང་སྦྱོར་ཞེས་བྱ། 
 In brief, the paths are of four types:
 Called: special, liberated,
-Uninterrupted, and preparation. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=311&selection=44,1,44,8\|65bcd]]
+Uninterrupted, and preparation. [65bcd]
 
 །བསམ་གཏན་དག་གི་ལམ་རྣམས་སླ། །ས་གཞན་དག་གི་དཀའ་བ་ཡིན། 
 །བློ་རྟུལ་མངོན་ཤེས་བུལ་བ་སྟེ། །ཅིག་ཤོས་ཀྱི་ནི་མངོན་ཤེས་མྱུར། 
 The paths of the concentrations are easy.
 Those of other levels are difficult.
 Those of dull awareness are of slow clairvoyance;
-The others are of quick clairvoyance. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=311&selection=95,1,95,5\|66]]
+The others are of quick clairvoyance. [66]
 
 །ཟད་དང་མི་སྐྱེ་ཤེས་པ་ནི། །བྱང་ཆུབ་དེ་དང་མཐུན་ཉིད་ཕྱིར། 
 །སུམ་ཅུ་རྩ་བདུན་དེའི་ཕྱོགས་མཐུན། །མིང་གི་སྒོ་ནས་རྫས་སུ་བཅུ། 
 Knowledge of exhaustion and non-arising
 Is enlightenment. Due to being concordant with that
 The thirty-seven are the harmonies with that
-By way of of terms; as substances, they are ten: [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=312&selection=12,1,12,9\|67]]
+By way of of terms; as substances, they are ten: [67]
 
 །དད་དང་བརྩོན་འགྲུས་དྲན་པ་དང་། །ཤེས་རབ་ཏིང་འཛིན་བཏང་སྙོམས་དགའ། 
 །རྟོག་དང་ཚུལ་ཁྲིམས་ཤིན་ཏུ་སྦྱངས། །དྲན་པ་ཉེར་གཞག་ཤེས་རབ་སྟེ། 
@@ -530,18 +530,18 @@ The close placements of mindfulness are wisdom,
 Joyous effort are those called "completely setting", and
 The legs of magical emanation are concentration.
 These referred to as principal
-Are also all qualities arisen from application. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=312&selection=43,1,43,6\|68 69]]
+Are also all qualities arisen from application. [68 69]
 
 །སྡེ་ཚན་བདུན་ནི་གོ་རིམ་བཞིན། །ལས་ནི་དང་པོ་པ་དག་དང་། 
 །ངེས་འབྱེད་ཆ་མཐུན་རྣམས་དང་ནི། །སྒོམ་དང་མཐོང་ལ་རབ་ཏུ་ཕྱེ། 
 The seven categories are, respectively,
 Divided into the beginners,
 The partial concordance with definite discrimination,
-Meditation, and seeing. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=312&selection=160,1,160,5\|70]]
+Meditation, and seeing. [70]
 
 །བྱང་ཆུབ་ཡན་ལག་ལམ་ཡན་ལག །ཟག་པ་མེད་གཞན་རྣམ་གཉིས་སོ། 
 The branches of enlightenment and branches of the path
-Are uncontaminated; the others are of two types. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=312&selection=196,1,196,7\|71ab]]
+Are uncontaminated; the others are of two types. [71ab]
 
 །བསམ་གཏན་དང་པོ་ན་ཐམས་ཅད། །མི་ལྕོགས་མེད་ན་དགའ་མ་གཏོགས། 
 །གཉིས་པ་ན་ནི་རྟོག་མ་གཏོགས། །གཉིས་ན་དེ་གཉིས་མ་གཏོགས་པ། 
@@ -554,21 +554,21 @@ Those two are not included in two, and
 Also in the [special] concentration. 
 That and the branches of ethics also in the three formless.
 The branches of enlightenment and path
-Are not included in the desire realm and peak of existence. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=313&selection=31,1,31,7\|71cd 72 73ab]]
+Are not included in the desire realm and peak of existence. [71cd 72 73ab]
 
 །བདེན་གསུམ་མཐོང་ན་ཚུལ་ཁྲིམས་དང་། །ཆོས་ལ་ཤེས་ནས་དད་པ་འཐོབ། 
 །ལམ་མངོན་རྟོགས་ན་སངས་རྒྱས་དང་། །དེ་ཡི་དགེ་འདུན་དག་ལ་ཡང་། 
 When the three truths are seen, ethics and
 Faith through seeing the Dharma are attained;
 When the path is clearly realised, then also those
-Regarding Buddha and his Sangha are attained. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=313&selection=31,1,31,7\|73cd 74ab]]
+Regarding Buddha and his Sangha are attained. [73cd 74ab]
 
 །ཆོས་བདེན་གསུམ་དང་རང་སངས་རྒྱས། །བྱང་ཆུབ་སེམས་དཔའི་ལམ་ཡིན་ནོ། 
 །རྫས་སུ་གཉིས་ཏེ་དད་པ་དང་། །ཚུལ་ཁྲིམས་དྲི་མ་མེད་པ་ཡིན། 
 Dharma is the three truths, as well as the paths of
 Solitary Realisers and Bodhisattvas.
 As substances, they are two: faith and
-Stainless ethics. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=313&selection=184,1,184,7\|74cd 75ab]]
+Stainless ethics. [74cd 75ab]
 
 །བཅིངས་ཕྱིར་སློབ་པའི་ཡན་ལག་ཏུ། །རྣམ་གྲོལ་མ་བཤད་དེ་རྣམ་གཉིས། 
 །ཉོན་མོངས་བཅོམ་པ་འདུས་མ་བྱས། །མོས་པ་འདུས་བྱས་ཡན་ལག་ནི། 
@@ -578,30 +578,30 @@ Are not explained as complete liberation. That is of two types:
 Destruction of the afflictions (uncompounded) and
 Devotion (compounded). The branches
 Are that. Just that is the two complete liberations.
-Enlightenment is the knowledges that were explained. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=314&selection=61,1,61,7\|75cd 76]]
+Enlightenment is the knowledges that were explained. [75cd 76]
 
 །མི་སློབ་སེམས་ནི་སྐྱེ་འགྱུར་བ། །སྒྲིབ་པ་ལས་ནི་རྣམ་གྲོལ་འགྱུར། 
 The mind of Non-Learners that will be produced
-Will be completely liberated from the obscurations. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=315&selection=8,1,8,7\|77ab]]
+Will be completely liberated from the obscurations. [77ab]
 
 །འགག་པར་འགྱུར་བའི་ལམ་གྱིས་ནི། །དེ་ཡི་སྒྲིབ་པ་རབ་ཏུ་སྤོང་། 
 Paths that will cease
-Thoroughly abandon the obscurations of that. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=315&selection=26,0,26,7\|77cd]]
+Thoroughly abandon the obscurations of that. [77cd]
 
 །འདུས་མ་བྱས་ཉིད་ཁམས་ཞེས་བྱ། 
-The uncompounded itself should be known as the constituent. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=315&selection=45,1,45,6\|78a]]
+The uncompounded itself should be known as the constituent. [78a]
 
 །འདོད་ཆགས་ཀུན་ཟད་འདོད་ཆགས་བྲལ། །སྤངས་པའི་ཁམས་ནི་གཞན་དག་གོ 
 །འགོག་པའི་ཁམས་ཞེས་བྱ་བ་གཞི། 
 Exhaustion of all attachment is separation from attachment;
 The constituent of abandonment is the others.
-That called "constituent of cessation" is the basis. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=315&selection=65,1,65,8\|78bcd]]
+That called "constituent of cessation" is the basis. [78bcd]
 
 །སྡུག་བསྔལ་རྒྱུ་བཟོད་ཤེས་རྣམས་ཀྱིས། །ཡིད་འབྱུང་གང་གིས་སྤོང་འགྱུར་བ། 
 །ཀུན་གྱིས་འདོད་ཆགས་བྲལ་བར་འགྱུར། །དེ་ལྟར་ན་ནི་མུ་བཞི་སྲིད། 
 Through the forbearances and knowledges of suffering and cause
 There is disillusionment. All those that will abandon
 Will separate from attachment.
-In this way, there are four possibilities. [[Abhidharmakosha/ABK Gendun Drub Commentary.pdf#page=315&selection=106,1,106,5\|79]]
+In this way, there are four possibilities. [79]
 
 །ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ་ལས། ལམ་དང་གང་ཟག་བསྟན་པ་ཞེས་བྱ་བ་སྟེ་གནས་དྲུག་པའོ། །
