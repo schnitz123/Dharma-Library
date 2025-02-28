@@ -52,7 +52,10 @@ ul ul, ol ol {
 ol ul, {
    margin-block-start: 0px;
    }
-
+ul ol, {
+   margin-block-start: 0px;
+   }
+   
  hr {
   margin-top: 30px;
   margin-bottom: -10px;
