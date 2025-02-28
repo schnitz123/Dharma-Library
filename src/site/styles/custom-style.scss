@@ -22,7 +22,20 @@ body {
         margin-top: 75px;
     }
 }
-    
+
+/* Sidebar container styling */
+.custom-sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;        /* Adjust width as needed */
+  height: 100%;
+  padding: 20px;
+  overflow-y: auto;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
+   
 .markdown-rendered ul, .markdown-rendered ol {
     margin-block-start: -20px;
     margin-block-end: 0px;
