@@ -9,7 +9,18 @@ body {
   --font-editor: var(--font-editor-override), var(--font-text-override),
     var(--font-editor-theme);
 
-   --file-line-width: 850px;
+  .content {
+    max-width: 1500px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 90px;
+    position: relative;
+
+    @media (max-width: 1600px) {
+        margin-top: 75px;
+    }
+}
     
 .markdown-rendered ul, .markdown-rendered ol {
     margin-block-start: -20px;
