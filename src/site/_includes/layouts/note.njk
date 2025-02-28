@@ -26,6 +26,12 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
+    <main class="content cm-s-obsidian {{contentClasses}}">
+      <header>
+        {% if settings.dgShowInlineTitle === true %}
+          <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
+        {% endif %}
+
 <!-- Static Sidebar -->
     <div class="custom-sidebar">
       <ul>
@@ -64,11 +70,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     </div>
 
 
-    <main class="content cm-s-obsidian {{contentClasses}}">
-      <header>
-        {% if settings.dgShowInlineTitle === true %}
-          <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
-        {% endif %}
+
         <div class="header-meta">
           {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">
