@@ -116,16 +116,31 @@
     
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <style>
+  /* Main container positioning */
   .floatingchat-container-wrap {
     left: auto !important;
     right: 10px !important;
-    bottom: 50px !important;
-    z-index: 10000 !important;
+    bottom: 20px !important;
   }
-  
-  .floatingchat-container-wrap-mobi {
+
+  /* Panel alignment */
+  .floatingchat-donate-panel {
     left: auto !important;
-    right: 10px !important;
+    right: 100% !important;
+    transform: translateX(120%) !important;
+  }
+
+  /* Mobile adaptation */
+  @media (max-width: 768px) {
+    .floatingchat-container-wrap {
+      right: 5px !important;
+      bottom: 10px !important;
+    }
+    
+    .floatingchat-donate-panel {
+      transform: translateX(105%) !important;
+      right: 100% !important;
+    }
   }
 </style>
 
@@ -134,10 +149,10 @@
     'type': 'floating-chat',
     'floating-chat.donateButton.text': 'Donate',
     'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff',
-    'floating-chat.core.position.bottom-right': 'position: fixed; bottom: 50px; right: 10px;'
+    'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
+
 
 </body>
   </html>
