@@ -45,6 +45,10 @@ em {
   line-height: 1.5;
 }
 
+.navbar {
+    position: fixed;
+    z-index: 1000;
+   }
    
 ul, ol {
   /*  margin-top: -20px; */
