@@ -127,8 +127,8 @@
   .floatingchat-donate-panel {
     left: auto !important;
     right: 100% !important;
-    transform: translateX(0) !important;
-    margin-right: 15px !important;
+    transform: translateX(40px) !important; /* Adjust this value */
+    bottom: 0 !important;
   }
 
   /* Mobile optimization */
@@ -142,7 +142,7 @@
       right: 0 !important;
       left: auto !important;
       transform: none !important;
-      width: 95vw !important;
+      width: calc(100vw - 20px) !important;
       margin: 0 10px !important;
     }
   }
@@ -156,6 +156,7 @@
     'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
+
 
 
 
