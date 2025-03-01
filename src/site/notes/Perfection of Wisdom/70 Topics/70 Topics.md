@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/70-topics/"}
 ---
 
-See: [[Perfection of Wisdom/70 Topics/pdf index\|English PDF]]
-
 **Introduction:** [[Perfection of Wisdom/70 Topics/Perfection of Wisdom\|Perfection of Wisdom]] ཤེར་ཕྱིན།
 
 **Eight Categories**

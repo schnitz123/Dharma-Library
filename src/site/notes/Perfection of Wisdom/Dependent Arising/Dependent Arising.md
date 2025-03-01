@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/dependent-arising/"}
 ---
 
-###### རང་གི་ཆ་ཤས་ལ་ལྟོས་ནས་གྲུབ་པ། རྟེན་འབྲེལ་གྱི་མཚན་ཉིད།
+རང་གི་ཆ་ཤས་ལ་ལྟོས་ནས་གྲུབ་པ། རྟེན་འབྲེལ་གྱི་མཚན་ཉིད།
 **Definition:** That which is established in dependence upon its parts.
 
 If it is an established base, it is pervaded by being a dependent-arising.
-###### རང་གི་རྐྱེན་གྱུར་པའི་རྐྱེན་གསུམ་ལས་བྱུང་བ་གང་ཞིག  སྡུག་ཀུན་གང་རུང་དུ་གྱུར་པའི་འཁོར་བ། <Br>ཀུན་ནས་ཉོན་མོངས་ཕྱོགས་ཀྱི་རྟེན་འབྲེལ་གྱི་མཚན་ཉིད།
+
+རང་གི་རྐྱེན་གྱུར་པའི་རྐྱེན་གསུམ་ལས་བྱུང་བ་གང་ཞིག  སྡུག་ཀུན་གང་རུང་དུ་གྱུར་པའི་འཁོར་བ། ཀུན་ནས་ཉོན་མོངས་ཕྱོགས་ཀྱི་རྟེན་འབྲེལ་གྱི་མཚན་ཉིད།
 **Definition of a dependent-arising of the thoroughly afflicted class:**
 That which 1) arose from the [[Perfection of Wisdom/Dependent Arising/three conditions\|three conditions]] that are its causes and 2) is Samsara that is either a true suffering or origin.
 

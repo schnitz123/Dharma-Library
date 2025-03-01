@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/lamrim-glossary/death-and-impermanence/"}
 ---
 
-###### རྩ་བ་གསུམ། རྒྱུ་མཚན་དགུ ཐག་ཅད་པ་རྣམ་པ་གསུམ།
-**Three roots, nine reasons, three decisions** 
+**Three roots, nine reasons, three decisions** རྩ་བ་གསུམ། རྒྱུ་མཚན་དགུ ཐག་ཅད་པ་རྣམ་པ་གསུམ།
 1. *Death is Certain* ངེས་པར་འཆི་བ།
 	1. The Lord of Death will definitely come and there is nothing that will prevent it
 	   འཆི་བདག་ངེས་པར་འོང་ལ་རྐྱེན་གང་གིས་ཀྱང་བཟློག་ཏུ་མེད་པ།
@@ -23,8 +22,8 @@ Therefore: Decide to practice starting now. དེ་ལྟར་ན་ད་ལ
 	3. Our body cannot help ཤ་རུས་མི་ཕན་པ།
 Contemplate how, at the time of death, only our practice serves as a refuge, a protector, a defence.
 དེའི་དུས་སུ་ནི། ཆོས་འབའ་ཞིག་སྐྱབས་དང་མགོན་དང་དཔུང་གཉེན་དུ་འགྱུར་ཚུལ་བསམ་པར་བྱ།
-###### འཇིག་རྟེན་གྱི་ཆོས་བརྒྱད།
-**The Eight Worldly Dharmas** 
+
+**The Eight Worldly Dharmas** འཇིག་རྟེན་གྱི་ཆོས་བརྒྱད།
 - Gain and Loss (Not gaining) རྙེད་པ་དང་མ་རྙེད་པ།
 - Fame and Disgrace སྙན་གྲགས་དང་མ་གྲགས།
 - Praise and Blame བསྟོད་པ་དང་སྨད་པ།

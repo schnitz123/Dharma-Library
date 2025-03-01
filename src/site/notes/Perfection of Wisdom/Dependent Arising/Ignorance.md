@@ -20,4 +20,5 @@ It is neutral (not indicated in scripture), mainly an object of abandonment of t
 - Asserted as: A mental factor that is the discordant class opposite to the knowing exalted wisdom realising the selflessness of persons.
 - View of the transitory collection is a type of ignorance.
 
+---
 Up a level: [[Perfection of Wisdom/Dependent Arising/Dependent Arising\|Dependent Arising]]

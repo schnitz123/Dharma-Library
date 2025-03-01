@@ -26,4 +26,5 @@
 	2. Existence from its own side རང་ངོས་ནས་གྲུབ་པ།
 	3. Existence by way of its own character རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ།
 ---
+See also: [[Perfection of Wisdom/Concentrations/special insight\|special insight]]
 Up a level: [[Lamrim Glossary/Lamrim Glossary\|Lamrim Glossary]]

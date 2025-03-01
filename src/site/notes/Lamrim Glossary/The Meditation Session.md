@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/lamrim-glossary/the-meditation-session/"}
 ---
 
-ཐུན་གྱི་ངོ་བོ་ལ་སྦྱོར་བའི་ཆོས་དྲུག
-**The Six Preparatory Practices for the Actual Session:** 
+**The Six Preparatory Practices for the Actual Session:** ཐུན་གྱི་ངོ་བོ་ལ་སྦྱོར་བའི་ཆོས་དྲུག
 1. Cleaning the room and setting up representation of the Buddha’s body, speech and mind
    གནས་ཁང་བྱི་དོར་བྱས་ལ་སྐུ་གསུང་ཐུགས་ཀྱི་རྟེན་ལེགས་པར་དགྲམ།
 2. Arrange offerings 
@@ -16,8 +15,7 @@
    ཚོགས་གསོག་པ་དང་སྒྲིབ་པ་སྦྱོང་བ། (ཡན་ལག་བདུན།)
 6. Offering a mandala and making requests མཎྜལ་ཕུལ་བ་དང་གསོལ་བ་གདབ་པ།
 
-ཡན་ལག་བདུན།
-**The Seven-limb Practice:** 
+**The Seven-limb Practice:** ཡན་ལག་བདུན།
 1. Prostrating (through body, speech and mind) ཕྱག་འཚལ་བའི་ཡན་ལག (ལུས་ངག་ཡིད་གསུམ་གྱི་ཕྱག)
 2. Offering (surpassed and unsurpassed) མཆོད་པའི་ཡན་ལག (བླ་ན་ཡོད་པའི་དང་མེད་པའི་མཆོད་པ།)
 3. Confessing negativities སྡིག་པ་བཤགས་པའི་ཡན་ལག
@@ -26,8 +24,7 @@
 6. Requesting (to remain) གསོལ་བ་བདེབས་པའི་ཡན་ལག
 7. Dedication བསྔོ་བའི་ཡན་ལག
 
-ལོག་འཚོ་ལྔ་།
-**The Five Wrong Livelihoods:** 
+**The Five Wrong Livelihoods:** ལོག་འཚོ་ལྔ་།
 { #a4e35f}
 
 1. Pretending ཚུལ་འཚོས།
@@ -36,8 +33,7 @@
 4. Taking through force ཐོབ་ཀྱིས་འཇལ་བ།
 5. Seeking gain from gain རྙེད་པས་རྙེད་པ་འཚོལ་བ།
 
-ཞི་ལྷག་སྐྱེ་བའི་རྒྱུ་གྱུར་པའི་ཚོགས་བཞི་ལ།
-**The Four Conditions for Calm Abiding and Special Insight:** 
+**The Four Conditions for Calm Abiding and Special Insight:** ཞི་ལྷག་སྐྱེ་བའི་རྒྱུ་གྱུར་པའི་ཚོགས་བཞི་ལ།
 1. Restraining the sense-doors དབང་པོའི་སྒོ་སྡོམ་པ།
 2. Acting introspectively ཤེས་བཞིན་དུ་སྤྱོད་པ།
 3. Knowing the limits of food (Appropriate diet) ཟས་ཀྱི་ཚོད་རིག་པ།

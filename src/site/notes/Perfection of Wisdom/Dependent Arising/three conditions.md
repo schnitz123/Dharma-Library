@@ -9,3 +9,6 @@
 **First:** Not through a creator, but inanimate conditions.
 **Second:** Arising through individual corresponding conditions; not everything gives rise to everything.
 **Third:** Suitable conditions, i.e. not permanent.
+
+---
+Up a level: [[Perfection of Wisdom/Dependent Arising/Dependent Arising\|Dependent Arising]]

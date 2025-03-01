@@ -77,5 +77,5 @@
 6. Attention of final application སྦྱོར་བ་མཐའི་ཡིད་བྱེད།
 7. The result of final application སྦྱོར་བ་མཐའི་འབྲས་བུ།
 ---
-*Link to concentration topics*
+See also: [[Perfection of Wisdom/Concentrations/Concentrations\|Concentrations]]
 Up a level: [[Lamrim Glossary/Lamrim Glossary\|Lamrim Glossary]]

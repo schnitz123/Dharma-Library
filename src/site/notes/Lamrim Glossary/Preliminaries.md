@@ -4,7 +4,6 @@
 
 བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་འཁྲིད་ལ་བཞི།
 **The Four Main Outlines for Teaching the Graduated Path to Enlightenment:**
-
 1. Showing the Greatness of the Author in order to show the source is credible
    ཆོས་ཁུངས་བཙུན་པར་བསྟན་པའི་ཕྱིར། མཛད་པ་པོའི་ཆེ་བ་བསྟན་པ་དང་།
 2. Showing the Greatness of the Dharma in order to generate respect for the instructions
@@ -15,7 +14,6 @@
    གདམས་པ་དངོས་ཀྱིས་སློབ་མ་ཇི་ལྟར་བཀྲི་བའི་རིམ་པའོ།
 
 **The Four Greatnesses of the Dharma:** ཆོས་ཀྱི་ཆེ་བ་བསྟན་པ་ལ་བཞི།
-
 1. Realising all the teachings without contradiction
    བསྟན་པ་ཐམས་ཅད་འགལ་མེད་དུ་རྟོགས་པའི་ཆེ་བ།
 2. All the teachings arising as practice instructions
@@ -25,7 +23,6 @@
 4. The great misdeeds are naturally ceased
    ཉེས་སྤྱོད་ཆེན་པོ་རང་འགགས་སུ་འགྲོ་བའི་ཆེ་བ།
 
-
 **The Three Faults of a Vessel:** སྣོད་ཀྱི་སྐྱོན་གསུམ།
 1. An upside-down vessel
    སྣོད་ཁ་སྦུབ་པ་ལྟ་བུ།
@@ -33,7 +30,6 @@
    སྣོད་དྲི་མ་ཅན་ལྟ་བུ།
 3. A leaky vessel / A vessel with a hole in the bottom
    སྣོད་ཞབས་རྡོལ་བ་ལྟ་བུ།
-
 
 **The Six Considerations:** འདུ་ཤེས་དྲུག
 1. Considering oneself to be a patient / sick

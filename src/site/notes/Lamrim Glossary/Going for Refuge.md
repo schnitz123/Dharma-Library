@@ -2,21 +2,18 @@
 {"dg-publish":true,"permalink":"/lamrim-glossary/going-for-refuge/"}
 ---
 
-###### སྐྱབས་སུ་འགྲོ་བའི་རྒྱུ་ལ།
-**The Two Causes for Refuge:** 
+**The Two Causes for Refuge:** སྐྱབས་སུ་འགྲོ་བའི་རྒྱུ་ལ།
 1. Fear འཇིགས་པ།
 2. Faith / Belief ཡིད་ཆེས་པ།
 
-###### སྐྱབས་སུ་འོས་པའི་རྒྱུ་མཚན་ནི་བཞི།
-**Four Reasons the Buddha is a Suitable Refuge:** 
+**Four Reasons the Buddha is a Suitable Refuge:** སྐྱབས་སུ་འོས་པའི་རྒྱུ་མཚན་ནི་བཞི།
 1. He is liberated from all fears རང་ཉིད་འཇིགས་པ་ཐམས་ཅད་ལས་གྲོལ་བ།
 2. He is skilled in the means of liberating others from fear གཞན་འཇིགས་པ་ལས་སྒྲོལ་བའི་ཐབས་ལ་མཁས་པ།
 3. He has unbiased great compassion for all ཀུན་ལ་ཐུགས་རྗེ་ཆེན་པོ་ཉེ་རིང་མེད་པར་འཇུག་པ།
 4. He accomplishes the welfare of all, regardless of whether they have benefitted him or not
    ཕན་བཏགས་མ་བཏགས་ཐམས་ཅད་ཀྱི་དོན་མཛད་པ།
 
-###### སྤྱིར་སངས་རྒྱས་ཀྱི་སྐུ་ལ་བཞི།
-**In general, the Four Buddha Bodies:** 
+**In general, the Four Buddha Bodies:** སྤྱིར་སངས་རྒྱས་ཀྱི་སྐུ་ལ་བཞི།
 1. Form Body (Rūpakāya) གཟུགས་སྐུ།
 	1. [[../Perfection of Wisdom/70 Topics/70 topics english.pdf#page=50&selection=26,0,26,18|Enjoyment Body]] (Saṃbhogakāya) ལོངས་སྐུ།
 	2. [[../Perfection of Wisdom/70 Topics/70 topics english.pdf#page=50&selection=62,0,62,18|Emanation Body]] (Nirmāṇakāya) སྤྲུལ་སྐུ།
@@ -24,13 +21,14 @@
 	1. [[../Perfection of Wisdom/70 Topics/70 topics english.pdf#page=50&selection=4,0,4,15|Nature Truth Body]] (Svābhāvikakāya) ངོ་བོ་ཉིད་སྐུ།
 	2. [[../Perfection of Wisdom/70 Topics/70 topics english.pdf#page=51&selection=2,0,2,29|Exalted Wisdom Truth Body]] (Jñānakāya) ཡེ་ཤེས་ཆོས་སྐུ།
 
-###### ཁྱད་པར་དུ་སངས་རྒྱས་ཀྱི་སྐུ་ལ།
-**Specifically, the Budda’s Body has:** 
+
+**Specifically, the Budda’s Body has:** ཁྱད་པར་དུ་སངས་རྒྱས་ཀྱི་སྐུ་ལ།
 - Thirty two (32) Major Marks མཚན་བཟང་པོ་སུམ་ཅུ་རྩ་གཉིས།
 - Eighty (80) Minor Signs དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུ།
 
-###### སྐྱབས་སུ་འགྲོ་བའི་ཚུལ་ལ་བཞི།
-**The Four Ways of Going for Refuge:** 
+See: [[Perfection of Wisdom/Topics/Individual explanations of the Marks and Signs\|Individual explanations of the Marks and Signs]]
+
+**The Four Ways of Going for Refuge:** སྐྱབས་སུ་འགྲོ་བའི་ཚུལ་ལ་བཞི།
 1. By knowing their qualities ཡོན་ཏན་ཤེས་ནས་སྐྱབས་སུ་སོང་བ།
 	1. Qualities of body སྐུའི་ཡོན་ཏན།
 	2. Qualities of speech གསུང་གི་ཡོན་ཏན།
@@ -46,8 +44,7 @@
 3. Through commitment ཁས་བླངས་པས་སྐྱབས་སུ་སོང་བ།
 4. By not asserting other objects of refuge གཞན་དུ་མི་སྨྲ་བའི་སྐྱབས་སུ་སོང་བ།
 
-###### སྐྱབས་སུ་འགྲོ་ནས་བསླབ་བྱའི་རིམ་པ་ལ་གཉིས།
-**The Precepts once one has Gone for Refuge:** 
+**The Precepts once one has Gone for Refuge:** སྐྱབས་སུ་འགྲོ་ནས་བསླབ་བྱའི་རིམ་པ་ལ་གཉིས།
 1. *In Asanga’s Compendium of Ascertainments* བསྡུ་བ་ལས་བྱུང་བ།
 	1. First group of four བཞི་ཚན་དང་པོ།
 		1. Rely on holy beings སྐྱེས་བུ་དམ་པ་ལ་བརྟེན་པ།
@@ -82,8 +79,7 @@
 		6. Never abandoning but guarding one’s refuge in the three jewels.
 		   དཀོན་མཆོག་གསུམ་ཐ་ན་མི་གཏོང་ཞིང་བསྲུང་བར་བྱ།
 
-###### སྐྱབས་སུ་འགྲོ་བར་བྱ་བ་ལ།
-**The Benefits of Taking Refuge:** 
+**The Benefits of Taking Refuge:** སྐྱབས་སུ་འགྲོ་བར་བྱ་བ་ལ།
 1. *In Asanga’s Compendium of Ascertainments* བསྡུ་བ་ལས་འབྱུང་བའི་ཕན་ཡོན།
 	1. First group of four བཞི་ཚན་དང་པོ།
 		1. One will obtain vast merit བསོད་ནམས་རྒྱ་ཆེན་པོ་འཐོབ་པ།

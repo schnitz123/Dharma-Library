@@ -9,7 +9,6 @@
 
 སྐྱེས་བུ་ཆུང་ངུ་དང་ཐུན་མོང་བའི་ལམ་གྱི་རིམ་པ།
 **The Stages of the Path Common to the Small Capacity Being**
-
 1. Generating the mind striving for future lives འཇིག་རྟེན་ཕྱི་མ་དོན་གཉེར་གྱི་བློ་བསྐྱེད་པ།
 	1. [[Lamrim Glossary/Death and Impermanence\|Death and Impermanence]]
 	2. [[Lamrim Glossary/Suffering of Lower Realms\|Suffering of Lower Realms]]
@@ -19,7 +18,6 @@
 
 སྐྱེས་བུ་འབྲིང་དང་ཐུན་མོང་བའི་ལམ་གྱི་རིམ་པ།
 **The Stages of the Path Common to the Middling Capacity Being**
-
 1. [[Perfection of Wisdom/Topics/Four Truths\|Four Noble Truths]]
 	1. [[Lamrim Glossary/Suffering of Samsara\|Suffering of Samsara]]
 	2. [[Lamrim Glossary/Motivation of Actions\|Motivation of Actions]] - Other topics see: [[Perfection of Wisdom/Dependent Arising/Compositional actions\|Compositional actions]]
@@ -30,7 +28,6 @@
 
 སྐྱེས་བུ་ཆེན་པོའི་ཐུན་མོང་མ་ཡིན་པའི་ལམ་གྱི་རིམ་པ།
 **The Stages of the Path Uncommon to the Great Capacity Being**
-
 1. [[Perfection of Wisdom/Topics/Mahayana Mind Generation\|Bodhicitta]]
 2. [[Lamrim Glossary/Six Perfections\|Six Perfections]]
 3. [[Lamrim Glossary/Six Perfections (Related Lamrim Topics)\|Six Perfections (Related Lamrim Topics)]]

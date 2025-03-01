@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/lamrim-glossary/precious-human-rebirth/"}
 ---
 
-###### མི་ཁོམ་པ་བརྒྱད་ནི།
-**The Eight Non-Freedoms:** 
+**The Eight Non-Freedoms:** མི་ཁོམ་པ་བརྒྱད་ནི།
 - The three lower realms ངན་སོང་གསུམ།
 - Long-life god ལྷ་ཚེ་རིང་པོ།
 - Lacking the Conqueror’s teachings རྒྱལ་བའི་བཀའ་མེད་པ།
@@ -11,8 +10,7 @@
 - Deaf or dumb གླེན་ཞིང་ལྐུགས་པ།
 - Possessing wrong views ལོག་ལྟ་ཅན།
 
-###### འབྱོར་བ་བཅུ་ལ་གཉིས།
-**The Ten Opportunities:** 
+**The Ten Opportunities:** འབྱོར་བ་བཅུ་ལ་གཉིས།
 1. Relating to oneself རང་འབྱོར་ལྔ།
 	1. Being human མི་ཡིན་པ།
 	2. Being born in a central place ཡུལ་དབུས་སུ་སྐྱེས་པ།

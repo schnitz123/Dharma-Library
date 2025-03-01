@@ -4,7 +4,9 @@
 
 རང་དང་རྟེན་འབྲེལ་ཚར་གཅིག་ཏུ་གཏོགས་པའི་མ་རིག་པས་ཀུན་ནས་བསླངས་ཤིང་རང་གི་འཕང་བྱར་གྱུར་བའི་ཡང་སྲིད་ཕྱི་མ་འཕེན་བྱེད་ཀྱི་སེམས་བྱུང་སེམས་པ་དེ། <br>ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་གྱི་འདུ་བྱེད་ཀྱི་རྟེན་འབྲེལ་གྱི་མཚན་ཉིད།
 **Definition of compositional action that is a subdivision of the twelve links:**
-A mental factor of intention that is 1) motivated by the ignorance included within the same round of dependent-arising and 2) projecting the future rebirth that is its projected object.
+A mental factor of intention that is:
+1. Motivated by the ignorance included within the same round of dependent-arising; and
+2. Projecting the future rebirth that is its projected-object.
 
 **Divisions:**
 1. **Meritorious actions** བསོད་ནམས་ཀྱི་ལས། Projecting to:

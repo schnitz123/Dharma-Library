@@ -14,7 +14,6 @@ As opposed to **in order of cause and effect** (2 1 4 3) རྒྱུ་འབ�
 - Main thoroughly afflicted class (1 + 2) ཀུན་ནས་ཉོན་མོངས་ཕྱོགས།
 - Main completely pure class (3 + 4) རྣམ་བྱང་ཕྱོགས།
 
-
 **Definite in number** as the causes and effects relating to entering and exiting samsara:
 - The cause and what binds: the truth of origin རྒྱུ་འཆིང་བྱེད་ཀུན་འབྱུང་བདེན་པ།
 - The effect and what is bound: true suffering འབྲས་བུ་བཅིངས་པ་སྡུག་བསྔལ་བདེན་པ།

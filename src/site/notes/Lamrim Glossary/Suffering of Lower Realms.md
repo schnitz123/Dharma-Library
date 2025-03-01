@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/lamrim-glossary/suffering-of-lower-realms/"}
 ---
 
-###### དམྱལ་བའི་སྡུག་བསྔལ།
-**The Suffering of the Hells** 
+**The Suffering of the Hells** དམྱལ་བའི་སྡུག་བསྔལ།
 1. *The Great Hells* དམྱལ་བ་ཆེན་པོ།
 	1. Reviving hell ཡང་སོས།
 	2. Black-line hell ཐིག་ནག
@@ -30,8 +29,7 @@
 	8. Great Splitting Lotus hell མདྨ་ལྟར་གས་པ་ཆེན་པོ།
 4. *The Occasional Hells* ཉི་ཚེ་བའི་དམྱལ་བ།
 
-###### ཡི་དྭགས་ལ་གསུམ།
-**The Three kinds of Preta:** 
+**The Three kinds of Preta:** ཡི་དྭགས་ལ་གསུམ།
 1. Those with external obstacles for obtaining food and drink ཟས་སྐོམ་ལ་ཕྱིའི་སྒྲིབ་པ་ཡོད་པ།
 2. Those with internal obstacles for obtaining food and drink ཟས་སྐོམ་ལ་ནང་གི་སྒྲིབ་པ་ཡོད་པ།
 3. Those with obstacles within the food and drink themselves ཟས་སྐོམ་ཉིད་ལ་སྒྲིབ་པ་ཡོད་པ།
