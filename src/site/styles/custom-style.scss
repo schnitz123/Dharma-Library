@@ -67,7 +67,15 @@ em, h1 {
   text-decoration: none;
   color: rgb(234, 198, 118);
 }
- 
+
+/* Nuclear option for stubborn panels */
+.floatingchat-donate-panel[style] {
+  left: auto !important;
+  right: 100% !important;
+  transform: translateX(0) !important;
+  margin-right: 15px !important;
+}
+   
    
 ul, ol {
   /*  margin-top: -20px; */
