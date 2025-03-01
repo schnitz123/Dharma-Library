@@ -49,6 +49,24 @@ em {
     position: fixed;
     z-index: 1000;
    }
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  margin-left: 20px;  /* Space between the title and the links */
+}
+
+.nav-links li {
+  margin-right: 20px; /* Spacing between individual links */
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: rgb(234, 198, 118);
+}
+
    
 ul, ol {
   /*  margin-top: -20px; */
