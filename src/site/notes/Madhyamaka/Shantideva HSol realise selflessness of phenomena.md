@@ -38,7 +38,8 @@ It follows [that there two types of craving] because it is suitable to divide ig
 ---
 In the continuum of a person devoid of the view realising emptiness: སྟོང་ཉིད་རྟོགས་པའི་ལྟ་བ་དང་བྲལ་བའི་གང་ཟག་གི་རྒྱུད་ལ་ 
 - When a pleasant feeling is produced , then by cause of that the craving not to be separated from that pleasant feeling is definitely produced; ཚོར་བ་བདེ་བ་སྐྱེས་པ་ན། དེའི་རྐྱེན་གྱིས་ཚོར་བ་བདེ་བ་ལ་མི་འབྲལ་བར་སྲེད་པ་དང་།
-- When a suffering feeling is produced, then by cause of that a craving wishing to be free from that suffering feeling is definitely produced ཚོར་བ་སྡུག་བསྔལ་སྐྱེས་པ་ན། དེའི་རྐྱེན་གྱིས་ཚོར་བ་སྡུག་བསྔལ་དང་བྲལ་འདོད་ཀྱི་སྲེད་པ་ངེས་པར་སྐྱེས་སྟེ།
+- When a suffering feeling is produced, then by cause of that a craving wishing to be free from that suffering feeling is definitely produced
+  ཚོར་བ་སྡུག་བསྔལ་སྐྱེས་པ་ན། དེའི་རྐྱེན་གྱིས་ཚོར་བ་སྡུག་བསྔལ་དང་བྲལ་འདོད་ཀྱི་སྲེད་པ་ངེས་པར་སྐྱེས་སྟེ།
 
 མཐུན་རྐྱེན་ཚང་ཞིང་འགལ་རྐྱེན་མེད་པའི་རྒྱུ་ལས་རང་གི་འབྲས་བུ་སྐྱེ་བར་ངེས་པའི་ཕྱིར།
 because a cause that is the complete concordant conditions and the absence of discordant conditions, will definitely produce its result.

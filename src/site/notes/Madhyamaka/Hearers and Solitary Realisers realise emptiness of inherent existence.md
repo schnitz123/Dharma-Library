@@ -3,7 +3,9 @@
 ---
 
 **First reasoning:** རིགས་པ་དང་པོ།
-བྱང་སེམས་ས་དང་པོ་བས་འཇིག་རྟེན་པའི་ཆགས་བྲལ་བ་རྣམས་བློའི་སྟོབས་ཀྱིས་ཟིལ་གྱིས་གནོན་ནུས་པ་བཞིན་དུ། དེས་ཉན་རང་དགྲ་བཅོམ་བློའི་སྟོབས་ཀྱིས་ཟིལ་གྱིས་གནོན་ནུས་པར་ཐལ། བྱང་སེམས་ས་དང་པོ་བས་ཆོས་ཀྱི་བདག་མེད་མངོན་སུམ་དུ་རྟོགས། ཉན་རང་དགྲ་བཅོམ་པས་ཆོས་ཀྱི་བདག་མེད་མངོན་སུམ་དུ་མ་རྟོགས་པའི་ཕྱིར།
+བྱང་སེམས་ས་དང་པོ་བས་འཇིག་རྟེན་པའི་ཆགས་བྲལ་བ་རྣམས་བློའི་སྟོབས་ཀྱིས་ཟིལ་གྱིས་གནོན་ནུས་པ་བཞིན་དུ། 
+དེས་ཉན་རང་དགྲ་བཅོམ་བློའི་སྟོབས་ཀྱིས་ཟིལ་གྱིས་གནོན་ནུས་པར་ཐལ། བྱང་སེམས་ས་དང་པོ་བས་ཆོས་ཀྱི་བདག་མེད་མངོན་སུམ་དུ་རྟོགས། 
+ཉན་རང་དགྲ་བཅོམ་པས་ཆོས་ཀྱི་བདག་མེད་མངོན་སུམ་དུ་མ་རྟོགས་པའི་ཕྱིར།
 It follows that just as first ground Bodhisattvas are able to outshine those separated from attachment [by means] of a mundane [path] through the force of intelligence, they would also be able to outshine Hearer and Solitary Realiser Arhats through the force of intelligence because first ground Bodhisattvas directly realise the selflessness of phenomena whereas Hearer and Solitary Realiser Arhats do not directly realise the selflessness of phenomena.
 
 **Second reasoning:** རིགས་པ་གཉིས་པ།
