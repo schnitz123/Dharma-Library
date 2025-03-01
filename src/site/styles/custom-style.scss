@@ -27,7 +27,7 @@ strong, b {
   color: rgb(234, 198, 118); /* Change the color to whatever you prefer */
 }
 
-em {
+em, h1 {
    color: rgb(173, 216, 230);
    }
    
@@ -68,10 +68,6 @@ em {
   color: rgb(234, 198, 118);
 }
 
-   #kofi-widget-overlay {
-    left: auto !important;
-    right: 20px !important; /* Adjust as needed */
-  }
    
 ul, ol {
   /*  margin-top: -20px; */
