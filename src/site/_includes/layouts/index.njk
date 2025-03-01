@@ -113,49 +113,19 @@
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
-    
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<style>
-  /* Main widget container */
-  .floatingchat-container-wrap {
-    left: auto !important;
-    right: 20px !important;
-    bottom: 20px !important;
-  }
 
-  /* Donation panel positioning */
-  .floatingchat-donate-panel {
-    left: auto !important;
-    right: 100% !important;
-    transform: translateX(40px) !important; /* Adjust this value */
-    bottom: 0 !important;
-  }
 
-  /* Mobile optimization */
-  @media (max-width: 768px) {
-    .floatingchat-container-wrap {
-      right: 10px !important;
-      bottom: 10px !important;
-    }
-    
-    .floatingchat-donate-panel {
-      right: 0 !important;
-      left: auto !important;
-      transform: none !important;
-      width: calc(100vw - 20px) !important;
-      margin: 0 10px !important;
-    }
-  }
-</style>
-
-<script>
-  kofiWidgetOverlay.draw('shahartene', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Donate',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<div id="kofi-container">
+  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+  <script>
+    kofiWidgetOverlay.draw('shahartene', {
+      'type': 'floating-chat',
+      'floating-chat.donateButton.text': 'Donate',
+      'floating-chat.donateButton.background-color': '#00b9fe',
+      'floating-chat.donateButton.text-color': '#fff'
+    });
+  </script>
+</div>
 
 
 
