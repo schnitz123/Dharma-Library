@@ -68,13 +68,13 @@ em, h1 {
   color: rgb(234, 198, 118);
 }
 
-/* Nuclear option for stubborn panels */
-.floatingchat-donate-panel[style] {
-  left: auto !important;
-  right: 100% !important;
-  transform: translateX(0) !important;
-  margin-right: 15px !important;
+#kofi-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999; /* Ensure it stays on top */
 }
+
    
    
 ul, ol {
