@@ -68,6 +68,35 @@ em, h1 {
   color: rgb(234, 198, 118);
 }
 
+/* Main container positioning */
+.floatingchat-container-wrap {
+  left: auto !important;
+  right: 10px !important;
+}
+
+/* Desktop panel alignment */
+.floatingchat-donate-panel {
+  transform: translateX(0) !important;
+  left: auto !important;
+  right: 0 !important;
+}
+
+/* Mobile adaptation */
+@media (max-width: 768px) {
+  .floatingchat-donate-panel {
+    transform: translateX(5%) !important;
+    right: 5px !important;
+    left: auto !important;
+  }
+  
+  .floatingchat-container-wrap-mobi {
+    right: 10px !important;
+    left: auto !important;
+  }
+}
+
+
+   
    
 ul, ol {
   /*  margin-top: -20px; */
