@@ -52,14 +52,15 @@ em {
 
 .nav-links {
   list-style: none;
+   font-size: 22px;
   display: flex;
   margin: 0;
   padding: 0;
-  margin-left: 20px;  /* Space between the title and the links */
+  margin-left: 50px;  /* Space between the title and the links */
 }
 
 .nav-links li {
-  margin-right: 20px; /* Spacing between individual links */
+  margin-right: 30px; /* Spacing between individual links */
 }
 
 .nav-links a {
