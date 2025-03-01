@@ -115,14 +115,29 @@
     {%include "components/lucideIcons.njk"%}
     
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<style>
+  .floatingchat-container-wrap {
+    left: auto !important;
+    right: 10px !important;
+    bottom: 50px !important;
+    z-index: 10000 !important;
+  }
+  
+  .floatingchat-container-wrap-mobi {
+    left: auto !important;
+    right: 10px !important;
+  }
+</style>
+
 <script>
   kofiWidgetOverlay.draw('shahartene', {
     'type': 'floating-chat',
     'floating-chat.donateButton.text': 'Donate',
     'floating-chat.donateButton.background-color': '#00b9fe',
     'floating-chat.donateButton.text-color': '#fff',
-    'floating-chat.position': 'right'
+    'floating-chat.core.position.bottom-right': 'position: fixed; bottom: 50px; right: 10px;'
   });
 </script>
+
 </body>
   </html>
