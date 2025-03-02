@@ -81,4 +81,4 @@ The subject - the twenty-one sets of uncontaminated exalted wisdom of the Buddha
 [[Perfection of Wisdom/Topics/Dispelling faults wrt appearance, pervasiveness, and permanence\|Dispelling faults wrt appearance, pervasiveness, and permanence]]
 
 ---
-Up a level: [[Perfection of Wisdom/Perfection of Wisdom#^7c2ebf\|Perfection of Wisdom]]
+Up a level: [[Perfection of Wisdom/Topics/Individual explanations of the Four Bodies\|Individual explanations of the Four Bodies]]

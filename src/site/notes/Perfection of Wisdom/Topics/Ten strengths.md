@@ -36,4 +36,4 @@
 
 
 ---
-Up a level: [[Perfection of Wisdom/Topics/39 concordant with those possessed by Arya Buddhas\|39 concordant with those possessed by Arya Buddhas]]
+Up a level: [[Perfection of Wisdom/Topics/39 concordant with those possessed by Arya Buddhas\|39 concordant with those possessed by Arya Buddhas]] / [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]]

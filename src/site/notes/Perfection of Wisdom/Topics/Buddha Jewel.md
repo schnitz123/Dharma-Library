@@ -11,7 +11,7 @@
 1. Conventional Buddha Jewel - two Form Bodies
 2. Ultimate Buddha Jewel - Nature Body and Exalted Wisdom Truth Body
 
-See also: [[Perfection of Wisdom/Perfection of Wisdom#^7c2ebi\|Four Buddha Bodies]]
+See also: [[Perfection of Wisdom/Topics/Individual explanations of the Four Bodies\|Individual explanations of the Four Bodies]]
 
 **The eight qualities:**
 1. The quality of being uncompounded, free from arising and disintegration

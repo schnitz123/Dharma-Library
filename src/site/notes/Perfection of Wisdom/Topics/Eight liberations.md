@@ -17,3 +17,7 @@ See: [[Perfection of Wisdom/Topics/Paths of emanation\|Paths of emanation]]
 5. Liberation of cessation འགོག་པའི་རྣམ་ཐར།
 
 See: [[Perfection of Wisdom/Topics/Paths of happily abiding in this life\|Paths of happily abiding in this life]]
+
+
+---
+Up a level: [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]]

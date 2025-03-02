@@ -8,5 +8,5 @@
 - [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|Absorption of cessation]] འགོག་པའི་སྙོམས་འཇུག
 
 ---
-Up a level: [[Perfection of Wisdom/Topics/34 concordant with those possessed by Arya Bodhisattvas\|34 concordant with those possessed by Arya Bodhisattvas]]
+Up a level: [[Perfection of Wisdom/Topics/34 concordant with those possessed by Arya Bodhisattvas\|34 concordant with those possessed by Arya Bodhisattvas]] / [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]]
 

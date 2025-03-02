@@ -30,4 +30,4 @@ Through these, one will quickly complete the practices in one’s continuum and,
 
 
 ---
-Up a level: [[Perfection of Wisdom/Topics/Mahayana Instructions\|Mahayana Instructions]]
+Up a level: [[Perfection of Wisdom/Topics/Mahayana Instructions\|Mahayana Instructions]] / [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]]

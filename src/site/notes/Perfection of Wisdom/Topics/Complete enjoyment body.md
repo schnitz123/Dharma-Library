@@ -23,4 +23,4 @@
 - [[Perfection of Wisdom/Topics/Individual explanations of the Marks and Signs\|Individual explanations of the Marks and Signs]] (32 + 80)
 
 ---
-Up a level: [[Perfection of Wisdom/Perfection of Wisdom#^7c2ebf\|Perfection of Wisdom]]
+Up a level: [[Perfection of Wisdom/Topics/Individual explanations of the Four Bodies\|Individual explanations of the Four Bodies]]

@@ -77,4 +77,4 @@ This is according to the Abhidharmakosha. Our system is mostly the same, but the
 
 
 ---
-Up a level: [[Perfection of Wisdom/Topics/Subjective aspects of an exalted knower of all aspects\|Subjective aspects of an exalted knower of all aspects]]
+Up a level: [[Perfection of Wisdom/Topics/Subjective aspects of an exalted knower of all aspects\|Subjective aspects of an exalted knower of all aspects]] / [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]]

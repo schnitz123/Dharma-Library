@@ -57,4 +57,4 @@ The latter is established because of:
 
 ---
 See also: [[Perfection of Wisdom/Topics/Nature Body (4-Bodies GM)\|Nature Body (4-Bodies GM)]]
-Up a level: [[Perfection of Wisdom/Perfection of Wisdom#^7c2ebf\|Perfection of Wisdom]]
+Up a level: [[Perfection of Wisdom/Topics/Individual explanations of the Four Bodies\|Individual explanations of the Four Bodies]]

@@ -74,4 +74,4 @@
 
 
 ---
-Up a level: [[Perfection of Wisdom/Concentrations/Concentrations\|Concentrations]]
+Up a level: [[Perfection of Wisdom/Concentrations/Concentrations\|Concentrations]] / [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]]
