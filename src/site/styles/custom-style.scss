@@ -23,6 +23,11 @@ body {
     }
 }
 
+p {
+   margin-block-start: 0px;
+   margin-block-end: 0px;
+   }
+   
 strong, b {
   color: rgb(234, 198, 118); /* Change the color to whatever you prefer */
 }
