@@ -80,13 +80,16 @@ ul, ol {
 ul ul, ol ol {
 /*  margin-top: 0;  Reset margin for nested lists */
    margin-block-start: 0px;
+   margin-top: 0px;
 }
 
 ol ul, {
    margin-block-start: 0px;
+   margin-top: 0px;
    }
 ul ol, {
    margin-block-start: 0px;
+   margin-top: 0px;
    }
    
  hr {
