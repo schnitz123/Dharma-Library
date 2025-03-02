@@ -9,7 +9,9 @@
 1. [[Perfection of Wisdom/Salam/Hearer grounds\|Hearer grounds]]
 2. [[Perfection of Wisdom/Salam/Solitary Realiser grounds\|Solitary Realiser grounds]]
 
-**Extensively divided, there are:** [[Hin Grounds.png|Hinayana Grounds]]
+**Extensively divided, there are:**
+
+![Hin Grounds.png](/img/user/Perfection%20of%20Wisdom/Salam/Hin%20Grounds.png)
 
 ---
 Up a level: [[Perfection of Wisdom/Salam/Presentation of grounds\|Presentation of grounds]]

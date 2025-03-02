@@ -183,12 +183,14 @@
 { #7c2ebf}
 
 - [[Perfection of Wisdom/Topics/Attaining the result\|Attaining the result]]
+
 - The nature of the Bodies (the agent) བྱེད་པ་པོ་སྐུའི་རང་བཞིན་བཤད་པ།
 	- [[Perfection of Wisdom/Topics/Resultant Dharmakaya\|Resultant Dharmakaya]] འབྲས་བུ་ཆོས་སྐུ།
 	- Divisions of the exalted wisdom of a Buddha:
 		- Two: that knowing the modes and that knowing the varieties
 		- Five: [[Perfection of Wisdom/Topics/Five exalted wisdoms of a Buddha\|Five exalted wisdoms of a Buddha]]
 		- Twenty-one sets of uncontaminated exalted wisdom: [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]] / [[Perfection of Wisdom/Topics/Exalted Wisdom Dharmakaya (4-Bodies GM)\|Exalted Wisdom Dharmakaya (4-Bodies GM)]]
+
 - Individual explanations:
 { #7c2ebi}
 
@@ -198,6 +200,7 @@
 		- [[Perfection of Wisdom/Topics/Individual explanations of the Marks and Signs\|Individual explanations of the Marks and Signs]]
 	4. [[Perfection of Wisdom/Topics/Emanation body\|Emanation body]] སྤྲུལ་སྐུ།
 		- [[Perfection of Wisdom/Topics/Twelve Deeds\|Twelve Deeds]]
+
 - The nature of [[Perfection of Wisdom/Topics/Enlightened Activities\|Enlightened Activities]] (the actions) བྱ་བ་འཕྲིན་ལས་ཀྱི་རང་བཞིན་བཤད་པ།
 
 [[Perfection of Wisdom/Topics/Resultant Dharmakaya (4-Bodies GM)\|Resultant Dharmakaya (4-Bodies GM)]]

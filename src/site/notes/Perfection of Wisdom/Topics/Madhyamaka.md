@@ -68,5 +68,5 @@ This is because:
 
 
 ---
-See also: [[../70 Topics/70 topics english.pdf#page=14&selection=2,0,2,65|Naturally abiding lineage in the 70 Topics]]
+See also: [[Perfection of Wisdom/70 Topics/Naturally abiding lineage – the support of Mahayana practices\|Naturally abiding lineage in the 70 Topics]]
 Up a level: [[Perfection of Wisdom/Topics/Naturally abiding lineage - the support for Mahayana practices\|Naturally abiding lineage - the support for Mahayana practices]]
