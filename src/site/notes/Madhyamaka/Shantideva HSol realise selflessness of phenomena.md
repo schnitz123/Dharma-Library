@@ -56,5 +56,7 @@ Those seeking liberation and omniscience must cultivate the emptiness of persons
 ཚོར་བ་དང་ཚོར་བ་པོ་རང་བཞིན་གྱིས་མེད་པར་རྟོགས་ཟིན་གོམས་པར་བྱས་པ་ལ་བརྟེན་ནས་ཚོར་བ་ལ་སྲེད་པ་ལྡོག་པར་འགྱུར་བའི་ཕྱིར། 
 There is a way to overcome craving for feelings in our own system because in dependence upon familiarisation with the previously realised lack of inherent existence of feelings and feeler, craving for feelings will be overcome.
 
+[[Madhyamaka/Division of four truths into coarse and subtle\|Division of four truths into coarse and subtle]]
+
 ---
 Up a level: [[Madhyamaka/Hearers and Solitary Realisers realise emptiness of inherent existence\|Hearers and Solitary Realisers realise emptiness of inherent existence]]

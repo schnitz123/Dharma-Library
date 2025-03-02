@@ -18,6 +18,7 @@
 **Introduction:** 
 - [[Perfection of Wisdom/Topics/Five branches of explanation\|Five branches of explanation]] བཤད་ཐབས་ཡན་ལག་ལྔ།
 
+---
 **Chapter 1: Exalted Knower of All Aspects** རྣམ་པ་ཀུན་མཁྱེན།
 { #ae16d9}
 
@@ -45,6 +46,7 @@
 		- [[Perfection of Wisdom/Topics/Practice of the collection of antidotes\|Practice of the collection of antidotes]] གཉེན་པོའི་ཚོགས་སྒྲུབ།
 	- (10) [[Perfection of Wisdom/Topics/Practice of definite emergence\|Practice of definite emergence]] ངེས་འབྱུང་སྒྲུབ་པ།
 
+---
 **Chapter 2: Knower of Paths** ལམ་ཤེས།
 { #7dcbff}
 
@@ -73,6 +75,7 @@
 		- [[Perfection of Wisdom/Salam/Path of meditation of accomplishment\|Path of meditation of accomplishment]]
 		- [[Perfection of Wisdom/Salam/Path of meditation of purity\|Path of meditation of purity]]
 
+---
 **Chapter 3: Knower of Bases** གཞི་ཤེས། ཀུན་ཤེས།
 { #750d3e}
 
@@ -84,10 +87,12 @@
 	- [[Perfection of Wisdom/Topics/Bodhisattva's equality of application\|Bodhisattva's equality of application]]
 	- [[Perfection of Wisdom/Topics/Mahayana path of seeing explicitly indicated in this context\|Mahayana path of seeing explicitly indicated in this context]]
 
+---
 [[Perfection of Wisdom/Topics/Summary of first three chapters\|Summary of first three chapters]]
 { #347832}
 
 
+---
 **Four Applications:** འཇུག་པ་སྦྱོར་བཞི།
 - **Causal branches of mastery** དབང་དུ་བྱ་བ་རྒྱུ་འབྲས་ཀྱི་ཡན་ལག
 	- Cause that grants mastery: branch of all aspects དབང་དུ་བྱེད་པའི་རྒྱུ་རྣམ་ཀུན་གྱི་ཡན་ལག
@@ -100,6 +105,7 @@
 { #b6d26f}
 
 
+---
 **Chapter 4: Application in Complete Aspects** རྣམ་རྫོགས་སྦྱོར་བ།
 { #f46f5f}
 
@@ -136,6 +142,7 @@
 	  [[Perfection of Wisdom/Topics/Application of skilful means\|Application of skilful means]] ཐབས་མཁས་སྦྱོར་བ།
 		- [[Perfection of Wisdom/Topics/Four Maras\|Four Maras]]
 
+---
 **Chapter 5: Peak Application** རྩེ་སྦྱོར།
 { #d111d6}
 
@@ -159,17 +166,19 @@
 - [[Perfection of Wisdom/Topics/Uninterrupted peak application\|Uninterrupted peak application]]
 - [[Perfection of Wisdom/Topics/Wrong practices to be eliminated in this context\|Wrong practices to be eliminated in this context]]
 
+---
 **Chapter 6: Serial Application** མཐར་གྱིས་སྦྱོར་བ།
 { #7c2ebx}
 
 - [[Perfection of Wisdom/Topics/Serial application\|Serial application]]
 
+---
 **Chapter 7: Instantaneous Application** སྐད་ཅིག་སྦྱོར་བ།
 { #7c2ebh}
 
 - [[Perfection of Wisdom/Topics/Instantaneous application\|Instantaneous application]]
 
-
+---
 **Chapter 8: Resultant Dharmakaya** འབྲས་བུ་ཆོས་སྐུ།
 { #7c2ebf}
 

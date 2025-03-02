@@ -16,5 +16,9 @@
 	- [[Madhyamaka/Progressing with different views\|Progressing with different views]]
 - [[Madhyamaka/Outshining Hearers and Solitary Realisers\|Outshining Hearers and Solitary Realisers]]
 - [[Madhyamaka/Hearers and Solitary Realisers realise emptiness of inherent existence\|Hearers and Solitary Realisers realise emptiness of inherent existence]]
+	- [[Madhyamaka/Realisation of the two selflessnesses\|Realisation of the two selflessnesses]]
+	- [[Madhyamaka/Shantideva HSol realise selflessness of phenomena\|Shantideva HSol realise selflessness of phenomena]]
+	- [[Madhyamaka/Division of four truths into coarse and subtle\|Division of four truths into coarse and subtle]]
+	- [[Madhyamaka/Both conceptions of self are afflictive obscurations\|Both conceptions of self are afflictive obscurations]]
 
 
