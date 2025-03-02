@@ -8,7 +8,7 @@ Producing a high quality written translation takes a lot of time and care. Pleas
 **Available:**
 
 Je Tsongkhapa's Illumination of the Thought: chapters 1-5 (version 1.2 updated 02/03/25)
-- <a href="/img/user/Illumination%20of%20the%20Thought.pdf" download>Download here</a>
+- <a href="/pdf/Illumination%20of%20the%20Thought.pdf" download>Download here</a>
 
 **Upcoming:**
 
