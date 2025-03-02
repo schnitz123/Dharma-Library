@@ -19,5 +19,5 @@ It is instructions regarding the **joyous effort of thoroughly upholding the Mah
 3. Discouragement / Low self-esteem རང་ལ་བརྙས་པའི་ལེ་ལོ།
 
 ---
-See other division of [[Lamrim Glossary/Six Perfections#^ac3119\|Three types of joyous effort]].
+See other division: [[Lamrim Glossary/Six Perfections#^b318d2\|Three types of joyous effort]]
 Up a level: [[Perfection of Wisdom/Topics/Mahayana Instructions\|Mahayana Instructions]]
