@@ -12,7 +12,6 @@
 - [[Madhyamaka/Boundaries of the three compassions\|Boundaries of the three compassions]]
 - [[Madhyamaka/Presentations of Arya Bodhisattva grounds\|Presentations of Arya Bodhisattva grounds]]
 	- [[Madhyamaka/Discussion about their observed-objects and aspects\|Discussion about their observed-objects and aspects]]
-	- [[Madhyamaka/Obscurations and their abandonment\|Obscurations and their abandonment]]
 	- [[Madhyamaka/Progressing with different views\|Progressing with different views]]
 - [[Madhyamaka/Outshining Hearers and Solitary Realisers\|Outshining Hearers and Solitary Realisers]]
 - [[Madhyamaka/Hearers and Solitary Realisers realise emptiness of inherent existence\|Hearers and Solitary Realisers realise emptiness of inherent existence]]
@@ -20,5 +19,10 @@
 	- [[Madhyamaka/Shantideva HSol realise selflessness of phenomena\|Shantideva HSol realise selflessness of phenomena]]
 	- [[Madhyamaka/Division of four truths into coarse and subtle\|Division of four truths into coarse and subtle]]
 	- [[Madhyamaka/Both conceptions of self are afflictive obscurations\|Both conceptions of self are afflictive obscurations]]
+	- [[Madhyamaka/Hinayana Nirvana with and without remainder\|Hinayana Nirvana with and without remainder]]
 
+**SECOND MIND GENERATION**
+- [[Madhyamaka/Surpassing ethics on the second ground\|Surpassing ethics on the second ground]]
 
+**THIRD MIND GENERATION**
+- [[Madhyamaka/Obscurations and their abandonment\|Obscurations and their abandonment]]

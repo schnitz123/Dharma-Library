@@ -32,5 +32,6 @@
 - The uninterrupted path of the final moment of the seventh ground simultaneously abandons the three rounds of small afflictions that are objects of abandonment of the path of meditation.
 ས་བདུན་པའི་བར་ཆད་མེད་ལམ་སྐད་ཅིག་ཐ་མ་དེས་སྒོམ་སྤང་ཉོན་མོངས་ཆུང་ངུ་སྐོར་གསུམ་པོ་དེ་ཅིག་ཅར་དུ་སྤོང་བར་བྱེད།
 
+
 ---
 Up a level: [[Madhyamaka/Obscurations and their abandonment\|Obscurations and their abandonment]]

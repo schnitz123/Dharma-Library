@@ -5,6 +5,7 @@
 Here you will find my translation projects. All will be licensed under Creative Commons BY-NC-ND 4.0 (which means free distribution so long as it is attributed, not for profit, and no changes are made apart from by the translator).
 Producing a high quality written translation takes a lot of time and care. Please support my efforts in making more Tibetan Dharma texts freely available in English by donating (using the widget in bottom-right) or if you would like to sponsor/commission a particular translation, then please get in touch via shahartene108@gmail.com
 
+---
 **Available:**
 
 Je Tsongkhapa's Illumination of the Thought: chapters 1-5 (version 1.2 updated 02/03/25)

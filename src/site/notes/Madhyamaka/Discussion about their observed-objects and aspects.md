@@ -29,15 +29,15 @@ For example, when ten garudas fly in the sky, there is no difference in type wrt
 རང་འཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་བར་ཆད་མེད་ལམ་གྱི་ངོ་སྐལ་གྱི་ཤེས་སྒྲིབ་ཅི་རིགས་པ་དང་བྲལ་བའི་བྲལ་ཆ་དེ་མངོན་སུམ་དུ་རྟོགས།
 
 དེ་ལྟར་རྟོགས་ཀྱང་ས་བཅུའི་མཉམ་གཞག་ལ་དམིགས་རྣམ་མི་འདྲ་བའི་ཁྱད་པར་ཡོད་པར་ཐལ་བའི་སྐྱོན་མེད་དེ། ས་བཅུའི་མཉམ་གཞག་གིས་གློ་བུར་དྲི་བྲལ་གྱི་ཆོས་སྐུ་མངོན་སུམ་དུ་མཐོང་བའི་ཚེ་ནའང་། འཛིན་སྟངས་ཀྱི་རྣམ་པ་ནི་དགག་བྱ་བདེན་གྲུབ་རྣམ་པར་བཅད་ཙམ་གྱི་མེད་དགག་གི་རྣམ་པ་ཅན་དུ་མཚུངས་པའི་ཕྱིར།
-Despite realising as such, there is no consequent fault that there is a different wrt the observed-objects and aspects of the meditative equipoises of the ten grounds because even when the meditative equipoises of the ten grounds directly perceive the Dharmakaya free from adventitious stains, their aspect of the mode of apprehension is the same in possessing the aspect of a non-affirming negation merely negating its object of negation (true establishment).
+Despite realising as such, there is no consequent fault that there is a difference wrt the observed-objects and aspects of the meditative equipoises of the ten grounds because even when the meditative equipoises of the ten grounds directly perceive the Dharmakaya free from adventitious stains, their aspect of the mode of apprehension is the same in possessing the aspect of a non-affirming negation merely negating its object of negation (true establishment).
 
 ས་དང་པོའི་རྣམ་གྲོལ་ལམ་དེས་སངས་རྒྱས་ཀྱི་ཆོས་སྐུ་མངོན་སུམ་དུ་རྟོགས་ཏེ། འཕགས་པ་གྱད་བུ་ནོར་གྱིས་བདེན་པ་མཐོང་བའི་ཚེ། 
 བདག་གིས་བཅོམ་ལྡན་འདས་ཀྱི་ཆོས་ཀྱི་སྐུ་ནི་མཐོང་ན་གཟུགས་ཀྱི་སྐུ་མ་མཐོང་བས་དེ་བལྟ་བའི་ཕྱིར་དུ་འགྲོ་ཞེས་བཤད་པའི་ཕྱིར།
 The first ground liberated path directly realises the Buddha's Dharmakaya because of the explanation that when Arya Vasumallaputra perceived the truth, he said: "Although I have perceived the Bhagavan's Dharmakaya, I have not perceived his Rupakaya; therefore, I will proceed in order to view just that."
 
-[Gyaltsab Je's Uttaratantra:] If one has directly realised the dharmata of all sentient beings, there is no certainty wrt directly realising all sentient beings; for example, Aryas who have not attained Buddhahood do not directly realise the [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|twenty-one sets of uncontaminated exalted wisdom]] but do directly realise the dharmata of those.
 སེམས་ཅན་ཐམས་ཅད་ཀྱི་ཆོས་ཉིད་མངོན་སུམ་དུ་རྟོགས་ན་སེམས་ཅན་ཐམས་ཅད་མངོན་སུམ་དུ་རྟོགས་པའི་ངེས་པ་མེད་དེ། དཔེར་ན། 
 སངས་རྒྱས་མ་ཐོབ་པའི་འཕགས་པ་རྣམས་ཀྱིས་ཟག་པ་མེད་པའི་ཡེ་ཤེས་སྡེ་ཚན་ཉེར་གཅིག་མངོན་སུམ་དུ་མ་རྟོགས་ཀྱང་། དེའི་ཆོས་ཉིད་མངོན་སུམ་དུ་རྟོགས་པ་བཞིན་ནོ།
+[Gyaltsab Je's Uttaratantra:] If one has directly realised the dharmata of all sentient beings, there is no certainty wrt directly realising all sentient beings; for example, Aryas who have not attained Buddhahood do not directly realise the [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|twenty-one sets of uncontaminated exalted wisdom]] but do directly realise the dharmata of those.
 
 ---
 Up a level: [[Madhyamaka/Presentations of Arya Bodhisattva grounds\|Presentations of Arya Bodhisattva grounds]]

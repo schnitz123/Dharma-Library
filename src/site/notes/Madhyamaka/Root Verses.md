@@ -20,7 +20,9 @@ For that reason, in the beginning I will praise compassion. [1.2]
 [[Madhyamaka/Second mind generation\|Second mind generation]] སེམས་བསྐྱེད་གཉིས་པ།
 [[Madhyamaka/Third mind generation\|Third mind generation]] སེམས་བསྐྱེད་གསུམ་པ།
 [[Madhyamaka/Fourth and Fifth mind generations\|Fourth and Fifth mind generations]] སེམས་བསྐྱེད་བཞི་པ་དང་ལྔ་པ།
-
+[[Madhyamaka/Sixth mind generation\|Sixth mind generation]] སེམས་བསྐྱེད་དྲུག་པ།
+[[Madhyamaka/Seventh to Tenth mind generations\|Seventh to Tenth mind generations]] སེམས་བསྐྱེད་བདུན་པ་ནས་བཅུ་པའི་བར།
+[[Madhyamaka/Conclusion\|Conclusion]] 
 
 
 ---

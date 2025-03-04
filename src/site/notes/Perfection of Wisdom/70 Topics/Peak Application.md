@@ -14,7 +14,7 @@ This and [[Perfection of Wisdom/70 Topics/Engaged practice\|Engaged practice]] a
 3. [[Perfection of Wisdom/70 Topics/Peak application of the path of meditation\|Peak application of the path of meditation]] སྒོམ་ལམ་རྩེ་སྦྱོར།
 4. [[Perfection of Wisdom/70 Topics/Uninterrupted peak application\|Uninterrupted peak application]] བར་ཆད་མེད་པའི་རྩེ་སྦྱོར།
 
-ས་མཚམས་ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་དྲོ ད་ནས་རྒྱུན་མཐའི་བར་ན་ཡོད།
+ས་མཚམས་ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་དྲོད་ནས་རྒྱུན་མཐའི་བར་ན་ཡོད།
 **Boundaries:** exists from the heat level of the path of preparation and up to the end of the continuum.
 
 ---

@@ -22,7 +22,7 @@ The way of *nominally* dividing the four truths into coarse and subtle:
 **Subtle true cessations:** The mind's dharmata that is separated from either the apprehension of a self-sufficient substantially existent person or the apprehension of the person as established by way of their own-characteristics.
 
 གང་ཟག་རང་རྐྱ་ཐུབ་པའི་རྫས་ཡོད་ཀྱིས་སྟོང་པའི་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་ཟིན་གོམས་པར་བྱས་པ་ལ་བརྟེན་ནས་གང་ཟག་རང་རྐྱ་ཐུབ་པའི་རྫས་ཡོད་དུ་འཛིན་པའི་རྟོག་པ་མངོན་གྱུར་པ་རེ་ཞིག་སྤངས་པའི་སྤངས་པ་དེ་རགས་པའི་འགོག་པ་ཡིན།
-**Coarse cessations:** A temporary abandonment of the manifest conceptions apprehending the personas self-sufficient substantially existent in dependence upon direct realisation of and familiarisation with the emptiness that is the person being empty of self-sufficient substantial existence.
+**Coarse cessations:** A temporary abandonment of the manifest conceptions apprehending the person as self-sufficient substantially existent in dependence upon direct realisation of and familiarisation with the emptiness that is the person being empty of self-sufficient substantial existence.
 
 གང་ཟག་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པས་སྟོང་པའི་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་ཡེ་ཤེས་ཕྲ་བའི་ལམ་བདེན་དང་། 
 **Subtle true paths:** An exalted wisdom directly realising the emptiness that is the person being empty of establishment by way of its own-characteristics.
