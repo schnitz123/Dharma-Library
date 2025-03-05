@@ -26,3 +26,10 @@
 
 **THIRD MIND GENERATION**
 - [[Madhyamaka/Obscurations and their abandonment\|Obscurations and their abandonment]]
+- [[Madhyamaka/Etymology for third ground\|Etymology for third ground]]
+- Destruction of root virtues by anger:
+	- [[Madhyamaka/Two sutra quotes\|Two sutra quotes]]
+	- [[Madhyamaka/Debates over the meaning\|Debates over the meaning]]
+	- [[Madhyamaka/Destruction of roots of virtue by anger\|Destruction of roots of virtue by anger]]
+
+**SIXTH MIND GENERATION**
