@@ -10,6 +10,7 @@
 དབྱེ་ན། རྩ་ཉོན་དྲུག །ཉེ་ཉོན་ཉི་ཤུ་རྣམས་སུ་ཡོད།
 **Divisions:** [[MMF/Six root afflictions\|Six root afflictions]] and [[MMF/Twenty secondary afflictions\|twenty secondary afflictions]].
 
+---
 ཉོན་སྒྲིབ་དང་ཤེས་སྒྲིབ་གང་རུང་གང་ཞིག གཙོ་བོར་ཐམས་ཅད་མཁྱེན་པ་ཐོབ་པ་ལ་བར་དུ་གཅོད་བྱེད་ཀྱི་སྒྲིབ་པའི་རིགས་སུ་གནས་པ། ཤེས་སྒྲིབ་ཀྱི་མཚན་ཉིད། 
 **Definition of knowledge obscurations:** That which is:
 1. Either an afflictive or knowledge obscurations; and

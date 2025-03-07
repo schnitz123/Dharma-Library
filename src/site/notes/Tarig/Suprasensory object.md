@@ -8,3 +8,4 @@ In general, there are three suprasensory objects in relation to an awareness:
 2. Time - i.e. far into past / future
 3. Nature - i.e. subtlety; e.g. existence of meat-eater in front
 
+

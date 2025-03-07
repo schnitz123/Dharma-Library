@@ -50,8 +50,7 @@ The subject - contaminated dependent-arisings - they lack true existence because
    བདེན་པར་ཡོད་པར་འགལ་བའི་སྣང་བ་ཡིན་པའི་ཕྱིར། དཔེར་ན་སྨིག་རྒྱུ་བཞིན།
 4. Being an appearance that depends upon conditions; like an echo.
    རྐྱེན་ལ་རག་ལས་པའི་སྣང་བ་ཡིན་པའི་ཕྱིར། དཔེར་ན་སྒྲ་བརྙན་བཞིན།
-5. Being an appearance that has not moved beyond the aspect of it positing imprint; like a reflection.
-   བག་ཆགས་འཇོག་བྱེད་ཀྱི་རྣམ་པ་ལས་མ་འཕོས་པའི་སྣང་བ་ཡིན་པའི་ཕྱིར། དཔེར་ན་གཟུགས་བརྙན་བཞིན།
+5. Being an appearance that has not moved beyond the aspect of that which deposited the imprint; like a reflection. བག་ཆགས་འཇོག་བྱེད་ཀྱི་རྣམ་པ་ལས་མ་འཕོས་པའི་སྣང་བ་ཡིན་པའི་ཕྱིར། དཔེར་ན་གཟུགས་བརྙན་བཞིན།
 6. Being an appearance that lacks a truly established basis; like a city of gandharvas.
    བདེན་པར་སྒྲུབ་པའི་རྟེན་མེད་པའི་སྣང་བ་ཡིན་པའི་ཕྱིར། དཔེར་ན་དྲི་ཟའི་གྲོང་ཁྱེར་བཞིན།
 7. Being an appearance of an agent that is not truly established; like an emanation.

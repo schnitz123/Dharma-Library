@@ -35,6 +35,8 @@ In the Prasangika system, the seeds of the conceptions that are objects of aband
 
 See: [[Collected Topics/Established Base#^0cfa2a\|Contaminated/Uncontaminated for Prasangika]]
 
+See: [[Madhyamaka/Obscurations in Hinayana\|Obscurations in Hinayana]]
+
 ---
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
 

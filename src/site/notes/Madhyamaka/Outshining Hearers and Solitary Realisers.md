@@ -33,5 +33,7 @@ Working backwards from 24hrs:
 
 Scientifically measured, a finger snap is considered to be 0.007 secs (0.01 secs if generous) but that comes out to a day being 16.61538 minutes long!
 
+ཡང་ན། དབུགས། ཆུ་སྲང་། ཆུ་ཚོད། ཉིན། ཞག ཟླ་བ། ལོ། བསྐལ་པ།
+
 ---
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
