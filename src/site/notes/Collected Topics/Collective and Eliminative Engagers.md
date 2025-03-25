@@ -18,4 +18,5 @@
 2. [[Collected Topics/Person collective engagers\|Person collective engagers]] སྒྲུབ་འཇུག་གི་གང་ཟག
 
 ---
+See also: [[Collected Topics/Elimination and determination\|Elimination and determination]]
 Up a level: [[Collected Topics/Collected Topics\|Collected Topics]]

@@ -43,6 +43,8 @@ In the same way that beings are not real
 Due to being composed from the six constituents,
 Similarly, the individual constituents are not real
 Due to being composites.
+{ #667114}
+
 
 ཁ་ཟས་སྨན་དང་འདྲ་བར་རིག་པ་ཡི། འདོད་ཆགས་ཞེ་སྡང་མེད་པར་བརྟེན་བགྱི་སྟེ།
 རྒྱགས་ཕྱིར་མ་ལགས་ལུས་སྙེམས་པའི་ཕྱིར་མ་ལགས། མཚག་ཕྱིར་མ་ལགས་ལུས་གནས་འབབ་ཞིག་ཕྱིར།

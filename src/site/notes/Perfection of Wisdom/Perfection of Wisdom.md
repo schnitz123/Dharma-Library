@@ -17,6 +17,7 @@
 
 **Introduction:** 
 - [[Perfection of Wisdom/Topics/Five branches of explanation\|Five branches of explanation]] བཤད་ཐབས་ཡན་ལག་ལྔ།
+- [[Perfection of Wisdom/Topics/Reasoning refuting true existences\|Topics/Reasoning refuting true existences]]
 - To be added...
 
 ---

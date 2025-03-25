@@ -8,7 +8,7 @@
 	- [[Quotes/Arya Nagarjuna#^df2af3\|Precious Garland]] རིན་ཆེན་ཕྲེང་བ། rājaparikathāratnāvali / ratnāvali
 	- [[Quotes/Sixty Verses on Reasoning\|Sixty Verses on Reasoning]] རིགས་པ་དྲུག་ཅུ་པ། yuktiṣaṣṭikākārikā
 	- [[Quotes/Seventy Verses on Emptiness\|Seventy Verses on Emptiness]] སྟོང་ཉིད་བདུན་ཅུ་པ། śūnyatāsaptatikārikā
-	- [[Quotes/Refutations of Debates\|Refutations of Debates]] རྩོད་བཟློག / རྩོད་ལྡོག vigrahavyāvartanīkārikā
+	- [[Quotes/Refutation of Objections\|Refutation of Objections]] རྩོད་བཟློག / རྩོད་ལྡོག vigrahavyāvartanīkārikā
 	- The Finely Woven ཞིབ་མོ་རྣམ་འཐག vaidalyasūtra
 - *Collections of Praises:* བསྟོད་པའི་ཚོགས།
 	- In Praise of Dharmadhatu ཆོས་དབྱིངས་བསྟོད་པ། dharmadhātu-stotra

@@ -59,6 +59,29 @@
 		- Positive signs:
 			- Effect signs: 36 - 40
 			- Nature signs: 41 - 198
+				- Summary verse 41
+				- Dispelling objections and presentation of other-exclusions 42 - 187
+					- Brief indication 42 - 44
+					- Extensive explanation 45 - 187
+						- Extensive explanation the reasoning proving that terms and conceptual consciousnesses of positive phenomena are eliminative-engagers 45 - 186ab
+							- reasoning undermining that terms and conceptual consciousnesses are collective-engagers 45 - 60
+								- general explanation 45
+								- dispelling objections 46 - 47ab
+								- summary 47cd
+								- fault of asserting as collective engagers 48ab
+								- dispelling objections 48cd
+								- summary 49
+								- dispelling of objections regarding indicating that ascertaining consciousnesses are eliminative-engagers 50-51
+								- established meaning of the previous explanations 52-53
+								- refutations and dispelling of faults 54-60
+							- To dispel the objection that the proponents of exclusion would have a similar fault through investigating whether terms and conceptual consciousnesses are one substance or different substances and then to explain the reasoning proving that terms and conceptual consciousnesses are eliminative-engagers 61 - 69
+							- General presentation of other-exclusions 70 - 93
+							- refute other systems of semantics and to explain the way terms are applied by way of other-exclusions that eliminate not-that 94 - 115ab
+							- eliminate objections 115cd - 186ab
+						- of negative phenomena 187abc
+						- Summary 187cd
+				- What are the syllogisms of correct nature sign possessing such a relationship? 188 - 195b
+				- to extensively explain the valid cognitions that ascertain the relationship in correct effect signs 195c - 198
 			- Summary of these two: 199
 		- Negation signs:
 			- non-appearing: 200 - 202b

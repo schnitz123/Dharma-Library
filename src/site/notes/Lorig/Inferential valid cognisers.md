@@ -11,6 +11,8 @@ This and inferential cogniser are mutually inclusive.
    e.g. Sound is impermanent because of being a product.
 2. **Inference of renown** གྲགས་པའི་རྗེས་དཔག
    e.g. Calling the moon "rabbit-possessor" རྟོག་ཡུལ་ན་ཡོད་པའི་རྟགས་ལས་རི་བོང་ཅན་ལ་ཟླ་སྒྲས་བརྗོད་རུང་དུ་རྟོགས་པའི་རྗེས་དཔག
+{ #821f7b}
+
 3. **Inference of belief** ཡིད་ཆེས་ཀྱི་རྗེས་དཔག
    e.g. Realising the scripture saying "From generosity, wealth; from ethics, happiness." is incontrovertible with respect to its indicated-meaning because of being a scriptures purified by the three analyses. དཔྱད་གསུམ་གྱིས་དག་པའི་ལུང་གིས་རྟགས་ལས། སྦྱིན་པས་ལོངས་སྤྱོད་ཁྲིམས་ཀྱིས་བདེ། ཞེས་སོགས་ཀྱི་ལུང་རང་གི་བསྟན་དོན་མི་སླུ་བར་རྟོགས་པའི་རྗེས་དཔག
 { #569308}

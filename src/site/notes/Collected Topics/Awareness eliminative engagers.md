@@ -14,6 +14,7 @@ As opposed to: [[Collected Topics/Awareness collective engagers#^d4ca97\|Engagem
 See also: [[Collected Topics/Affirmations and Negations\|Other-exclusion]].
 { #47889c}
 
+See also: [[Collected Topics/Elimination and determination\|Elimination and determination]]
 
 **Divisions:**
 1. *Factually concordant* དོན་མཐུན།

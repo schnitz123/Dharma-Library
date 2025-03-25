@@ -17,6 +17,7 @@ This and [[Lorig/Non-conceptual\|non-conceptual consciousness]] are mutually inc
 དཔེར་ན། སྔོ་འཛིན་མིག་ཤེས་ལ་དེའི་མི་རྟག་པ་སྐྱེ་བ་འཇིག་པ་སོགས་སྣང་ལ་མ་ངེས་པ་ལྟ་བུ།
 For example, for an eye consciousness apprehending blue: blue's impermanence, production, disintegration, etc., appear but are not ascertained.
 As opposed to [[Collected Topics/Awareness eliminative engagers#^47889c\|Engagement through other-exclusion]].
+See also: [[Collected Topics/Elimination and determination\|Elimination and determination]]
 
 **Divisions:**
 1. *Factually concordant* དོན་མཐུན།

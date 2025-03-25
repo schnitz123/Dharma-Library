@@ -33,3 +33,10 @@
 	- [[Madhyamaka/Destruction of roots of virtue by anger\|Destruction of roots of virtue by anger]]
 
 **SIXTH MIND GENERATION**
+- [[Madhyamaka/Ten equalities\|Ten equalities]] 
+- [[Madhyamaka/Absorption of cessation\|Absorption of cessation]]
+- [[Madhyamaka/Object of negation\|Object of negation]]
+	- [[Madhyamaka/Measure of the object of negation (Svatantrika)\|Measure of the object of negation (Svatantrika)]]
+	- [[Madhyamaka/Measure of the object of negation (Prasangika)\|Measure of the object of negation (Prasangika)]]
+- [[Madhyamaka/Reasoning refuting true existence\|Reasoning refuting true existence]]
+	- [[Madhyamaka/Reasoning of diamond slivers\|Reasoning of diamond slivers]]

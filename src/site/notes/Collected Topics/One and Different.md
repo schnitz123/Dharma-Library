@@ -21,8 +21,7 @@ Those two as the subject, it follows that they are not *one substance of establi
 
 
 **Division:**
-1. In relation to object ཡུལ་ལ་ལྟོས་ནས་
-   i.e. if sound is the object direct perceiver
+1. In relation to place ཡུལ་ལ་ལྟོས་ནས་
 2. In relation to time དུས་ལ་ལྟོས་ནས་
 3. In relation to nature ངོ་བོ་ལ་ལྟོས་ནས་
 
