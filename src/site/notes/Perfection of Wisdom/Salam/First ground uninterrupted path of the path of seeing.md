@@ -17,7 +17,8 @@
 ས་དང་པོའི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་དང་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་དོན་གཅིག
 First ground uninterrupted path of the path of seeing and the uninterrupted path of the Mahayana path of seeing are mutually inclusive.
 
-ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་ཡིན་ན། བདེན་འཛིན་ཀུན་བཏགས་ཀྱི་དངོས་གཉེན་བྱེད་པས་མ་ཁྱབ་སྟེ། བདེན་འཛིན་ཀུན་བཏགས་ཀྱི་རྒྱུར་གྱུར་པའི་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་ཡོད་པའི་ཕྱིར།
+ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་ཡིན་ན། བདེན་འཛིན་ཀུན་བཏགས་ཀྱི་དངོས་གཉེན་བྱེད་པས་མ་ཁྱབ་སྟེ།
+བདེན་འཛིན་ཀུན་བཏགས་ཀྱི་རྒྱུར་གྱུར་པའི་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་ཡོད་པའི་ཕྱིར།
 (Jetsunpa:) If it is an uninterrupted path of the Mahayana path of seeing, it is not pervaded by acting as a direct antidote for acquired true-grasping because a uninterrupted path of the Mahayana path of seeing that is the cause of acquired true-grasping exists.
 Illustration: the uninterrupted path of the Mahayana path of seeing that is the [[Collected Topics/observed-object condition\|observed-object condition]] for acquired conception of true-grasping.
 

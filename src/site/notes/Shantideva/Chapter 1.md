@@ -244,6 +244,8 @@ In case one generates negative minds towards
 One bodhisattva patron like this, one needs
 To remain in the hells for eons equalling
 The number of negative minds, the Buddha taught. [34]
+{ #889775}
+
 
 །འོན་ཏེ་གང་ཞིག་ཡིད་རབ་དང་བྱེད་ན། །དེ་ཡི་འབྲས་བུ་དེ་བས་ལྷག་པར་འཕེལ། 
 །རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་། །སྡིག་པ་མི་འབྱུང་དགེ་བ་ངང་གིས་འཕེལ། 

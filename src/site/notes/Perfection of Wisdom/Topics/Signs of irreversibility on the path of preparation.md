@@ -15,7 +15,7 @@
    དེ་དག་གི་བསམ་པ་ཡོངས་སུ་རྫོགས་པར་བྱས་ནས་དགེ་བ་བྱང་ཆུབ་ཏུ་ཡོངས་སུ་བསྔོ་བ།
 6. Not having doubts wrt the profound meaning free from elaborations ཟབ་མོ་སྤྲོས་བྲལ་གྱི་དོན་ལ་སོམ་ཉི་མེད་པ།
 7. Actions of body, speech, and mind conjoined with love that engaged in activities of the three doors for others' benefit སྒོ་གསུམ་གྱི་ཀུན་སྤྱོད་གཞན་ལ་ཕན་པའི་ཕྱིར་ཞུགས་པའི་བྱམས་པས་ཟིན་པའི་ལུས་ངག་ཡིད་གསུམ་གྱི་ལས།
-8. Not associating with the five: ལྔ་དང་མི་འགྲོགས་པ།
+8. Not associating with the five: རྣམ་པ་ལྔ་དང་མི་འགྲོགས་པ།
 	1. Aspiration for Desire Realm objects འདོད་ཡོན་ལ་འདུན་པ་དང༌།
 	2. Aversion towards others གཞན་ལ་ཞེ་སྡང་བ་གཉིས།
 	   which obstruct the aggregate of ethics ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོའི་བར་ཆོད།

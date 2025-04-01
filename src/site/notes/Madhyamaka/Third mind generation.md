@@ -43,6 +43,8 @@ Those who are angry at Conqueror children
 Destroy virtues arising from generosity and ethics 
 Accumulated over a hundred eons in a single moment;
 Therefore, there is no negativity other than impatience. [3.6]
+{ #144f5e}
+
 
 །མི་སྡུག་གཟུགས་སུ་བྱེད་ཅིང་དམ་པ་མིན་པར་དཀྲི། །ཚུལ་དང་ཚུལ་མིན་ཤེས་པའི་རྣམ་དཔྱོད་འཕྲོག་བྱེད་ཅིང་། 
 །མི་བཟོད་པ་ཡིས་མྱུར་དུ་ངན་འགྲོར་སྐྱུར་བར་བྱེད། །བཟོད་པས་བཤད་ཟིན་དང་འགལ་ཡོན་ཏན་རྣམས་བྱེད་དོ།

@@ -13,6 +13,7 @@ e.g. vase and impermanent.
 One nature, One entity, and one selfness are mutually inclusive.
 For impermanent phenomena: One nature and one substance are mutually inclusive.
 
+---
 རྫས་གཅིག་གི་མཚན་ཉིད་ཡོད་དེ། མངོན་སུམ་ལ་སྣང་བ་གང་ཞིག སོ་སོར་མི་སྣང་བའི་ཆོས་དེ་དེ་ཡིན་པའི་ཕྱིར།
 **Definition of one substance:** Phenomena that 1) appear to direct perception but 2) do not appear separately.
 
