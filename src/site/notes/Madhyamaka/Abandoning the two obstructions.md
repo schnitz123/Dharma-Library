@@ -4,11 +4,11 @@
 
 **According to Jetsunpa:**
 
-<img src="/img/user/Madhyamaka/obj of ab (jets).png" alt="jetsunpa" style="float: right; margin: 0 20px 20px 0; width: 1500px;">
+![obj of ab (jets).png](/img/user/Madhyamaka/obj%20of%20ab%20(jets).png)
 
 **According to others (Panchen, Ngawang Palden, etc.):**
 
-<img src="/img/user/Madhyamaka/obj of ab (others).png" style="width: 1500px; height: auto;">
+![obj of ab (others).png](/img/user/Madhyamaka/obj%20of%20ab%20(others).png)
 
 ---
 *Panchen GM:*
