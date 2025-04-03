@@ -4,7 +4,7 @@
 
 རང་གི་རྟེན་ཆོས་སུ་གྱུར་པའི་དྲི་མ་དང་བཅས་པའི་སེམས་ཀྱི་ཆོས་ཉིད་གང་ཞིག ངོ་བོ་ཉིད་སྐུར་འགྱུར་རུང་དེ། རང་བཞིན་གནས་རིགས་ཀྱི་མཚན་ཉིད།
 **Definition:** That which is:
-1. The dharmata of a mind together with afflictions that is its supporting dharmin; and
+1. The dharmata of a mind together with stains that is its supporting dharmin; and
 2. Suitable to transform into the Nature Body
 
 **Divisions:**

@@ -17,21 +17,21 @@ Non-afflicted obscurations are only abandoned by Arya Buddhas and are discussed 
 
 དང་པོ་ནི། ངོ་བོའི་སྒོ་ནས་བསྐལ་བ་མི་ཤེས་པ་སྟེ། དངོས་པོའི་རང་བཞིན་ཕྲ་བའི་དབང་གིས་རྟོགས་དཀའ་བ། 
 དཔེར་ན། ཤཱ་རིའི་བུས་དེ་བཞིན་གཤེགས་པའི་ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་ལ་སོགས་པ་མི་ཤེས་པ་ལྟ་བུའོ།
-First: Not knowing something obscured by way of entity: difficult to realise through the force of the subtle nature of things. For example, Shariputra not knowing the Tathagata's aggregate of ethics and so forth.
+**First:** Not knowing something obscured by way of entity: difficult to realise through the force of the subtle nature of things. For example, Shariputra not knowing the Tathagata's aggregate of ethics and so forth.
 
 གཉིས་པ་ནི། ཡུལ་ཐག་རིང་བའི་དབང་གིས་རྟོགས་དཀའ་བ། 
 དཔེར་ན། དགྲ་བཅོམ་པ་མོའུ་འགལ་གྱི་བུས་རང་གི་མ་འོད་ཟེར་ཅན་གྱི་དམྱལ་བ་ལ་སྐྱེ་བ་མི་ཤེས་པ་ལྟ་བུའོ།
-Second: Difficult to realise through the force of distance.
+**Second:** Difficult to realise through the force of distance.
 For example, the Arhat Maudgalyāyana not knowing his mother was born in the hell called "Illuminated".
 
 གསུམ་པ་ནི། དུས་ཐག་རིང་བའི་དབང་གིས་རྟོགས་དཀའ་བ།
 དཔེར་ན། ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དཔལ་སྐྱེས་གྱི་རྒྱུད་ལ་ཐར་པ་ཆ་མཐུན་གྱི་དགེ་རྩ་མ་མཐོང་བ་ལྟ་བུའོ།
-Third: Difficult to realise through the force of time.
+**Third:** Difficult to realise through the force of time.
 For example, Shariputra not perceiving the root virtues concordant with liberation in the householder Shrijata's continuum.
 
 བཞི་པ་ནི། དོན་གྱི་དབྱེ་བ་ཤིན་ཏུ་རྒྱ་ཆེ་བས་རྟོགས་དཀའ་བ།
 དཔེར་ན། མོའུ་འགལ་གྱི་བུས་སེམས་ཅན་གྱི་ཁམས་དང་། འགྲོ་བ། སྐྱེ་གནས། སྐྱེ་བ་ལ་སོགས་པའི་བྱེ་བྲག་སྣ་ཚོགས་མི་ཤེས་པ་ལྟ་བུའོ།
-Fourth: Difficult to realise due to the vast divisions of the object.
+**Fourth:** Difficult to realise due to the vast divisions of the object.
 For example, Maudgalyāyana not knowing the various particularities of sentient beings' dispositions, migrations, birth-states, births, and so forth. 
 (Alt example: knowing the specific causes for each colour on a peacocks tail.)
 
