@@ -4,11 +4,11 @@
 
 **According to Jetsunpa:**
 
-<img src="/img/user/website/obj of ab (jets).png" style="width: 1500px; height: auto;">
+<img src="/img/user/Madhyamaka/obj of ab (jets).png" style="width: 1500px; height: auto;">
 
 **According to others (Panchen, Ngawang Palden, etc.):**
 
-<img src="/img/user/website/obj of ab (others).png" style="width: 1500px; height: auto;">
+<img src="/img/user/Madhyamaka/obj of ab (others).png" style="width: 1500px; height: auto;">
 
 ---
 *Panchen GM:*
