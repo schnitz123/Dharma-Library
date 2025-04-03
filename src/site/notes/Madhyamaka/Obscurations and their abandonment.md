@@ -6,6 +6,9 @@
 1. [[Madhyamaka/Afflictive obscurations\|Afflictive obscurations]] ཉོན་སྒྲིབ།
 2. [[Madhyamaka/Knowledge obscurations\|Knowledge obscurations]] ཤེས་སྒྲིབ།
 
+See individual sections above, then:
+[[Madhyamaka/Abandoning the two obstructions\|Abandoning the two obstructions]]
+
 ---
 **Way of abandonment**
 
