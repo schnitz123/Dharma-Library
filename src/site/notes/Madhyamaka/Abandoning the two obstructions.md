@@ -4,7 +4,7 @@
 
 **According to Jetsunpa:**
 
-<img src="/img/user/Madhyamaka/obj of ab (jets).png" style="width: 1500px; height: auto;">
+<img src="/img/user/Madhyamaka/obj of ab (jets).png" style="float: middle; width: 1200px; height: auto;">
 
 **According to others (Panchen, Ngawang Palden, etc.):**
 
