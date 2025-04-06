@@ -14,6 +14,10 @@ See also: [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|A
 ས་ལྔ་པ་མན་ཆད་དུ་ཤེར་ཕྱིན་ལྷག་པའི་ཡོན་ཏན་ཁྱད་པར་ཅན་མ་ཐོབ་པའི་ཕྱིར།
 The uncommon absorption of cessation indicated in this context is not attained prior to the sixth ground (i.e. on the fifth ground of below) because on the fifth ground and below one has not attained the special qualities of the surpassing perfection of wisdom.
 
+རང་གི་ཉེར་ལེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་ཕར་ཕྱིན་གྱི་ཉམས་ལེན་ལྷག་པ་ལས་བྱུང་ཞིང་། གྲོགས་ཤེར་ཕྱིན་གྱི་ཉམས་ལེན་ལྷག་པས་ཟིན་པའི་སྒོ་ནས་
+ཆོས་ཉིད་ལ་མངོན་སུམ་དུ་མཉམ་པར་གཞག་པའི་མཉམ་གཞག་ཡེ་ཤེས་དེ། ཐུན་མོང་མ་ཡིན་པའི་འགོག་སྙོམས་ཀྱི་དོན་ཡིན།
+**Panchen: Meaning of uncommon absorption of cessation is:** An exalted wisdom of meditative equipoise that is in direct equipoise on dharmata by way of 1) being arisen from the surpassing practice of the perfection of concentration that is its substantial cause and 2) being conjoined by its assisting surpassing practice of the perfection of wisdom.
+
 ---
 ས་དྲུག་པའི་མཉམ་གཞག་ཡེ་ཤེས་ཆོས་ཅན། འགོག་པའི་སྙོམས་འཇུག་ཅེས་རྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། དེ་བཞིན་ཉིད་ལ་འགོག་པ་ཞེས་བྱ་ལ། 
 དེ་ལ་སྙོམས་པར་འཇུག་པའི་ཡེ་ཤེས་ཡིན་པའི་རྒྱུ་མཚན་གྱིས་དེ་ལྟར་རྗོད་པའི་ཕྱིར། 

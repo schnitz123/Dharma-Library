@@ -16,6 +16,8 @@
 ---
 [[Perfection of Wisdom/Topics/Divisions of Mind Generation\|Divisions of Mind Generation]]
 
+[[Shantideva/Bodhisattva Vows\|Bodhisattva Vows]]
+
 ---
 **Support:**
 - *Physical:* Mahayana mind generation can be directly and newly generated on the support of all six types of migrators who believe in the Mahayana and wish to attain enlightenment.

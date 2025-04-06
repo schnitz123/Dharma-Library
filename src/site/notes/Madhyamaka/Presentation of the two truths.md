@@ -63,5 +63,12 @@ This implies that wrong conventionalities exist because object-possessors and th
 [[Madhyamaka/Etymologies of the two truths\|Etymologies of the two truths]]
 
 ---
+ཕྱི་ནང་གི་དངོས་པོ་རྣམས་ཆོས་ཅན། ཁྱོད་ཀྱི་སྟེང་དུ་ངོ་བོ་གཉིས་ཡོད་དེ། 
+ཁྱོད་ཀྱི་སྟེང་དུ་མཐར་ཐུག་དཔྱོད་པའི་རིགས་ཤེས་ཀྱི་རྙེད་དོན་དང་། ཐ་སྙད་པའི་ཚད་མའི་རྙེད་དོན་གཉིས་ཡོད་པའི་ཕྱིར།
+The subject - inner and outer things - in terms of their basis there are two natures because there are:
+1. The object found by reasoning consciousnesses analysing the ultimate; and
+2. The object found by conventional valid cognition.
+
+---
 See also: [[Perfection of Wisdom/Topics/Two Truths\|Two Truths in Svatantrika]]
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]

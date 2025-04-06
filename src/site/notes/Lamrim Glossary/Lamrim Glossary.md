@@ -25,6 +25,7 @@
 	4. [[Perfection of Wisdom/Dependent Arising/Dependent Arising\|Twelve Links of Dependent Arising]]
 	5. [[Perfection of Wisdom/Topics/Sixteen Attributes of the Four Truths\|Sixteen Attributes of the Four Truths]]
 2. [[Lamrim Glossary/Mind of Definite Emergence and Three Higher Trainings\|Mind of Definite Emergence and Three Higher Trainings]]
+3. [[Lamrim Glossary/Individual liberation vows\|Individual liberation vows]]
 
 སྐྱེས་བུ་ཆེན་པོའི་ཐུན་མོང་མ་ཡིན་པའི་ལམ་གྱི་རིམ་པ།
 **The Stages of the Path Uncommon to the Great Capacity Being**
@@ -34,3 +35,6 @@
 4. [[Lamrim Glossary/Four Means of Gathering Disciples\|Four Means of Gathering Disciples]]
 5. [[Lamrim Glossary/Calm Abiding\|Calm Abiding]]
 6. [[Lamrim Glossary/Special Insight\|Special Insight]]
+
+---
+[[Lamrim Glossary/Three sets of vows\|Three sets of vows]]

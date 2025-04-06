@@ -7,3 +7,6 @@
 2. Performance Tantra སྤྱོད་རྒྱུད།
 3. Yoga Tantra རྣལ་འབྱོར་རྒྱུད།
 4. Highest Yoga Tantra བླ་མེད་རྣལ་འབྱོར་རྒྱུད།
+
+---
+[[Tantra/The eight dissolutions\|The eight dissolutions]] ཐིམ་རིམ།

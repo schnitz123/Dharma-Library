@@ -92,8 +92,8 @@ For Madhyamaka:
 - Uncontaminated is in the context of having abandoned the afflictions ཉོན་མོངས་སྤངས་པའི་སྐབས་སུ་ཟག་མེད།
 
 Chandrakirti (Clear Words):
-- Consciousnesses polluted by the imprints of true-grasping are contaminated (appearance of true establishment) བདེན་འཛིན་བག་ཆགས་ཀྱིས་སླད་པའི་ཤེས་པ་ནི་ཟག་བཅས།
-- Consciousnesses not polluted by those are uncontaminated དེས་མ་སླད་པའི་ཤེས་པ་ནི་ཟག་མེད།
+- Consciousnesses affected by the imprints of true-grasping are contaminated (appearance of true establishment) བདེན་འཛིན་བག་ཆགས་ཀྱིས་སླད་པའི་ཤེས་པ་ནི་ཟག་བཅས།
+- Consciousnesses not affected by those are uncontaminated དེས་མ་སླད་པའི་ཤེས་པ་ནི་ཟག་མེད།
   i.e. only direct realisation of emptiness
 
 Others say contaminate / uncontaminated are:
