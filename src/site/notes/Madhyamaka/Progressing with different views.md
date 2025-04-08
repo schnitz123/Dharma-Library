@@ -14,8 +14,8 @@ However, those two paths are not asserted as the path of seeing and meditation, 
 Therefore, sutras indicating that those are able to abandon those are sutras possessing an intended interpretative meaning.
 
 དཔེར་ན། རྡུལ་ཕྲན་ཆ་མེད་ཀྱིས་བརྩམས་པའི་རགས་པ་དང་། 
-དེ་འཛིན་པའི་ཚད་མ་གཉིས་རྫས་གཞན་གྱིས་སྟོང་པར་མངོན་སུམ་དུ་རྟོགས་ཟིན་གོམས་པར་བྱས་པ་ལ་བརྟེན་ནས་
-སློབ་ལམ་ཕྱི་མ་གཉིས་བགྲོད་པར་གསུངས་པའི་མདོ་རྣམས་སེམས་ཙམ་པས་ངེས་དོན་གྱི་མདོར་ཁས་ལེན་ཀྱང་། དབུ་མ་པས་དྲང་དོན་དགོངས་པ་ཅན་དུ་འགྲེལ་བ་བཞིན་ནོ།
+དེ་འཛིན་པའི་ཚད་མ་གཉིས་རྫས་གཞན་གྱིས་སྟོང་པར་མངོན་སུམ་དུ་རྟོགས་ཟིན་གོམས་པར་བྱས་པ་ལ་བརྟེན་ནས་སློབ་ལམ་ཕྱི་མ་གཉིས་བགྲོད་པར་གསུངས་པའི་
+མདོ་རྣམས་སེམས་ཙམ་པས་ངེས་དོན་གྱི་མདོར་ཁས་ལེན་ཀྱང་། དབུ་མ་པས་དྲང་དོན་དགོངས་པ་ཅན་དུ་འགྲེལ་བ་བཞིན་ནོ།
 For example, sutras indicating that in dependence upon familiarising with the previously directly realised emptiness of coarse [external objects] composed of partless particles and the valid cognitions apprehending them being different substances, one can progress along the latter two learner paths are asserted by the Cittamatra as being definitive meaning sutras, but the Madhyamikas explain those as possessing an intended interpretative meaning.
 
 གང་ཟག་རང་རྐྱ་ཐུབ་པའི་རྫས་ཡོད་ཀྱིས་སྟོང་པར་རྟོགས་པའི་ལམ་དེས་ཉོན་མོངས་པ་གང་གི་ས་བོན་སྤོང་མི་ནུས་ཀྱང་། 

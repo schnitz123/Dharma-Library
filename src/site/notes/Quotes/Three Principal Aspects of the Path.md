@@ -79,7 +79,7 @@ At that time, the analysis of the view is complete. (12)
 Moreover, due to appearing, the extreme of existence is eliminated, while
 Due to being empty, the extreme of non-existence is eliminated.
 If one knows how emptiness appears as cause and effect,
-Then one will not be captivated by view holding to extremes. (13)
+Then one will not be captivated by views holding to extremes. (13)
 
 །དེ་ལྟར་ལམ་གྱི་གཙོ་བོ་རྣམ་གསུམ་གྱི། །གནད་རྣམས་རང་གིས་ཇི་བཞིན་རྟོགས་པའི་ཚེ། <br>།དབེན་པ་བསྟེན་ཏེ་བརྩོན་འགྲུས་སྟོབས་བསྐྱེད་ནས། །གཏན་གྱི་འདུན་མ་མྱུར་དུ་སྒྲུབས་ཤིག་བུ། 
 When one correctly realises these key points

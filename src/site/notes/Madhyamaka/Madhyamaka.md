@@ -13,6 +13,7 @@
 - [[Madhyamaka/Presentations of Arya Bodhisattva grounds\|Presentations of Arya Bodhisattva grounds]]
 	- [[Madhyamaka/Discussion about their observed-objects and aspects\|Discussion about their observed-objects and aspects]]
 	- [[Madhyamaka/Progressing with different views\|Progressing with different views]]
+	- [[Madhyamaka/Substantial and imputed existents\|Substantial and imputed existents]]
 - [[Madhyamaka/Outshining Hearers and Solitary Realisers\|Outshining Hearers and Solitary Realisers]]
 - [[Madhyamaka/Hearers and Solitary Realisers realise emptiness of inherent existence\|Hearers and Solitary Realisers realise emptiness of inherent existence]]
 	- [[Madhyamaka/Realisation of the two selflessnesses\|Realisation of the two selflessnesses]]

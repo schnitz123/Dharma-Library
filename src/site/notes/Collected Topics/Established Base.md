@@ -101,4 +101,7 @@ Others say contaminate / uncontaminated are:
 - Conceptual / non-conceptual
 
 ---
+See also: [[Madhyamaka/Substantial and imputed existents\|Substantial and imputed existents]]
+
+---
 Up a level: [[Collected Topics/Collected Topics\|Collected Topics]]
