@@ -13,3 +13,7 @@ Non-merit is overcome initially,
 In the middle, the self is overcome,
 Later, all views are overcome:
 Those who know this are skilful.
+
+བསོད་ནམས་ཆུང་ངུ་ཆོས་འདི་ལ། །ཐེ་ཚོམ་ཟ་བར་ཡང་མི་འགྱུར། །ཐེ་ཚོམ་ཟ་བ་ཙམ་ཞིག་གིས། །སྲིད་པ་ཧྲུལ་པོར་བྱས་པར་འགྱུར།
+Those of little merit will not generate even a doubt regarding this dharma;
+By merely generating a doubt, existence will be worn-out.

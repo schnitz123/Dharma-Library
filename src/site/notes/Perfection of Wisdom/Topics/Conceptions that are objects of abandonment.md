@@ -22,6 +22,8 @@ If it is such a conception, it is not pervaded by apprehending an [[Collected To
 	1. Of substantial existents རྫས་འཛིན་རྟོག་པ།
 	2. Of imputed existents བཏགས་འཛིན་རྟོག་པ།
 
+See: [[Madhyamaka/Substantial and imputed existents\|Substantial and imputed existents]]
+
 **Definite order:**
 1. [[Perfection of Wisdom/Topics/Conception of apprehendeds of the thoroughly afflicted class\|Conception of apprehendeds of the thoroughly afflicted class]] - related to [[Perfection of Wisdom/Topics/Heat\|Heat]]
 2. [[Perfection of Wisdom/Topics/Conception of apprehendeds of the completely pure class\|Conception of apprehendeds of the completely pure class]] - related to [[Perfection of Wisdom/Topics/Peak\|Peak]]

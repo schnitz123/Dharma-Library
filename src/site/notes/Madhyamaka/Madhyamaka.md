@@ -44,6 +44,8 @@
 - [[Madhyamaka/Eight difficult points of Prasangika\|Eight difficult points of Prasangika]]
 - [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths]]
 - [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
+- [[Madhyamaka/Presentation of the three times\|Presentation of the three times]]
+- 349
 
 
 
