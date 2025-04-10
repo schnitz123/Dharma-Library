@@ -51,11 +51,11 @@ Therefore, in **our own system**, the meaning of that passage is as follows.
 That is, proving that disintegration is a functioning thing and so forth through stating "establishment by own-characteristics does not exist even conventionally" as a proof [i.e. sign] is the unique Prasangika tenet.
 
 Alternatively, there are many ways in which the Glorious Chandrakirti explains the intention of the Root Wisdom because there are: ཡང་ན་དཔལ་ལྡན་ཟླ་བས་རྩ་ཤེའི་དགོངས་པ་འགྲེལ་ཚུལ་དུ་མ་ཡོད་དེ།
-- Those uncommon with other commentators who explain the intention of the Root Wisdom to be Cittamatra: རྩ་ཤེའི་དགོངས་པ་སེམས་ཙམ་དུ་འགྲེལ་བར་བྱེད་པའི་འགྲེལ་བྱེད་གཞན་དང་ཐུན་མོང་མ་ཡིན་པའི་
+- Those uncommon with other commentators who explain the intention of the Root Wisdom to be *Cittamatra*: རྩ་ཤེའི་དགོངས་པ་སེམས་ཙམ་དུ་འགྲེལ་བར་བྱེད་པའི་འགྲེལ་བྱེད་གཞན་དང་ཐུན་མོང་མ་ཡིན་པའི་
 	- The non-existence of the ālāyavijñāna ཀུན་གཞི་མེད་པ་དང་།
 	- The non-existence of self-knowers རང་རིག་མེད་པ་དང་།
 	- The existence of external objects ཕྱི་དོན་ཡོད་པ་དང་།
-- Those uncommon with other commentators who explain the intention of the Root wisdom to be Svatantrika: རྩ་ཤེའི་དགོངས་པ་རང་རྒྱུད་དུ་འགྲེལ་བར་བྱེད་པའི་འགྲེལ་བྱེད་གཞན་དང་ཐུན་མོང་མ་ཡིན་པའི་
+- Those uncommon with other commentators who explain the intention of the Root wisdom to be *Svatantrika*: རྩ་ཤེའི་དགོངས་པ་རང་རྒྱུད་དུ་འགྲེལ་བར་བྱེད་པའི་འགྲེལ་བྱེད་གཞན་དང་ཐུན་མོང་མ་ཡིན་པའི་
 	- The non-existence of autonomous signs རང་རྒྱུད་ཀྱི་རྟགས་ཡང་དག་མེད་པ་དང་།
 	- That Hearer and Solitary Realiser Aryas realise the selflessness of phenomena
 	  ཉན་རང་འཕགས་པས་ཆོས་ཀྱི་བདག་མེད་རྟོགས་པ་དང་།

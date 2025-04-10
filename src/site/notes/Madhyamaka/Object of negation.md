@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/madhyamaka/object-of-negation/"}
 ---
 
+Two types:
+1. Object object of negation ཡུལ་གྱི་དགག་བྱ།
+   i.e. true establishment བདེན་གྲུབ།
+2. Object-possessor object of negation ཡུལ་ཅན་གྱི་དགག་བྱ།
+   i.e. apprehension of true establishment བདེན་འཛིན།
+
+---
 In general, there are two: སྤྱིར་དགག་བྱ་ལ་
 1. Object of negation of paths ལམ་གྱི་དགག་བྱ་དང་།
    e.g. the two obscurations སྒྲིབ་པ་གཉིས་ལྟ་བུ།

@@ -14,6 +14,15 @@ The awareness apprehending establishment as those is indicated to be the apprehe
 
 ---
 [[Madhyamaka/Two ways of explaining not existing ultimately\|Two ways of explaining not existing ultimately]]
+
+For both Svatantrika schools: 
+- The object of negation (true establishment) only appears to conceptual consciousnesses and not to sense consciousnesses.
+- As such, the previous are affected by ignorance and its imprints whereas the latter are not.
+- J.Shepa explains that this is posited only in terms of the [[Madhyamaka/Two ways of explaining not existing ultimately#^493f01\|first way of existing ultimately]] because:
+	- Conceiving of (conventional) objects as existing from the perspective of a reasoning consciousness analysing the ultimate is an acquired conception and thus its related appearance of true establishment would not appear to non-conceptual consciousnesses.
+- Changyka refutes this.
+
+---
 [[Madhyamaka/Example of the magical illusion\|Example of the magical illusion]]
 
 ---

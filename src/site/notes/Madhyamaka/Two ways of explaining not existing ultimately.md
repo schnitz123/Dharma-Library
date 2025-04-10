@@ -7,8 +7,29 @@
 བློ་ལ་སྣང་བའི་དབང་གིས་བཞག་པ་མ་ཡིན་པར་ཡུལ་རང་གི་སྡོད་ལུགས་ཀྱི་ངོས་ནས་མ་གྲུབ་པ་ལ་དོན་དམ་པར་མེད་པར་བཤད་པའི་ཚུལ་གཉིས་ཡོད་པའི་ཕྱིར། 
 There are two ways for explaining not existing ultimately:
 1. In terms of the reasoning consciousnesses of listening, contemplating, and meditating that analyse suchness being taken as "ultimate", then it is explained as not existing from the perspective of such reasoning consciousnesses' ascertainment of suchness;
+{ #493f01}
+
 2. [In terms of the object being taken as "ultimate",] it is explained as not being established from the side of the object's mode of abiding without being posited through the force of appearing to an awareness.
 
+---
+**Summary and Notes:**
+
+*Two types of ultimates:*
+1. Ultimate consciousness - i.e. a mind realising ultimate truths
+2. Ultimate existence - i.e. the object of negation
+
+*Relationships:*
+- An object realised by 1 is possible, e.g. ultimate truths.
+- 2 is impossible because nothing exists ultimately.
+- If 2 existed, it would nec be realised by 1; but that realised by 1 is not necessarily 2:
+	- i.e. ultimate truths are the common locus of being realised by 1 and not being 2 (i.e. not existing ultimately)
+	- That which appears to 1 is either: an ultimate truth or truly existent (if that were possible)
+
+*In terms of the conceptions of those:*
+1. Acquired: Conceiving of (conventional) objects as existing from the perspective of a reasoning consciousness analysing the ultimate depends upon the mind being affected by tenets
+2. Innate: Conceiving of objects as being established from the side of the object's mode of abiding without being posited through the force of appearing to an awareness does not depend upon tenets.
+
+---
 ཀུན་རྫོབ་ཀྱི་ཆོས་རྣམས་དོན་དམ་སྔ་མའི་དབང་དུ་བྱས་པའི་བློ་དོན་དམ་པ་དེས་དེ་ཁོ་ན་ཉིད་ངེས་པའི་ངེས་ངོར་གྲུབ་པ་མ་ཡིན་ཡང་། 
 དོན་དམ་སྔ་མའི་དབང་དུ་བྱས་པའི་བློ་དོན་དམ་པ་དེས་དེ་ཁོ་ན་ཉིད་ངེས་པའི་ངེས་ངོར་གྲུབ་པ་ཡོད་དེ། དོན་དམ་པ་དེ། དེ་ཁོ་ན་ཉིད་ངེས་པའི་ངེས་ངོར་གྲུབ་པའི་ཕྱིར། 
 Although conventional phenomena are not established from the perspective of ultimate awarenesses' ascertainment of suchness (i.e. the previous "ultimate"), that which is established from the perspective of ultimate awarenesses' ascertainment of suchness (i.e. the previous "ultimate") exists because the ultimate is established from the perspective of the ascertainment of suchness.
