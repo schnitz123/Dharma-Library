@@ -45,7 +45,9 @@
 - [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths]]
 - [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
 - [[Madhyamaka/Presentation of the three times\|Presentation of the three times]]
-- 349
+- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
+- [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]
+- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
 
 
 

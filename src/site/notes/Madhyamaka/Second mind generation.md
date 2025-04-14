@@ -67,7 +67,7 @@ That empty of attachment to the three is supramundane. [2.9]
 
 །རྒྱལ་སྲས་ཟླ་བ་ལས་བྱུང་སྲིད་མིན་སྲིད་པ་ཡི། །དཔལ་གྱུར་དྲི་མ་དང་བྲལ་དྲི་མ་མེད་འདི་ཡང་། 
 །སྟོན་ཀའི་དུས་ཀྱི་ཟླ་བའི་འོད་ནི་ཇི་བཞིན་དུ། །འགྲོ་བའི་ཡིད་ཀྱི་གདུང་བ་སེལ་བར་བྱེད་པ་ཡིན། 
-The Conqueror child, arising from the moon, not existence but is
+The Conqueror child, arising from the moon, is not existence but is
 The glory of existence; also this Stainless [ground], free from stains, 
 Like the light of the autumn moon, 
 Clears away the mental torment of migrators. [2.10]

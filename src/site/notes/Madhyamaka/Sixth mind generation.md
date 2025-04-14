@@ -214,6 +214,10 @@
 
 རབ་རིབ་དང་ལྡན་དབང་པོ་ཅན་མཚུངས་ལ། །ཆུ་འབབ་གླུང་ལ་ཡི་དྭགས་རྣག་བློ་ཡང༌། །
 མདོར་ན་ཇི་ལྟར་ཤེས་བྱ་མེད་དེ་བཞིན། །བློ་ཡང་མེད་ཅེས་དོན་འདི་ཤེས་པར་གྱིས། །
+Similar to those whose faculties have an eye-disease,
+A flowing river [appears] as pus to a preta's awarness;
+In short, understand the meaning as this:
+Just as the object of knowledge does not exist, neither does the awareness. [6.71]
 
 གལ་ཏེ་གཟུང་མེད་འཛིན་པ་ཉིད་བྲལ་ཞིང༌། །གཉིས་ཀྱིས་སྟོང་པའི་གཞན་དབང་དངོས་ཡོད་ན། །
 འདི་ཡི་ཡོད་པ་གང་གིས་ཤེས་པར་འགྱུར། །མ་བཟུང་བར་ཡང་ཡོད་ཅེས་བྱར་མི་རུང༌། །

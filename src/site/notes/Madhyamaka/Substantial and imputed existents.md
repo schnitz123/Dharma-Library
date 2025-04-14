@@ -53,3 +53,5 @@ Only the fourth is fully qualified (མཚན་ཉིད་ཚང་བ།).
 
 ---
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+
+See also: https://studybuddhism.com/en/advanced-studies/lam-rim/emptiness-advanced/self-sufficiently-knowable-and-imputedly-knowable-objects 
