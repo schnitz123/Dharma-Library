@@ -40,6 +40,10 @@ Why? The subject - [the sticks and stones (the bases of the illusion)] - they ap
 ཁྱབ་སྟེ། ཡོད་ན་རང་ངོས་ནས་ཡོད་དགོས་པའི་ཕྱིར། 
 There is pervasion because if it exists, then it necessarily exists from its own side.
 
+རྡེའུ་ཤིང་རྟ་གླང་དུ་སྣང་བ་ཡིན་པར་ཐལ། སྒྱུ་མའི་སྤྲུལ་གཞིའི་རྡེའུ་ཤིང་རྟ་གླང་དུ་སྣང་བ་ཡིན་པའི་ཕྱིར་ཟེར་ན་མ་ཁྱབ་པར་གསལ་ལོ།
+*Someone says:* It follows that sticks and stones appear as horses and elephants because the sticks and stones that are the bases of the illusion appear as horses and elephants.
+Clearly no pervasion!
+
 ---
 སྒྱུ་མའི་སྔགས་རྫས་ཀྱིས་མིག་མ་བསླད་པའི་ལྟད་མོ་བ་ལ་རྡེའུ་ཤིང་རྟ་གླང་དུ་མི་སྣང་ཞིང་། དེས་རྡེའུ་ཤིང་རྟ་གླང་དུ་མི་ཞེན་པ་བཞིན་དུ། 
 སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་བྱང་སེམས་འཕགས་པའི་མཉམ་གཞག་ཡེ་ཤེས་ལ་ཆོས་རྣམས་བདེན་གྲུབ་ཏུ་སྣང་བ་ཙམ་ཡང་མེད་དེ། 

@@ -15,19 +15,39 @@ There are two ways for explaining not existing ultimately:
 **Summary and Notes:**
 
 *Two types of ultimates:*
-1. Ultimate consciousness - i.e. a mind realising ultimate truths
-2. Ultimate existence - i.e. the object of negation
+1. Existent: Ultimate consciousness / object-possessor (དོན་དམ་གྱི་ཡུལ་ཅན།) - i.e. a mind realising ultimate truths
+2. Non-existent: Ultimate existence / object (དོན་དམ་གྱི་ཡུལ།) - i.e. the object of negation
 
 *Relationships:*
 - An object realised by 1 is possible, e.g. ultimate truths.
 - 2 is impossible because nothing exists ultimately.
-- If 2 existed, it would nec be realised by 1; but that realised by 1 is not necessarily 2:
+- If 2 existed, it would necessarily be realised by 1; but that realised by 1 is not necessarily 2:
 	- i.e. ultimate truths are the common locus of being realised by 1 and not being 2 (i.e. not existing ultimately)
 	- That which appears to 1 is either: an ultimate truth or truly existent (if that were possible)
 
 *In terms of the conceptions of those:*
 1. Acquired: Conceiving of (conventional) objects as existing from the perspective of a reasoning consciousness analysing the ultimate depends upon the mind being affected by tenets
 2. Innate: Conceiving of objects as being established from the side of the object's mode of abiding without being posited through the force of appearing to an awareness does not depend upon tenets.
+
+*Both 1 + 2 can be used as a proof for not being ultimately established:*
+1. The subject - sprout - it is not ultimately established because of:
+	- not existing from the perspective of a reasoning consciousness analysing the suchness of sprout; or
+	- 1) if sprout were ultimately established, then it would existing from the perspective of a reasoning consciousness analysing the suchness of sprout but 2) it does not.
+2. The subject - sprout - it is not ultimately established because of not being established from the side of the sprout's mode of abiding without being posited through the force of appearing to an awareness.
+
+However, 1 is only a proof; it is not indicating the meaning or measure of establishment (གྲུབ་ཚད།) because otherwise:
+- Its opposite "existing from the perspective of a reasoning consciousness analysing suchness" would then be the measure of being ultimately established
+- Therefore, emptiness would be ultimately established because of existing from the perspective of that (under-pervasive object of negation)
+- Alternatively, thinking that that is the same as "withstanding ultimate analysis", then since emptiness does not withstand ultimate analysis, it does not exist from the perspective of that
+- Therefore: The subject - emptiness - it is not an object of knowledge because it is not observed by valid cognition; because 1) it is not observed by a conventional valid cognition and 2) it is not observed by an ultimate valid cognition. (over-pervasive object of negation)
+
+*Meaning of x withstanding ultimate analysis:* x being findable as (ultimately) existent by a reasoning consciousness analysing whether or not x ultimately exists.
+- Nothing withstands ultimate analysis because nothing ultimately exists
+- Something does exist from the perspective of a reasoning consciousness analysing suchness, i.e. emptiness
+
+*Therefore:*
+- Emptiness is an ultimate
+- Emptiness does not exist ultimately
 
 ---
 ཀུན་རྫོབ་ཀྱི་ཆོས་རྣམས་དོན་དམ་སྔ་མའི་དབང་དུ་བྱས་པའི་བློ་དོན་དམ་པ་དེས་དེ་ཁོ་ན་ཉིད་ངེས་པའི་ངེས་ངོར་གྲུབ་པ་མ་ཡིན་ཡང་། 
