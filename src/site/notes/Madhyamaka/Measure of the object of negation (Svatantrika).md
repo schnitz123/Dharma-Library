@@ -3,7 +3,7 @@
 ---
 
 བློ་གནོད་མེད་ལ་སྣང་བའི་དབང་གིས་བཞག་པའི་ཡོད་པ་ཙམ་དེ། ཀུན་རྫོབ་ཏུ་ཡོད་པའི་དོན་ཡིན། 
-Meaning of existing conventionally: Mere existence that is posited through the force of appearing to a non-faulty awareness.
+**Meaning of existing conventionally:** Mere existence that is posited through the force of appearing to a non-faulty awareness.
 
 བློ་ལ་སྣང་བའི་དབང་གིས་བཞག་པ་མ་ཡིན་པར་ཡུལ་རང་གི་སྡོད་ལུགས་ཀྱི་ངོས་ནས་གྲུབ་པ།
 Meaning of truly established (བདེན་པར་གྲུབ་པ།) / ultimately established (དོན་དམ་པར་གྲུབ་པ།) / established in reality 
@@ -24,6 +24,10 @@ For both Svatantrika schools:
 
 ---
 [[Madhyamaka/Example of the magical illusion\|Example of the magical illusion]]
+
+[[Madhyamaka/Discussion about non-faulty awareness\|Discussion about non-faulty awareness]]
+
+[[Madhyamaka/Conventional existence\|Conventional existence]]
 
 ---
 Up a level: [[Madhyamaka/Object of negation\|Object of negation]]
