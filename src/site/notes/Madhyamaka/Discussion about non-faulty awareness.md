@@ -41,7 +41,7 @@ For Prasangika, such an awareness does not exist because it would be mistaken; b
 
 *Example of the illusory horses and elephants:*
 - Yogacara-Svatantrika: Although the eye-consciousness to which that appears is mistaken, its self-knower is a valid cogniser wrt the eye-consciousness it experiences. More generally, since all sense-consciousnesses are mistaken (due to the appearance of external existence), it is their self-knowers that establish the appearance.
-- Sautrantika-Svatantrika: Similarly, since that eye-consciousness is mistaken, instead they posit: the eye-consciousness apprehending the place or space (ས་ཕྱོགས་སམ་བར་སྣང་ལྟ་བུའི་གཞི།) that is the basis for that appearance.
+- Sautrantika-Svatantrika: Similarly, since that eye-consciousness is mistaken, instead they posit: the eye-consciousness apprehending the place or space (ས་ཕྱོགས་སམ་བར་སྣང་ལྟ་བུའི་གཞི།) that is the basis for that appearance or where that appearance use to be.
 
 Those two valid cognisers (the self-knower and the eye-consciousness) are then posited as the valid cognisers that are later able to induce a subsequent cogniser thinking "I saw an elephant!"
 - This is problematic for SS if one posits a dream-elephant instead: what is the valid cogniser inducing the subsequent cogniser thinking "I saw an elephant!" upon waking? (dream-consciousnesses would be pervaded by being mistaken)

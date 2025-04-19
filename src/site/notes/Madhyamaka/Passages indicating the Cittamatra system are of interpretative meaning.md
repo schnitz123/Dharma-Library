@@ -1,0 +1,45 @@
+---
+{"dg-publish":true,"permalink":"/madhyamaka/passages-indicating-the-cittamatra-system-are-of-interpretative-meaning/"}
+---
+
+སྐབས་འདིར་དྲང་དོན་དུ་འགྲེལ་དགོས་པའི་མདོ་བཞི་ཡོད་དེ།
+In this context, there are four sutras that require commentary as interpretative meaning:
+1. The Sutra Unravelling the Thought's indication of the existence of an ālaya-vijñāna
+   ཀུན་གཞིའི་རྣམ་ཤེས་ཡོད་པར་སྟོན་པའི་དགོངས་འགྲེལ་གྱི་མདོ།
+2. The Sutra Unravelling the Thought's indication of the non-existence of external objects
+   ཕྱི་དོན་མེད་པར་སྟོན་པའི་དགོངས་འགྲེལ་གྱི་མདོ།
+3. The Sutra Unravelling the Thought's indication of the differentiation of which of the three natures are truly existent and not in accordance with the Cittamatrins' assertions
+   མཚན་ཉིད་གསུམ་ལ་སེམས་ཙམ་པས་འདོད་པ་ལྟར་གྱི་བདེན་པར་ཡོད་མེད་ཀྱི་ཁྱད་པར་ཕྱེ་ནས་སྟོན་པའི་དགོངས་འགྲེལ་གྱི་མདོ།
+4. The Sutra Unravelling the Thought's indication of the establishing of three final vehicles
+   མཐར་ཐུག་ཐེག་པ་གསུམ་དུ་གྲུབ་པར་སྟོན་པའི་དགོངས་འགྲེལ་གྱི་མདོ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།
+
+---
+དང་པོ་ནི། ལེན་པའི་རྣམ་པར་ཤེས་པ་ཟབ་ཅིང་ཕྲ། །ཞེས་སོགས་ཀྱི་མདོ་ཡིན་ལ། 
+The first is the section: "The appropriating consciousness is profound and subtle..." and so forth.
+
+དེ་དྲང་དོན་དུ་འགྲེལ་བྱེད་ནི། མཚན་དཔེ་གསལ་རྫོགས་ཀྱི་བདེར་གཤེགས་སྙིང་པོ་སྟོན་པའི་མདོ་དྲང་དོན་དུ་འགྲེལ་བྱེད་ཀྱི་མདོ་དེ་ཉིད་ཡིན་ནོ།
+Indicator as interpretative meaning: The very section indicating that the section that indicates a Sugatagarbha with clear complete marks and signs as being of interpretative meaning.
+
+---
+གཉིས་པ་ནི། བཅོམ་ལྡན་འདས་ཀྱི་ཏིང་ངེ་འཛིན་གྱི་སྤྱོད་ཡུལ་གཟུགས་ཅན་གང་ལགས་པ་དེ་ཅི་སེམས་ལས་ཐ་དད་པ་ཞེས་བགྱིའམ། ཐ་དད་པ་མ་ལགས།
+ཞེས་བགྱི། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྱམས་པ། ཐ་དད་པ་མ་ཡིན་ཞེས་བྱའོ། །ཞེས་སོགས་ཡིན་ལ། 
+
+དེ་དྲང་དོན་དུ་འགྲེལ་བྱེད་ནི། ཇི་ལྟར་ནད་པས་ནད་པ་ལ། །སྨན་པས་སྨན་རྣམས་གཏོང་བ་ལྟར། །ཞེས་སོགས་ཡིན་ནོ།
+
+---
+གསུམ་པ་ནི། ཆོས་རྣམས་ཀྱི་མཚན་ཉིད་ངོ་བོ་ཉིད་མེད་པ་གང་ཞེ་ན། ཀུན་བཏགས་པའི་མཚན་ཉིད་གང་ཡིན་པའོ། །དེ་ཅིའི་ཕྱིར་ཞེ་ན། 
+འདི་ལྟར་དེ་ནི་མིང་དང་བརྡས་རྣམ་པར་བཞག་པ་ཡིན་གྱི། རང་གི་མཚན་ཉིད་ཀྱིས་རྣམ་པར་གནས་པ་ནི་མ་ཡིན་པས་དེའི་ཕྱིར། 
+དེ་ནི་མཚན་ཉིད་ངོ་བོ་ཉིད་མེད་པ་ཞེས་བྱའོ། །ཞེས་སོགས་ཡིན་ལ། 
+
+དེ་དྲང་དོན་དུ་འགྲེལ་བྱེད་ནི། བློ་གྲོས་ཆེན་པོ་སྟོང་པ་ཉིད་དང་། མ་སྐྱེས་པ་དང་ཞེས་སོགས་ཡིན་ནོ།
+
+---
+བཞི་པ་ནི། ཞི་བ་བགྲོད་པ་གཅིག་པུ་བ་ནི། སངས་རྒྱས་ཐམས་ཅད་བརྩོན་པ་དང་ལྡན་པར་གྱུར་ཀྱང་། བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་བཞག་སྟེ། 
+བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་མི་རྒྱ་སྟེ། ཞེས་སོགས་ཡིན་ལ། 
+
+དེ་དྲང་དོན་དུ་འགྲེལ་བྱེད་ནི། སྐབས་འདིར་དངོས་སུ་འདྲེན་མི་དགོས་ཏེ། སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱི་མདོ་ཀུན་བཏུས་སུ་བསྒྲུབས་ཟིན་པའི་ཕྱིར། 
+སེམས་ཅན་ཐམས་ཅད་ཀྱི་རྒྱུད་ལ་མཚན་དཔེ་གསལ་རྫོགས་ཀྱི་བདེར་གཤེགས་སྙིང་པོ་ཡོད་པར་སྟོན་པའི་མདོ་ནི། སོར་འཕྲེང་ཅན་གྱི་མདོ་ལས་དེ་ལྟར་བཤད་ཀྱང་། 
+གཙོ་བོ་ནི་སྟོང་གསུམ་དར་ཡུག་གི་མདོ་ཡིན་ནོ།
+
+---
+Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]

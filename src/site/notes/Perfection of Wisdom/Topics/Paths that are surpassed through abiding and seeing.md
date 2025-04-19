@@ -20,4 +20,6 @@ However, still generated in the continuum! *Not* seeing like an eye-consciousnes
 (མིག་ཤེས་ཀྱིས་གཟུགས་ཤེས་པ་བཞིན་དུ་མ་ཡིན་པ།)
 *Mainly (no pervasion):* opposites of the above.
 
+---
 See also: [[Perfection of Wisdom/Topics/Surpassed and Surpassing Mahayana path of seeing\|Surpassed and Surpassing Mahayana path of seeing]]
+Up a level: [[Perfection of Wisdom/Salam/Salam\|Salam]] / [[Perfection of Wisdom/Perfection of Wisdom\|Perfection of Wisdom]]

@@ -33,7 +33,7 @@ In terms of reasonings:
    རྒྱུ་འབྲས་གཉིས་ཀ་ལ་དཔྱོད་པ་མུ་བཞིའི་སྐྱེ་འགོག་གི་གཏན་ཚིགས།
 5. The king of reasoning: Reasoning of dependent-arising རིགས་པའི་རྒྱལ་པོ་རྟེན་འབྲེལ་གྱི་གཏན་ཚིགས།
 
-See also (Svatantrika): [[Perfection of Wisdom/Topics/Reasoning refuting true existences\|Reasoning refuting true existences]]
+See also (Perfection of Wisdom): [[Perfection of Wisdom/Topics/Reasoning refuting true existences\|Reasoning refuting true existences]]
 
 དེ་རྣམས་ཀྱི་ནང་ནས་འཕགས་པ་ཡབ་སྲས་ཀྱིས་གཙོ་བོར་རྡོ་རྗེ་གཟེགས་མའི་གཏན་ཚིགས་ཀྱི་སྒོ་ནས་བདེན་མེད་གཏན་ལ་འབེབས་པར་མཛད་པ་ཡིན།
 Among those, the Arya [Nagarjuna] and his Spiritual Children mainly settled the lack of true existence by way of the reasoning of diamond slivers. [[Quotes/Root Wisdom of the Middle Way/Chapter 1 - Investigation of conditions#^e02300\|Nagarjuna quote]].

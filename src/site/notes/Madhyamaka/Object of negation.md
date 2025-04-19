@@ -31,6 +31,8 @@ Similarly, the word indicating the lack of true existence, i.e. "empty", like th
 [[Madhyamaka/Measure of the object of negation (Svatantrika)\|Measure of the object of negation (Svatantrika)]]
 - [[Madhyamaka/Two ways of explaining not existing ultimately\|Two ways of explaining not existing ultimately]]
 - [[Madhyamaka/Example of the magical illusion\|Example of the magical illusion]]
+- [[Madhyamaka/Discussion about non-faulty awareness\|Discussion about non-faulty awareness]]
+- [[Madhyamaka/Conventional existence\|Conventional existence]]
 
 [[Madhyamaka/Measure of the object of negation (Prasangika)\|Measure of the object of negation (Prasangika)]]
 
