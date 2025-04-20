@@ -71,36 +71,8 @@ Also, there are two types of established base: one and different.
 See: [[Collected Topics/One and Different\|One and Different]]
 
 ---
-When established base is divided, there are (Abhidharmakosha):
-{ #81a032}
 
-1. **Contaminated:** A phenomenon that is suitable to increase contamination or afflictions through either observation or concomitance.
-   དམིགས་པ་དང་མཚུངས་ལྡན་གང་རུང་གི་སྒོ་ནས་ཟག་པའམ་ཉོན་མོངས་རྒྱས་སུ་རུང་བའི་ཆོས། ཟག་བཅས་ཀྱི་མཚན་ཉིད།
-   *Illustration:* the five contaminated aggregates / root and secondary afflictions
-   All compounded phenomena part from true paths.
-2. **Uncontaminated:** A phenomenon that is not suitable to increase contamination through either observation or concomitance.
-   དམིགས་པའམ་མཚུངས་ལྡན་གང་རུང་གི་སྒོ་ནས་ཀྱང་ཟག་པ་རྒྱས་སུ་མི་རུང་བའི་ཆོས། ཟག་མེད་ཀྱི་མཚན་ཉིད།
-   *Illustration:* true paths and cessations, uncompounded space
-
-See also: [[Collected Topics/Six doors of contamination\|Six doors of contamination]] (Abhidharmasamuccaya)
-
-For Madhyamaka:
-{ #0cfa2a}
-
-- Contaminations refers to the the afflictions ཉོན་མོངས་ལ་ཟག་པ་བྱས་ནས།
-- Contaminated is in the context of not having abandoned the afflictions ཉོང་མོངས་མ་སྤངས་པའི་སྐབས་སུ་ཟག་བཅས།
-- Uncontaminated is in the context of having abandoned the afflictions ཉོན་མོངས་སྤངས་པའི་སྐབས་སུ་ཟག་མེད།
-
-Chandrakirti (Clear Words):
-- Consciousnesses affected by the imprints of true-grasping are contaminated (appearance of true establishment) བདེན་འཛིན་བག་ཆགས་ཀྱིས་སླད་པའི་ཤེས་པ་ནི་ཟག་བཅས།
-- Consciousnesses not affected by those are uncontaminated དེས་མ་སླད་པའི་ཤེས་པ་ནི་ཟག་མེད།
-  i.e. only direct realisation of emptiness
-
-Others say contaminate / uncontaminated are:
-- Objects of abandonment / Antidotes
-- Conceptual / non-conceptual
-
----
+See also: [[Collected Topics/Contaminated and uncontaminated\|Contaminated and uncontaminated]]
 See also: [[Madhyamaka/Substantial and imputed existents\|Substantial and imputed existents]]
 
 ---

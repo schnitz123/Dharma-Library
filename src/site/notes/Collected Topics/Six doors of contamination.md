@@ -18,4 +18,4 @@ From Asanga's Abhidharmasamuccaya:
    i.e. the results of contaminations, e.g. the five contaminated aggregates ཟག་བཅས་ཕུང་པོ་ལྔ་ལྟ་བུ།
 
 ---
-Up a level: [[Collected Topics/Established Base#^81a032\|Established base]]
+Up a level: [[Collected Topics/Contaminated and uncontaminated\|Contaminated and uncontaminated]]
