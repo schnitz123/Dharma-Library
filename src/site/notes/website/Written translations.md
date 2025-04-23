@@ -11,7 +11,7 @@ Producing a high quality written translation takes a lot of time and care. Pleas
 Je Tsongkhapa's Illumination of the Thought: chapters 1-5 (version 1.21 updated 05/03/25)
 - <a href="/pdf/Illumination%20of%20the%20Thought.pdf" download>Download here</a>
 
-Jetsunpa's Seventy Topics (version 1.0 uploaded 07/05/25)
+Jetsunpa's Seventy Topics (version 1.0 uploaded 07/03/25)
 - <a href="/pdf/70%20Topics.pdf" download>Download here</a>
 
 Two Presentations of Tenets (Jetsunpa and Kunkhyen Jigme Wangpo) (version 1.0 uploaded 23/04/25)
