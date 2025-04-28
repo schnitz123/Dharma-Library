@@ -12,13 +12,15 @@
 རང་ཉིད་ངེས་པའི་བློས་རང་གི་དགག་བྱ་བཀག་ཤུལ་དུ་རང་གི་འཕངས་བྱར་གྱུར་པའི་ཆོས་གཞན་འཕེན་པའམ་སྒྲུབ་པའི་དགག་པ། མ་ཡིན་དགག་གི་མཚན་ཉིད།
 **Definition (Tendarwa):** A negation that conveys or establishes another phenomenon that is its conveyed-object upon the awareness ascertaining it negating its object of negation.
 
+---
 མ་ཡིན་དགག་གི་གཞན་སེལ་དང་མ་ཡིན་དགག་དོན་གཅིག
-Affirming other-exclusion and affirming negation are mutually inclusive.
+Other-exclusion that is an affirming negation and affirming negation are mutually inclusive.
 
-**Divisions of affirming other-exclusion:**
-1. [[Collected Topics/Other-exclusion of objective specifically characterised phenomena\|Other-exclusion of objective specifically characterised phenomena]] དོན་རང་མཚན་གྱི་གཞན་སེལ།
-2. [[Collected Topics/Other-exclusion of awareness\|Other-exclusion of awareness]] བློའི་གཞན་སེལ།
+**Divisions of other-exclusion that is an affirming negation:**
+1. [[Collected Topics/Specifically characterised object other-exclusion\|Specifically characterised object other-exclusion]] དོན་རང་མཚན་གྱི་གཞན་སེལ།
+2. [[Collected Topics/Awareness other-exclusion\|Awareness other-exclusion]] བློའི་གཞན་སེལ།
 
+---
 **Divisions of affirming negation:**
 1. Affirming negation where the sound expressing it *explicitly* conveys the other phenomenon (affirmation) that is its conveyed-object
    རང་ཞེས་བརྗོད་པའི་སྒྲས་རང་གི་འཕངས་བྱར་གྱུར་པའི་ཆོས་གཞན་སྒྲུབ་པ་དངོས་སུ་འཕེན་པའི་མ་ཡིན་དགག
@@ -46,4 +48,5 @@ Affirming other-exclusion and affirming negation are mutually inclusive.
 
 
 ---
+See also: [[Collected Topics/Other-exclusions that are affirming negations\|Other-exclusions that are affirming negations]]
 Up a level: [[Collected Topics/Affirmations and Negations\|Affirmations and Negations]]

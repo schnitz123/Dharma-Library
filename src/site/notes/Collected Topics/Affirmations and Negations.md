@@ -11,8 +11,9 @@
 - That explicitly realised by its apprehending conception by way of eliminating its object of negation.
 
 དགག་པ་དང་གཞན་སེལ་དོན་གཅིག
-Negation and other-exclusion are mutually inclusive.
+Negation and [[Collected Topics/Other-exclusion\|Other-exclusion]] are mutually inclusive.
 
+---
 **Divisions:**
 1. [[Collected Topics/Affirming negation\|Affirming negation]] མ་ཡིན་དགག
 2. [[Collected Topics/Non-affirming negation\|Non-affirming negation]] མེད་དགག

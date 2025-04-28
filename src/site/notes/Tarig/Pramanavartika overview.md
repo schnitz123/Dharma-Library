@@ -78,6 +78,16 @@
 							- General presentation of other-exclusions 70 - 93
 							- refute other systems of semantics and to explain the way terms are applied by way of other-exclusions that eliminate not-that 94 - 115ab
 							- eliminate objections 115cd - 186ab
+								- Dispelling the consequence that conceptual consciousnesses are mutually dependent 115cd - 123
+								- Dispelling the consequence that expressive words are not pervaded by being eliminative object-possessors 124 - 130
+								- Dispelling the consequence that if things are expressed by terms, then terms and later valid cognitions are purposeless 131 - 
+									- Refuting Samkhya 165 - ???
+										- The consequence of many causes would be purposeless 166cd - 176ab
+											- Refutation 166cd - 167
+											- Proof 168
+											- Dispelling objections 169 - 176ab
+										- The consequence of cause and effect being mixed-up 176cd - 180
+										- The consequence of their applications being mixed-up 181 - 182
 						- of negative phenomena 187abc
 						- Summary 187cd
 				- What are the syllogisms of correct nature sign possessing such a relationship? 188 - 195b
