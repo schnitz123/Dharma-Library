@@ -8,7 +8,7 @@
 1. Included within the preparation level and
 2. Is the method for attaining the actual meditative absorption of an upper level that is its object of attainment.
 
-**Divisions:** those for the first concentration and up to the Peak of Existence (9)
+**Divisions:** those for the first concentration and up to the Peak of Existence (8)
 
 ---
 ཉེར་བསྡོགས་ཀྱི་སས་བསྡུས་ཤིང་། རང་གི་ཐོབ་བྱར་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞིའི་སྙོམས་འཇུག་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་བསམ་གཏན་གྱི་སས་བསྡུས་ཀྱི་དགེ་བའི་རིག་པ་དེ། བསམ་གཏན་གྱི་ཉེར་བསྡོགས་ཀྱི་མཚན་ཉིད། 

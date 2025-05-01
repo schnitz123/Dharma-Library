@@ -21,7 +21,7 @@
 	2. Aspiration འདུན་པ།
 	3. Joyous effort བརྩོན་འགྲུས།
 	4. Pliancy ཤིན་སྦྱངས།
-- Four for each of the remaining faults ཉེས་པ་ཕྱི་མ་བཞིའི་གཉེན་པོ་བཞི།
+- Four for the four remaining faults ཉེས་པ་ཕྱི་མ་བཞིའི་གཉེན་པོ་བཞི།
 	1. Mindfulness (དྲན་པ།) - not forgetting the object of concentration
 	   ཏིང་ངེ་འཛིན་གྱི་དམིགས་པ་རྣམས་མི་བརྗེད་པའི་དྲན་པ།
 	2. Introspection (ཤེས་བཞིན།) - investigating whether laxity and excitement have arisen or not

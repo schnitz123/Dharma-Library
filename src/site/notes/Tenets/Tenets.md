@@ -4,7 +4,7 @@
 
 དཀོན་མཆོག་གསུམ་སྐྱབས་གནས་ཡང་དག་ཏུ་ཁས་ལེན་ཞིང་། དེ་ལས་གཞན་པའི་སྐྱབས་གནས་མི་འདོད་པའི་གྲུབ་མཐའ་སྨྲ་བའི་གང་ཟག་དེ།
 ནང་པ་སངས་རྒྱས་པའི་གྲུབ་མཐའ་སྨྲ་བའི་གང་ཟག་གི་མཚན་ཉིད།
-**Definition of Buddhist Proponent of Tenets:** A person propounding tenets who 1) asserts the Three Jewels as as perfect objects of refuge and 2) does not assert objects of refuge other than that.
+**Definition of Buddhist Proponent of Tenets:** A person propounding tenets who 1) asserts the Three Jewels as perfect objects of refuge and 2) does not assert objects of refuge other than that.
 
 **When divided:**
 1. [[Tenets/Vaibhashika\|Vaibhashika]] བྱེ་བྲག་སྨྲ་བ།
