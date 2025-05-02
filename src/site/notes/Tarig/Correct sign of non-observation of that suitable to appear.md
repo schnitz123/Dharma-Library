@@ -7,7 +7,7 @@
 **Definition:**
 That which is the common locus of:
 1. being the correct non-observation sign in the proof of that;
-2. the [[Tarig/object designated as the property of the antithesis\|object designated as the property of the antithesis]] in the proof of that not being a [[Tarig/Suprasensory object\|suprasensory object]] for the person for whom it has become the property of the subject in the proof of that.
+2. the [[Tarig/object designated as the property of the negandum\|object designated as the property of the negandum]] in the proof of that not being a [[Tarig/Suprasensory object\|suprasensory object]] for the person for whom it has become the property of the subject in the proof of that.
 
 **Divisions:**
 1. [[Tarig/Correct sign of non-observation of the related object that is suitable to appear\|Correct sign of non-observation of the related object that is suitable to appear]]

@@ -3,8 +3,8 @@
 ---
 
 སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་བསྒྲུབ་ཚུལ་དང་མཐུན་པར་མི་རྟག་པས་མི་སྟོང་པ། སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་མཐུན་ཕྱོགས་ཀྱི་མཚན་ཉིད།
-**Definition of similar class in the proof of sound as impermanent:**
-That which is *not* devoid of impermanence, in accordance with the mode of proof in the proof of sound as impermanent.
+**Definition of similar class in the proof that sound is impermanent:**
+That which is not empty of impermanence, in accordance with the mode of proof in the proof that sound is impermanent.
 
 མི་རྟག་པ་དང་དེ་སྒྲུབ་ཀྱི་མཐུན་ཕྱོགས་གཉིས་ཡིན་ཁྱབ་མཉམ་ཡིན།
 Impermanent and the similar class in the proof of that are mutually pervasive.
@@ -18,12 +18,14 @@ That which is not impermanent and that are mutually pervasive.
 
 **Divisions of dissimilar class:**
 1. Non-existent          དེ་སྒྲུབ་ཀྱི་མེད་པ་མི་མཐུན་ཕྱོགས།
+   e.g. rabbit horns རི་བོང་རྭ་ལྟ་བུ།
 2. Other                     དེ་སྒྲུབ་ཀྱི་གཞན་པ་མི་མཐུན་ཕྱོགས།
+   e.g. object of knowledge ཤེས་བྱ་ལྟ་བུ།
 3. Mutually exclusive དེ་སྒྲུབ་ཀྱི་འགལ་བ་མི་མཐུན་ཕྱོགས།
+   e.g. permanent རྟག་པ་ལྟ་བུ།
 
-Examples: Horns of rabbit, object of knowledge, permanent; respectively.
-
-In general, dissimilar class is non-existent. If it is an established base, it is pervaded by being a similar class because if it is an established base, it is pervaded by being the similar class of a correct sign; because if it is an established base, it is pervaded by being the similar class of a correct sign in the proof of sound as an object of knowledge.
+In general, dissimilar class is non-existent. 
+If it is an established base, it is pervaded by being a similar class because if it is an established base, it is pervaded by being the similar class of a correct sign; because if it is an established base, it is pervaded by being the similar class of a correct sign in the proof of sound as an object of knowledge.
 
 ---
 Up a level: [[Tarig/Parts of the Syllogism\|Parts of the Syllogism]]

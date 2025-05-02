@@ -10,7 +10,7 @@
 
 [[Tarig/Three Modes\|Three Modes]]
 
-[[Tarig/Incorrect sign\|Incorrect sign]]
+[[Tarig/Pseudo signs\|Pseudo signs]]
 
 [[Tarig/Consequences\|Consequences]]
 

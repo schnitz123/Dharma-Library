@@ -7,16 +7,16 @@ Taking the subject - sound - it is impermanent because it is a product. For exam
 སྒྲ་ཆོས་ཅན། མི་རྟག་སྟེ། བྱས་པའི་ཕྱིར། དཔེར་ན་བུམ་པ་བཞིན།
 
 **A:**
-- [[Tarig/Subject\|Subject]] / subject sought to be known                        ཤེས་འདོད་ཆོས་ཅན།
+- [[Tarig/Subject\|Subject]] / subject sought to be known ཤེས་འདོད་ཆོས་ཅན།
 - Property-possessor ཆོས་ཅན།
 - Basis of debate / locus of inference རྩོད་གཞི།
 - Position (only re: [[Tarig/Property of the position\|first mode of the sign]]) ཕྱོགས།
 
 **B:**
-- [[Tarig/Predicate\|Predicate]] / property of the probandum / inferred property བསྒྲུབ་བྱའི་ཆོས།
+- [[Tarig/Property of the probandum\|Property of the probandum]] / predicate / inferred property བསྒྲུབ་བྱའི་ཆོས།
 - *See also:* [[Tarig/Similar and Dissimilar Class\|Similar and Dissimilar Class]] མཐུན་ཕྱོགས། མི་མཐུན་ཕྱོགས། (also referred to as ཆོས་ཅན།)
 - *See also:*  [[Tarig/Similar and Dissimilar Cases\|Similar and Dissimilar Cases]] མཐུན་དཔེ། མི་མཐུན་དཔེ།
-- Property of the negandum (¬B)  དགག་བྱའི་ཆོས། (see also [[Tarig/object designated as the property of the antithesis\|designated]])
+- Property of the negandum (¬B)  དགག་བྱའི་ཆོས། (see also: [[Tarig/object designated as the property of the negandum\|object designated as the property of the negandum]])
 
 **AB:**
 - [[Tarig/Probandum\|Probandum]] (A = B)                 བསྒྲུབ་བྱ། / བསལ་བ།

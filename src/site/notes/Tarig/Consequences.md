@@ -3,7 +3,7 @@
 ---
 
 ཐལ་འགྱུར་དུ་བཀོད་པ། ཐལ་འགྱུར་གྱི་མཚན་ཉིད།
-**Definition:** That set forth as a consequence.
+**Definition:** That stated as a consequence.
 
 **Division:**
 1. [[Tarig/Correct consequence\|Correct consequence]] ཐལ་འགྱུར་ཡང་དག

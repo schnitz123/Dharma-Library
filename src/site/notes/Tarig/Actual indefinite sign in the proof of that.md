@@ -5,7 +5,7 @@
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་མ་ངེས་པའི་གཏན་ཚིགས་གང་ཞིག ཁྱོད་དེ་སྒྲུབ་པ་ལ་ཕྱོགས་ཅན་དུ་སོང་བའི་གང་ཟག་གིས། ཁྱོད་དེ་སྒྲུབ་ཀྱི་མཐུན་ཕྱོགས་དང་། མི་མཐུན་ཕྱོགས་གཉིས་ཀ་ལ་ཡོད་པར་ངེས་པ་དེ། ཁྱོད་དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་མ་ངེས་པའི་གཏན་ཚིགས་ཡིན་པའི་མཚན་ཉིད།
 **Definition of x being a directly indefinite sign in the proof of that:**
 1. x is an indefinite sign in the proof of that, and
-2. the person for whom x has become the [[Tarig/Property of the position\|property of the subject]] in the proof of that has ascertained that x exists both in the concordant class and the discordant class in the proof of that.
+2. the person for whom x has become the [[Tarig/Property of the position\|property of the position]] in the proof of that has ascertained that x exists both in the concordant class and the discordant class in the proof of that.
 
 **Divisions:**
 1. **Actual indefinite sign that pervades the concordant class and the discordant class in the proof of that** 

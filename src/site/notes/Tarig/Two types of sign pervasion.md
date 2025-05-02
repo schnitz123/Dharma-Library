@@ -10,7 +10,7 @@
 The first is for mutually inclusive and the second for three possibilities.
 
 **Examples:**
-In terms of [[Tarig/Correct result sign\|Correct result sign]]:
+In terms of [[Tarig/Correct effect sign\|Correct effect sign]]:
 1. Taking the subject - on the smokey mountain pass - the direct cause of smoke exists because smoke exists.
    Because if the direct cause of smoke exists, there is pervasion that smoke exists.
 2. Taking the subject - on the smokey mountain pass - fire exists because smoke exists.

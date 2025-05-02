@@ -6,7 +6,7 @@
 རང་ཉིད་དེ་སྒྲུབ་ཀྱི་ཕྱོགས་ཆོས་ཅན་དུ་སོང་བའི་གང་ཟག་གི་ཚད་མ་ལ་མི་སྣང་བ་དེ། ཁྱོད་དེ་སྒྲུབ་ཀྱི་མི་སྣང་བ་མ་དམིགས་པའི་རྟགས་ཡང་དག་གི་མཚན་ཉིད།
 **Definition of x being a correct sign of non-observation of the non-appearing in the proof of that:**
 1. x is the correct non-observation sign in the proof of that;
-2. although the [[Tarig/object designated as the property of the antithesis\|object designated as the property of the antithesis]] in the proof of that by the sign x exists in general, x does not appear to the valid cognition of the person for whom it has become the property of the subject in the proof of that.
+2. although the [[Tarig/object designated as the property of the negandum\|object designated as the property of the negandum]] in the proof of that by the sign x exists in general, x does not appear to the valid cognition of the person for whom it has become the property of the subject in the proof of that.
 
 
 **Divisions:**

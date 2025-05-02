@@ -7,12 +7,12 @@
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་དེ་གཉིས་གང་རུང་མ་ཡིན་པའི་ཐུན་མོང་བའི་མ་ངེས་པའི་གཏན་ཚིགས་ཡིན་པའི་མཚན་ཉིད།
 **Definition of x being an indefinite sign in the proof of that which is neither of those two:**
 1. x is a common indefinite sign in the proof of that, and
-2. the person for whom x has become the [[Tarig/Property of the position\|property of the subject]] in the proof of that has either:
+2. the person for whom x has become the [[Tarig/Property of the position\|property of the position]] in the proof of that has either:
 	1. ascertained the existence of x in only the concordant class in the proof of that, or
 	2. ascertained the non-existence of x in only the discordant class in the proof of that.
 
 ཁ་ནང་བུ་རམ་གོང་བུའི་སྟེང་དུ་བུར་གཟུགས་ད་ལྟ་བར་ཡོད་དེ། བུ་རོ་ད་ལྟ་བ་ཡོད་པའི་ཕྱིར།
-**Illustration:** The form of molasses on the basis of the lump of molasses in the mouth presently exists because of the existence of the present taste of molasses.
+**Illustration:** On the basis of the lump of molasses in the mouth, the form of molasses presently exists because of the existence of the present taste of molasses.
 
 
 ---

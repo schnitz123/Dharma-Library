@@ -34,6 +34,6 @@ Taking the subject - in the space in front - a factually concordant subsequent c
 i.e. since the existence of that subsequent cogniser and it being observed by valid cognition are same nature.
 
 ---
-See: [[Tarig/object designated as the property of the antithesis\|object designated as the property of the antithesis]]
+See: [[Tarig/object designated as the property of the negandum\|object designated as the property of the negandum]]
 
 Up a level: [[Tarig/Correct sign of non-observation of the non-appearing\|Correct sign of non-observation of the non-appearing]]

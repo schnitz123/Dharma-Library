@@ -13,7 +13,7 @@
 **Definition of x being the first in the proof of that:**
 1. x is a correct sign in the proof of that;
 2. there is a possible common locus between:
-	1. being that apprehended as the explicit predicate in the proof of that by the sign x;
+	1. being that held as the explicit property of the probandum in the proof of that using the sign "x"; and
 	2. being a definition.
 
 **Divisions:**
@@ -29,7 +29,7 @@
 **Definition of x being the second in the proof of that:**
 1. x is a correct sign in the proof of that;
 2. there is a possible common locus between:
-	1. being that apprehended as the explicit predicate in the proof of that by the sign x;
+	1. being that held as the explicit property of the probandum in the proof of that using the sign "x"; and
 	2. being a definiendum.
 
 **Divisions:**
@@ -52,7 +52,7 @@ Although correct signs proving the meaning and correct signs proving the convent
 **Definition of x being the third in the proof of that:**
 1. x is a correct sign in the proof of that;
 2. there is a possible common locus between:
-	1. being that apprehended as the explicit predicate in the proof of that by the sign x;
+	1. being that held as the explicit property of the probandum in the proof of that using the sign "x";
 	2. being a definition; but
 	3. no possible common locus between that and being a definiendum.
 
@@ -60,7 +60,7 @@ Although correct signs proving the meaning and correct signs proving the convent
 **Definition of x being the fourth in the proof of that:**
 1. x is a correct sign in the proof of that;
 2. there is a possible common locus between:
-	1. being that apprehended as the explicit predicate in the proof of that by the sign x;
+	1. being that held as the explicit property of the probandum in the proof of that using the sign "x";
 	2. being a definiendum; but
 	3. no possible common locus between that and being a definition.
 
@@ -68,8 +68,8 @@ Although correct signs proving the meaning and correct signs proving the convent
 **Definition of x being the fifth in the proof of that:**
 1. x is a correct sign in the proof of that;
 2. there is a possible common locus between:
-	1. being that apprehended as the explicit predicate in the proof of that by the sign x;
-	2. being a definition;
+	1. being that held as the explicit property of the probandum in the proof of that using the sign "x";
+	2. being a definition; and
 	3. being a definiendum.
 ---
 

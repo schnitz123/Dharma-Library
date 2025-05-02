@@ -7,7 +7,7 @@
 **Definition of x being the correct negation sign in the proof of that:**
 1. x is the correct sign in the proof of that;
 2. there is a possible common locus between:
-	1. being that apprehended as the explicit predicate in the proof of that by the sign x;
+	1. being that held as the explicit property of the probandum in the proof of that using the sign "x"; and
 	2. being a negation.
 
 Mutually inclusive with [[Tarig/Correct non-observation sign\|Correct non-observation sign]].

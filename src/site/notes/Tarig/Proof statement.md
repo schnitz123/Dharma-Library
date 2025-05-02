@@ -25,7 +25,7 @@
 	- Implicitly: forward pervasion
 
 **Similarly:**
-- [[Tarig/Correct result sign\|Correct result sign]]:
+- [[Tarig/Correct effect sign\|Correct effect sign]]:
 	- If smoke exists, it is pervaded by the existence of fire; for example, like in the kitchen, smoke also exists on the smokey mountain pass.
 	  དུ་བ་ཡོད་ན། མེ་ཡོད་པས་ཁྱབ། དཔེར་ན། ཚང་མང་བཞིན། དུ་ལྡན་གྱི་ལ་ལ་ཡང་དུ་བ་ཡོད་དོ།
 	- If fire does not exist, it is pervaded by the non-existence of smoke; for example, like in a waterfall, but smoke exists on the smokey mountain pass.

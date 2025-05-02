@@ -4,8 +4,8 @@
 
 དེ་སྒྲུབ་ཀྱི་རྟགས་སུ་བཀོད་པ་གང་ཞིག དེ་སྒྲུབ་ཀྱི་ཕྱོགས་ཆོས་མ་ཡིན་པ་དེ། དེ་སྒྲུབ་ཀྱི་མ་གྲུབ་པའི་གཏན་ཚིགས་ཀྱི་མཚན་ཉིད།
 **Definition:** That which:
-1. Is set forth as the sign in the proof of that; and
-2. Is not the [[Tarig/Property of the position\|property of the subject]] in the proof of that.
+1. Is stated as the sign in the proof of that; and
+2. Is not the [[Tarig/Property of the position\|property of the position]] in the proof of that.
 
 
 **Divisions:**
@@ -14,4 +14,4 @@
 3. [[Tarig/Non-established sign in relation to the opponent\|Non-established sign in relation to the opponent]] རྒོལ་བ་ལ་ལྟོས་ནས་མ་གྲུབ་པའི་གཏན་ཚིགས།
 
 ---
-Up a level: [[Tarig/Incorrect sign\|Incorrect sign]]
+Up a level: [[Tarig/Pseudo signs\|Pseudo signs]]

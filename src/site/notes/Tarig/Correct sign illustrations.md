@@ -3,7 +3,7 @@
 ---
 
 **Divisions + Illustrations:**
-1. [[Tarig/Correct result sign\|Correct result sign]] - *Smoke exists* (b/c correct sign + the predicate is its cause)
+1. [[Tarig/Correct effect sign\|Correct effect sign]] - *Smoke exists* (b/c correct sign + the predicate is its cause)
 	1. Correct sign of result proving a direct cause - *Smoke exists* (b/c correct sign of result + proving existence of a direct cause)
 	2. Correct sign of result proving a preceding cause - *Smoke* (b/c correct sign of result + proving preceding cause)
 	3. Correct sign of result proving a general cause - *functioning thing* (for arising from c+c) (b/c correct sign of result + proving a general cause)
