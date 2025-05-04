@@ -31,7 +31,7 @@
 
 Excludes: Great Brahma ཚངས་ཆེན། (first concentration)
 
-See: [[../../Charts/samsara.pdf|samsara]]
+See: [[Perfection of Wisdom/Topics/samsara chart\|samsara chart]]
 
 ---
 Up a level: [[Perfection of Wisdom/20 Sangha/Pass beyond in the intermediate-state\|Pass beyond in the intermediate-state]]

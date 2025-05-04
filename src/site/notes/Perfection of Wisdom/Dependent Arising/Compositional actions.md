@@ -17,7 +17,7 @@ A mental factor of intention that is:
 	1. Seventeen Form Realm abodes
 	2. Four Formless Absorptions
 
-See chart: [[../../Charts/samsara.pdf|samsara]].
+See chart: [[Perfection of Wisdom/Topics/samsara chart\|samsara chart]]
 
 **General division by way of entity:**
 1. **Actions that are intentions** སེམས་པའི་ལས། 

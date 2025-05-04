@@ -35,5 +35,5 @@
 3. Those with obstacles within the food and drink themselves ཟས་སྐོམ་ཉིད་ལ་སྒྲིབ་པ་ཡོད་པ།
 
 ---
-See also: [[../Charts/samsara.pdf|samsara chart]]
+See also: [[Perfection of Wisdom/Topics/samsara chart\|samsara chart]]
 Up a level: [[Lamrim Glossary/Lamrim Glossary\|Lamrim Glossary]]

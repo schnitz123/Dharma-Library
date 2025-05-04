@@ -10,7 +10,7 @@
 [[Perfection of Wisdom/Concentrations/The result attained (actual meditative absorption)\|The result attained (actual meditative absorption)]] དངོས་གཞི།
 - [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the concentrations\|Concentrations]]
 - [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the Formless Realm\|Formless Absorptions]]
-- [[../../Charts/samsara.pdf|Samsara Chart]]
+- [[Perfection of Wisdom/Topics/samsara chart\|samsara chart]]
 - [[Perfection of Wisdom/Concentrations/Persons who attain those\|Persons who attain those]]
 
 [[Perfection of Wisdom/Concentrations/The Four Immeasurables\|The Four Immeasurables]] ཚད་མེད་བཞི།
