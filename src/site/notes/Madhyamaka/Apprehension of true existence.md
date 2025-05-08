@@ -10,6 +10,7 @@
 2. [[Madhyamaka/Apprehension of a self of phenomena\|Apprehension of a self of phenomena]] ཆོས་ཀྱི་བདག་འཛིན།
 
 ---
+
 [[Madhyamaka/Discussion of view of the transitory collection\|Discussion of view of the transitory collection]]
 
 
