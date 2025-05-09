@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/madhyamaka/reasoning-refuting-true-existence/"}
 ---
 
+See: [[Madhyamaka/Overview of the presentation of reasonings refuting true existence\|Overview of the presentation of reasonings refuting true existence]]
+
+---
+
 There are many reasonings settling the lack of true existence: བདེན་མེད་གཏན་ལ་འབེབས་པའི་རིགས་པ་དེ་ལ་དུ་མ་ཡོད་དེ། 
 1. In terms of consequences ཐལ་འགྱུར་གྱི་དབང་དུ་བྱས་པ་དང་། 
 2. In terms of reasonings གཏན་ཚིགས་ཀྱི་དབང་དུ་བྱས་པ་གཉིས། 

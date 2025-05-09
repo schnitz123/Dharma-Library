@@ -56,21 +56,21 @@ In [Khedrup Je's] Dose of Emptiness, thinking that the "mine" is not persons, it
 This is incorrect because although "mine" is not persons, that vtc is a vtc apprehending "I" as established by way of its own-characteristics; because it is a vtc apprehending "mine".
 
 མ་ཁྱབ་ན། བུམ་པ་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་འཛིན་པའི་འཇིག་ལྟ་ཁས་བླངས་པ་ལ་ཉེས་པ་མེད་པར་འགྱུར་རོ།
-If no pervasion, then there would be no fault in asserting a vtc apprehending a pot as established by way of its own-characteristics!
+If no pervasion, then there would be no fault in asserting [the existence of] a vtc apprehending a pot as established by way of its own-characteristics!
 
 ང་ཡི་བ་གང་ཟག་མ་ཡིན་པ་ནི། ང་ཡི་བའི་མཚན་གཞི་མིག་སྣ་སོགས་ང་ཡི་བར་འདོད་དགོས་པའི་གནད་ཀྱིས་སོ།
 The "mine" is not persons due to the essential point that the illustrations of "mine" (eyes, ears, and so forth) must be asserted as "mine".
 
 འཇིག་ལྟ་དེས་ང་ཡི་བའི་མཚན་གཞི་མིག་སྣ་སོགས་ལ་དམིགས་པར་བཤད་པ་དང་མི་འགལ་ཏེ། 
 འཇིག་ལྟ་དེས་མིག་སྣ་སོགས་ང་ཡི་བར་མཐོང་ནས་ང་ཡི་བ་ལ་བདེན་པར་མངོན་པར་ཞེན་པའི་ཕྱིར།
-However, this does not contradict explanations [in Autocommentary] that the vtc observes the illustrations of "mine" (eyes, ears, and so forth) because the vtc perceives eyes, ears, and so forth as "mine" and then adheres to the "mine" as truly existent.
+However, this does not contradict explanations [in the Autocommentary] that the vtc observes the illustrations of "mine" (eyes, ears, and so forth) because the vtc perceives eyes, ears, and so forth as "mine" and then adheres to the "mine" as truly existent.
 
 ---
 དབུ་མ་ཆེན་མོ་ལས། ང་ཡི་བ་ལ་དམིགས་ཞེས་པའི་ང་ཡི་བ་ལ་མིག་རྣ་སོགས་འཇོག་མི་རིགས།
 *Jamyang Shepa:* It is unsuitable to posit eyes, ears, and so forth, as the "mine" in "[vtc] observing mine".
 
 མིག་རྣ་སོགས་ཆོས་ཅན། ང་ཡི་བ་ཡིན་པར་ཐལ། ང་ཡི་བའི་མཚན་གཞི་ཡིན་པའི་ཕྱིར།
-Otherwise, the subject - eyes, ears, and so forth - it would follow that they are "mine" because they are illustrations of mine.
+Otherwise, the subject - eyes, ears, and so forth - it would follow that they are "mine" because they are illustrations of "mine".
 
 འདོད་ན། དེ་ཆོས་ཅན། ཁྱོད་ང་ཡི་བ་མ་ཡིན་པར་ཐལ། ཁྱོད་ང་ཡི་བའི་གདགས་གཞི་ཡིན་པའི་ཕྱིར། 
 If accepted: That subject, it follows that they are not "mine" because they are the basis of designation of "mine".

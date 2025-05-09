@@ -57,4 +57,18 @@ There is no fault in Buddhapalita by way of Buddhapalita's commentarial section 
    འགྲེལ་ངག་དེས་དོན་དམ་པར་གཞན་སྐྱེ་འགོག་ནུས་པའི་ཐལ་འགྱུར་ཞིག་བསྟན་པའི་ཕྱིར། 
 
 ---
+གཞན་ལས་སྐྱེ་བ་དོན་དམ་པར་མ་ཟད་འཇིག་རྟེན་གྱི་ཐ་སྙད་ལས་ཀྱང་མེད་དེ། རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་འཇིག་རྟེན་ན་བུ་དང་ཤིང་གི་ས་བོན་ཙམ་བཏབ་ནས། 
+ཕྱིས་བུ་དང་ཤིང་སྐྱེས་པའི་ཚེ་བདག་གིས་བུ་འདི་སྐྱེད་ཅེས་སྨྲ་བར་བྱེད་ཅིང་ཤིང་འདི་ཡང་བདག་གིས་བཙུགས་སོ་སྙམ་དུ་རྟོག་པ་དེས་ན་སྟེ་དེའི་ཕྱིར།
+*Gomde Uma:* Not only does other-production not ultimately exist, it does not exist even conventionally. Why? Because in the world, having planted the seed for a child or a tree, then later when the child and tree have been produced [people] say "I produced this child!" and think "This tree was planted by me!"
+
+ཁྱབ་འབྲེལ་ནི། རྒྱུ་འབྲས་རང་མཚན་གྱིས་གྲུབ་པའི་སོ་སོ་བར་འཛིན་པའི་བློ་ལྷན་སྐྱེས་མེད་པས་དེ་འདྲའི་བློ་དེ་གྲུབ་མཐས་བློ་མ་བསྒྱུར་བ་ལ་མེད་དོ།
+There is pervasion: Due to not having innate awarenesses apprehending causes and their effects as diverse by way of their own-characteristics, such awareness [above] are not possessed by those whose awareness has not been affected by tenets.
+
+ཅི་སྟེ་ཡོད་ན་ངས་བུ་འདི་མ་དེའི་ཁོང་དུ་བཅུག་ནས་བཏོན་ཏོ་སྙམ་དུ་བློ་སྐྱེས་བའམ། ཡང་ན་ཕ་མ་ཡིན་པ་ལའང་བུ་འདི་ནི་ངའི་བུའོ་སྙམ་དུ་བློ་སྐྱེ་བར་འགྱུར་རོ།
+If they did, then [a father] would give rise to an awareness thinking "I put this child into that mother and took it out!" or one who is not the father would give rise to an awareness thinking "This child is my child!"
+
+དེའི་ཕྱིར་གཞན་སྐྱེ་འཇིག་རྟེན་གྱི་ཐ་སྙད་དུ་ཡང་མེད་ཅེས་པའོ།
+Therefore, other-production is said to not exist even among worldly conventions.
+
+---
 Up a level: [[Madhyamaka/Reasoning of diamond slivers\|Reasoning of diamond slivers]]
