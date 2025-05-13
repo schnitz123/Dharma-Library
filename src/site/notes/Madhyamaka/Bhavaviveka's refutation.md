@@ -31,13 +31,14 @@ Bhavaviveka thinks that [Buddhapalita] is indicating the consequence "The subjec
 
 ---
 སློབ་དཔོན་ལེགས་ལྡན་འབྱེད་ན་རེ། སངས་རྒྱས་བསྐྱངས་ཀྱི་འགྲེལ་ངག་དེ་མི་རིགས་ཏེ། 
-Bhavaviveka says: Buddhapalita's commentary section is incorrect because:
+**Bhavaviveka says:** Buddhapalita's commentary section is incorrect because:
 - It does not express a correct sign and illustration able to refute production from self; and
   འགྲེལ་ངག་དེས་བདག་སྐྱེ་འགོག་ནུས་ཀྱི་གཏན་ཚིགས་དང་དཔེ་ཡང་དག་མ་བརྗོད་པའི་ཕྱིར་དང་།
 - It does not eliminate the faults that the Samkhya would express upon investigating that assertion, i.e. that:
 	- If the meaning of "not produced from self" is not produced from the entity of a manifest result, then that will prove what has already been established; and
 	  གྲངས་ཅན་གྱིས་བདག་ལས་མི་སྐྱེ་ཞེས་པའི་དོན་འབྲས་བུ་གསལ་བའི་བདག་ཉིད་ལས་མི་སྐྱེ་ཞེས་པ་ཡིན་ན། གྲུབ་ཟིན་སྒྲུབ་པར་འགྱུར་ལ།
-	- If [the meaning] is not produced from the entity of the non-manifest potential [in] the cause, then there would be a contradictory pervasion. རྒྱུ་མི་གསལ་བ་ནུས་པའི་བདག་ཉིད་ལས་མི་སྐྱེ་ཞེས་པ་ཡིན་ན་ཁྱབ་པ་འགལ་བར་འགྱུར་རོ།
+	- If [the meaning] is not produced from the entity of the non-manifest potential [in] the cause, then there would be a contradictory pervasion. 
+	  རྒྱུ་མི་གསལ་བ་ནུས་པའི་བདག་ཉིད་ལས་མི་སྐྱེ་ཞེས་པ་ཡིན་ན་ཁྱབ་པ་འགལ་བར་འགྱུར་རོ།
    ཞེས་དམ་བཅའ་ལ་བརྟགས་ནས་སྐྱོན་རྗོད་པ་མ་བསལ་བའི་ཕྱིར།
 
 གཞན་ཡང་། འགྲེལ་ངག་དེ་མི་རིགས་ཏེ། དེ་ལ་རྒོལ་བ་གཞན་གྱི་ཀླན་ཀའི་གླགས་ཡོད་པའི་ཕྱིར། 
@@ -55,7 +56,7 @@ Since the property proving that probandum is clearly the opposite meaning of the
 And since it is clearly the opposite meaning of the thesis, the words of the assertion "Things are not produced from self" would implicitly convey that things are produced from other and the probandum in this context would become an affirming negation; thereby, contradicting the Protector Nagarjuna's tenets.
 
 ---
-The way it is necessary to use the opposite of the explicit sign: དངོས་ཟིན་གྱི་རྟགས་ཟློག་དགོས་ཚུལ་ནི། 
+*The way it is necessary to use the opposite of the explicit sign:* དངོས་ཟིན་གྱི་རྟགས་ཟློག་དགོས་ཚུལ་ནི། 
 
 འགྲེལ་ངག་དེའི་དངོས་ཟིན་གྱི་སྐྱེ་བ་དོན་མེད་དང་ཐུག་མེད་དངོས་པོ་རྣམས་བདག་ལས་མི་སྐྱེ་བར་སྒྲུབ་པའི་རྟགས་ཡང་དག་མ་ཡིན་ཏེ། 
 དངོས་པོ་རྣམས་སྐྱེ་བ་དོན་བཅས་དང་ཐུག་བཅས་ཡིན་པའི་ཕྱིར།
@@ -102,7 +103,8 @@ The first sign is explicit in Buddhapalita.
 The second sign follows because that syllogism-statement implicitly conveys that things are produced from other.
 
 That follows because: དེར་ཐལ།
-1. That syllogism-statement explicitly indicates that things are produced and explicitly negates that things are produced from self; and སྦྱོར་ངག་དེས་དངོས་པོ་རྣམས་སྐྱེ་བར་ནི་དངོས་སུ་བསྟན། དངོས་པོ་རྣམས་བདག་ལས་སྐྱེ་བ་དངོས་སུ་བཀག་པ་གང་ཞིག
+1. That syllogism-statement explicitly indicates that things are produced and explicitly negates that things are produced from self; and 
+   སྦྱོར་ངག་དེས་དངོས་པོ་རྣམས་སྐྱེ་བར་ནི་དངོས་སུ་བསྟན། དངོས་པོ་རྣམས་བདག་ལས་སྐྱེ་བ་དངོས་སུ་བཀག་པ་གང་ཞིག
 2. The possibilities of production are limited to the two: self-production and other-production.
    སྐྱེ་བ་ལ་བདག་སྐྱེ་དང་གཞན་སྐྱེ་གཉིས་སུ་ཁ་ཚོན་ཆོད་པའི་ཕྱིར།
 

@@ -9,23 +9,23 @@
 	1. **Capable** བྱེད་རྒྱུ་ནུས་ལྡན། - e.g. all compounded phenomena
 	2. **Incapable** བྱེད་རྒྱུ་ནུས་མེད། - e.g. uncompounded phenomena
 <br>
-1. **Simultaneously arisen cause** (ལྷན་ཅིག་འབྱུང་བའི་རྒྱུ།) - That observed as a common locus of 1) being mutually simultaneous and different substances and 2) not acting to hinder each others' production. (Not an actual cause.) ཕན་ཚུན་དུས་མཉམ་རྫས་ཐ་དད་ཀྱང་ཡིན། ཕན་ཚུན་སྐྱེ་བ་ལ་གེགས་མི་བྱེད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ།
+2. **Simultaneously arisen cause** (ལྷན་ཅིག་འབྱུང་བའི་རྒྱུ།) - That observed as a common locus of 1) being mutually simultaneous different substances and 2) not acting to hinder each others' production. (Not an actual cause.) ཕན་ཚུན་དུས་མཉམ་རྫས་ཐ་དད་ཀྱང་ཡིན། ཕན་ཚུན་སྐྱེ་བ་ལ་གེགས་མི་བྱེད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ།
    e.g. the four elements that arise simultaneously, the five sense powers arising from the same collection of direct causes, the taste and form of molasses arising from the same collection of direct causes.
 <br>
-1. **Concomitant cause** (མཚུངས་ལྡན་གྱི་རྒྱུ།) - That observed as a common locus of 1) being mutually concomitant by way of the five aspects and 2) not acting to hinder each others' production. (Not an actual cause.)
+3. **Concomitant cause** (མཚུངས་ལྡན་གྱི་རྒྱུ།) - That observed as a common locus of 1) being mutually concomitant by way of the five aspects and 2) not acting to hinder each others' production. (Not an actual cause.)
    ཕན་ཚུན་མཚུངས་ལྡན་རྣམ་པ་ལྔ་མཚུངས་ཀྱང་ཡིན། ཕན་ཚུན་སྐྱེ་བ་ལ་གེགས་མི་བྱེད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་དུ་དམིགས་པ།
    e.g. the eye consciousness and the mental factors in its retinue.
 <br>
-1. **Homogenous cause** (སྐལ་མཉམ་གྱི་རྒྱུ།) - The producer of its later similar class that is similar to it.
+4. **Homogenous cause** (སྐལ་མཉམ་གྱི་རྒྱུ།) - The producer of its later similar class that is similar to it.
    རང་གི་རིགས་འདྲ་ཕྱི་མ་རང་དང་འདྲ་བ་སྐྱེད་བྱེད།
    e.g. pot.
 <br>
 { #c7f9d0}
 
-1. **Omnipresent cause** (ཀུན་འགྲོའི་རྒྱུ།) - The afflicted producer of the later affliction of the same level and which is its result. རང་གི་འབྲས་བུར་གྱུར་པའི་རང་དང་ས་གཅིག་པའི་ཉོན་མོངས་ཅན་ཕྱི་མ་སྐྱེད་བྱེད་ཀྱི་ཉོན་མོངས་ཅན།
+5. **Omnipresent cause** (ཀུན་འགྲོའི་རྒྱུ།) - The afflicted producer of the later affliction of the same level and which is its result. རང་གི་འབྲས་བུར་གྱུར་པའི་རང་དང་ས་གཅིག་པའི་ཉོན་མོངས་ཅན་ཕྱི་མ་སྐྱེད་བྱེད་ཀྱི་ཉོན་མོངས་ཅན།
    e.g. attachment.
 <br>
-1. **Fruitional cause** (རྣམ་སྨིན་གྱི་རྒྱུ།) - That included within either non-virtue or contaminated virtue.
+6. **Fruitional cause** (རྣམ་སྨིན་གྱི་རྒྱུ།) - That included within either non-virtue or contaminated virtue.
    མི་དགེ་བ་དང་། དགེ་བ་ཟག་བཅས་གང་རུང་གིས་བསྡུས་པ།
    e.g. the action of killing.
 
@@ -56,5 +56,5 @@
 
 ---
 
-See also: [[Collected Topics/Cause and Effect\|Cause and Effect]]
+See also: [[Collected Topics/Cause and Effect\|Cause and Effect]] / [[Collected Topics/Conditions\|Conditions]]
 Up a level: [[Collected Topics/Collected Topics\|Collected Topics]]

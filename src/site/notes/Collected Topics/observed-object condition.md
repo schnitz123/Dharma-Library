@@ -9,5 +9,8 @@ e.g. blue. མཚན་གཞི་ནི། སྔོན་པོ་ལྟ་�
 མདོར་ན། སྔོན་པོ་དང་ཡུལ་དུས་རང་བཞིན་གང་ལ་ལྟོས་ཏེ་གྲུབ་བདེ་རྫས་གཅིག་ཡིན་ན། སྔོན་འཛིན་མངོན་སུམ་གྱི་དམིགས་རྐྱེན་ཡིན་པས་ཁྱབ།
 In short, if it is the same substance of establishment and abiding in relation to object, time, and nature, as blue, then it is pervaded by being the observed-object condition of the direct perceiver apprehending blue.
 
+གནས་བརྟན་པའི་སྡེ་པས་ཐ་སྙད་བཏགས་པ་མདུན་དུ་སྐྱེས་པའི་རྐྱེན་ནི། དབང་པོ་རྣམས་ཀྱི་མངོན་སུམ་གྱི་མདུན་དུ་སྐྱེས་པ་དམིགས་རྐྱེན་ནོ།
+*Illumination of the Thought:* Also called the "condition produced in front" by the Sthavira schools: That produced in front of the direct perception of the senses is the observed-object condition.
+
 ----
 Up a level: [[Collected Topics/Conditions\|Conditions]]
