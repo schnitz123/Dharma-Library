@@ -8,8 +8,8 @@
 ཁྱོད་ཀྱིས་འཕངས་པའི་བྱས་པ་དེ། སྒྲ་མི་རྟག་པར་སྒྲུབ་པར་བྱེད་པའི་འགལ་ཁྱབ་དམིགས་པའི་རང་རྒྱུད་ཀྱི་རྟགས་ཡང་དག་ཡིན་པ་གང་ཞིག  
 ཁྱོད་འགལ་ཁྱབ་དམིགས་པའི་ཐལ་འགྱུར་ཡིན་པའི་ཕྱིར།
 **This is because:**
-1. Product that is conveyed by that consequence is a correct autonomous sign observing an opposite pervasion in the proof that sound it impermanent; and
-2. It is a consequence observing an opposite pervasion.
+1. Product that is conveyed by that consequence is a correct autonomous sign of observation of an opposite pervasion in the proof that sound is impermanent; and
+2. It is a consequence of observation of an opposite pervasion.
 
 **The second reason is established because:**
 - The opposite of its predicate is: product.

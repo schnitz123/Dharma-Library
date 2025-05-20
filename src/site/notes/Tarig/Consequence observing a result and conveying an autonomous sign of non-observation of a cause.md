@@ -9,7 +9,7 @@
 ཁྱོད་འབྲས་བུ་དམིགས་པའི་ཐལ་འགྱུར་ཡིན་པའི་ཕྱིར།
 **That is because:**
 1. The non-existence of fire conveyed by that consequence is a [[Tarig/Correct sign of non-observation of the related object that is suitable to appear#^324c76\|correct sign of the non-observation of a cause]] in the proof that in the fireless night-time ocean smoke does not exist; and
-2. It is a consequence of the observation of a result.
+2. It is a consequence of observation of a result.
 
 ཁྱོད་དུ་བ་རྟགས་སུ་བཀོད་པའི་ཐལ་འགྱུར་ཡང་དག་གང་ཞིག  དུ་བ་མེའི་འབྲས་བུ་ཡིན་པའི་ཕྱིར།
 **The second reason is established because:**
@@ -17,4 +17,4 @@
 2. Smoke is the result of fire.
 
 ---
-Up a level: [[Tarig/Correct consequence conveying an isolate of different type\|Correct consequence conveying an isolate of different type]]
+Up a level: [[Tarig/Correct consequence conveying an opposite of different type\|Correct consequence conveying an opposite of different type]]

@@ -10,7 +10,7 @@
 ཁྱོད་རང་བཞིན་དང་འགལ་བའི་རང་བཞིན་དམིགས་པའི་ཐལ་འགྱུར་ཡིན་པའི་ཕྱིར།
 **This is because:**
 1. The pervasion by a great powerful fire conveyed by that consequence is a correct autonomous sign observing a nature contradictory with a nature in the proof that the place pervaded by a great powerful fire is not pervaded by by a great powerful coldness; and
-2. It is a consequence observing a nature contradictory with a nature.
+2. It is a consequence of observation of a nature contradictory with a nature.
 
 **The second reason is established because:**
 - The opposite of its predicate is: pervasion by a great powerful fire

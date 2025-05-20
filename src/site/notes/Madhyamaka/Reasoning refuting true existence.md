@@ -31,7 +31,7 @@ In terms of reasonings:
 1. Analysis of the nature of phenomena: Reasoning of not being one or many
    ཆོས་རྣམས་ཀྱི་ངོ་བོ་ལ་དཔྱོད་པ་གཅིག་དུ་བྲལ་གྱི་གཏན་ཚིགས། 
 2. [[Madhyamaka/Reasoning of diamond slivers\|Analysis of the cause: Reasoning of diamond slivers]] རྒྱུ་ལ་དཔྱོད་པ་རྡོ་རྗེ་གཟེགས་མའི་གཏན་ཚིགས། 
-3. Analysis of the result: Reasoning refuting production of the existent and non-existent
+3. [[Madhyamaka/Refuting other-production through analysis of the four possibilities of the result\|Analysis of the result: Reasoning refuting production of the existent and non-existent]]
    འབྲས་བུ་ལ་དཔྱོད་པ་ཡོད་མེད་སྐྱེ་འགོག་གི་གཏན་ཚིགས། 
 4. Analysis of both cause and result: Reasoning refuting the four possibilities of production
    རྒྱུ་འབྲས་གཉིས་ཀ་ལ་དཔྱོད་པ་མུ་བཞིའི་སྐྱེ་འགོག་གི་གཏན་ཚིགས།

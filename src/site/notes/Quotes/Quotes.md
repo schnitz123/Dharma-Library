@@ -9,3 +9,4 @@
 | [[Quotes/Protector Maitreya and Arya Asanga\|Protector Maitreya and Arya Asanga]] | [[Quotes/Arya Nagarjuna et al\|Arya Nagarjuna et al]]            |
 | [[Quotes/Dignaga and Dharmakirti\|Dignaga and Dharmakirti]]            | [[Quotes/Vasubhandu\|Vasubhandu]]                      |
 | [[Quotes/Je Tsongkhapa\|Je Tsongkhapa]]                      | [[Quotes/Misc\|Misc]]                            |
+| [[Quotes/Misc Tibetan\|Misc Tibetan]]                       |                                     |

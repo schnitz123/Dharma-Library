@@ -4,6 +4,7 @@
 
 སྤྱིའི་མཚན་ཉིད་ཡོད་དེ། རང་གི་གསལ་བ་ལ་རྗེས་སུ་འགྲོ་བའི་ཆོས་དེ་དེ་ཡིན་པའི་ཕྱིར།
 **Definition of generality:** Phenomenon that encompasses its instances.
+
 **When divided:**
 1. [[Collected Topics/Type-generality\|Type-generality]]  རིགས་སྤྱི།
 2. [[Collected Topics/meaning-generality\|meaning-generality]] དོན་སྤྱི།

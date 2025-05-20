@@ -22,6 +22,7 @@
 [[Quotes/Aryadeva\|Aryadeva]]: Four Hundred Verses བཞི་བརྒྱ་པ། bodhisattvayogacārya-catuḥśatakaśāstra-kārikā
 
 [[Quotes/Chandrakirti\|Chandrakirti]]
+- [[Madhyamaka/Root Verses\|Supplement to the Middle Way]] Madhyamakāvatāra
 
 [[Quotes/Shantideva\|Shantideva]]
 

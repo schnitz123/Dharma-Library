@@ -9,7 +9,7 @@
 རྟགས་ཡང་དག་ཡིན་པ་གང་ཞིག  ཁྱོད་རང་བཞིན་དམིགས་པའི་ཐལ་འགྱུར་ཡིན་པའི་ཕྱིར།
 **That is because:**
 1. The non-existence of trees conveyed by that consequence is a [[Tarig/Correct sign of non-observation of the related object that is suitable to appear#^14a5a0\|correct sign of the non-observation of a pervader]] in the proof that on a craggy cliff devoid of trees Ashoka do not exist; and
-2. It is a consequence of the observation of a nature.
+2. It is a consequence of observation of a nature.
 
 ཁྱོད་ཤ་པ་རྟགས་སུ་བཀོད་པའི་ཐལ་འགྱུར་ཡང་དག་ཡིན་པ་གང་ཞིག  ཤ་བ་ཤིང་དང་རང་བཞིན་གཅིག་ཡིན་པའི་ཕྱིར།
 **The second reason is established because:**
@@ -19,4 +19,4 @@
 
 
 ---
-Up a level: [[Tarig/Correct consequence conveying an isolate of different type\|Correct consequence conveying an isolate of different type]]
+Up a level: [[Tarig/Correct consequence conveying an opposite of different type\|Correct consequence conveying an opposite of different type]]

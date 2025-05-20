@@ -20,6 +20,17 @@ If no pervasion: It follows that it will be endlessly produced again because des
 *In short:* The subject - sprout - it follows that its repeated production is senseless because it exists.
 If no pervasion: That subject, it follows that it is endlessly produced because despite existing, it needs to be produced again.
 
+---
+These two consequences are correct consequences not conveying a proof (see [[Tarig/Correct consequence\|Correct consequence]]) because theses are non-established reasons for Prasangika:
+{ #9e4465}
+
+1. The subject - sprout - it exists [at the time of the cause] because its repeated production is not senseless.
+   མྱུ་གུ་ཆོས་ཅན། ཡོད་དེ། སླར་ཡང་སྐྱེ་བ་དོན་ཡོད་པའི་ཕྱིར།
+2. The subject - sprout - it does not need to be produced again [having been established] because it is not endlessly produced again. མྱུ་གུ་ཆོས་ཅན། སླར་ཡང་སྐྱེ་མི་དགོས་སྟེ། ཐུག་མེད་དུ་སླར་ཡང་མི་སྐྱེ་བའི་ཕྱིར།
+
+Whereas those for [[Madhyamaka/Refutation of other-production (Gomde Uma)#^3e30be\|other-production]] are correct consequences conveying a proof. 
+
+---
 [[Madhyamaka/Refutation of self-production (Gomde Uma)\|Refutation of self-production (Gomde Uma)]]
 
 ---

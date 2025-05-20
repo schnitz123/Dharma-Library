@@ -46,6 +46,12 @@
 
 རབ་ཏུ་བྱ་བར་ནུས་པ་དེ་ཕྱིར་འབྲས་བུར་དེས་བརྗོད་ཅིང༌། །གང་ཞིག་དེ་སྐྱེད་ནུས་པ་དེ་ནི་གཞན་ནའང་རྒྱུ་ཡིན་ལ། །
 རྒྱུད་གཅིག་གཏོགས་དང་སྐྱེད་པར་བྱེད་ལས་སྐྱེ་བ་དེ་ཡི་ཕྱིར། །སཱ་ལུའི་མྱུ་གུ་ནས་ལ་སོགས་ལས་དེ་ལྟ་མིན་ཞེ་ན། །
+That which can be created, due to that, is referred to as a result of that and
+That able to produce that is the cause, despite being other.
+Due to being produced from that included in one continuum and the producer,
+Rice sprouts are not seen from barley and so forth. [6.15]
+{ #4f33ff}
+
 
 ཇི་ལྟར་ནས་དང་གེ་སར་དང་ནི་ཀེང་ཤུ་ཀ་ལ་སོགས། །སཱ་ལུའི་མྱུ་གུའི་སྐྱེད་པར་བྱེད་པར་འདོད་མིན་ནུས་ལྡན་མིན། །
 རྒྱུད་གཅིག་ཁོངས་སུ་གཏོགས་མིན་འདྲ་བ་མ་ཡིན་ཉིད་དེ་བཞིན། །སཱ་ལུའི་ས་བོན་ཡང་ནི་དེ་ཡི་མིན་ཏེ་གཞན་ཉིད་ཕྱིར། །

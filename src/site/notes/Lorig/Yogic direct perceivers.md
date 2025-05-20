@@ -4,7 +4,7 @@
 
 རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་ཞི་ལྷག་ཟུང་འབྲེལ་གྱི་ཏིང་ངེ་འཛིན་ལ་བརྟེན་ནས་སྐྱེས་པ་གང་ཞིག 
 རྟོག་པ་དང་བྲལ་ཞིང་མ་འཁྲུལ་བའི་འཕགས་རྒྱུད་ཀྱི་གཞན་རིག་གི་མཁྱེན་པ་དེ། རྣལ་འབྱོར་མངོན་སུམ་གྱི་མཚན་ཉིད།
-**Definition:** An exalted other-knower in the continuum of an arya that is 1) unmistaken and free from conceptuality and 2) produced in dependence upon the concentration that is a union of calm-abiding and special insight that is its uncommon [[Collected Topics/Empowering condition\|empowering condition]].
+**Definition:** An exalted other-knower in the continuum of an arya that is 1) unmistaken and free from conceptuality and 2) produced in dependence upon the concentration that is a union of calm-abiding and special insight that is its uncommon [[Collected Topics/empowering condition\|empowering condition]].
 
 **Divisions:** རྣལ་འབྱོར་མངོན་སུམ་དུ་གྱུར་པའི་
 1. [[Lorig/Valid cognisers\|Valid cognisers]] ཚད་མ།

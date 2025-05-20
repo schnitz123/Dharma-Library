@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/collected-topics/six-causes-five-results/"}
 ---
 
+བྱེད་རྒྱུ་ལྷན་ཅིག་འབྱུང་བ་དང་། །སྐལ་མཉམ་མཚུངས་པར་ལྡན་པ་དང་། །ཀུན་ཏུ་འགྲོ་དང་རྣམ་སྨིན་དང་། །རྒྱུ་ནི་རྣམ་པ་དྲུག་ཏུ་འདོད།
+**ABK:** Causes are asserted to be of six types: Acting cause, simultaneously arisen cause, homogenous, concomitant, omnipresent, and fruitional cause.
+
 **Six Causes:**
 1. **Acting cause** (བྱེད་རྒྱུ།) - That observed as a common locus of 1) being a different substance from pot and 2) not acting to hinder the production of pot. (Not an actual cause.)   
    བུམ་པ་དང་རྫས་ཐ་དད་ཀྱང་ཡིན། བུམ་པ་སྐྱེ་བ་ལ་གེགས་མི་བྱེད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་དུ་དམིགས་པ།
@@ -12,10 +15,14 @@
 2. **Simultaneously arisen cause** (ལྷན་ཅིག་འབྱུང་བའི་རྒྱུ།) - That observed as a common locus of 1) being mutually simultaneous different substances and 2) not acting to hinder each others' production. (Not an actual cause.) ཕན་ཚུན་དུས་མཉམ་རྫས་ཐ་དད་ཀྱང་ཡིན། ཕན་ཚུན་སྐྱེ་བ་ལ་གེགས་མི་བྱེད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ།
    e.g. the four elements that arise simultaneously, the five sense powers arising from the same collection of direct causes, the taste and form of molasses arising from the same collection of direct causes.
 <br>
+{ #41ba52}
+
 3. **Concomitant cause** (མཚུངས་ལྡན་གྱི་རྒྱུ།) - That observed as a common locus of 1) being mutually concomitant by way of the five aspects and 2) not acting to hinder each others' production. (Not an actual cause.)
    ཕན་ཚུན་མཚུངས་ལྡན་རྣམ་པ་ལྔ་མཚུངས་ཀྱང་ཡིན། ཕན་ཚུན་སྐྱེ་བ་ལ་གེགས་མི་བྱེད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་དུ་དམིགས་པ།
    e.g. the eye consciousness and the mental factors in its retinue.
 <br>
+{ #862b10}
+
 4. **Homogenous cause** (སྐལ་མཉམ་གྱི་རྒྱུ།) - The producer of its later similar class that is similar to it.
    རང་གི་རིགས་འདྲ་ཕྱི་མ་རང་དང་འདྲ་བ་སྐྱེད་བྱེད།
    e.g. pot.

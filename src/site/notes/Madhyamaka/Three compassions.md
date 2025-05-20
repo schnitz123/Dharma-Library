@@ -30,4 +30,8 @@
 [[Madhyamaka/Boundaries of the three compassions\|Boundaries of the three compassions]]
 
 ---
+
+[[Madhyamaka/Three compassions in Gyaltsab Je's Pramana\|Three compassions in Gyaltsab Je's Pramana]]
+
+---
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]

@@ -71,8 +71,6 @@ An appearance like billowing greyish [smoke], like smoke billowing from a smokey
 4. Gasping as the inhalation through the nose becomes weaker and shorter and the exhalation becomes stronger and longer སྣ་སྒོ་ནས་རླུང་ནང་དུ་སྡུད་པ་ཞན་ཅིང་ཕྱིར་དྲག་ལ་རིང་དུ་རྒྱུ་བའི་དབུགས་བརྩེགས་མ་འབྱུང༌།
 5. No longer experiencing pleasant and unpleasant smells with the nose སྣས་དྲི་ཞིམ་མི་ཞིམ་གང་ཡང་མི་ཚོར།
 
- 
-
 *Inner signs:* "Sky lights" or "Fireflies" མཁའ་སྣང་ལྟ་བུ་ཞེས་ཀྱང་བྱ། སྲིན་བུ་མེ་ཁྱེར་ལྟ་བུ་ཞེས་བྱ་བ།
 - An appearance like fiery sparks in amongst greyish smoke coming from a chimney; or
   དུད་ཁུང་ནས་དུ་བ་སྔོ་ཕོད་ཕོད་པ་འབྱུང་བ་ལྟ་བུའི་གསེབ་ནས་མེ་སྟག་དམར་ཚིག་ཚིག་པ་ལྟ་བུའམ།
@@ -121,7 +119,7 @@ It is not that previous elements transform into the nature of the latter.
 Apply the same reasoning also the the others.
 
 ---
-After the dissolution of the four elements, the five phenomena of the consciousness aggregate dissolve gradually: འབྱུང་བཞི་ཐིམ་རྗེས་སུ་་་རྣམ་ཤེས་ཀྱི་ཕུང་པོའི་རིགས་ཀྱི་ཆོས་ལྔ་པོ་འདི་རྣམས་རིམ་ཅན་དུ་འཆར་དགོས་སོ།
+After the dissolution of the four elements, the five phenomena of the *consciousness aggregate* dissolve gradually: འབྱུང་བཞི་ཐིམ་རྗེས་སུ་་་རྣམ་ཤེས་ཀྱི་ཕུང་པོའི་རིགས་ཀྱི་ཆོས་ལྔ་པོ་འདི་རྣམས་རིམ་ཅན་དུ་འཆར་དགོས་སོ།
 1. The mind of the eighty indicative conceptions རང་བཞིན་བརྒྱད་ཅུའི་རྟོག་པའི་སེམས།
 2. The mind of white appearance སྣང་བ་དཀར་ལམ་པའི་སེམས།
 3. The mind of red increase མཆེད་པ་དམར་ལམ་པའི་སེམས།
@@ -136,9 +134,22 @@ The mind of the eighty indicative conceptions and the wind the is its mount nece
 **FIFTH DISSOLUTION: EIGHTY INDICATIVE CONCEPTIONS → APPEARANCE** 
 རང་བཞིན་བརྒྱད་ཅུའི་ཀུན་རྟོག་སྣང་བ་ལ་ཐིམ།
 
-རང་བཞིན་བརྒྱད་ཅུའི་ཀུན་རྟོག་བཞོན་པའི་རླུང་དང་བཅས་པ་སྣང་བ་ལ་ཐིམ་པར་རྩོམ་པའི་ཚེ་མར་མེ་འབར་བ་ལྟ་བུའི་སྣང་བ་འབྱུང༌། དེ་སྣང་བ་ལ་ཐིམ་པའི་སྣང་བ་རང་དུས་ཀྱི་རྟགས་ནི་སྟོན་གྱི་ནམ་མཁའ་གཡའ་དག་པའི་ཚེ་མཚན་མོ་ཟླ་བ་ཤར་བའི་འོད་ཀྱིས་ཁྱབ་པའི་ནམ་མཁའ་ལྟ་བུ་ཤིན་ཏུ་དྭངས་ཤིང་སྟོང་སང་ངེ་བ་ལ་འོད་ཀྱི་སྣང་བ་དཀར་པོའི་རྣམ་པ་ཞིག་འཆར་ལ།
-དེ་ལྟར་འཆར་བའི་རྐྱེན་ནི། སྙིང་ག་ཡན་ཆད་ཀྱི་རོ་རྐྱང་གི་རླུང་ཐམས་ཅད་དབུ་མའི་ཡར་སྣེ་ནས་ཞུགས་པའི་སྟོབས་ཀྱིས་སྤྱི་བོའི་རྩ་མདུད་གྲོལ་བའི་དབུས་ན་ཕ་ལས་ཐོབ་པའི་ཐིག་ལེ་དཀར་པོ་ཧཾ་ཡིག་མགོ་ཐུར་བསྟན་གྱི་རྣམ་པར་ཡོད་པ་ཆུའི་རང་བཞིན་ཅན་ཡིན་པས་ཐུར་ལ་འོངས་ཏེ། སྙིང་གའི་རོ་རྐྱང་གི་མདུད་པ་དྲུག་སྐོར་གྱི་སྟེང་དུ་སླེབ་པའི་བར་ལ་དེ་འདྲའི་སྣང་བ་འབྱུང་བ་ཡིན་གྱི། ཕྱི་རོལ་ནས་ཟླ་འོད་སོགས་ཀྱི་སྣང་བ་ཤར་བ་མ་ཡིན་ནོ། །
+རང་བཞིན་བརྒྱད་ཅུའི་ཀུན་རྟོག་བཞོན་པའི་རླུང་དང་བཅས་པ་སྣང་བ་ལ་ཐིམ་པར་རྩོམ་པའི་ཚེ་མར་མེ་འབར་བ་ལྟ་བུའི་སྣང་བ་འབྱུང༌།
+When the eighty indicative conceptions together with the winds that are their mounts start to dissolve into appearance, an appearance like a burning butter-lamp arises.
+
+དེ་སྣང་བ་ལ་ཐིམ་པའི་སྣང་བ་རང་དུས་ཀྱི་རྟགས་ནི། སྟོན་གྱི་ནམ་མཁའ་གཡའ་དག་པའི་ཚེ་མཚན་མོ་ཟླ་བ་ཤར་བའི་འོད་ཀྱིས་ཁྱབ་པའི་ནམ་མཁའ་ལྟ་བུ་ཤིན་ཏུ་དྭངས་ཤིང་སྟོང་སང་ངེ་བ་ལ་འོད་ཀྱི་སྣང་བ་དཀར་པོའི་རྣམ་པ་ཞིག་འཆར་ལ།
+The *sign* at the time of appearance (when those have dissolved into appearance): The appearance of the aspect of white illuminating light that is very clear and utterly empty, like the light of the moon at night pervading the sky in the autumn when the sky is free from impurities.
+
+དེ་ལྟར་འཆར་བའི་རྐྱེན་ནི། སྙིང་ག་ཡན་ཆད་ཀྱི་རོ་རྐྱང་གི་རླུང་ཐམས་ཅད་དབུ་མའི་ཡར་སྣེ་ནས་ཞུགས་པའི་སྟོབས་ཀྱིས་སྤྱི་བོའི་རྩ་མདུད་གྲོལ་བའི་
+དབུས་ན་ཕ་ལས་ཐོབ་པའི་ཐིག་ལེ་དཀར་པོ་ཧཾ་ཡིག་མགོ་ཐུར་བསྟན་གྱི་རྣམ་པར་ཡོད་པ་ཆུའི་རང་བཞིན་ཅན་ཡིན་པས་ཐུར་ལ་འོངས་ཏེ། 
+སྙིང་གའི་རོ་རྐྱང་གི་མདུད་པ་དྲུག་སྐོར་གྱི་སྟེང་དུ་སླེབ་པའི་བར་ལ་དེ་འདྲའི་སྣང་བ་འབྱུང་བ་ཡིན་གྱི།
+The *cause* of such an appearance: All the winds of the left and right channels above the heart enter into the central channel from its upper opening; through the force of that, the knot at the crown is loosened and the white drop obtained from the father (which has the aspect of a white, upside-down letter HAM) travels down due to being in the nature of water. Up until it arrives at the six-looped knot of the left and right channels at the heart, such an appearance arises.
+
+ཕྱི་རོལ་ནས་ཟླ་འོད་སོགས་ཀྱི་སྣང་བ་ཤར་བ་མ་ཡིན་ནོ།
+It is not an appearance of illumination (such as moonlight) from outside.
+
 དེ་ལ་སྣང་བ་དང་སྟོང་པ་ཞེས་བྱའོ།
+That is called "appearance" and "empty".
 
 ---
 **SIXTH DISSOLUTION: APPEARANCE → INCREASE** སྣང་བ་མཆེད་པ་ལ་ཐིམ།

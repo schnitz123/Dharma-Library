@@ -19,8 +19,11 @@ For impermanent phenomena: One nature and one substance are mutually inclusive.
 
 རྫས་གཅིག་ཡིན་ཏེ། ངོ་བོ་གཅིག་པར་སྐྱེས་པའི་ཆོས།
 **One substance:** Phenomena produced as one entity.
+
 རྫས་ཐ་དད་ཡིན་ཏེ། ངོ་བོ་སོ་སོ་བར་སྐྱེས་པའི་ཆོས།
 **Different substance:** Phenomena produced as individual entities
+{ #fcebfc}
+
 
 
 ---

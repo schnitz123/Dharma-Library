@@ -8,7 +8,7 @@
 **When divided:**
 1. [[Collected Topics/causal condition\|causal condition]] རྒྱུ་རྐྱེན།
 2. [[Collected Topics/observed-object condition\|observed-object condition]] དམིགས་རྐྱེན།
-3. [[Collected Topics/Empowering condition\|Empowering condition]] བདག་རྐྱེན།
+3. [[Collected Topics/empowering condition\|empowering condition]] བདག་རྐྱེན།
 4. [[Collected Topics/immediately preceding condition\|immediately preceding condition]] དེ་མ་ཐག་རྐྱེན།
 
 **In brief:**

@@ -43,7 +43,7 @@ The nature of love, and has abandoned weariness – rely on [such a one].
 1. Inner tutor ནང་གི་ཡོངས་འཛིན།
    i.e. Special method and wisdom in the continuum of the Bodhisattva on the path of preparation - because of being an exalted knower in their continuum that prevents falling into either extreme of existence and peace. སྲིད་ཞི་གང་རུང་གི་མཐར་ལྟུང་བ་འགོག་བྱེད་ཀྱི་དེའི་མཁྱེན་པ།
 2. Outer tutor ཕྱིའི་ཡོངས་འཛིན།
-   i.e. the Supreme Emanation Body that is their [[Collected Topics/Empowering condition\|empowering condition]] - because of being the virtuous spiritual friend that is the empowering condition teaching them the complete dharma of method and wisdom. དེ་ལ་ཐབས་ཤེས་ཀྱི་ཆོས་རྫོགས་པར་སྟོན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་དགེ་བའི་བཤེས་གཉེན་ཡིན་པ།
+   i.e. the Supreme Emanation Body that is their [[Collected Topics/empowering condition\|empowering condition]] - because of being the virtuous spiritual friend that is the empowering condition teaching them the complete dharma of method and wisdom. དེ་ལ་ཐབས་ཤེས་ཀྱི་ཆོས་རྫོགས་པར་སྟོན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་དགེ་བའི་བཤེས་གཉེན་ཡིན་པ།
 
 ---
 བློ་གཟུ་བོར་གནས་པ་སོགས་ཡོན་ཏན་གསུམ་ལྡན་གྱི་སྒོ་ནས་རང་གི་ཡོངས་འཛིན་དམ་པ་བསྟེན་པར་ཁས་ལེན་པའི་གང་ཟག་ཏུ་དམིགས་པ།

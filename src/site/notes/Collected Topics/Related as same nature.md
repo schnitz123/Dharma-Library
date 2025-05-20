@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/collected-topics/related-as-same-nature/"}
 ---
 
-ཆོས་དེ་དང་བདག་གཅིག་འབྲེལ་གྱི་མཚན་ཉིད་ཡོད་དེ། ཁྱོད་ཆོས་དེ་དང་བདག་ཉིད་གཅིག་པའི་སྒོ་ནས་ཐ་དད། ཆོས་དེ་མེད་ན་ཁྱོད་མེད་དགོས་པའི་ཆོས་དེ་དེ་ཡིན་པའི་ཕྱིར།
+ཆོས་དེ་དང་བདག་གཅིག་འབྲེལ་གྱི་མཚན་ཉིད་ཡོད་དེ། ཁྱོད་ཆོས་དེ་དང་བདག་ཉིད་གཅིག་པའི་སྒོ་ནས་ཐ་དད། 
+ཆོས་དེ་མེད་ན་ཁྱོད་མེད་དགོས་པའི་ཆོས་དེ་དེ་ཡིན་པའི་ཕྱིར།
 **Definition of a phenomenon and x being related as one nature:** 1) x is different from that phenomenon by way of being [[Collected Topics/One nature\|one nature]] and 2) if that phenomenon does not exist, then x necessarily does not exist.
 e.g. pot and isolate of pot, product and impermanent
 

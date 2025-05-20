@@ -4,7 +4,7 @@
 
 རང་གི་ཐུན་མོངས་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་བའི་དབང་པོ་གཟུགས་ཅན་པ་ལ་བརྟེན་ནས་སྐྱེས་པ་གང་ཞིག རྟོག་པ་དང་བྲལ་ཞིང་མ་འཁྲུལ་པའི་རིག་པ།
 དབང་མངོན་གྱི་མཚན་ཉིད།
-**Definition:** A knower that is 1) unmistaken and free from conceptuality and 2) produced in dependence upon the physical sense-power that is its uncommon [[Collected Topics/Empowering condition\|empowering condition]].
+**Definition:** A knower that is 1) unmistaken and free from conceptuality and 2) produced in dependence upon the physical sense-power that is its uncommon [[Collected Topics/empowering condition\|empowering condition]].
 
 **Divisions:**
 1. [[Lorig/Sense direct valid cognisers\|Sense direct valid cognisers]] དབང་མངོན་དུ་གྱུར་བའི་ཚད་མ།

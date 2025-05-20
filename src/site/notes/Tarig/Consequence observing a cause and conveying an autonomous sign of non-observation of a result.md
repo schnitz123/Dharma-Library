@@ -8,4 +8,4 @@
 
 
 ---
-Up a level: [[Tarig/Correct consequence conveying an isolate of different type\|Correct consequence conveying an isolate of different type]]
+Up a level: [[Tarig/Correct consequence conveying an opposite of different type\|Correct consequence conveying an opposite of different type]]

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/madhyamaka/refutation-of-self-production-gomde-uma/"}
 ---
 
-**Refuting production from a cause it is one nature with** རབག་དང་ངོ་བོ་གཅིག་པའི་རྒྱུ་ལས་སྐྱེ་བ་དགག་པ།
+**Refuting production from a cause it is one nature with** རང་དང་ངོ་བོ་གཅིག་པའི་རྒྱུ་ལས་སྐྱེ་བ་དགག་པ།
 
 མྱུ་གུ་དེ་ནི་ཆོས་ཅན། ས་བོན་དེ་ལས་འབྱུང་ན་དེ་ལས་འབྱུང་དགོས་པའི་ཡོན་ཏན་ལྷག་པོ་འགའ་ཡང་ཡོད་པ་མ་ཡིན་པར་ཐལ། 
 ས་བོན་གྱི་དུས་ན་ཁྱོད་ཀྱི་ངོ་བོ་རྫོགས་པར་གྲབ་ཟིན་པའི་ཕྱིར།
@@ -79,13 +79,13 @@ The subject - objects of knowledge - the world does not assert that the nature o
 
 མྱུ་གུ་ཆོས་ཅན། ཁྱོད་བདག་ལས་སྐྱེ་བ་ཁས་བླང་བར་བྱ་བ་རིགས་པ་མ་ཡིན་ཏེ། ཁྱོད་བདག་ལས་སྐྱེ་བར་འདོད་ན་སྐྱེ་བར་བྱ་བ་འབྲས་བུ་དང་། 
 སྐྱེ་བར་བྱེད་པ་རྒྱུ་དང་། གང་ཞིག་བྱ་བའི་ལས་དང་། གང་གིས་བྱེད་པའི་བྱེད་པ་པོ་ཡང་གཅིག་ཉིད་དུ་འགྱུར་ན་དེ་དག་ནི་གཅིག་ཉིད་མ་ཡིན་པ་དེས་ནའི་ཕྱིར།
-The subject - the sprout - it is not logical to assert that it is produced from itself because if it is asserted that it is produced from itself, then produced results and producing causes, as well as actions and agents, would become just one; whereas they are not just one.
+The subject - the sprout - it is not logical to assert that it is produced from itself because if it is asserted that it is produced from itself, then produced results and producing causes, as well as objects and agents, would become just one; whereas they are not just one.
 
 བསྲེག་པར་བྱ་བ་ཤིང་ལ་སོགས་པ་ལས་སུ་གྱུར་པའི་སྲེག་པར་བྱེད་པ་པོ་ནི་མེའོ། 
 དེ་ལ་བུད་ཤིང་གང་ཡིན་པ་དེ་ཉིད་དང་མེ་གཉིས་ངོ་བོ་ཉིད་ཀྱིས་གཅིག་ཡིན་ན་བྱེད་པ་པོ་དང་ལས་རྣམས་གཅིག་ཏུ་འགྱུར་ན། 
 རྫ་མཁན་དང་བུམ་པའམ་གཅད་བྱ་དང་གཅོད་པ་པོ་གཅིག་ལ་ཉིད་དུ་ནི་མ་མཐོང་ཞིང་ཁས་ཀྱང་མ་བླངས་པས་མི་རིགས་སོ། 
 ཐལ་པ་འདིས་ནི་བཟློག་ཕྱོགས་ལ་ལས་དང་བྱེད་པ་པོ་ཡིན་པའི་གཏན་ཚིགས་ཀྱིས་མེ་དང་ཤིང་གཉིས་ངོ་བོ་ཉིད་ཀྱིས་གཅིག་ཏུ་མེད་པ་འཕེན་པའོ།
-*Ocean of Reasoning:* That which is burnt is wood and so forth and the agent of the activity of burning is fire. If the very thing which is the kindling and the fire were one by way of entity-ness, then agents and actions would be one. In that case, the potter and the pot, that to be cut and the cutter, [etc.], would be just one but that is not perceived nor is it suitable to be asserted. This consequence conveys its opposite: that using the reason of being action and agent, fire and wood are not one by way of entity-ness.
+*Ocean of Reasoning:* That which is burnt is wood and so forth and the agent of the activity of burning is fire. If the very thing which is the kindling and the fire were one by way of entity-ness, then agents and objects would be one. In that case, the potter and the pot, that to be cut and the cutter, [etc.], would be just one but that is not perceived nor is it suitable to be asserted. This consequence conveys its opposite: that using the reason of being object and agent, fire and wood are not one by way of entity-ness.
 
 
 ---
