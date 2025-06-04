@@ -26,6 +26,14 @@ The latter follows because Je and his spiritual sons, when indicating the divisi
 དེ་འདྲའི་ཚད་མ་ཡིན་ན་རང་གི་རྟེན་རྟགས་ལ་བརྟེན་དགོས་པའི་ཕྱིར།
 A **valid cognition of analogy** is *not* taken as: An awareness realising the meaning through merely stating an example, without depending upon a sign. This is because if it is such a valid cognition, then it necessarily depends upon a sign (its support).
 
+---
+སྒྲ་མི་རྟག་རྟོགས་ཀྱི་རྗེས་དཔག་སྒྲ་མི་རྟག་པ་ལ་འཁྲུལ་བ་ཡིན་ཏེ། ཁྱོད་ལ་དེ་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་སྣང་བ་གང་ཞིག །དེ་རང་གི་མཚན་ཉིད་ཀྱིས་མ་གྲུབ་པའི་ཕྱིར།
+An inference realising sound is impermanent is **mistaken** wrt sound being impermanent because:
+1. That appears to it as established by way of its own character; and
+2. That is not established by way of its own character.
+
+But not a wrong consciousness: [[Madhyamaka/Presentation of valid cognition#^55ad80\|Definition of wrong consciousness]]
+
 
 ---
 Up a level: [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]

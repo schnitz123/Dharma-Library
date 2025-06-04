@@ -3,7 +3,7 @@
 ---
 
 ཆོས་དེ་དང་རྫས་ཐ་དད་པའི་སྒོ་ནས་ཆོས་དེའི་འབྲས་བུའི་རིགས་སུ་གནས་པ། ཆོས་དེ་དང་དེ་བྱུང་འབྲེལ་གྱི་མཚན་ཉིད།
-**Definition:** That abiding in the class of being the result of that phenomenon by way of being a [[Collected Topics/One nature#^fcebfc\|different substance]] from that phenomenon.
+**Definition of being in a causal relationship with a phenomenon:** That abiding in the class of being the result of that phenomenon by way of being a [[Collected Topics/One nature#^fcebfc\|different substance]] from that phenomenon.
 
 མཚན་གཞི་ཡོད་དེ། དངོས་པོའི་ཕྱི་ལོགས་སུ་བྱུང་བ་རྣམས་དངོས་པོ་དང་དེ་བྱུང་འབྲེལ་ཡིན་པའི་ཕྱིར།
 e.g. subsequently arising [moments] of functioning thing are in a causal relationship with functioning thing.

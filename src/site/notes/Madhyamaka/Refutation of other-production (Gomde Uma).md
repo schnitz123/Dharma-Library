@@ -12,7 +12,7 @@ If a result that is established by its own-entity arises in dependence upon a se
 འོ་ན། ཤེས་བྱ་ཆོས་ཅན། ས་ལུའི་ས་བོན་ལས་ས་ལུའི་མྱུ་གུ་འབྱུང་བ་བཞིན་དུ། 
 གསལ་བྱེད་མེ་ལྕེ་རབ་ཏུ་འབར་བ་ལས་ཀྱང་བསལ་བྱ་མུན་པ་འཐུག་པོ་འབྱུང་བར་འགྱུར་པར་ཐལ། 
 ས་མྱུག་གཉིས་དང་མེ་ལྕེ་དང་མུན་པ་རྣམས་རང་གི་ངོ་བོས་གྲུབ་པའི་གཞན་ཡིན་པར་མཚུངས་པའི་ཕྱིར།
-*(1)* The subject - objects of knowledge - it follows that just like a rice sprout arises from a rice seed, thick darkness (that to be cleared) would arise also from blazing flames (the clarifier) because the seed and sprout and the flames and darkness are equally established by their own-entity other.
+*(1)* The subject - objects of knowledge - it follows that just like a rice sprout arises from a rice seed, thick darkness (that to be dispelled) would arise also from blazing flames (the dispeller) because the seed and sprout and the flames and darkness are equally established by their own-entity other.
 
 གཞན་ཡང་། ས་ལུའི་ས་བོན་ལས་ས་ལུའི་མྱུ་གུ་འབྱུང་བ་བཞིན་དུ། ནས་ཀྱི་ས་བོན་སོགས་ཐམས་ཅད་ལས་ཀྱང་ས་ལུའི་མྱུ་གུ་སོགས་ཐམས་ཅད་སྐྱེ་བར་འགྱུར་བར་ཐལ། རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་སྐྱེ་བར་བྱེད་པ་དང་། སྐྱེ་བར་བྱ་བ་མ་ཡིན་པ་ནས་ཀྱི་ས་བོན་དང་ས་ལུའི་མྱུ་གུ་སོགས་རྒྱུ་འབྲས་ཀྱི་ཆོས་མ་ལུས་པ་ལ་ཡང་
 རང་གི་ངོ་བོས་གྲུབ་པའི་གཞན་ཉིད་ཡོད་པར་མཚུངས་པའི་ཕྱིར།
@@ -21,7 +21,7 @@ If a result that is established by its own-entity arises in dependence upon a se
 གཞན་སྐྱེ་ལ་ཧ་ཅང་ཐལ་བ་དེ་ལྟ་བུ་འཇུག་པའི་རྒྱུ་མཚན་གང་ཞེ་ན། ས་མྱུག་གཉིས་ལྟ་བུ་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པའི་གཞན་ཡིན་ན། 
 ཚུགས་ཐུབ་གྱི་གཞན་ཡིན་དགོས། དེ་ཡིན་ན་ཕན་ཚུན་ལྟོས་མེད་དུ་འགྱུར་དགོས་ལ། 
 དེ་ལ་མི་ལྟོས་བཞིན་དུ་དེ་ལས་སྐྱེ་ན་མེ་ལྕེ་ལས་མུན་པ་སོགས་ཀྱང་སྐྱེ་དགོས་པར་ཐལ་བ་འཕེན་པའོ།
-*Flinging these consequences applies because:* If the seed and sprout, for example, are established by way of own-character other, then they necessarily self-supporting other; if they are that, then they would necessarily be mutually unrelated. If that is produced from that while not being related with that, then also darkness and so forth would necessarily be produced from flames.
+*Flinging these consequences applies because:* If the seed and sprout, for example, are established by way of own-character other, then they are necessarily self-supporting other; if they are that, then they would necessarily be mutually unrelated. If that is produced from that while not being related with that, then also darkness and so forth would necessarily be produced from flames.
 
 ---
 These two consequences are correct consequences conveying a proof (see [[Tarig/Correct consequence\|Correct consequence]]):

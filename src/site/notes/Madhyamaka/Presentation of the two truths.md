@@ -17,14 +17,33 @@ When divided by way of the bases of emptiness, there are sixteen and so forth.
 1. It is the object found by a conventional valid cognition;
 2. That [conventional valid cognition] has become a conventional valid cognition with respect to x.
 
+---
+**Reason for part 2 of both definitions:** If someone posits the definitions as just part 1:
+
+བུམ་པ་ཆོས་ཅན། མཚོན་བྱ་དེར་ཐལ། མཚན་ཉིད་དེའི་ཕྱིར།
+The subject - pot - it follows that it is that definiendum [i.e. an ultimate truth] because it is that definition [i.e. It is the object found by a reasoning consciousness analysing the ultimate].
+
+དེར་ཐལ། ཇི་ལྟ་བ་རྟོགས་པའི་རྣམ་མཁྱེན་གྱི་རྙེད་དོན་ཡིན་པའི་ཕྱིར།
+That follows because it is the object found by an exalted knower of all aspects realising the modes.
+
+བུམ་པའི་ཆོས་ཉིད་ཆོས་ཅན། མཚོན་བྱ་དེར་ཐལ། མཚན་ཉིད་དེའི་ཕྱིར། 
+The subject - the dharmata of pot - it follows that it is that definiendum [i.e. a conventional truth] because it is that definition [i.e. It is the object found by a conventional valid cognition].
+
+དེར་ཐལ། ཇི་སྙེད་པ་མཁྱེན་པའི་རྣམ་མཁྱེ ན་གྱི་རྙེད་དོན་ཡིན་པའི་ཕྱིར།
+That follows because it is the object found by an exalted knower of all aspects realising the varieties.
+
+---
+**Basis of division:** All objects of knowledge. དབྱེ་གཞི་ནི། ཤེས་བྱ་ཐམས་ཅད་དོ།
+See: [[Madhyamaka/Assertions regarding the basis of division into the two truths\|Assertions regarding the basis of division into the two truths]]
+
 **Divisions:**
 1. [[Madhyamaka/Correct from the perspective of worldly knowledge\|Correct from the perspective of worldly knowledge]] འཇིག་རྟེན་ཤེས་ངོ་ལ་ལྟོས་ཏེ་ཡང་དག་པ།
 2. [[Madhyamaka/Wrong from the perspective of worldly knowledge\|Wrong from the perspective of worldly knowledge]] འཇིག་རྟེན་ཤེས་ངོ་ལ་ལྟོས་ཏེ་ལོག་པ།
 
 **Their difference in general:** སྤྱིར་བཏང་གི་ཁྱད་པར་ནི། (no pervasion in both, see below)
-1. Consciousnesses affected by superficial causes of error together with their objects are correct conventionalities from that perspective 
+1. Consciousnesses unaffected by superficial causes of error together with their objects are correct conventionalities from that perspective 
    འཕྲལ་གྱི་འཁྲུལ་རྒྱུས་མ་བསླད་པའི་ཤེས་པ་ཡུལ་དང་བཅས་པ་དེ། དེ་ལ་ལྟོས་ཏེ་ཡང་དག་པའི་ཀུན་རྫོབ་ཡིན།
-2. Consciousnesses unaffected by that together with their objects are wrong conventionalities from that perspective དེས་བསླད་པའི་ཤེས་པ་ཡུལ་དང་བཅས་པ་དེ། དེ་ལ་ལྟོས་ཏེ་ལོག་པའི་ཀུན་རྫོབ་ཡིན།
+2. Consciousnesses affected by that together with their objects are wrong conventionalities from that perspective དེས་བསླད་པའི་ཤེས་པ་ཡུལ་དང་བཅས་པ་དེ། དེ་ལ་ལྟོས་ཏེ་ལོག་པའི་ཀུན་རྫོབ་ཡིན།
 
 [[Madhyamaka/Divisions of superficial causes of error\|Divisions of superficial causes of error]] 
 
@@ -38,21 +57,22 @@ If it is either an object or object-possessor that is not affected by the superf
 འཕྲལ་གྱི་འཁྲུལ་རྒྱུས་བསླད་པའི་ཡུལ་དང་ཡུལ་ཅན་གང་རུང་ཡིན་ན་འཇིག་རྟེན་ཤེས་ངོ་ལ་ལྟོས་ཏེ་ལོག་པ་ཡིན་པས་མ་ཁྱབ་སྟེ། 
 གྲུབ་མཐའ་ངན་པས་རྒྱུད་བསླད་པའི་དབང་གིས་གང་ཟག་བདེན་པར་གྲུབ་པ་འཐད་སྙམ་དུ་འཛིན་པའི་རྟོག་པ་དེ་འཕྲལ་གྱི་འཁྲུལ་རྒྱུས་བསླད་པའི་ཤེས་པ་ཡིན་ཡང་། 
 འཇིག་རྟེན་ཤེས་ངོ་ལ་ལྟོས་ཏེ་ལོག་པ་མ་ཡིན་པའི་ཕྱིར།
-If it is either an object or object-possessor that is affected by the superficial causes of error, then it is not pervaded by being wrong from the perspective of worldly knowledge because although the conception apprehending that the person being truly established is correct due to the continuum being affected by bad tenets is a consciousness affected by superficial causes of error, it is not wrong from the perspective of worldly knowledge.
+If it is either an object or object-possessor that is affected by the superficial causes of error, then it is not pervaded by being wrong from the perspective of worldly knowledge because although the conception apprehending "the person being truly established is correct" due to the continuum being affected by bad tenets is a consciousness affected by superficial causes of error, it is not wrong from the perspective of worldly knowledge.
 
 ---
 See: [[Perfection of Wisdom/Topics/Conventional Truth\|Divisions of conventional truth in Svatantrika]]
 
 ཀུན་རྫོབ་བདེན་པ་ལ་ཡང་དག་ཀུན་རྫོབ་དང་ལོག་པའི་ཀུན་རྫོབ་གཉིས་སུ་མི་འབྱེད་དེ། ཡང་དག་ཀུན་རྫོབ་མེད་པའི་ཕྱིར།
-Conventional truth is not divided into correct conventionalities and wrong conventionalities because correct conventionalities do not exist.
+Conventional truth is *not* divided into correct conventionalities and wrong conventionalities because correct conventionalities do not exist.
 
 ལོག་པའི་ཀུན་རྫོབ་ཡོད་དམ་མེད་ཅེ་ན། 
 Do wrong conventionalities exist?
 
 ཁ་ཅིག །ཡོད་དེ། བདེན་འཛིན་ལ་སོགས་པ་མ་རིག་བག་ཆགས་ཀྱིས་བསླད་པའི་ཡུལ་ཡུལ་ཅན་རྣམས་ལོག་པའི་ཀུན་རྫོབ་ཡིན་ཞེ་ན། 
-Some say they exist because objects and object possessors that are affected by the imprints of ignorance (the apprehension of true existence and so forth) are wrong conventionalities.
+Some say: They exist because objects and object possessors that are affected by the imprints of ignorance (the apprehension of true existence and so forth) are wrong conventionalities.
 
-བདེན་འཛིན་གཉིས་ལོག་པའི་ཀུན་རྫོབ་མ་ཡིན་ཏེ། སྟོང་ཉིད་རྟོགས་མ་མྱོང་བའི་གང་ཟག་གི་རྒྱུད་ཀྱི་ཐ་སྙད་པའི་ཚད་མས་བདེན་འཛིན་ལོག་ཤེས་སུ་རྟོགས་མི་ནུས་པའི་ཕྱིར། 
+བདེན་འཛིན་གཉིས་ལོག་པའི་ཀུན་རྫོབ་མ་ཡིན་ཏེ། 
+སྟོང་ཉིད་རྟོགས་མ་མྱོང་བའི་གང་ཟག་གི་རྒྱུད་ཀྱི་ཐ་སྙད་པའི་ཚད་མས་བདེན་འཛིན་ལོག་ཤེས་སུ་རྟོགས་མི་ནུས་པའི་ཕྱིར། 
 The two apprehensions of self are not wrong conventionalities because a conventional valid cognition in the continuum of a person who has never realised emptiness is not able to realise that the apprehension of true existence is a wrong consciousness.
 
 དེའི་ཤུགས་ལ་ལོག་པའི་ཀུན་རྫོབ་ཡོད་དེ། སྟོང་ཉིད་རྟོགས་མ་མྱོང་བའི་གང་ཟག་གི་རྒྱུད་ཀྱི་ཐ་སྙད་པའི་ཚད་མས་ལོག་ཤེས་སུ་རྟོགས་ནུས་པའི་ཡུལ་ཅན་དང་། 
@@ -65,9 +85,14 @@ This implies that wrong conventionalities exist because object-possessors and th
 ---
 ཕྱི་ནང་གི་དངོས་པོ་རྣམས་ཆོས་ཅན། ཁྱོད་ཀྱི་སྟེང་དུ་ངོ་བོ་གཉིས་ཡོད་དེ། 
 ཁྱོད་ཀྱི་སྟེང་དུ་མཐར་ཐུག་དཔྱོད་པའི་རིགས་ཤེས་ཀྱི་རྙེད་དོན་དང་། ཐ་སྙད་པའི་ཚད་མའི་རྙེད་དོན་གཉིས་ཡོད་པའི་ཕྱིར།
-The subject - inner and outer things - in terms of their basis there are two natures because there are:
+The subject - inner and outer things - in terms of their bases there are two natures because there are:
 1. The object found by reasoning consciousnesses analysing the ultimate; and
 2. The object found by conventional valid cognition.
+
+---
+གཟུགས་སོགས་དེ་དག་ཆོས་ཅན། ཉན་རང་དགྲ་བཅོམ་པ་དང་དག་ས་ལ་གནས་པའི་བྱང་སེམས་ཀྱི་བློ་ངོར་ཀུན་རྫོབ་ཙམ་དུ་གྲུབ་ཀྱི་བདེན་གྲུབ་ནི་མ་ཡིན་སྟེ། 
+དེ་རྣམས་ལ་དངོས་པོ་གཟུགས་སོགས་བདེན་པར་ཞེན་པ་མེད་པའི་ཕྱིར་ཏེ། བདེན་འཛིན་སྤངས་པའི་ཕྱིར།
+The subject - forms and so forth - from the perspective of the awarenesses of Hearer and Solitary Realiser Foe-Destroyers, as well as pure-ground Bodhisattvas, they are established as mere conventionalities and not truly established because they do not conceive of things (forms and so forth) as truly existent; because they have abandoned the apprehension of true existence.
 
 ---
 See also: [[Perfection of Wisdom/Topics/Two Truths\|Two Truths in Svatantrika]]

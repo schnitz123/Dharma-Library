@@ -17,6 +17,9 @@ Jetsunpa's Seventy Topics (version 1.0 uploaded 07/03/25)
 Two Presentations of Tenets (Jetsunpa and Kunkhyen Jigme Wangpo) (version 1.0 uploaded 23/04/25)
 - <a href="/pdf/Two%20Presentations%20of%20Tenets.pdf" download>Download here</a>
 
+Jangkya Rolpe Dorje's Recognising My Mother (version 0.1 uploaded 04/06/25)
+- <a href="/pdf/Recognising%20My%20Mother.pdf" download>Download here</a>
+
 **Upcoming:**
 
 Jetsunpa's Great and Small Presentations of Paths and Grounds

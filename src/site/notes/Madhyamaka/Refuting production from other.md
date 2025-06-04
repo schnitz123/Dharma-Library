@@ -73,4 +73,7 @@ If they did, then [a father] would give rise to an awareness thinking "I put thi
 Therefore, other-production is said to not exist even among worldly conventions.
 
 ---
+[[Madhyamaka/Refutation via the Arya meditative equipoise (Gomde Uma)\|Refutation via the Arya meditative equipoise (Gomde Uma)]]
+
+---
 Up a level: [[Madhyamaka/Reasoning of diamond slivers\|Reasoning of diamond slivers]]
