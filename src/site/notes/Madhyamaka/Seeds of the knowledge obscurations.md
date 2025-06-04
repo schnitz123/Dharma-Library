@@ -8,7 +8,9 @@
 1. Arises from an uncommon imprint deposited by the conception of true existence that is its cause and is the substantial cause of its resultant mistaken dualistic appearances; and
 2. Abides in the class of obscurations that arise in the continua of Learner Aryas who have abandoned all conceptions of true existence without exception.
 
+i.e. non-manifest knowledge obscurations
 
+**Illustration:** The factor of mistaken dualistic appearances appearing to the conventional mind generation in the continuum of an Arya Bodhisattva in meditative equipoise.
 
 
 

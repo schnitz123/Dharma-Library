@@ -18,6 +18,20 @@ It is unsuitable to divide knowledge obscurations into acquired and innate becau
 There are no knowledge obscurations that are consciousnesses because the apprehension of true existence is not a knowledge obscuration.
 
 ---
+There are three possibilities between:
+- Appearances of true existence/establishment བདེན་སྣང་། (not pervaded by being a knowledge obscuration)
+- Factor of mistaken dualistic appearances གཉིས་སྣང་འཁྲུལ་བའི་ཆ། (pervaded by being a knowledge obscuration)
+
+Because the appearances of true existence to the (non-manifest) conventional mind generation in the continuum of a tenth grounder during the uninterrupted path at the end of the continuum is an appearance of true existence but is not a factor of mistaken dualistic appearances; because they are not a knowledge obscuration; because:
+- Due to that uninterrupted path being the direct antidote to the subtlest knowledge obscurations, those are posited as non-existent in the continuum at that time;
+- They do not fulfil the [[Madhyamaka/Seeds of the knowledge obscurations\|definition]]; because they are not the substantial cause of their resultant mistaken dualistic appearances; because the next moment is Buddhahood.
+
+Thus, it is necessary to say that during meditative equipoise:
+- The person has appearances of true existence in their continuum because true existence appears to the non-manifest conventional mind generation in their continuum; but
+- True existence does not appear to that person because it does not appear to the manifest meditative equipoise in their continuum.
+
+
+---
 **Their abandonment**
 - Abandonment of the knowledge obscurations starts from attainment of the eighth ground;
 ས་བརྒྱད་པ་ཐོབ་ནས་ཤེས་སྒྲིབ་སྤོང་བའི་མགོ་རྩོམ་ཞིང་།

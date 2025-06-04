@@ -14,7 +14,7 @@ Since they are skilful, they have no unhappiness.
 
 །བདེན་པ་མཐོང་བས་གྲོལ་འགྱུར་གྱི། སྟོང་ཉིད་མཐོང་བས་ཅི་ཞིག་བྱ།
 By seeing the truth they become liberated,
-Why should they do so by means of seeing emptiness? *Bhavaviveka's assertion*
+Why should they do so by means of seeing emptiness? [Bhavaviveka's assertion]
 { #3362bd}
 
 
