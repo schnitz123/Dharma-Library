@@ -26,10 +26,17 @@ Because the appearances of true existence to the (non-manifest) conventional min
 - Due to that uninterrupted path being the direct antidote to the subtlest knowledge obscurations, those are posited as non-existent in the continuum at that time;
 - They do not fulfil the [[Madhyamaka/Seeds of the knowledge obscurations\|definition]]; because they are not the substantial cause of their resultant mistaken dualistic appearances; because the next moment is Buddhahood.
 
-Thus, it is necessary to say that during meditative equipoise:
+Thus, it is necessary to say that for sentient beings during meditative equipoise:
 - The person has appearances of true existence in their continuum because true existence appears to the non-manifest conventional mind generation in their continuum; but
 - True existence does not appear to that person because it does not appear to the manifest meditative equipoise in their continuum.
 
+Moreover, appearances of true existence appear to Arya Buddhas because:
+1. Appearances of true existence exist;
+2. If it is an established base, it is pervaded by being realised by the Exalted Knower of All Aspects; and
+3. Buddhas have no implicit realisations and if it is explicitly realised, then it is pervaded by appearing to the awareness realising it.
+
+However, those are not factors of mistaken dualistic appearances or knowledge obscurations because they do not fulfil the [[Madhyamaka/Seeds of the knowledge obscurations\|definition]]; because of not arising from the seeds of knowledge obscurations that are their substantial cause.
+Instead, they arise from the seeds of knowledge obscurations that are not their substantial cause because they arise from the seeds of knowledge obscurations in the continua of sentient beings.
 
 ---
 **Their abandonment**

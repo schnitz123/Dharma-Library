@@ -12,7 +12,7 @@ There are two ways in which the Buddhas' exalted wisdom knows objects of knowled
 
 མི་སྣང་ཡང་རྟོགས་པའི་ཤུགས་རྟོགས་སངས་རྒྱས་ལ་བཞག་ཏུ་མི་རུང་བའི་ཕྱིར། 
 སྣང་ནས་མཁྱེན་དགོས་པས་ཇི་སྙེད་པ་མཁྱེན་པའི་ཡེ་ཤེས་དེའི་ངོར། ཡུལ་དང་ཡུལ་ཅན་གཉིས་སུ་སྣང་བའི་ཚུལ་གྱིས་མཁྱེན་པའོ།
-*The second (Illumination):* Since it is not suitable to posit that the Buddha has implicit realisation where [the objects] realised do not appear, it necessarily knows through their appearing. Therefore, from the perspective of that exalted wisdom knowing conventionalities, they are known by way of dualistic appearances of object and subject.
+*The second (Illumination):* Since it is not suitable to posit that the Buddha has implicit realisation where [the objects] realised do not appear, it necessarily knows through their appearing. Therefore, from the perspective of that exalted wisdom knowing conventionalities, they are known by way of dualistic appearances of object and object-possessor.
 
 ---
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
