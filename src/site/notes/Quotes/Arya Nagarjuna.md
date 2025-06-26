@@ -22,6 +22,10 @@ And the Hearers have been exhausted,
 The exalted wisdom of the Solitary Realisers
 Arises without a teacher.
 
+རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་གང༌། །དེ་ནི་སྟོང་པ་ཉིད་དུ་བཤད། །དེ་ནི་བརྟེན་ནས་གདགས་པ་སྟེ། །དེ་ཉིད་དབུ་མའི་ལམ་ཡིན་ནོ། །
+That which is dependently arisen, that is explained as emptiness.
+That is dependently designated. Just this is the Middle Way. [24.18]
+
 ---
 **From Precious Garland of the Middle Way:** དབུ་མ་རིན་ཆེན་ཕྲེང་བ་ལས།
 { #df2af3}

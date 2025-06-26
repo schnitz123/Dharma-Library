@@ -18,7 +18,7 @@ e.g. existence and non-existence, pot and pillar, hot and cold
 1. [[Collected Topics/Related as same nature\|Related as same nature]] བདག་གཅིག་འབྲེལ།
 2. [[Collected Topics/Causal relationship\|Causal relationship]] དེ་བྱུང་འབྲེལ།
 
-Otherwise: unrelated different objects འབྲེལ་མེད་དོན་གཞན།
+Otherwise (not related but different): unrelated different objects འབྲེལ་མེད་དོན་གཞན།
 
 ---
 There are four possibilities between contradiction and relation:

@@ -17,7 +17,7 @@
   This is because attaining Mahayana mind generation is pervaded by having attained a preparation for a concentration; because attaining that is pervaded by having attained a union of calm-abiding and special insight. ཐེག་ཆེན་སེམས་བསྐྱེད་ཐོབ་ན་བསམ་གཏན་གྱི་ཉེར་བསྡོགས་ཐོབ་པས་ཁྱབ་པའི་ཕྱིར་ཏེ། དེ་ཐོབ་ན་ཞི་ལྷག་ཟུང་འབྲེལ་ཐོབ་པས་ཁྱབ་པའི་ཕྱིར།
 
 **Mahayana Path of Preparation**
-- *Physical:* Men and women of the three continents and the six types of Desire Realm gods
+- *Physical:* Men and women of the three continents and the six types of Desire Realm gods p18
   གླིང་གསུམ་གྱི་སྐྱེས་པ་བུད་མེད་འདོད་ལྷ་རིགས་དྲུག་གི་རྟེན་ལ་དངོས་སུ་གསར་དུ་སྐྱེ་བ་ཡོད།
 - *Mental:* Pervaded by being a meditative absorption of an actual concentration
   བསམ་གཏན་གྱི་དངོས་གཞི་སྙོམས་འཇུག་ཡིན་པས་ཁྱབ།

@@ -19,7 +19,8 @@ However, if they were to generate the mind of unsurpassed enlightenment, then th
 - "Those who abide in complete faultlessness" refers to those who abide on all paths having attained the Hearer's path of seeing; and
 - "Severing the connection" refers to overcoming the cause for birth in samsara due to having abandoned all afflictions without exception.
 
-དེས་ན་གང་ཡང་དག་པའི་སྐྱོན་མེད་པ་ལ་ཞུགས་པ་ཞེས་སོགས་མཐར་ཐུག་ཐེག་པ་གསུམ་དུ་གྲུབ་པར་སྟོན་པའི་མདོ་ཡིན་ཞིང༌། འོན་ཀྱང་གང་ཡང་དེ་དག་གི། ཞེས་སོགས་ཀྱིས་དེ་དྲང་དོན་དུ་བཀྲལ་བ་ཡིན་ཏེ།
+དེས་ན་གང་ཡང་དག་པའི་སྐྱོན་མེད་པ་ལ་ཞུགས་པ་ཞེས་སོགས་མཐར་ཐུག་ཐེག་པ་གསུམ་དུ་གྲུབ་པར་སྟོན་པའི་མདོ་ཡིན་ཞིང༌། འོན་ཀྱང་གང་ཡང་དེ་དག་གི། 
+ཞེས་སོགས་ཀྱིས་དེ་དྲང་དོན་དུ་བཀྲལ་བ་ཡིན་ཏེ།
 Therefore:
 - "Those who have entered faultless reality" and so forth is a sutra indicating three final vehicles;
 - "However, if they..." and so forth explains that as of interpretative meaning.

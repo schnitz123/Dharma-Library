@@ -3,9 +3,9 @@
 ---
 
 **Vaibhashika + Sautrantika + Cittamatra** བྱེ་མདོ་གཉིས་དང་སེམས་ཙམ་པ།
-- **Definitive:** A sutra whose indicated meaning is suitable to be taken literally.
+- **Definitive:** A sutra whose indicated-meaning is suitable to be taken literally.
   ངེས་དོན་གྱི་མདོ། རང་གི་བསྟན་དོན་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ།
-- **Interpretative:** A sutra whose indicated meaning is not suitable to be taken literally.
+- **Interpretative:** A sutra whose indicated-meaning is not suitable to be taken literally.
   དྲང་དོན་གྱི་མདོ། དེ་ལྟར་མི་རུང་བའི་མདོ། 
 
 བྱེ་མདོ་གཉིས་ཀྱིས་ཐེག་ཆེན་གྱི་སྡེ་སྣོད་སངས་རྒྱས་ཀྱི་བཀར་ཁས་མི་ལེན།
@@ -14,14 +14,13 @@ V and S do not assert the Mahayana Basket as the Words of the Buddha.
 ---
 **Svatantrika** རང་རྒྱུད་པ།
 - **Definitive:** A sutra that indicates emptiness as its explicit main expressed-object and is suitable to be asserted literally. ངེས་དོན་གྱི་མདོ། སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ།
-- **Interpretative:** That observed as either 1) a sutra that takes conventional truth as its explicit main expressed-subject or 2) a sutra that is not suitable to be asserted literally.
+- **Interpretative:** That observed as either 1) a sutra that takes conventional truth as its explicit main expressed-object or 2) a sutra that is not suitable to be asserted literally.
   དྲང་དོན་གྱི་མདོ། ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ།
 
 ---
 **From IntDef GM:**
 
-དོན་དམ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་ཅིང་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོར་དམིགས་པ་དེ་ངེས་དོན་གྱི་མདོའི་མཚན་ཉིད་ཡིན།
-
+དོན་དམ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་ཅིང་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོར་དམིགས་པ་དེ། ངེས་དོན་གྱི་མདོའི་མཚན་ཉིད་ཡིན།
 **Definition of a definitive meaning sutra:** That observed as a sutra that:
 1. Indicates its explicit teaching of ultimate truth in terms of its main indicated-object; and
 2. Is suitable to be asserted literally.

@@ -29,6 +29,8 @@ The first is established because it is suitable for a Madhyamika to refute self-
 གཉིས་པ་གྲུབ་སྟེ། བདེན་པ་གཉིས་ཆར་ལས་ཉམས་པའི་མུ་སྟེགས་པའི་ལུགས་བདེན་པ་གཉིས་ཆར་དུ་འགོག་རིགས་པའི་ཕྱིར།
 The second is established because it is suitable to refute the Non-Buddhist system that has degenerated from both truths in terms of both truths.
 
+Also no purpose to refute ordinary people because they do not talk about "self-production" or "other-production".
+
 གཉིས་པ་ལྟར་ན་ཡང་མི་རིགས་ཏེ། སྔ་རྒོལ་དབུ་མ་པ་ལ་ལྟོས་པའི་ཆོས་ཅན་མ་གྲུབ་པའི་སྐྱོན་ཡོད་པའི་ཕྱིར་ཏེ། 
 ཀུན་རྫོབ་ཙམ་གྱི་མིག་སོགས་ཀྱང་ཆོས་ཅན་དུ་འཛིན་མི་རིགས་ཏེ། ཕྱི་རྒོལ་གྲངས་ཅན་ལ་ལྟོས་པའི་ཆོས་ཅན་མ་གྲུབ་པའི་སྐྱོན་དུ་འགྱུར་བའི་ཕྱིར།
 *In the second case,* this is also unsuitable because there would be the fault of a non-established subject from the perspective of the Madhyamika defender; because it is also unsuitable to take "eyes and so forth that are mere conventionalities" as the subject because there would be the fault of a non-established subject from the perspective of the Samkhya opponent.
@@ -36,10 +38,14 @@ The second is established because it is suitable to refute the Non-Buddhist syst
 ---
 ལེགས་ལྡན་འབྱེད་ན་རེ། མིག་སོགས་ནང་གི་སྐྱེ་མཆེད་རྣམས་ཆོས་ཅན། དོན་དམ་པར་བདག་ལས་སྐྱེ་བ་མེད་དེ། ཡོད་པའི་ཕྱིར། དཔེར་ན་སེམས་པ་ཅན་བཞིན། 
 ཞེས་བཀོད་པའི་ཚེ་ན། བདེན་བརྫུན་གང་གིས་ཀྱང་ཁྱད་པར་དུ་མ་བྱས་པར་སྔ་རྒོལ་ཕྱི་རྒོལ་གཉིས་ཀ་ལ་མཐུན་སྣང་དུ་གྲུབ་པའི་མིག་སོགས་ཙམ། 
-ཆོས་ཅན་དུ་འཛིན་རིགས་ཏེ། དཔེར་ན། སངས་རྒྱས་པ་འོག་མས་བྱེ་བྲག་པའི་ངོར་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་ཚེ། 
-རྟག་མི་རྟག་གང་གིས་ཀྱང་ཁྱད་པར་དུ་མ་བྱས་པར་སྔ་རྒོལ་དང་ཕྱི་རྒོལ་གཉིས་ཀ་ལ་མཐུན་སྣང་དུ་གྲུབ་པའི་སྒྲ་ཙམ་ཆོས་ཅན་དུ་འཛིན་པ་ཡིན་པའི་ཕྱིར།
-**Bhavaviveka says:** When stating "The subject - the inner-sources (eyes and so forth) - ultimately, they are not produced from self because they exist; for example, just like mind-possessors.", it is suitable to take as the subject simply "eyes and so forth" that are commonly established for both defender and opponent without qualifying it as either truth or falsity because, for example, when the lower Buddhists prove to Vaisheshikas that sound is impermanent, then they take as the subject simply "sound" that is commonly established for both defender and opponent without qualifying it as either permanent or impermanent.
+ཆོས་ཅན་དུ་འཛིན་རིགས་ཏེ། 
+**Bhavaviveka says:** When stating "The subject - the inner-sources (eyes and so forth) - ultimately, they are not produced from self because they exist; for example, just like mind-possessors.", it is suitable to take as the subject simply "eyes and so forth" that are commonly established for both defender and opponent without qualifying it as either truth or falsity because...
 
+དཔེར་ན། སངས་རྒྱས་པ་འོག་མས་བྱེ་བྲག་པའི་ངོར་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་ཚེ། 
+རྟག་མི་རྟག་གང་གིས་ཀྱང་ཁྱད་པར་དུ་མ་བྱས་པར་སྔ་རྒོལ་དང་ཕྱི་རྒོལ་གཉིས་ཀ་ལ་མཐུན་སྣང་དུ་གྲུབ་པའི་སྒྲ་ཙམ་ཆོས་ཅན་དུ་འཛིན་པ་ཡིན་པའི་ཕྱིར།
+for example, when the lower Buddhists prove to Vaisheshikas that sound is impermanent, then they take as the subject simply "sound" that is commonly established for both defender and opponent without qualifying it as either permanent or impermanent.
+
+---
 *Refuting the meaning:* དོན་དགག་པ།
 
 སློབ་དཔོན་ལེགས་ལྡན་འབྱེད་ཀྱིས་གྲངས་ཅན་གྱི་ངོར་མིག་སོགས་དོན་དམ་པར་བདག་ལས་སྐྱེ་བ་མེད་པར་སྒྲུབ་པའི་ཚེ། 
@@ -48,21 +54,21 @@ When Bhavaviveka proves to the Samkhyas that eyes and so forth are ultimately no
 
 དེ་ལྟར་འཛིན་རིགས་ན་མིག་སོགས་དེ་ཉིད། མིག་སོགས་ཀྱི་གནས་ལུགས་འཇལ་བའི་ཕྱིན་ཅི་མ་ལོག་པའི་ཚད་མའི་རྙེད་དོན་དང་། 
 གྲངས་ཅན་གྱི་རྒྱུད་ཀྱི་ཕྱིན་ཅི་ལོག་གི་ཚད་མའི་རྙེད་དོན་གྱི་གཞི་མཐུན་ཡིན་དགོས་པ་ལས། དེ་དེ་མ་ཡིན་པའི་ཕྱིར།
-If it were suitable to take such [a subject], then 1) just "eyes and so forth" would need to be a common locus of a) the non-erroneous object found by valid cognition comprehending the mode of abiding of eyes and so forth and b) the erroneous object found by valid cognition in the continua of Samkhyas; however, 2) those are not that.
+If it were suitable to take such [a subject], then 1) just "eyes and so forth" would need to be a common locus of a) the non-erroneous object found by valid cognition cognising the mode of abiding of eyes and so forth and b) the erroneous object found by valid cognition in the continua of Samkhyas; however, 2) those are not that.
 
 དང་པོ་དེ་ལྟར་དགོས་ཏེ། དེ་ལྟར་འཛིན་ན་མིག་སོགས་དེ་མིག་སོགས་ཀྱི་གནས་ལུགས་འཇལ་བའི་ཕྱིན་ཅི་མ་ལོག་པའི་ཚད་མའི་རྙེད་དོན་ཡང་ཡིན་དགོས། 
 དེ་ལྟར་འཛིན་ན་དེ་གྲངས་ཅན་གྱི་རྒྱུད་ཀྱི་ཕྱིན་ཅི་ལོག་གི་ཚད་མའི་རྙེད་དོན་ཡང་ཡིན་དགོས་པའི་ཕྱིར། 
-The first [part of the sign] is necessary because 1) if such [a subject] is taken, then "eyes and so forth" would need to be the non-erroneous object found by valid cognition comprehending the mode of abiding of eyes and so forth and 2) if such [a subject] is taken, then those would need to be the erroneous object found by valid cognition in the continua of Samkhyas.
+The first [part of the sign] is necessary because 1) if such [a subject] is taken, then "eyes and so forth" would need to be the non-erroneous object found by valid cognition cognising the mode of abiding of eyes and so forth and 2) if such [a subject] is taken, then those would need to be the erroneous object found by valid cognition in the continua of Samkhyas.
 
 ཕྱི་མ་གྲུབ་སྟེ། སློབ་དཔོན་ལེགས་ལྡན་འབྱེད་ཀྱིས། གྲངས་ཅན་གྱི་ངོར་མིག་སོགས་དོན་དམ་པར་བདག་ལས་མི་སྐྱེ་བར་སྒྲུབ་པའི་ཚེ། 
 སློབ་དཔོན་དང་གྲངས་ཅན་གཉིས་ལ་མིག་སོགས་ཚད་མས་གྲུབ་ཚུལ་མཐུན་སྣང་བ་ཡོད་པའི་ཕྱིར། 
 The latter is established because when Bhavaviveka proves to the Samkhyas that eyes and so forth ultimately are not produced from self, there exists a mode in which eyes and so forth are established by valid cognition that is common to both the Acarya and the Samkhyas.
 
 རྟགས་དང་པོ་མིག་སོགས་དེ་མིག་སོགས་ཀྱི་གནས་ལུགས་འཇལ་བའི་ཚད་མའི་རྙེད་དོན་མ་ཡིན་ནོ། ཞེ་ན། 
-If the first reason is not established, i.e. eyes and so forth are not the object found by valid cognition comprehending the mode of abiding of eyes and so forth, then...
+If the first reason is not established, i.e. eyes and so forth are not the object found by valid cognition cognising the mode of abiding of eyes and so forth, then...
 
 དེ་ཆོས་ཅན། ཁྱོད་མིག་སོགས་ཀྱི་གནས་ལུགས་འཇལ་བའི་ཚད་མའི་རྙེད་དོན་ཡིན་པར་ཐལ། ཁྱོད་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པའི་ཕྱིར། རྟགས་ཁས།
-That subject, it follows that they are the object found by valid cognition comprehending the mode of abiding of eyes and so forth because they are established by way of their own-characteristics. You asserted the reason.
+That subject, it follows that they are the object found by valid cognition cognising the mode of abiding of eyes and so forth because they are established by way of their own-characteristics. You asserted the reason.
 
 *Refuting the example:* དཔེ་དགག་པ།
 The two:

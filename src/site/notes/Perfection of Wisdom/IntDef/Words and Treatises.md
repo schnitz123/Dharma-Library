@@ -3,6 +3,8 @@
 ---
 
 [[Perfection of Wisdom/IntDef/Words\|Words]]
+
 [[Perfection of Wisdom/IntDef/Treatise\|Treatise]]
 
+---
 Up a level: [[Perfection of Wisdom/IntDef/IntDef\|IntDef]]

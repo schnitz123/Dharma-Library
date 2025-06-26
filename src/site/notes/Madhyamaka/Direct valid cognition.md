@@ -5,7 +5,7 @@
 ཚད་མ་གང་ཞིག །རྟགས་ལ་དངོས་སུ་མ་བརྟེན་པར་རང་གི་འཛིན་སྟངས་ཀྱི་ཡུལ་དུ་གྱུར་པའི་གཞལ་བྱ་ལ་མི་སླུ་བའི་རིག་པ། མངོན་སུམ་ཚད་མའི་མཚན་ཉིད། 
 **Definition:** That which is:
 1. A valid cognition; and
-2. A knower that is non-deceptive wrt the object of comprehension that is its object of the mode of apprehension, without directly depending upon a sign.
+2. A knower that is non-deceptive wrt the cognised-object that is its object of the mode of apprehension, without directly depending upon a sign.
 
 **Divisions:** དབྱེ་ན།
 1. [[Madhyamaka/Sense direct perception\|Sense direct perception]] དབང་པོའི་མངོན་སུམ།
@@ -14,7 +14,7 @@
 
 ---
 གཞལ་བྱ་མངོན་སུམ་པ་ནི་རྟགས་ལ་མ་ལྟོས་པར་ཚུར་མཐོང་གིས་རྟོགས་ནུས་པ་རྣམས་ཡིན།
-Directly-perceptible objects of comprehension are those that ordinary beings are able to realise without relying upon signs.
+Directly-perceptible cognised-objects are those that ordinary beings are able to realise without relying upon signs.
 
 བུམ་པ་དང་། སྣམ་བུ་ལ་སོགས་པ་མངོན་སུམ་དང་། མངོན་གྱུར་ཡིན་ཅིང་། དེ་གཉིས་དོན་གཅིག
 Pot, cloth, and so forth, are directly-perceptible and manifest [phenomena]; those are mutually inclusive.

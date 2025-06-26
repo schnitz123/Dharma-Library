@@ -39,6 +39,8 @@ Will not know the profound suchness of the Buddha’s teachings. [9]
 འབྲས་བུ་དང་ནི་རྒྱུ་ཉིད་དང༌། །བྱེད་པ་པོ་དང་བྱེད་དང་བྱ། །སྐྱེ་བ་དང་ནི་འགག་པ་དང༌། །འབྲས་བུ་ལ་ཡང་གནོད་པ་བྱེད། །
 
 རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་གང༌། །དེ་ནི་སྟོང་པ་ཉིད་དུ་བཤད། །དེ་ནི་བརྟེན་ནས་གདགས་པ་སྟེ། །དེ་ཉིད་དབུ་མའི་ལམ་ཡིན་ནོ། །
+That which is dependently arisen, that is explained as emptiness.
+That is dependently designated. Just this is the Middle Way. [18]
 
 གང་ཕྱིར་རྟེན་འབྱུང་མ་ཡིན་པའི། །ཆོས་འགའ་ཡོད་པ་མ་ཡིན་པ། །དེ་ཕྱིར་སྟོང་པ་མ་ཡིན་པའི། །ཆོས་འགའ་ཡོད་པ་མ་ཡིན་ནོ། །
 

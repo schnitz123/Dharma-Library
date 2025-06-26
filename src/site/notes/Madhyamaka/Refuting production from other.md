@@ -73,7 +73,38 @@ If they did, then [a father] would give rise to an awareness thinking "I put thi
 Therefore, other-production is said to not exist even among worldly conventions.
 
 ---
-[[Madhyamaka/Refutation via the Arya meditative equipoise (Gomde Uma)\|Refutation via the Arya meditative equipoise (Gomde Uma)]]
+Three consequences to refute inherent existence (from the Root Text):
+1. [[Madhyamaka/Refutation via the Arya meditative equipoise (Gomde Uma)\|Refutation via the Arya meditative equipoise (Gomde Uma)]]
+{ #d6c0db}
+
+2. [[Madhyamaka/Refutation via withstanding ultimate analysis (Gomde Uma)\|Refutation via withstanding ultimate analysis (Gomde Uma)]]
+{ #175cec}
+
+3. [[Madhyamaka/Refutation via non-refutation of ultimate production (Gomde Uma)\|Refutation via non-refutation of ultimate production (Gomde Uma)]]
+{ #36a663}
+
+
+Plus one from the Autocommentary:
+ཀུན་བརྩེགས་ཀྱི་མདོ་སོགས་ལས། ཆོས་རྣམས་ཉིད་སྟོང་པ་ཉིད་དང་། ཞེས་ཆོས་རྣམས་རང་ངོས་ནས་སྟོང་པའམ་རང་སྟོང་བསྟན་པར་མི་འཐད་པར་ཐལ། 
+ཆོས་རྣམས་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པའི་ཕྱིར།
+It follows that sutras such as the Mound of Jewels Sutra stating "Phenomena themselves are just empty", indicating phenomena as empty from their own side, i.e. self-empty, are incorrect because phenomena are established by way of their own-character.
+
+ཁྱབ་སྟེ། རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པས་སྟོང་པ་ལས་གཞན་པའི་སྟོང་ཉིད་ནི། རང་སྟོང་མ་ཡིན་ལ་གཞན་སྟོང་ཡིན་པའི་ཕྱིར།
+There is pervasion because emptinesses that are other than being empty of being established by way of own-character are not self-empty but rather other-empty.
+
+For example: དཔེར་ན།  
+- In Svatantrika: Although all phenomena are established by way of their own character, they are empty of true existence རང་རྒྱུད་པའི་ལུགས་ལ། ཆོས་ཐམས་ཅད་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་ཀྱང་བདེན་པས་སྟོང་པ་དང།
+- In Cittamatra: Although other-powered natures are established by way of their own-character, they are empty of apprehenders and apprehended being different substances.
+  སེམས་ཙམ་པའི་ལུགས་ལ། གཞན་དབང་རྣམས་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་ཀྱང་བཟུང་འཛིན་རྫས་ཐ་དད་གྱིས་སྟོང་པ་ཡིན་ནོ།
+
+---
+གཟུགས་སོགས་དེ་དག་ཆོས་ཅན། རང་བཞིན་གྱིས་གྲུབ་པའི་རྟག་པ་མ་ཡིན་ལ་སྔར་རང་བཞིན་གྱིས་གྲུབ་ལ་ཕྱིས་མེད་པའི་ཆད་པའང་མ་ཡིན་ཏེ། 
+བདེན་པ་གཉིས་སུ་སྟེ་གཉིས་ཆར་དུའང་རང་བཞིན་གྱིས་གྲུབ་པ་རྡུལ་ཙམ་ཡང་མེད་པའི་ཕྱིར།
+The subject - forms and so forth - they are not inherently established permanents nor previously inherently established and later non-existent, i.e. annihilated, because even an atom of inherent establishment does not exist wrt both truths.
+
+[[Madhyamaka/Presentation of cause and effect does not require positing an Alaya\|Presentation of cause and effect does not require positing an Alaya]]
+{ #166916}
+
 
 ---
 Up a level: [[Madhyamaka/Reasoning of diamond slivers\|Reasoning of diamond slivers]]

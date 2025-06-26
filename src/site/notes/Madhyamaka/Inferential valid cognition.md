@@ -4,7 +4,7 @@
 
 རང་གི་རྟེན་རྟགས་ཡང་དག་ལ་བརྟེན་ནས་དངོས་སུ་སྐྱེས་ཤིང་། རང་ལ་ལྐོག་ཏུ་གྱུར་པའི་གཞལ་བྱ་ལ་མི་སླུ་བའི་རིག་པ། རྗེས་དཔག་གི་མཚན་ཉིད།
 **Definition:** A knower that is:
-1. Non-deceptive wrt an object of comprehension that is hidden to it; and
+1. Non-deceptive wrt a cognised-object that is hidden to it; and
 2. Directly produced in dependence upon a correct sign (its support).
 
 འདིའི་དབྱེ་བར་གྱུར་པའི་ལུང་གི་ཚད་མ་ནི། དཔྱད་གསུམ་གྱིས་དག་པའི་ལུང་གི་རྟགས་ལས། 

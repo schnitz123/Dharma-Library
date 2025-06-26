@@ -12,8 +12,6 @@ This and [[Lorig/Conceptual consciousness taking a meaning generality as its app
 **Engagement through other-exclusion / Engagement through the power of imprints:** For example, conception apprehending pot: by eliminating that which is other than pot or that which is opposite from pot, only pot appears.
 As opposed to: [[Collected Topics/Awareness collective engagers#^d4ca97\|Engagement through the force of the object]].
 See also: [[Collected Topics/Affirmations and Negations\|Other-exclusion]].
-{ #47889c}
-
 See also: [[Collected Topics/Elimination and determination\|Elimination and determination]]
 
 **Divisions:**

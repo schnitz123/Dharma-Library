@@ -5,6 +5,8 @@
 1. [[Perfection of Wisdom/IntDef/Imputational Nature\|Imputational Nature]] ཀུན་བརྟགས།
 2. [[Perfection of Wisdom/IntDef/Other-Powered Nature\|Other-Powered Nature]] གཞན་དབང་།
 3. [[Perfection of Wisdom/IntDef/Thoroughly-Established Nature\|Thoroughly-Established Nature]] ཡོངས་གྲུབ།
+---
+**Three natures wrt form:**
 
 རྟོག་པ་ལ་གཟུགས་སུ་སྣང་བ་གཟུགས་ཀྱི་ཀུན་བརྟགས་ཡིན། དེ་དང་ཀུན་བརྟགས་ཀྱི་གཟུགས་དོན་གཅིག 
 The appearance as form to a conceptual consciousness is the imputational nature of form.

@@ -32,4 +32,4 @@ Therefore, inherently existent things are not suitable because if they existed, 
 
 
 ---
-Up a level: [[Madhyamaka/Refuting production from other\|Refuting production from other]]
+Up a level: [[Madhyamaka/Refuting production from other#^d6c0db\|Refuting production from other]]

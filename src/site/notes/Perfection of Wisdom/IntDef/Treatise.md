@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/treatise/"}
 ---
 
-###### འཆོས་སྐྱོབ་ཀྱི་ཡོན་ཏན་གཉིས་དང་ལྡན་པའི་རིགས་སུ་གནས་པའི་ངག་རྣམ་དག<br>ནང་པ་སངས་རྒྱས་པའི་བསྟན་བཅོས་རྣམ་དག་གི་མཚན་ཉིད།
-###### རྩོམ་པ་པོ་རྣམ་གཡེང་མེད་པའི་ཡིད་ཅན་གྱིས་བཀའི་དགོངས་འགྲེལ་དུ་བརྩམས་པའི་རིགས་སུ་གནས་པའི་རབ་ཏུ་ཕྱེ་བའི་ངག་རྣམ་དག་གང་ཞིག  ཐར་པ་ཐོབ་པའི་ལམ་དང་རྗེས་སུ་མཐུན་པ།<br>བཀའ་དང་བསྟན་བཅོས་གཉིས་སུ་ཕྱེ་བའི་བསྟན་བཅོས་རྣམ་དག་གི་མཚན་ཉིད།
+འཆོས་སྐྱོབ་ཀྱི་ཡོན་ཏན་གཉིས་དང་ལྡན་པའི་རིགས་སུ་གནས་པའི་ངག་རྣམ་དག ནང་པ་སངས་རྒྱས་པའི་བསྟན་བཅོས་རྣམ་དག་གི་མཚན་ཉིད།
 **Pure Buddhist Treatise:** Pure speech abiding in the class of possessing the two qualities of transformation and protection.
+
+
+རྩོམ་པ་པོ་རྣམ་གཡེང་མེད་པའི་ཡིད་ཅན་གྱིས་བཀའི་དགོངས་འགྲེལ་དུ་བརྩམས་པའི་རིགས་སུ་གནས་པའི་རབ་ཏུ་ཕྱེ་བའི་ངག་རྣམ་དག་གང་ཞིག  
+ཐར་པ་ཐོབ་པའི་ལམ་དང་རྗེས་སུ་མཐུན་པ། བཀའ་དང་བསྟན་བཅོས་གཉིས་སུ་ཕྱེ་བའི་བསྟན་བཅོས་རྣམ་དག་གི་མཚན་ཉིད།
 **A Pure Treatise in the context of differentiating Word and Treatise:** 1) Pure speech distinguished by abiding in the class of being composed as a commentary on the Intention of Words by an author with an undistracted mind and 2) is concordant with the path for attaining liberation.
 
 **Divisions:**
@@ -64,3 +67,7 @@
 3. Grammar སྒྲ་རིག་པ།
 4. Logic གཏན་ཚིགས་རིག་པ།
 5. Buddhism ནང་རིག་པ།
+
+
+---
+Up a level: [[Perfection of Wisdom/IntDef/Words and Treatises\|Words and Treatises]]

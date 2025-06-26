@@ -5,7 +5,7 @@
 ཐལ་འགྱུར་ཡང་དག་གང་ཞིག ལྡོག་པ་རང་རྒྱུད་རང་དང་རིགས་མི་མཐུན་འཕེན་པ་དེ། ལྡོག་པ་གཞན་རིགས་འཕེན་པའི་ཐལ་འགྱུར་ཡང་དག་གི་མཚན་ཉིད།
 **Definition:** That which is:
 1. A correct consequence; and
-2. Conveys an opposite autonomous sign of a different type.
+2. Conveys a reverse autonomous sign of a different type.
 
 **Divisions:**
 1. [[Tarig/Consequence observing a result contradictory with a nature and conveying an autonomous sign observing a nature contradictory with a cause\|Consequence observing a result contradictory with a nature and conveying an autonomous sign observing a nature contradictory with a cause]]

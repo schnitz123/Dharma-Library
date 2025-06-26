@@ -16,7 +16,7 @@ This definition is not definitive, because "sound" is also that.
 2. x is ascertained by valid cognition as categorically existing, in accordance with the mode of statement, on the basis of sound by way of being mutually different from sound.
 
 **For x = product, those two reasons follow:** དེར་ཐལ།
-1. Because sound is the definition of that [[Tarig/Subject\|subject]].
+1. Because sound fulfils the definition of being that [[Tarig/Subject\|subject]].
 	1. Because the syllogism "Taking the subject - sound - it is impermanent because it is a product." exists;
 	2. Because persons who have ascertained by valid cognition that sound is a product but have not ascertained with valid cognition that sound is impermanent exist.
 2. Because:

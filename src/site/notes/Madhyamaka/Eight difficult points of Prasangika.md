@@ -6,7 +6,7 @@
 ལུགས་ཐུན་མོང་མ་ཡིན་པ་འདི་ལ་བརྟེན་ནས། རྣམ་པར་དག་པའི་གྲུབ་མཐའ་འགྲེལ་བྱེད་གཞན་དང་ཐུན་མོང་མ་ཡིན་པ་མང་དུ་ཡོད་དེ། དེ་གང་ཞེ་ན།
 **Illumination:** Regarding the way of explaining the Arya's texts, in dependence upon this uncommon system of explanation whereby even an atom of establishment by own-characteristics does not exist but that is sufficient for positing all actions and agents, there are many pure tenets that are uncommon with other commentators. What are they?
 
-To express the main ones for now: རེ་ཤིག་གཙོ་བོ་རྣམས་བརྗོད་ན། 
+To express the main ones for now: རེ་ཞིག་གཙོ་བོ་རྣམས་བརྗོད་ན། 
 1. The uncommon system of refuting an ālāyavijñāna that is a different entity to the six consciousnesses and
    ཚོགས་དྲུག་ལས་ངོ་བོ་ཐ་དད་པའི་ཀུན་གཞི་རྣམ་ཤེས་དང་།
 2. [The uncommon system of refuting self knowers]
@@ -22,6 +22,8 @@ To express the main ones for now: རེ་ཤིག་གཙོ་བོ་ར�
 7. Disintegration being a functioning thing ཞིག་པ་དངོས་པོ་ཡིན་པ་དང་།
 8. Due to that, a unique way of positing the three times
    དེའི་རྒྱུ་མཚན་གྱིས་དུས་གསུམ་གྱི་འཇོག་ཚུལ་ཐུན་མོང་མ་ཡིན་པ་སོགས་ཡིན་ནོ།
+
+[[Madhyamaka/Khedrup Tendarwa Eight plus Twelve Difficult Points\|Khedrup Tendarwa Eight plus Twelve Difficult Points]]
 
 ---
 ཀུན་གཞི་མེད་པ་དེ་ཐལ་འགྱུར་བའི་ཐུན་མོང་མ་ཡིན་པའི་གྲུབ་མཐའ་མ་ཡིན་པར་ཐལ། ཉན་ཐོས་སྡེ་གཉིས་ཀྱིས་ཀྱང་ཀུན་གཞི་མེད་པར་ཁས་ལེན། 

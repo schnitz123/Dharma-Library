@@ -5,7 +5,7 @@
 ཐལ་འགྱུར་ཡང་དག་གང་ཞིག  བཟློག་དོན་ཚུལ་གསུམ་ཚང་བ་དེ། སྒྲུབ་བྱེད་འཕེན་པའམ་རང་རྒྱུད་འཕེན་པའི་ཐལ་འགྱུར་ཡང་དག་གི་མཚན་ཉིད།
 **Definition:** That which is:
 1. A correct consequence; and
-2. Its opposite fulfils the three modes.
+2. Its reversed-meaning fulfils the three modes.
 
 སྒྲུབ་བྱེད་འཕེན་པའི་ཐལ་འགྱུར་ཡང་དག་ཡིན་ན། རང་ཉིད་སོང་ཚོད་ཀྱི་རྟགས་རང་འགོད་པ་སྐབས་སུ་བབ་པའི་ཕྱི་རྒོལ་ཡང་དག་གིས་ཁས་བླངས་ཤིང་། 
 ཚད་མས་མ་གྲུབ་པ་དང་། ཁྱབ་པ་ཚད་མས་གྲུབ་ཅིང་། དམ་བཅའ་ལ་ཚད་མས་བསལ་བ་ཞུགས་པ་གཅིག་དགོས་ཏེ།
@@ -16,8 +16,8 @@
 
 **This is because:**
 - If the effective sign of a correct consequence conveying a proof were established by valid cognition, the thesis of the correct syllogism conveyed by that would be negated by valid cognition; 
-  སྒྲུབ་བྱེད་འཕེན་པའི་ཐལ་འགྱུར་ཡང་དག་གང་དང་གང་གི་སོང་ཚོད་ཀྱི་རྟགས་ཚད་མས་གྲུབ་ན། དེས་འཕངས་པའི་སྦྱོར་བ་ཡང་དག་གི་དམ་བཅའ་ལ་
-  ཚད་མས་བསལ་བ་འབབ་ཅིང་།
+  སྒྲུབ་བྱེད་འཕེན་པའི་ཐལ་འགྱུར་ཡང་དག་གང་དང་གང་གི་སོང་ཚོད་ཀྱི་རྟགས་ཚད་མས་གྲུབ་ན། 
+  དེས་འཕངས་པའི་སྦྱོར་བ་ཡང་དག་གི་དམ་བཅའ་ལ་ཚད་མས་བསལ་བ་འབབ་ཅིང་།
 - If the pervasion were not established by valid cognition, the reverse pervasion of the correct syllogism conveyed by that would not be established; and 
   ཁྱབ་པ་ཚད་མས་མ་གྲུབ་ན། དེས་འཕངས་པའི་སྦྱོར་བ་ཡང་དག་གི་ལྡོག་ཁྱབ་མི་འགྲུབ་ལ།
 - If the thesis could not be negated by valid cognition, the property of the position of the syllogism conveyed by that would not be established. 

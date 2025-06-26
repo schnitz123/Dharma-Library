@@ -7,7 +7,7 @@
 **Definition:** That which is:
 1. A direct valid cognition; and
 2. A knower that is:
-	1. Non-deceptive wrt the object of comprehension that is its object of the mode of apprehension and
+	1. Non-deceptive wrt the cognised-object that is its object of the mode of apprehension and
 	2. Directly produced from the mental-faculty that is its unique empowering condition.
 
 **Divisions:** དབྱེ་ན།

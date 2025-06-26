@@ -3,7 +3,7 @@
 ---
 
 རྣམ་དག་ལམ་གྱི་དམིགས་པ་མཐར་ཐུག ཡོངས་གྲུབ་ཀྱི་མཚན་ཉིད།
-**Definition of Thoroughly-Established Nature:** A final objects of observation of a pure path.
+**Definition of Thoroughly-Established Nature:** A final observed-object of a pure path.
 
 **Terminological division:**
 1. Changeless འགྱུར་མེད་ཡོངས་གྲུབ།

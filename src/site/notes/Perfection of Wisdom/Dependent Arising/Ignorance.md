@@ -5,7 +5,8 @@
 རང་ཡུལ་ལ་རྨོངས་པའི་རྣམ་པས་འཇུག་པའི་སེམས་བྱུང་། མ་རིག་པའི་མཚན་ཉིད།
 **General definition:** A mental factor that engages its object through the factor of obscuration.
 
-རང་དང་རྟེན་འབྲེལ་ཚར་གཅིག་ཏུ་གཏོགས་པའི་འཕེན་བྱེད་ལས་ཀྱི་ཀུན་སློང་དུ་གྱུར་པའི་དེ་ཁོ་ན་ཉིད་ལ་རྨོངས་པའི་སེམས་བྱུང་། ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་དུ་གྱུར་པའི་མ་རིག་པའི་མཚན་ཉིད།
+རང་དང་རྟེན་འབྲེལ་ཚར་གཅིག་ཏུ་གཏོགས་པའི་འཕེན་བྱེད་ལས་ཀྱི་ཀུན་སློང་དུ་གྱུར་པའི་དེ་ཁོ་ན་ཉིད་ལ་རྨོངས་པའི་སེམས་བྱུང་། 
+ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་དུ་གྱུར་པའི་མ་རིག་པའི་མཚན་ཉིད།
 **Definition of ignorance that is a subdivision of the twelve links:**
 A mental factor that is obscured with respect to suchness and is the motivation for the projecting action included within the same round of dependent-arising.
 

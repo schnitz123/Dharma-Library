@@ -16,6 +16,10 @@
 
 See also: [[Perfection of Wisdom/Topics/Presentation of the three times\|Presentation of the three times (Perfection of Wisdom)]]
 
+[[Madhyamaka/Presentation of the three times - Lower Schools (Tendarwa)\|Presentation of the three times - Lower Schools (Tendarwa)]]
+[[Madhyamaka/Presentation of the three times - Prasangika (Tendarwa)\|Presentation of the three times - Prasangika (Tendarwa)]]
+
+
 ---
 འདས་པ་དངོས་པོ་ཡིན་ཏེ། ས་བཅུ་པའི་མདོ་ལས། སྐྱེ་བའི་རྐྱེན་གྱིས་རྒ་ཤི་སྟེ། ཞེས་ཤི་བ་དེ་རང་གི་རྒྱུར་གྱུར་པའི་སྐྱེ་བ་ལས་བྱུང་བར་བཤད་པ་གང་ཞིག 
 ཤི་བ་དེ་སེམས་ཅན་གང་ཤི་བའི་ཞིག་པར་འཇོག་པའི་ཕྱིར། 

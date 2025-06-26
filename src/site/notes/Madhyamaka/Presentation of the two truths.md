@@ -29,7 +29,7 @@ That follows because it is the object found by an exalted knower of all aspects 
 བུམ་པའི་ཆོས་ཉིད་ཆོས་ཅན། མཚོན་བྱ་དེར་ཐལ། མཚན་ཉིད་དེའི་ཕྱིར། 
 The subject - the dharmata of pot - it follows that it is that definiendum [i.e. a conventional truth] because it is that definition [i.e. It is the object found by a conventional valid cognition].
 
-དེར་ཐལ། ཇི་སྙེད་པ་མཁྱེན་པའི་རྣམ་མཁྱེ ན་གྱི་རྙེད་དོན་ཡིན་པའི་ཕྱིར།
+དེར་ཐལ། ཇི་སྙེད་པ་མཁྱེན་པའི་རྣམ་མཁྱེན་གྱི་རྙེད་དོན་ཡིན་པའི་ཕྱིར།
 That follows because it is the object found by an exalted knower of all aspects realising the varieties.
 
 ---

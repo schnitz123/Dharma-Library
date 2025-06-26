@@ -2,6 +2,14 @@
 {"dg-publish":true,"permalink":"/recitations/heart-sutra/"}
 ---
 
+སྨྲ་བསམ་བརྗོད་མེད་ཤེས་རབ་ཕ་རོལ་ཕྱིན། །མ་སྐྱེས་མི་འགག་ནམ་མཁའི་ངོ་བོ་ཉིད། 
+སོ་སོ་རང་རིག་ཡེ་ཤེས་སྤྱོད་ཡུལ་བ། །དུས་གསུམ་རྒྱལ་བའི་ཡུམ་ལ་ཕྱག་འཚལ་ལོ།
+The perfection of wisdom, inexpressible in speech and thought,
+Is unproduced, unceased, the nature of space,
+The object of one's self-aware exalted wisdom:
+I prostrate to the Mother of the Conquerors of the three times!
+
+---
 འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང༌། 
 བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་གཅིག་ཏུ་བཞུགས་ཏེ། 
 དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཟབ་མོ་སྣང་བ་ཞེས་བྱ་བ་ཆོས་ཀྱི་རྣམ་གྲངས་ཀྱི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་སོ། །

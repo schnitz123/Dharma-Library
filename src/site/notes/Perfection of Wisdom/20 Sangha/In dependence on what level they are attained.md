@@ -9,6 +9,7 @@ The results of:
 1. *Non-Returner preceded by the realisation of Leaper to Once-Returner* and
    འབྲས་བུ་ཐོད་རྒལ་བའི་ཕྱིར་འོང་གི་རྟོགས་པ་སྔོན་དུ་སོང་བའི་ཕྱིར་མི་འོང་གི་འབྲས་བུ།
 2. *Gradualist Non-Returner* འབྲས་བུ་རིམ་གྱིས་པའི་ཕྱིར་མི་འོང་གི་འབྲས་བུ།
+
 Are attained in dependence upon a preparation for the first concentration because the Approachers to those are pervaded by not having attained an actual concentration. This is because:
 - If it is the first, it is necessarily a Leaper Special Abider in Once-Returner;
   དང་པོ་དེ་ཡིན་ན། འབྲས་བུ་ཐོད་རྒལ་བའི་ཕྱིར་འོང་འབྲས་གནས་ཁྱད་པར་ཅན་ཡིན་དགོས།
@@ -19,7 +20,7 @@ Are attained in dependence upon a preparation for the first concentration becaus
 
 The result of a *Non-Returner previously separated from attachment* (ཆགས་བྲལ་སྔོན་སོང་གི་ཕྱིར་མི་འོང་གི་འབྲས་བུ། 
 i.e. Leaper) is attained in dependence upon an actual concentration because:
-- If it is an Approacher that, they are pervaded by having attained an actual concentration and 
+- If it is an Approacher to that, they are pervaded by having attained an actual concentration and 
 - There is no purpose in giving up an actual concentration, which is easier, to depend upon a preparation, which is more difficult. ལམ་སླ་བ་བསམ་གཏན་གྱི་དངོས་གཞི་བོར་ནས། དཀའ་བ་ཉེར་བསྡོགས་ལ་བརྟེན་པ་ལ་དགོས་པ་མེད་པའི་ཕྱིར།
 
 ཉན་ཐོས་དགྲ་བཅོམ་པའི་འབྲས་བུ་དེ་ཟག་མེད་ས་དགུ་གང་རུང་ལ་བརྟེན་ནས་ཐོབ་སྟེ།

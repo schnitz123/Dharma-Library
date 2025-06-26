@@ -46,11 +46,13 @@
 - [[Madhyamaka/Eight difficult points of Prasangika\|Eight difficult points of Prasangika]]
 - [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths]]
 - [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
+- [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]]
+	- [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya\|Presentation of cause and effect does not require positing an Alaya]]
+	- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
+	- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
+	- [[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]
 - [[Madhyamaka/Presentation of the three times\|Presentation of the three times]]
-- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
 - [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]
-- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
-- [[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]
 - [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]
 - 406
 

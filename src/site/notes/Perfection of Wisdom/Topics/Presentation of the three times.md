@@ -48,4 +48,5 @@ If it is a future-phenomenon, it is necessarily past in relation to that phenome
 - [[Perfection of Wisdom/Topics/Root, Supplement and 400 (3T)\|Root, Supplement and 400 (3T)]] རྩ་འཇུག་བཞི་གསུམ།
 
 ---
+See also: [[Madhyamaka/Presentation of the three times\|Presentation of the three times (Madhyamaka)]]
 Up a level: [[Perfection of Wisdom/Topics/Eighteen unmixed qualities of Buddhas\|Eighteen unmixed qualities of Buddhas]]
