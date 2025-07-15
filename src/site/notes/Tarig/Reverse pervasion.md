@@ -5,7 +5,7 @@
 དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་ཀྱི་དོན་ལྡོག་དང་འབྲེལ་སྟོབས་ཀྱིས་དེ་སྒྲུབ་ཀྱི་མི་མཐུན་ཕྱོགས་ལ་འགོད་ཚུལ་དང་མཐུན་པར་མེད་པ་ཉིད་དུ་ཚད་མས་ངེས་པ་དེ། 
 དེ་སྒྲུབ་ཀྱི་ལྡོག་ཁྱབ་ཀྱི་མཚན་ཉིད།
 **Definition of reverse pervasion in the proof of that:**
-That ascertained with valid cognition as categorically not existing, in accordance with the mode of statement, in the dissimilar class in the proof of that; through the force of being related to the meaning-isolate of the property of the probandum in the proof of that.
+That ascertained with valid cognition as categorically not existing, in accordance with the mode of statement, in the dissimilar class in the proof of that; through the force of being related to the meaning-isolate of the explicit property of the probandum in the proof of that.
 
 **Illustration:** product.
 

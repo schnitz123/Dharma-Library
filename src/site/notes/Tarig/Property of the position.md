@@ -26,5 +26,7 @@ This definition is not definitive, because "sound" is also that.
 		2. Sound *is* a product; and
 		3. Product *is* on the basis of the subject, sound.
 
+
+
 ---
 Up a level: [[Tarig/Three Modes\|Three Modes]]

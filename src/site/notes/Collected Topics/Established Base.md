@@ -74,6 +74,7 @@ See: [[Collected Topics/One and Different\|One and Different]]
 
 See also: [[Collected Topics/Contaminated and uncontaminated\|Contaminated and uncontaminated]]
 See also: [[Madhyamaka/Substantial and imputed existents\|Substantial and imputed existents]]
+See also: [[Collected Topics/Specifically and generally characterised phenomena\|Specifically and generally characterised phenomena]]
 
 ---
 Up a level: [[Collected Topics/Collected Topics\|Collected Topics]]

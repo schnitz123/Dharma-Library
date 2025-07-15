@@ -31,7 +31,7 @@ Those two *in the proof of that* are mutually exclusive; but "product" is both t
 2. Correct negation sign in the proof that sound is not permanent.
 
 ---
-[[Tarig/Division by way of mode of proof\|Division by way of mode of proof]]
+[[Tarig/Division by way of mode of proof\|Division by way of mode of proof]] / [[Tarig/Correct signs proving the meaning and convention\|Correct signs proving the meaning and convention]]
 
 [[Tarig/Division by way of thesis\|Division by way of thesis]]
 

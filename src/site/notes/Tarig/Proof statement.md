@@ -8,7 +8,7 @@
 3. Proof statement connecting to a dissimilar property ཆོས་མི་མཐུན་སྦྱོར་གྱི་སྒྲུབ་ངག
 
 **For example:**
-1. The subject - sound - it is impermanent because of being a product.
+1. The subject - sound - it is impermanent because of being a product. སྒྲ་ཆོས་ཅན། མི་རྟག་སྟེ། བྱས་པའི་ཕྱིར།
 2. If it is a product, it is pervaded by being impermanent; for example, like a pot, sound is also a product.
    བྱས་ན། མི་རྟག་པས་ཁྱབ། དཔེར་ན། བུམ་པ་བཞིན། སྒྲ་ཡང་བྱས་སོ།
 3. If it is permanent, it is pervaded by being a non-product; for example, like uncompounded space, but sound is a product.
@@ -25,7 +25,7 @@
 	- Implicitly: forward pervasion
 
 **Similarly:**
-- [[Tarig/Correct effect sign\|Correct effect sign]]:
+- [[Tarig/Correct effect sign\|Correct effect sign]]: 
 	- If smoke exists, it is pervaded by the existence of fire; for example, like in the kitchen, smoke also exists on the smokey mountain pass.
 	  དུ་བ་ཡོད་ན། མེ་ཡོད་པས་ཁྱབ། དཔེར་ན། ཚང་མང་བཞིན། དུ་ལྡན་གྱི་ལ་ལ་ཡང་དུ་བ་ཡོད་དོ།
 	- If fire does not exist, it is pervaded by the non-existence of smoke; for example, like in a waterfall, but smoke exists on the smokey mountain pass.

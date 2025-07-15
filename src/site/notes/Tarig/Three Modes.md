@@ -9,6 +9,9 @@
 
 Illustration of all three: product, i.e. the [[Tarig/Correct sign\|correct sign]].
 
+[[Tarig/Three modes in Pramanavartika\|Three modes in Pramanavartika]]
+
+---
 **The Eight Doors of a Consequence:** ཐལ་འགྱུར་སྒོ་བརྒྱད་ནི།
 1. *Four correct pervasions:* ཁྱབ་པ་རྣལ་མ་བཞི་ནི།
 	1. [[Tarig/Forward pervasion\|Forward pervasion]]: If it is the sign, it is pervaded by being the predicate.
