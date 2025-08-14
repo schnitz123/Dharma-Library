@@ -7,6 +7,10 @@
 
 This and [[Lorig/Non-conceptual\|non-conceptual consciousness]] are mutually inclusive.
 
+རང་ཡུལ་དུ་གྱུར་པའི་རང་མཚན་གསལ་བར་སྣང་བའི་རིག་པ། སྒྲུབ་འཇུག་གི་མཚན་ཉིད།
+**Definition (Pramana):** A knower to which the specifically characterised phenomenon that is its object clearly appears.
+
+---
 **Engagement through the force of the object:** དངོས་པོའི་དབང་གིས་འཇུག་པ་ནི།
 { #d4ca97}
 

@@ -19,7 +19,7 @@
 	- Explicitly: [[Tarig/Forward pervasion\|Forward pervasion]]
 	- Implicitly: [[Tarig/Reverse pervasion\|Reverse pervasion]]
 - "sound is also a product": Explicitly: [[Tarig/Property of the position\|Property of the position]] in relation to the [[Tarig/Subject\|Subject]]
-- "for example, like a pot": Explicitly: [[Tarig/Similar and Dissimilar Cases\|Similar case]]
+- "for example, like a pot": Explicitly: [[Tarig/Similar and Dissimilar Examples\|Similar case]]
 - Proof statement connecting to a dissimilar property:
 	- Explicitly: property of the position and reverse pervasion
 	- Implicitly: forward pervasion

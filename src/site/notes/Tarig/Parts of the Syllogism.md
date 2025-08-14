@@ -15,7 +15,7 @@ Taking the subject - sound - it is impermanent because it is a product. For exam
 **B:**
 - [[Tarig/Property of the probandum\|Property of the probandum]] / predicate / inferred property བསྒྲུབ་བྱའི་ཆོས།
 - *See also:* [[Tarig/Similar and Dissimilar Class\|Similar and Dissimilar Class]] མཐུན་ཕྱོགས། མི་མཐུན་ཕྱོགས། (also referred to as ཆོས་ཅན།)
-- *See also:*  [[Tarig/Similar and Dissimilar Cases\|Similar and Dissimilar Cases]] མཐུན་དཔེ། མི་མཐུན་དཔེ།
+- *See also:*  [[Tarig/Similar and Dissimilar Examples\|Similar and Dissimilar Examples]] མཐུན་དཔེ། མི་མཐུན་དཔེ།
 - Property of the negandum (¬B)  དགག་བྱའི་ཆོས། (see also: [[Tarig/object designated as the property of the negandum\|object designated as the property of the negandum]])
 
 **AB:**

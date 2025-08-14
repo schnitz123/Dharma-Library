@@ -31,6 +31,8 @@ Will not know the profound suchness of the Buddha’s teachings. [9]
 སྐྱོན་དུ་ཐལ་བར་འགྱུར་བ་ནི། །སྟོང་ལ་འཐད་པ་མ་ཡིན་པས། །ཁྱོད་ནི་སྟོང་ཉིད་སྤོང་བྱེད་པ། །གང་དེ་ང་ལ་མི་འཐད་དོ། །
 
 གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །གང་ལ་སྟོང་ཉིད་མི་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་མི་འགྱུར། །
+Those for whom emptiness is feasible, then everything becomes feasible.
+Those for whom emptiness is not feasible, then everything become feasible. [14]
 
 ཁྱོད་ནི་རང་གི་སྐྱོན་རྣམས་ནི། །ང་ལ་ཡོངས་སུ་སྒྱུར་བྱེད་པ། །རྟ་ལ་མངོན་པར་ཞོན་བཞིན་དུ། །རྟ་ཉིད་བརྗེད་པར་གྱུར་པ་བཞིན། །
 

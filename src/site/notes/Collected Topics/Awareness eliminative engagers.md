@@ -7,6 +7,7 @@
 
 This and [[Lorig/Conceptual consciousness taking a meaning generality as its apprehended object\|conceptual consciousness]] are mutually inclusive.
 
+---
 གཞན་སེལ་ནས་འཇུག་པའམ་བག་ཆགས་ཀྱི་དབང་གིས་འཇུག་པ་ནི།
 དཔེར་ན། བུམ་འཛིན་རྟོག་པ་དེ་བུམ་པ་ལས་གཞན་པའམ་བུམ་པ་ལས་ལོག་པ་སེལ་ནས་བུམ་པ་ཁོ་ནར་སྣང་།
 **Engagement through other-exclusion / Engagement through the power of imprints:** For example, conception apprehending pot: by eliminating that which is other than pot or that which is opposite from pot, only pot appears.

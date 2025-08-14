@@ -17,5 +17,5 @@
 [[Collected Topics/Generality and Instances\|Generality and Instances]]
 [[Collected Topics/Contradiction and Relation\|Contradiction and Relation]]
 [[Collected Topics/Past and Future\|Past and Future]]
-[[Collected Topics/Affirmations and Negations\|Affirmations and Negations]]
+[[Collected Topics/Affirmations and Negations\|Affirmations and Negations]] / [[Collected Topics/Other-exclusion\|Other-exclusion]]
 [[Collected Topics/Collective and Eliminative Engagers\|Collective and Eliminative Engagers]]
