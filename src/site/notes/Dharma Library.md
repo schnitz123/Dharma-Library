@@ -8,4 +8,4 @@ It is still very much a work in progress (and probably forever will be). At the 
 
 I am not super tech-savvy, so if you are and would like to help me improve the site somehow then please get in touch! Also, if there are any mistakes, typos, pages not working, etc. then please do let me know.
 
-Email: shahartene108@gmail.com
+[Contact me](mailto:shahartene108@gmail.com)
