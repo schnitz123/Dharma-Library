@@ -11,7 +11,7 @@
 
 ---
 རང་དང་འཛིན་སྟངས་འགལ་བའི་ཚད་མ་ཡོད་པའི་བློ། ལོག་ཤེས་ཀྱི་མཚན་ཉིད།
-**Definition of wrong consciousness:** An awareness where a valid cognition with a mode of apprehension contradictory to it exists.
+**Definition of wrong consciousness:** An awareness where a valid cognition with a contradictory mode of apprehension to it exists.
 { #55ad80}
 
 

@@ -6,24 +6,52 @@
 ལུགས་ཐུན་མོང་མ་ཡིན་པ་འདི་ལ་བརྟེན་ནས། རྣམ་པར་དག་པའི་གྲུབ་མཐའ་འགྲེལ་བྱེད་གཞན་དང་ཐུན་མོང་མ་ཡིན་པ་མང་དུ་ཡོད་དེ། དེ་གང་ཞེ་ན།
 **Illumination:** Regarding the way of explaining the Arya's texts, in dependence upon this uncommon system of explanation whereby even an atom of establishment by own-characteristics does not exist but that is sufficient for positing all actions and agents, there are many pure tenets that are uncommon with other commentators. What are they?
 
-To express the main ones for now: རེ་ཞིག་གཙོ་བོ་རྣམས་བརྗོད་ན། 
-1. The uncommon system of refuting an ālāyavijñāna that is a different entity to the six consciousnesses and
-   ཚོགས་དྲུག་ལས་ངོ་བོ་ཐ་དད་པའི་ཀུན་གཞི་རྣམ་ཤེས་དང་།
-2. [The uncommon system of refuting self knowers]
-   རང་རིག་འགོག་ལུགས་ཐུན་མོང་མ་ཡིན་པ་དང་།
-3. Not asserting that autonomous signs produce the view of suchness in the continuum of the opponent
-   རང་རྒྱུད་ཀྱི་སྦྱོར་བས་ཕྱི་རྒོལ་གྱི་རྒྱུད་ལ་དེ་ཁོ་ན་ཉིད་ཀྱི་ལྟ་བ་བསྐྱེད་པ་ཁས་མི་ལེན་པ་དང་།
-4. That just like consciousness is asserted, it is also necessary to assert external objects 
-   ཤེས་པ་ཁས་ལེན་པ་བཞིན་དུ་ཕྱི་རོལ་གྱི་དོན་ཡང་ཁས་ལེན་དགོས་པ་དང་།
-5. That Hearers and Solitary Realisers have realisation of the lack of inherent existence of things 
-   ཉན་རང་ལ་དངོས་པོ་རང་བཞིན་མེད་པར་རྟོགས་པ་ཡོད་པ་དང་།
-6. Positing the apprehension of a self of phenomena as an affliction 
-   ཆོས་ཀྱི་བདག་འཛིན་ཉོན་མོངས་སུ་འཇོག་པ་དང་།
-7. Disintegration being a functioning thing ཞིག་པ་དངོས་པོ་ཡིན་པ་དང་།
-8. Due to that, a unique way of positing the three times
-   དེའི་རྒྱུ་མཚན་གྱིས་དུས་གསུམ་གྱི་འཇོག་ཚུལ་ཐུན་མོང་མ་ཡིན་པ་སོགས་ཡིན་ནོ།
+**To express the main ones for now:** རེ་ཞིག་གཙོ་བོ་རྣམས་བརྗོད་ན།
+- Three non-assertions:
+	1. The uncommon system of refuting an ālāyavijñāna that is a different entity to the six consciousnesses and ཚོགས་དྲུག་ལས་ངོ་བོ་ཐ་དད་པའི་ཀུན་གཞི་རྣམ་ཤེས་དང་།
+	2. The uncommon system of refuting self knowers
+	   རང་རིག་འགོག་ལུགས་ཐུན་མོང་མ་ཡིན་པ་དང་།
+	3. Not asserting that autonomous signs produce the view of suchness in the continuum of the opponent
+	   རང་རྒྱུད་ཀྱི་སྦྱོར་བས་ཕྱི་རྒོལ་གྱི་རྒྱུད་ལ་དེ་ཁོ་ན་ཉིད་ཀྱི་ལྟ་བ་བསྐྱེད་པ་ཁས་མི་ལེན་པ་གསུམ་དང་།
+- Five assertions:
+	1. That just like consciousness is asserted, it is also necessary to assert external objects 
+	   ཤེས་པ་ཁས་ལེན་པ་བཞིན་དུ་ཕྱི་རོལ་གྱི་དོན་ཡང་ཁས་ལེན་དགོས་པ་དང་།
+	2. That Hearers and Solitary Realisers have realisation of the lack of inherent existence of things 
+	   ཉན་རང་ལ་དངོས་པོ་རང་བཞིན་མེད་པར་རྟོགས་པ་ཡོད་པ་དང་།
+	3. Positing the apprehension of a self of phenomena as an affliction 
+	   ཆོས་ཀྱི་བདག་འཛིན་ཉོན་མོངས་སུ་འཇོག་པ་དང་།
+	4. Disintegration being a functioning thing ཞིག་པ་དངོས་པོ་ཡིན་པ་དང་།
+	5. Due to that, a unique way of positing the three times
+	   དེའི་རྒྱུ་མཚན་གྱིས་དུས་གསུམ་གྱི་འཇོག་ཚུལ་ཐུན་མོང་མ་ཡིན་པ་སོགས་ཡིན་ནོ།
+
+**Fifteen Difficult points included within the "and so forth":**
+1. The boundary for when the knowledge obscurations are abandoned ཤེས་སྒྲིབ་ཀྱི་མཚམས་གང་ལ་སྤང་པ།
+2. Unique way of positing the person གང་ཟག་གི་འཇོག་ཚུལ་ཐུན་མོང་མ་ཡིན་པ།
+3. Identification of coarse and subtle afflictions ཉོན་མོངས་ཀྱི་ངོས་འཛིན་ལ་ཕྲ་རགས་གཉིས་དང་།
+4. Positing that one is unable to be liberated from Samsara merely through the path of the sixteen aspects (impermanence and so forth) མི་རྟག་སོགས་བཅུ་དྲུག་གི་ལམ་ཙམ་གྱིས་འཁོར་བ་ལས་གྲོལ་མི་ཐུབ་པའི་འདོད་ཚུལ།
+5. The existence of yogic direct perception in the continua of ordinary beings
+   ཚུར་མཐོང་གི་རྒྱུད་ལ་རྣལ་འབྱོར་མངོན་སུམ་ཡོད་པ།
+6. Nirvana without remainder is attained first ལྷག་མེད་མྱང་འདས་དང་པོ་ཐོབ་པ། (see: [[Madhyamaka/Hinayana Nirvana with and without remainder\|here]])
+7. The uncommon [[Madhyamaka/Absorption of cessation\|absorption of cessation]] is pervaded by being a consciousness
+   ཐུན་མོང་མ་ཡིན་པའི་འགོག་སྙོམས་ལ་ཤེས་པ་ཡིན་པས་ཁྱབ་པ།
+8. True cessations are pervaded by being emptiness འགོག་བདེན་ལ་སྟོང་ཉིད་ཀྱིས་ཁྱབ་པ།
+9. Not asserting real conventionalities ཡང་དག་ཀུན་རྫོབ་མི་བཞེད་པ།
+10. Consciousnesses possessing dualistic appearances in the continua of Learners are pervaded by being contaminated སློབ་པའི་རྒྱུད་ཀྱི་གཉིས་སྣང་ཅན་གྱི་ཤེས་པ་ལ་ཟག་བཅས་ཀྱིས་ཁྱབ་པ།
+11. If it is a consciousness, then it is pervaded by being a valid cognition wrt its appearance
+    ཤེས་པ་ཡིན་ན་རང་གི་སྣང་བ་ལ་ཚད་མ་ཡིན་པས་ཁྱབ་པ།
+12. The existence of valid cognition that is mistaken wrt its cognised-object རང་གྱི་གཞལ་བྱ་ལ་འཁྲུལ་བའི་ཚད་མ་ཡོད་པ།
+    (see: [[Madhyamaka/Presentation of valid cognition\|here]])
+13. Subsequent cognition is pervaded by being valid cognition དཔྱད་ཤེས་ལ་ཚད་མ་ཡིན་པས་ཁྱབ་པ།
+14. Learners' exalted wisdom directly realising emptiness are pervaded by being Knower of Bases
+    སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་སློབ་པའི་ཡེ་ཤེས་ལ་གཞི་ཤེས་ཀྱིས་ཁྱབ་པ།
+15. Not asserting production from other གཞན་སྐྱེ་ཁས་མི་ལེན་པ།
+
+[[Madhyamaka/Gyaltsab Je's Notes on the Eight Difficult Points\|Gyaltsab Je's Notes on the Eight Difficult Points]]
 
 [[Madhyamaka/Khedrup Tendarwa Eight plus Twelve Difficult Points\|Khedrup Tendarwa Eight plus Twelve Difficult Points]]
+
+Many others, e.g. Manifest phenomenon and hidden phenomenon are mutually inclusive 
+མངོན་གྱུར་དང་ལྐོག་གྱུར་གཉིས་དོན་གཅིག
 
 ---
 ཀུན་གཞི་མེད་པ་དེ་ཐལ་འགྱུར་བའི་ཐུན་མོང་མ་ཡིན་པའི་གྲུབ་མཐའ་མ་ཡིན་པར་ཐལ། ཉན་ཐོས་སྡེ་གཉིས་ཀྱིས་ཀྱང་ཀུན་གཞི་མེད་པར་ཁས་ལེན། 
@@ -64,6 +92,7 @@ Alternatively, there are many ways in which the Glorious Chandrakirti explains t
 	- That the apprehension is of a self of phenomena is an afflictive obscuration
 	  ཆོས་ཀྱི་བདག་འཛིན་ཉོན་སྒྲིབ་ཡིན་པ་དང་།
 	- That disintegration is a functioning thing ཞིག་པ་དངོས་པོ་ཡིན་པར་འགྲེལ་བར་བྱེད་པའི་འགྲེལ་ཚུལ་དུ་མ་ཡོད་པའི་ཕྱིར།
+	- [Plus: the unique way of positing the three times དུས་གསུམ་གྱི་འཇོག་ཚུལ་ཐུན་མོང་མ་ཡིན་པ།]
 
 ---
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]

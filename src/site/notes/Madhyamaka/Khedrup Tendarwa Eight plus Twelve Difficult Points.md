@@ -16,7 +16,7 @@
 	4. Non-assertion of production from other གཞན་སྐྱེ་མི་འདོད་པ།
 
 དེ་དག་ཁས་མི་ལེན་པ་དེ། རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ་ཁས་ལེན་པ་ལ་ཐུག
-**Those are not asserted due to asserting establishment by way of own-character because:**
+**Not asserting those is due to asserting establishment by way of own-character because:**
 1. In dependence upon asserting that phenomena and persons are established by way of own-character, the two conceptions apprehending those two as established by way of own-character are not asserted as the apprehensions of a self of phenomena and persons, respectively; in dependence upon that, it is asserted that directly realising the subtle selflessness of persons, is not pervaded by directly realising emptiness and that aryas are not pervaded by directly realising emptiness.
    ཆོས་དང་གང་ཟག་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་ཁས་བླངས་པ་ལ་བརྟེན་ནས། དེ་གཉིས་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་འཛིན་པའི་རྟོག་པ་གཉིས་པོ་དེ།
    རིམ་པ་བཞིན་དུ་ཆོས་ཀྱི་བདག་འཛིན་དང་གང་ཟག་གི་བདག་འཛིན་དུ་ཁས་མ་བླངས་ཤིང༌། དེ་ལ་བརྟེན་ནས་གང་ཟག་གི་བདག་མེད་ཕྲ་མོ་མངོན་སུམ་དུ་རྟོགས་ན། 

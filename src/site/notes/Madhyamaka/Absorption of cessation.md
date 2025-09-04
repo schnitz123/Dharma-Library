@@ -8,7 +8,7 @@
 1. Being attained in dependence upon the supramundane path and actual Peak of Existence absorption that are its method of attainment; and
 2. Abiding in the class of being separated from attachment to the Peak of Existence.
 
-See also: [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|Absorption of cessation (Svatantrika)]] / [[Perfection of Wisdom/Topics/Absorption of cessation (Prasangika)\|Absorption of cessation (Prasangika)]]
+See also (Ornament): [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|Absorption of cessation (Svatantrika)]] / [[Perfection of Wisdom/Topics/Absorption of cessation (Prasangika)\|Absorption of cessation (Prasangika)]]
 
 ས་དྲུག་པའི་སྔ་རོལ་ས་ལྔ་པ་མན་ཆད་དུ་འདིར་བསྟན་ཐུན་མོང་མ་ཡིན་པའི་འགོག་སྙོམས་མི་ཐོབ་སྟེ། 
 ས་ལྔ་པ་མན་ཆད་དུ་ཤེར་ཕྱིན་ལྷག་པའི་ཡོན་ཏན་ཁྱད་པར་ཅན་མ་ཐོབ་པའི་ཕྱིར།

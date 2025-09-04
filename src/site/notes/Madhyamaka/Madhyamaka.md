@@ -43,6 +43,7 @@
 	- [[Madhyamaka/Measure of the object of negation (Prasangika)\|Measure of the object of negation (Prasangika)]]
 - [[Madhyamaka/Reasoning refuting true existence\|Reasoning refuting true existence]]
 	- [[Madhyamaka/Reasoning of diamond slivers\|Reasoning of diamond slivers]]
+	- [[Madhyamaka/Four great reasonings refuting establishment by own-character (Gomde)\|Four great reasonings refuting establishment by own-character (Gomde)]]
 - [[Madhyamaka/Eight difficult points of Prasangika\|Eight difficult points of Prasangika]]
 - [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths]]
 - [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
