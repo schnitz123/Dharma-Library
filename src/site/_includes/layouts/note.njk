@@ -12,6 +12,11 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.head %}
       {% include imp %}
     {% endfor %}
+
+<script 
+  src="https://www.paypal.com/sdk/js?client-id=BAAeYsyT7tTgRjhRr3n0A4NAmpZRUIup88VJdHePMlAN_X8Yjwkm7RzOxqpZlT1ENRDh0o_SnzZEf4GJxQ&components=hosted-buttons&disable-funding=venmo&currency=GBP">
+</script>
+
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
