@@ -40,3 +40,4 @@ By Ācārya Tenzin Gyurme
   </div>
 </div>
 
+If you prefer, please contact me (shahartene108@gmail.com) to make the offering via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for both the person sending, has better exchange rates, and incurs less fees.
