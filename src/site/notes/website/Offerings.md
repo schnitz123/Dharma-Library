@@ -42,7 +42,7 @@ If you agree and would like to support the Dharma Library in making more resourc
 </div>
 
 
-If you prefer, please contact me (shahartene108@gmail.com) to donate via bank transfer; I can provide local bank account details in GBP/EUR/USD etc.
+If you prefer, please contact me (shahartene108@gmail.com) to make the offering via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for both the person sending, has better exchange rates, and incurs less fees.
 
 
 

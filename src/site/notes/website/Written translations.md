@@ -24,7 +24,7 @@ Arya Nagarjuna's Essence of Dependent-Arising (Tib-Eng) (version 1.1 uploaded 07
 - <a href="/pdf/essence%20of%20dependent%20arising.pdf" download>Download here</a>
 
 Ācārya Tenzin Gyurme's Opening the Door to Liberation: Clear Explanation of the Presentation of the Sixteen Aspects of the Four Truths
-- [[website/Opening the Door to Liberation Clear Explanation of the Presentation of the Sixteen Aspects of the Four Truths\|See here]]
+- [[website/Offerings for translation\|See here]]
 
 **Upcoming:**
 
