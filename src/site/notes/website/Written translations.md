@@ -23,10 +23,10 @@ Kunkhyen Jigme Wangpo's Commentary on Jangkya Rolpe Dorje's Recognising My Mothe
 Arya Nagarjuna's Essence of Dependent-Arising (Tib-Eng) (version 1.1 uploaded 07/06/25)
 - <a href="/pdf/essence%20of%20dependent%20arising.pdf" download>Download here</a>
 
+**Upcoming:**
+
 Ācārya Tenzin Gyurme's Opening the Door to Liberation: Clear Explanation of the Presentation of the Sixteen Aspects of the Four Truths
 - [[website/Offerings for translation\|See here]]
-
-**Upcoming:**
 
 Jetsunpa's Great and Small Presentations of Paths and Grounds
 
