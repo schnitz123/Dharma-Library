@@ -6,7 +6,7 @@
 **Definition:** A final exalted wisdom directly realising the ten, [[Perfection of Wisdom/Topics/Mahayana Mind Generation\|mind generation]] and so forth.
 
 དེ་དང་སངས་རྒྱས་འཕགས་པའི་རྒྱུད་ཀྱི་མཁྱེན་པ་དོན་གཅིག
-This and an exalted knower in an Arya Buddha's continuum are mutually inclusive.
+This and an exalted knower in an Arya Buddha's continuum are mutually inclusive
 
 **Divisions:**
 1. Exalted knower of all aspects knowing all aspects of objects of knowledge without exception
@@ -16,6 +16,7 @@ This and an exalted knower in an Arya Buddha's continuum are mutually inclusive.
 
 ས་མཚམས་སངས་རྒྱས་ཀྱི་ས་ཁོ་ནར་ཡོད།
 **Boundaries:** exists only on the Buddha-ground.
+
 
 ---
 Topics: [[Perfection of Wisdom/70 Topics/70 Topics#^ea0876\|Ten Topics of an Exalted Knower of All Aspects]]

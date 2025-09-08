@@ -49,7 +49,7 @@ That follows because the Svatantrikas and below assert that actions inherently c
 ཉན་ཐོས་མཐོང་ལམ་བར་ཆད་མེད་ལམ་པའི་གདགས་གཞི་ཕུང་པོ་ལྔ་པོ་གང་རུང་དེ། ཤེས་སྒྲིབ་ལྷན་སྐྱེས་ཀྱི་བག་ཆགས་ཀྱིས་མ་གོས་ཀྱང༌། 
 དེ་འདྲ་བའི་གང་ཟག་དེ། དེའི་བག་ཆགས་ཀྱིས་གོས་པ་མི་འགལ་ཏེ།
 In this system that posits an uninvestigated unanalysed basis for the depositing of the imprints of virtuous and non-virtuous actions, it is not contradictory that:
-- Although any of the five aggregate that are the basis of designation for the Hearer on the uninterrupted path of seeing are not imprinted with the imprints that are innate knowledge obscurations,
+- Although none of the five aggregate that are the basis of designation for the Hearer on the uninterrupted path of seeing are imprinted with the imprints that are innate knowledge obscurations,
 - Such a person is imprinted with the imprints of those.
 
 དཔེར་ན། སྲིད་རྩེའི་རྟེན་ཅན་གྱི་ཕྱིར་མི་འོང་དེ། ཅི་ཡང་མེད་ཀྱི་དངོས་གཞི་ལ་བརྟེན་ནས་ཉན་ཐོས་ཀྱི་སྒོམ་ལམ་རྡོ་རྗེ་ལྟ་བུའི་ཏིང་འཛིན་མངོན་དུ་བྱས་པ་དེའི་ཚེ་ན། 
@@ -73,4 +73,4 @@ The first sign is established because asserting that the mere "I" designated upo
 
 
 ---
-Up a level: [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya\|Presentation of cause and effect does not require positing an Alaya]]
+Up a level: [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Gomde)\|Presentation of cause and effect does not require positing an Alaya (Gomde)]]

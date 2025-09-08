@@ -23,7 +23,7 @@ See also: [[Perfection of Wisdom/Topics/Presentation of the three times\|Present
 ---
 འདས་པ་དངོས་པོ་ཡིན་ཏེ། ས་བཅུ་པའི་མདོ་ལས། སྐྱེ་བའི་རྐྱེན་གྱིས་རྒ་ཤི་སྟེ། ཞེས་ཤི་བ་དེ་རང་གི་རྒྱུར་གྱུར་པའི་སྐྱེ་བ་ལས་བྱུང་བར་བཤད་པ་གང་ཞིག 
 ཤི་བ་དེ་སེམས་ཅན་གང་ཤི་བའི་ཞིག་པར་འཇོག་པའི་ཕྱིར། 
-The past is a thing because 1) the Sutra on the Ten Grounds says "Through the condition of birth, ageing and death;" explaining that death arises from birth that is its cause and 2) death is posited as the disintegration of the dying sentient being.
+The past is a thing because 1) the Sutra on the Ten Grounds says "Through the condition of birth, ageing and death;" explaining that death arises from birth that is its cause and 2) death is posited as the disintegration of the dead sentient being.
 
 Therefore: དེས་ན་
 - Although fire is past at the time of smoke, it is not past མེ་དུ་བའི་དུས་སུ་འདས་པ་ཡིན་ཡང་། འདས་པ་མ་ཡིན།

@@ -48,7 +48,7 @@
 - [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths]]
 - [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
 - [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]]
-	- [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya\|Presentation of cause and effect does not require positing an Alaya]]
+	- [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Gomde)\|Presentation of cause and effect does not require positing an Alaya (Gomde)]]
 	- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
 	- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
 	- [[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]

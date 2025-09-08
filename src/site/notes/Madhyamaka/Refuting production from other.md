@@ -80,7 +80,7 @@ Therefore, other-production is said to not exist even among worldly conventions.
 བདེན་པ་གཉིས་སུ་སྟེ་གཉིས་ཆར་དུའང་རང་བཞིན་གྱིས་གྲུབ་པ་རྡུལ་ཙམ་ཡང་མེད་པའི་ཕྱིར།
 The subject - forms and so forth - they are not inherently established permanents nor previously inherently established and later non-existent, i.e. annihilated, because even an atom of inherent establishment does not exist wrt both truths.
 
-[[Madhyamaka/Presentation of cause and effect does not require positing an Alaya\|Presentation of cause and effect does not require positing an Alaya]]
+[[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Gomde)\|Presentation of cause and effect does not require positing an Alaya (Gomde)]]
 { #166916}
 
 

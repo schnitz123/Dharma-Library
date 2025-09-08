@@ -12,18 +12,18 @@ If it is an established base, it is pervaded by being a dependent-arising.
 That which 1) arose from the [[Perfection of Wisdom/Dependent Arising/three conditions\|three conditions]] that are its causes and 2) is Samsara that is either a true suffering or origin.
 
 **Divisions:**
-1. [[Perfection of Wisdom/Dependent Arising/Ignorance\|Ignorance]]
-2. [[Perfection of Wisdom/Dependent Arising/Compositional actions\|Compositional actions]]
-3. [[Perfection of Wisdom/Dependent Arising/Consciousness\|Consciousness]]
-4. [[Perfection of Wisdom/Dependent Arising/Name and form\|Name and form]]
-5. [[Perfection of Wisdom/Dependent Arising/Six sense-spheres\|Six sense-spheres]]
-6. [[Perfection of Wisdom/Dependent Arising/Contact\|Contact]]
-7. [[Perfection of Wisdom/Dependent Arising/Feeling\|Feeling]]
-8. [[Perfection of Wisdom/Dependent Arising/Craving\|Craving]]
-9. [[Perfection of Wisdom/Dependent Arising/Grasping\|Grasping]]
-10. [[Perfection of Wisdom/Dependent Arising/Existence\|Existence]]
-11. [[Perfection of Wisdom/Dependent Arising/Birth\|Birth]]
-12. [[Perfection of Wisdom/Dependent Arising/Ageing and death\|Ageing and death]]
+1. [[Perfection of Wisdom/Dependent Arising/Ignorance\|Ignorance]] མ་རིག་པ།
+2. [[Perfection of Wisdom/Dependent Arising/Compositional actions\|Compositional actions]] འདུ་བྱེད་ཀྱི་ལས།
+3. [[Perfection of Wisdom/Dependent Arising/Consciousness\|Consciousness]] རྣམ་ཤེས།
+4. [[Perfection of Wisdom/Dependent Arising/Name and form\|Name and form]] མིང་གཟུགས།
+5. [[Perfection of Wisdom/Dependent Arising/Six sense-spheres\|Six sense-spheres]] སྐྱེ་མཆེད་དྲུག
+6. [[Perfection of Wisdom/Dependent Arising/Contact\|Contact]] རེག་པ།
+7. [[Perfection of Wisdom/Dependent Arising/Feeling\|Feeling]] ཚོར་བ།
+8. [[Perfection of Wisdom/Dependent Arising/Craving\|Craving]] སྲེད་པ།
+9. [[Perfection of Wisdom/Dependent Arising/Grasping\|Grasping]] ལེན་པ།
+10. [[Perfection of Wisdom/Dependent Arising/Existence\|Existence]] སྲིད་པ།
+11. [[Perfection of Wisdom/Dependent Arising/Birth\|Birth]] སྐྱེ་བ།
+12. [[Perfection of Wisdom/Dependent Arising/Ageing and death\|Ageing and death]] རྒ་ཤི།
 
 **Modes of Subsuming:**
 1. Four Branches:

@@ -10,7 +10,7 @@ In this context, there are four sutras that require commentary as interpretative
    ཕྱི་དོན་མེད་པར་སྟོན་པའི་དགོངས་འགྲེལ་གྱི་མདོ།
 3. The Sutra Unravelling the Thought's indication of the differentiation of which of the three natures are truly existent and not in accordance with the Cittamatrins' assertions
    མཚན་ཉིད་གསུམ་ལ་སེམས་ཙམ་པས་འདོད་པ་ལྟར་གྱི་བདེན་པར་ཡོད་མེད་ཀྱི་ཁྱད་པར་ཕྱེ་ནས་སྟོན་པའི་དགོངས་འགྲེལ་གྱི་མདོ།
-4. The Sutra Unravelling the Thought's indication of the establishing of three final vehicles
+4. The Sutra Unravelling the Thought's indication of the establishment of three final vehicles
    མཐར་ཐུག་ཐེག་པ་གསུམ་དུ་གྲུབ་པར་སྟོན་པའི་དགོངས་འགྲེལ་གྱི་མདོ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།
 
 ---
