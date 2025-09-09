@@ -5,7 +5,7 @@
 <img src="/img/user/website/tenzingyurme.png" alt="Profile" style="float: right; margin: 0 20px 20px 0; width: 400px;">Opening the Door to Liberation: Clear Explanation of the Presentation of the Sixteen Aspects of the Four Truths
 By Ācārya Tenzin Gyurme
 
-If possible, please [contact me](mailto:shahartene108@gmail.com) to make offerings via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for the person sending, has better exchange rates, and incurs less fees.5
+If possible, please [contact me](mailto:shahartene108@gmail.com) to make offerings via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for the person sending, has better exchange rates, and incurs less fees.
 
 Otherwise, offerings are more than welcome through Paypal, cards, etc., using the link below but please be aware that this often incurs fees upward of 5%
 <div style="text-align: center;">
