@@ -6,6 +6,9 @@ All the resources and translations offered in the Dharma Library are for free di
 
 If you agree and would like to support the Dharma Library in making more resources available and producing more translations, then please consider making an offering:
 
+If possible, please [contact me](mailto:shahartene108@gmail.com) to make offerings via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for the person sending, has better exchange rates, and incurs less fees.5
+
+Otherwise, offerings are more than welcome through Paypal, cards, etc., using the link below but please be aware that this often incurs fees upward of 5%
 <div style="text-align: center;">
   <div style="display: inline-block; padding: 1rem; border: 1px solid #ccc; border-radius: 0.5rem; background-color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 2em 0; max-width: 90%; min-width: 250px;">
     <form action="https://www.paypal.com/ncp/payment/YNMTCDD5TUQDQ" method="post" target="_blank" style="display: inline-grid; justify-items: center; align-content: start; gap: 0.5rem; width: 100%;">
@@ -40,9 +43,7 @@ If you agree and would like to support the Dharma Library in making more resourc
     </form>
   </div>
 </div>
-
-
-If you prefer, please [contact me](mailto:shahartene108@gmail.com) to make the offering via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for the person sending, has better exchange rates, and incurs less fees.
+<p align=center>Many thanks!</p>
 
 
 

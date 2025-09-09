@@ -41,24 +41,22 @@ Although rabbit-horns and space are not produced and not come (i.e. "future") th
 མྱུ་གུའི་ཞིག་པ་སྐད་ཅིག་ཇི་སྙེད་ཅིག་འབྱུང་བ་ཐམས་ཅད་ཀྱང༌། སྔ་མ་སྔ་མ་ལས་ཕྱི་མ་ཕྱི་མ་སྐྱེ་བའི་ཕྱིར།
 The disintegratedness of sprout is produced and not ceased because just like in the case of any and all instants of sprout latter moments are produced from previous moments, similarly for any and all instants of the disintegratedness of sprout: latter moments are produced from previous moments.
 
-དུས་གསུམ་འགལ་བ་ཡིན་ཏེ། འདས་པའི་རིགས་འདྲ་ཇི་སྙེད་ཅིག་འབྱུང་བ་ཐམས་ཅད། དངོས་པོ་གཞན་ཞིག་འདས་པའི་ཆ་ལས་འཇོག་པ་དང༌།
-མ་འོངས་པའི་རིགས་འདྲ་ཇི་སྙེད་ཅིག་འབྱུང་བ་ཐམས་ཅད། དངོས་པོ་གཞན་ཞིག་སྐྱེ་བའི་རྒྱུ་ཡོད་ཅིང་མ་སྐྱེས་པའི་ཆ་ལས་འཇོག་པའི་ཕྱིར་དང༌། 
-ད་ལྟ་བ་ལ་དེ་ལྟ་བུའི་ཁྱད་ཆོས་མེད་པའི་ཕྱིར།
-**The three times are mutually exclusive** because:
-- Any and all instances of the similar class of past is posited through the factor of another thing having passed;
+**The three times are mutually exclusive** because: དུས་གསུམ་འགལ་བ་ཡིན་ཏེ། 
+- Any and all instances of the similar class of past is posited through the factor of another thing having passed; འདས་པའི་རིགས་འདྲ་ཇི་སྙེད་ཅིག་འབྱུང་བ་ཐམས་ཅད། དངོས་པོ་གཞན་ཞིག་འདས་པའི་ཆ་ལས་འཇོག་པ་དང༌།
 - Any and all instances of the similar class of future is posited through the factor of another thing's cause for production existing but it not having been produced; and
-- Present does not have such a distinguishing feature.
+  མ་འོངས་པའི་རིགས་འདྲ་ཇི་སྙེད་ཅིག་འབྱུང་བ་ཐམས་ཅད། དངོས་པོ་གཞན་ཞིག་སྐྱེ་བའི་རྒྱུ་ཡོད་ཅིང་མ་སྐྱེས་པའི་ཆ་ལས་འཇོག་པའི་ཕྱིར་དང༌།
+- Present does not have such a distinguishing feature. ད་ལྟ་བ་ལ་དེ་ལྟ་བུའི་ཁྱད་ཆོས་མེད་པའི་ཕྱིར།
 
 ---
 **Proving past and future are things**
 
 མྱུ་གུའི་འཇིག་པ་རྒྱུ་རྐྱེན་ལ་བལྟོས། དེ་ཞིག་པ་རྐྱེན་ལ་མི་བལྟོས་ན། མྱུ་གུ་སྐད་ཅིག་མ་མ་ཡིན་པར་ཐལ། 
 དེ་འཇིག་རྒྱུ་རང་གི་སྐྱེ་བྱེད་ལས་དོན་གཞན་ལ་བལྟོས་མེད་ཀྱི་དངོས་པོ་ཡིན་པའི་ཕྱིར། དེར་ཐལ། དེའི་འཇིག་པ་རྒྱུ་རྐྱེན་ལ་མི་བལྟོས་པའི་ཕྱིར།
-The disintegration of sprout depends upon causes and conditions. It follows that if the disintegratedness of that does not depend upon conditions, then sprout would not be momentary because of being a thing that does not depend upon a cause of disintegration that is a separate-object to to its producer. That follows because its disintegration does not depend upon causes and conditions.
+If the disintegration of sprout depends upon causes and conditions whereas the disintegratedness of that does not depend upon conditions, then it follows that sprout would not be momentary because of being a thing that does not depend upon a cause of disintegration that is a separate-object to its producer. That follows because its disintegration does not depend upon causes and conditions.
 
 གཞན་ཡང༌། མྱུ་གུའི་འཇིག་པ་རྒྱུ་རྐྱེན་ལ་བལྟོས་པའི་དངོས་པོ་དང༌། དེའི་ཞིག་པ་རྒྱུ་རྐྱེན་ལ་མི་བལྟོས་པའི་དེ། དངོས་པོ་མེད་པར་འདོད་པ་མི་འཐད་པར་ཐལ། 
 མྱུ་གུའི་འཇིག་པ་འཇིག་རྒྱུ་དོན་གཞན་ལ་བལྟོས་མེད་ཀྱི་དངོས་པོར་འདོད་པ་དང༌། དེའི་ཞིག་པ་དངོས་མེད་དུ་འདོད་པ་མི་འགྲིག་པའི་ཕྱིར།
-Moreover, it follows that it is incorrect to posit that the disintegration of sprout is a thing that depends upon causes and conditions whereas the disintegratedness of that is a non-thing that does not depend upon causes and conditions because it is inconsistent to assert the disintegration of sprout as a thing that does not depend upon a cause of disintegration that is a separate-object to to its producer and assert that the disintegratedness of that is a non-thing.
+Moreover, it follows that it is incorrect to posit that the disintegration of sprout is a thing that depends upon causes and conditions whereas the disintegratedness of that is a non-thing that does not depend upon causes and conditions because it is inconsistent to assert the disintegration of sprout as a thing that does not depend upon a cause of disintegration that is a separate-object to its producer and assert that the disintegratedness of that is a non-thing.
 
 མདོར་བསྡུ་ན། མྱུ་གུ་ལ་སོགས་པའི་དངོས་པོ་རྣམས་རྒྱུ་རྐྱེན་ལ་མི་བལྟོས་པར་ཞིག་པ་ཞིག་ཡོད་དམ་མེད།
 In summary, does things' (sprouts and so forth) disintegratedness without dependence upon causes and conditions exist or not?
@@ -105,4 +103,4 @@ Physical virtuous actions of body and speech exist because physical non-virtuous
 Moreover, it follows that the disintegratedness of virtuous actions is virtue because 1) that is past and 2) virtuous roots of the three times exist.
 
 ---
-Up a level: [[Madhyamaka/Presentation of the three times\|Presentation of the three times]]
+Up a level: [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]

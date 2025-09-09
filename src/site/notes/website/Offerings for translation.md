@@ -5,6 +5,9 @@
 <img src="/img/user/website/tenzingyurme.png" alt="Profile" style="float: right; margin: 0 20px 20px 0; width: 400px;">Opening the Door to Liberation: Clear Explanation of the Presentation of the Sixteen Aspects of the Four Truths
 By Ācārya Tenzin Gyurme
 
+If possible, please [contact me](mailto:shahartene108@gmail.com) to make offerings via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for the person sending, has better exchange rates, and incurs less fees.5
+
+Otherwise, offerings are more than welcome through Paypal, cards, etc., using the link below but please be aware that this often incurs fees upward of 5%
 <div style="text-align: center;">
   <div style="display: inline-block; padding: 1rem; border: 1px solid #ccc; border-radius: 0.5rem; background-color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin: 2em 0; max-width: 90%; min-width: 250px;">
     <form action="https://www.paypal.com/ncp/payment/YNMTCDD5TUQDQ" method="post" target="_blank" style="display: inline-grid; justify-items: center; align-content: start; gap: 0.5rem; width: 100%;">
@@ -40,4 +43,4 @@ By Ācārya Tenzin Gyurme
   </div>
 </div>
 
-If you prefer, please [contact me](mailto:shahartene108@gmail.com) to make the offering via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for the person sending, has better exchange rates, and incurs less fees.
+<p align=center>Many thanks!</p>

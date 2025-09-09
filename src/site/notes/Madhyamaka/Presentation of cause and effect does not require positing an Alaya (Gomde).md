@@ -22,11 +22,11 @@ The subject - objects of knowledge - the ripening results of actions arise even 
 ཤེས་བྱ་ཆོས་ཅན། རྣམ་སྨིན་འབྱིན་ཟིན་པའི་ལས་དང་འབྱིན་མ་ཟིན་པའི་ལས་གཉིས་རང་བཞིན་གྱིས་མི་འགགས་པར་མཚུངས་ཀྱང་། 
 རྣམ་སྨིན་འབྱིན་མ་ཟིན་པའི་ལས་ཀྱིས་རྣམ་སྨིན་འབྱིན་ལ། 
 འབྱིན་ཟིན་པའི་ལས་ལས་སླར་ཡང་རྣམ་སྨིན་འབྱིན་པ་མ་ཡིན་པའི་ཁྱད་པར་ཤེས་པར་གྱིས་ཤིག་ཏེ་ཤེས་དགོས་ཏེ།
-The subject - objects of knowledge - it is necessary to know that although both actions that have already issued forth their fruition and those that have not are equally not inherently ceased, there is a different: actions that have not already issued forth their fruition will issue forth fruitions whereas actions that have already issued them forth will not issue forth their fruition again because...
+The subject - objects of knowledge - it is necessary to know that although both actions that have already issued forth their fruition and those that have not are equally not inherently ceased, there is a difference: actions that have not already issued forth their fruition will issue forth fruitions whereas actions that have already issued them forth will not issue forth their fruition again because...
 
  ཇི་ལྟར་ཏེ་དཔེར་ན་ཡུལ་སྐྲ་ཤད་དང་བོང་བུའི་རྭ་ནི་ཡོད་པ་ཉིད་མ་ཡིན་པར་མཚུངས་ཀྱང་། རབ་རིབ་ཅན་གྱི་མིག་གིས་སྐྲ་ཤད་ལ་སོགས་པའི་རྣམ་པར་ནི་མཐོང་གི 
  དངོས་པོ་གཞན་བོང་བུའི་རྭ་སོགས་ཀྱི་རྣམ་པར་མཐོང་བ་མ་ཡིན་པ་ལྟར་དེ་བཞིན་དུ་རྒྱུ་འབྲས་སོ་སོར་ངེས་པ་མཐོང་བའི་ཕྱིར།
- For example, although falling hairs and donkey-horns are equally non-existent, eyes with a disease will perceive the aspect of falling hairs and so forth and will not perceive the aspects of other things, such as donkey-horns and so forth. Similarly, causes and their effects are perceived to be individually specific.
+ For example, although falling hairs and donkey-horns are equally non-existent, diseased eyes will perceive the aspect of falling hairs and so forth and will not perceive the aspects of other things, such as donkey-horns and so forth. Similarly, causes and their effects are perceived to be individually specific.
 
 ཤེས་བ་ཆོས་ཅན། དགེ་མི་དགེའི་ལས་གཉིས་རང་བཞིན་གྱིས་མེད་པར་མཚུངས་ཀྱང་། ལས་གཉིས་ཀྱི་འབྲས་བུ་སོ་སོར་ངེས་པ་ཡིན་ཏེ། 
  The subject - objects of knowledge - although both virtuous and non-virtuous actions are equally lacking inherent existence, the results of the two types of actions are individually specific because:
@@ -34,7 +34,7 @@ The subject - objects of knowledge - it is necessary to know that although both 
 - the fruition of virtue, i.e. pleasant [results], are perceived to arise from virtuous actions and to not arise from non-virtue. རྣམ་སྨིན་དགེ་བ་སྟེ་ཡིད་དུ་འོང་བ་ཉིད་ནི་དགེ་བའི་ལས་ལས་འབྱུང་བ་ཡིན་པར་མཐོང་གི། མི་དགེ་བ་ལས་འབྱུང་བ་མ་ཡིན་པའི་ཕྱིར།
 
 དཔེར་ན་སྐྲ་ཤད་དང་བོང་བུའི་རྭ་གཉིས་མེད་པར་མཚུངས་ཀྱང་། རབ་རིབ་ཅན་ལ་སྐྲ་ཤད་སྣང་ལ་བོང་བུའི་རྭ་མི་སྣང་བའི་ཁྱད་པར་འཐད་པ་དེ་བཞིན་ནོ། 
-For example, although falling hairs and donkey-horns are equally non-existent, it is suitable to differentiate that falling hairs appear to those with an eye-disease, whereas donkey-horns do not appear to them.
+For example, although falling hairs and donkey-horns are equally non-existent, it is suitable to differentiate that falling hairs appear to those with an eye disease, whereas donkey-horns do not appear to them.
 
 དེས་ན་དགེ་བ་དང་མི་དགེ་བའི་ལས་རང་བཞིན་གྱིས་མེད་པར་རྟོགས་པའི་བློ་ཅན་གྱི་གང་ཟག་ཆོས་ཅན། མྱུར་དུ་འཁོར་བ་ལས་ཐར་བར་འགྱུར་ཏེ། 
 དགེ་མི་དགེའི་གནས་ལུགས་རྟོགས་པའི་གང་ཟག་ཡིན་པའི་ཕྱིར།

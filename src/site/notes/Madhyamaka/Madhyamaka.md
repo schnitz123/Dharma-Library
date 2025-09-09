@@ -52,7 +52,7 @@
 	- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
 	- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
 	- [[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]
-- [[Madhyamaka/Presentation of the three times\|Presentation of the three times]]
+- [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
 - [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]
 - [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]
 - 406

@@ -53,4 +53,4 @@ The Sautrantika and above have a different way of asserting the illustrations of
 
 
 ---
-Up a level: [[Madhyamaka/Presentation of the three times\|Presentation of the three times]]
+Up a level: [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]

@@ -15,11 +15,11 @@
 
 **In general, the Four Buddha Bodies:** སྤྱིར་སངས་རྒྱས་ཀྱི་སྐུ་ལ་བཞི།
 1. Form Body (Rūpakāya) གཟུགས་སྐུ།
-	1. [[../Perfection of Wisdom/70 Topics/70 topics english.pdf#page=50&selection=26,0,26,18|Enjoyment Body]] (Saṃbhogakāya) ལོངས་སྐུ།
-	2. [[../Perfection of Wisdom/70 Topics/70 topics english.pdf#page=50&selection=62,0,62,18|Emanation Body]] (Nirmāṇakāya) སྤྲུལ་སྐུ།
+	1. [[Perfection of Wisdom/70 Topics/Enjoyment Body\|Enjoyment Body]] (Saṃbhogakāya) ལོངས་སྐུ།
+	2. [[Perfection of Wisdom/70 Topics/Emanation Body\|Emanation Body]] (Nirmāṇakāya) སྤྲུལ་སྐུ།
 2. Truth Body (Dharmakāya) ཆོས་སྐུ།
-	1. [[../Perfection of Wisdom/70 Topics/70 topics english.pdf#page=50&selection=4,0,4,15|Nature Truth Body]] (Svābhāvikakāya) ངོ་བོ་ཉིད་སྐུ།
-	2. [[../Perfection of Wisdom/70 Topics/70 topics english.pdf#page=51&selection=2,0,2,29|Exalted Wisdom Truth Body]] (Jñānakāya) ཡེ་ཤེས་ཆོས་སྐུ།
+	1. [[Perfection of Wisdom/70 Topics/Nature Body\|Nature Body]] (Svābhāvikakāya) ངོ་བོ་ཉིད་སྐུ།
+	2. [[Perfection of Wisdom/70 Topics/Exalted Wisdom Dharmakaya\|Exalted Wisdom Dharmakaya]] (Jñānakāya) ཡེ་ཤེས་ཆོས་སྐུ།
 
 
 **Specifically, the Budda’s Body has:** ཁྱད་པར་དུ་སངས་རྒྱས་ཀྱི་སྐུ་ལ།
