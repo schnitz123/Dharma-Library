@@ -25,7 +25,7 @@ Prasangika asserts that past and future are not principal; the present is princi
 
 མྱུ་གུ་ལྟ་བུ་ལ་མཚོན་ན་སྤྱིར་མྱུ་གུ་སྐྱེ་བའི་རྒྱུ་ཡོད་ཀྱང༌། 
 དགུན་དུས་ཀྱི་ཞིང་ལྟ་བུ་རེ་ཞིག་རྐྱེན་མ་ཚང་བའི་དབང་གིས་ཡུལ་དུས་དེར་མྱུ་གུ་མ་སྐྱེས་པའི་མ་ཡིན་དགག་གི་ཆ། མྱུ་གུའི་མ་འོངས་པ་དང༌།
-**Illustration of future of sprout:** The factor (non-affirming negation) of the non-production of sprout in a particular time and place (such as a field in winter), despite the existence of the cause for the production of sprout in general, due to the force of temporarily incomplete conditions.
+**Illustration of future of sprout:** The factor (affirming negation) of the non-production of sprout in a particular time and place (such as a field in winter), despite the existence of the cause for the production of sprout in general, due to the force of temporarily incomplete conditions.
 
 མྱུ་གུའི་ངོ་བོར་སྐྱེས་པའི་དངོས་པོ། དེའི་ད་ལྟ་བ་དང༌།
 **Illustration of the present of sprout:** A thing that has been produced in the entity of a sprout.
@@ -59,7 +59,7 @@ If the disintegration of sprout depends upon causes and conditions whereas the d
 Moreover, it follows that it is incorrect to posit that the disintegration of sprout is a thing that depends upon causes and conditions whereas the disintegratedness of that is a non-thing that does not depend upon causes and conditions because it is inconsistent to assert the disintegration of sprout as a thing that does not depend upon a cause of disintegration that is a separate-object to its producer and assert that the disintegratedness of that is a non-thing.
 
 མདོར་བསྡུ་ན། མྱུ་གུ་ལ་སོགས་པའི་དངོས་པོ་རྣམས་རྒྱུ་རྐྱེན་ལ་མི་བལྟོས་པར་ཞིག་པ་ཞིག་ཡོད་དམ་མེད།
-In summary, does things' (sprouts and so forth) disintegratedness without dependence upon causes and conditions exist or not?
+**In summary,** does things' (sprouts and so forth) disintegratedness without dependence upon causes and conditions exist or not?
 
 ཡོད་ན་མྱུ་གུའི་འཇིག་པ་རྒྱུ་ལ་མི་བལྟོས་པར་ཐལ། མྱུ་གུའི་ཞིག་པ་རྒྱུ་ལ་མི་བལྟོས་པའི་ཕྱིར།
 If it exists, then it follows that the disintegration of sprout does not depend upon causes because the disintegratedness of sprout does not depend upon causes.
@@ -83,6 +83,8 @@ That follows because sprouts and so forth do not disintegrate without depending 
 Therefore, in the system that asserts that the disintegratedness of sprout and the disintegration of that are equally produced by causes, it is easier to establish compounded phenomena as being momentary because similarly to the explanation in dependence upon the reasoning related with "Through the condition of birth, ageing and death." that indicates that dead sentient beings are produced by the condition of the birth that is their cause and are not produced by a cause other than that, then also the disintegratedness of sprout is explained as produced by the cause of the disintegration that is its cause; therefore, it is easier to establish those as momentary.
 
 ---
+**Disintegratedness is a functioning thing and affirming negation**
+
 མྱུ་གུའི་ཞིག་པ་དེ་དངོས་པོ་ཡིན་ཀྱང་དེ་དགག་པ་ནི་ཡིན་ཏེ། རང་ཉིད་རྟོགས་པའི་བློས་རང་གི་དགག་བྱ་དངོས་སུ་བཅད་ནས་རྟོགས་དགོས་པའི་ཆོས་ཡིན་པའི་ཕྱིར། 
 Although the disintegratedness of sprout is a thing, it is a [[Collected Topics/Affirmations and Negations\|negation]] because of being a phenomenon that is necessarily realised by the awareness realising it through explicitly negating its object of negation.
 

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/madhyamaka/presentation-of-cause-and-effect-does-not-require-positing-an-alaya-gomde/"}
 ---
 
-[[Madhyamaka/Assertions regarding what connects causes and their effects (Tendarwa)\|Assertions regarding what connects causes and their effects (Tendarwa)]]
-
-[[Madhyamaka/Interpretative and Definitive Meaning wrt the Alaya (Tendarwa)\|Interpretative and Definitive Meaning wrt the Alaya (Tendarwa)]]
-
----
 ལས་རང་བཞིན་གྱིས་མེད་པར་འདོད་པའི་ལུགས་ལ་ཆོས་ཅན། ཀུན་གཞི་སོགས་ཁས་བླངས་པ་མེད་ཀྱང་། 
 སེམས་ཅན་གྱི་རྒྱུད་ལ་ལར་ལས་འགགས་ནས་ཡུན་རིང་དུ་ལོན་པ་ལས་ཀྱང་ལས་ཀྱི་འབྲས་བུ་ཡང་དག་པ་སྟེ་མ་འཁྲུལ་བར་འབྱུང་བ་རིག་པར་གྱེས་ཤིག་ཏེ་བྱ་རིགས་ཏེ། 
 The subject - in the system that asserts actions as lacking inherent existence - despite not asserting an Alaya and so forth, it is reasonable to assert that in the continua of some sentient beings, the results of actions arise correctly, i.e. unmistakenly, even after a long time has passed since the ceasing of the action because...
@@ -64,5 +59,8 @@ The subject - indicating that things inherently exist as an interpretative meani
 སངས་རྒྱས་ཀྱིས་གདུལ་བྱ་གཞན་གྱིས་ཆོས་ཀྱི་དོན་ཁོང་དུ་ཆུད་པའི་ཐབས་སུ་ང་དང་ང་ཡི་ཞེས་བསྟན་པ་ལྟར་གྱི་དཔེ་དེ་བཞིན་ནོ།
 For example, despite lacking any conceptualisations apprehending "I" and "Mine" due to being free from the view of the transitory collection together with its imprints, the Buddha taught "I" and "Mine" as a method for some disciples to understand the meaning of phenomena.
 
+
+
+
 ---
-Up a level: [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]] / [[Madhyamaka/Refuting production from other#^166916\|Refuting production from other]]
+Up a level: [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Tendarwa)\|Presentation of cause and effect does not require positing an Alaya (Tendarwa)]]

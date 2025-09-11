@@ -12,13 +12,25 @@
 ད་ལྟར་བའི་མཚན་ཉིད།
 **Definition of present:**
 1. That which is produced and has not ceased; and
-2. The appearance of its meaning-generality does not depend upon the appearance of a past meaning generality or the appearance of a future meaning-generality.
+2. The appearance of its meaning-generality does not depend upon the appearance of its past meaning generality or the appearance of its future meaning-generality.
 
-See also: [[Perfection of Wisdom/Topics/Presentation of the three times\|Presentation of the three times (Perfection of Wisdom)]]
+All three are functioning things but:
+- Past and future are affirming negations
+- Present is a positive phenomenon
 
+Disintegratedness is a functioning thing and an affirming negation:
+- Object of negation: sprout
+- Conveyed-object (implicit): the production of the disintegrated sprout / that the disintegrated sprout has arisen in dependence upon the sprout
+
+མྱུ་གུ་ཞིག་པའི་སྒྲས་མྱུ་གུ་ཞིག་པ་མྱུ་གུ་ལ་བརྟེན་ནས་བྱུང་བ་འཕེན། མྱུ་གུ་མ་འོངས་པའི་སྒྲས་མྱུ་གུ་མ་འོངས་པ་ལ་མྱུ་གུ་སྐྱེ་བའི་རྐྱེན་མ་ཚང་བས་
+རེ་ཞིག་མ་སྐྱེས་ལ་རྐྱེན་ཚང་ན་སྐྱེ་བ་འཕེན་པའི་ཕྱིར།
+**JS:** The words "disintegrated sprout" convey that the disintegrated sprout arose in dependence upon the sprout and the words "future sprout" convey that the future sprout has incomplete conditions for the production of the sprout and therefore is temporarily not produced but will be produced if the conditions are complete.
+
+---
 [[Madhyamaka/Presentation of the three times - Lower Schools (Tendarwa)\|Presentation of the three times - Lower Schools (Tendarwa)]]
 [[Madhyamaka/Presentation of the three times - Prasangika (Tendarwa)\|Presentation of the three times - Prasangika (Tendarwa)]]
 
+See also: [[Perfection of Wisdom/Topics/Presentation of the three times\|Presentation of the three times (Perfection of Wisdom)]]
 
 ---
 འདས་པ་དངོས་པོ་ཡིན་ཏེ། ས་བཅུ་པའི་མདོ་ལས། སྐྱེ་བའི་རྐྱེན་གྱིས་རྒ་ཤི་སྟེ། ཞེས་ཤི་བ་དེ་རང་གི་རྒྱུར་གྱུར་པའི་སྐྱེ་བ་ལས་བྱུང་བར་བཤད་པ་གང་ཞིག 
