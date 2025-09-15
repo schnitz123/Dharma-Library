@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/website/offerings/"}
 ---
 
-All the resources and translations offered in the Dharma Library are for free distribution because the Dharma should be free and available to as many people as possible. If you agree and would like to support the Dharma Library in making more resources available and producing more translations, then please consider making an offering:
+All the resources and translations in the Dharma Library are for free distribution because the Dharma should be free and available to as many people as possible. If you agree and would like to support the Dharma Library in making more resources available and producing more translations, then please consider making an offering:
 
 If possible, please [contact me](mailto:shahartene108@gmail.com) to make offerings via local bank transfer; I can provide bank account details in GBP/EUR/USD etc. (via Wise). This is usually cheaper for the person sending, has better exchange rates, and incurs less fees.
 
