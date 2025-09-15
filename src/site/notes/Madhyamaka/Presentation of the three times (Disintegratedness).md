@@ -26,6 +26,10 @@ Disintegratedness is a functioning thing and an affirming negation:
 རེ་ཞིག་མ་སྐྱེས་ལ་རྐྱེན་ཚང་ན་སྐྱེ་བ་འཕེན་པའི་ཕྱིར།
 **JS:** The words "disintegrated sprout" convey that the disintegrated sprout arose in dependence upon the sprout and the words "future sprout" convey that the future sprout has incomplete conditions for the production of the sprout and therefore is temporarily not produced but will be produced if the conditions are complete.
 
+མྱུ་གུའི་ཞིག་པ་ལྟ་བུ་མྱུ་གུའི་ངོ་བོ་སྔར་ཡོད་ལོག་ཙམ་གྱི་མེད་དགག་མ་ཡིན་པར་མེད་དགག་དེ་ཉིད་གདགས་གཞིར་བྱས་ནས་མྱུ་གུའི་ཞིག་པ་ཞེས་པའི་དངོས་པོ་ཅིག་
+མིང་གི་ཕར་བཏགས་ནས་འཇོག་པ་དང༌། དངོས་པོ་དེ་དག་ཀྱང་མྱུ་གུའི་འཇིག་རྒྱུར་གང་སོང་བའི་རྒྱུ་རྐྱེན་གྱིས་བསྐྱེད་པའི་དངོས་པོར་གྲུབ་པའི་ཕྱིར།
+**Panchen:** For example, the disintegratedness of the sprout is not a non-affirming negation that is the mere negation of the previously existent sprout; rather, that non-affirming negation is taken as a basis of designation and it is posited as a functioning thing through designating it with the name "disintegratedness of sprout". Such functioning things are established as functioning things that are produced by the causes and conditions that are the sprout's cause of disintegration.
+
 ---
 [[Madhyamaka/Presentation of the three times - Lower Schools (Tendarwa)\|Presentation of the three times - Lower Schools (Tendarwa)]]
 [[Madhyamaka/Presentation of the three times - Prasangika (Tendarwa)\|Presentation of the three times - Prasangika (Tendarwa)]]
