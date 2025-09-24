@@ -50,10 +50,10 @@ Therefore: དེས་ན་
 
 ---
 བུམ་པ་འཇིག་པ་ལ་རྒྱུ་མེད་པར་ཐལ། བུམ་པ་ཞིག་པ་ལ་རྒྱུ་མེད་པའི་ཕྱིར་ཏེ། བུམ་པ་ཞིག་པ་དངོས་པོར་མེད་པའི་ཕྱིར། རྟགས་ཁས། 
-It follows that the disintegration of pot is causeless because the pot having disintegrated is causeless; because the pot having disintegrated does not exist as a thing. You asserted the reason.
+It follows that a disintegrating pot is causeless because a disintegrated pot is causeless; because a disintegrated pot does not exist as a thing. You asserted the reason.
 
 འདོད་ན། བུམ་པ་ཞིག་པ་དེ་རྒྱུ་མེད་དུ་འབྱུང་བར་ཐལ་ལོ།
-If accepted: It follows that pot having disintegrated arises causelessly!
+If accepted: It follows that a disintegrated pot arises causelessly!
 
 འདོད་ན། བུམ་པ་འཇིག་པ་མ་ཡིན་པར་ཐལ་ལོ།
 If accepted: It follows that pot is not disintegrating!

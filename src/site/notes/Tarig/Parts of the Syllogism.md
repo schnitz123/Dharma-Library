@@ -3,7 +3,7 @@
 ---
 
 **Syllogism** སྦྱོར་བ། རྟགས་སྦྱོར།
-Taking the subject - sound - it is impermanent because it is a product. For example, like a pot.
+The subject - sound - it is impermanent because it is a product. For example, like a pot.
 སྒྲ་ཆོས་ཅན། མི་རྟག་སྟེ། བྱས་པའི་ཕྱིར། དཔེར་ན་བུམ་པ་བཞིན།
 
 **A:**
@@ -13,13 +13,13 @@ Taking the subject - sound - it is impermanent because it is a product. For exam
 - Position (only re: [[Tarig/Property of the position\|first mode of the sign]]) ཕྱོགས།
 
 **B:**
-- [[Tarig/Property of the probandum\|Property of the probandum]] / predicate / inferred property བསྒྲུབ་བྱའི་ཆོས།
+- [[Tarig/Property of the probandum\|Property of the probandum]] / inferred property བསྒྲུབ་བྱའི་ཆོས། / predicate གསལ་བ།
 - *See also:* [[Tarig/Similar and Dissimilar Class\|Similar and Dissimilar Class]] མཐུན་ཕྱོགས། མི་མཐུན་ཕྱོགས། (also referred to as ཆོས་ཅན།)
 - *See also:*  [[Tarig/Similar and Dissimilar Examples\|Similar and Dissimilar Examples]] མཐུན་དཔེ། མི་མཐུན་དཔེ།
 - Property of the negandum (¬B)  དགག་བྱའི་ཆོས། (see also: [[Tarig/object designated as the property of the negandum\|object designated as the property of the negandum]])
 
 **AB:**
-- [[Tarig/Probandum\|Probandum]] (A = B)                 བསྒྲུབ་བྱ། / བསལ་བ།
+- [[Tarig/Probandum\|Probandum]] (A = B)                 བསྒྲུབ་བྱ།
 - Assertion (A = B) དམ་བཅའ།
 - Position (A = B) ཕྱོགས།
 - [[Tarig/Negandum\|Negandum]] (A = ¬B)         དགག་བྱ།

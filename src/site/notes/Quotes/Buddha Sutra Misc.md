@@ -163,3 +163,6 @@ The perfection of wisdom inexpressible through speech or thought,
 Unproduced, unceased, the very nature of space,
 The object of individual self-knowing exalted wisdom,
 I prostrate to the Mother of the three time Conquerors.
+
+---
+མ་སྐྱེས་དགྲའི་འགྱོད་པ་བསལ་བའི་མདོ། Ajātaśatrukaukṛtyavinodana-sūtra

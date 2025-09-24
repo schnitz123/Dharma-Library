@@ -33,6 +33,7 @@ In the system of actions not inherently ceasing, it is suitable to assert disint
 That follows because, for example, although the individual aggregates of Devadatta, their mere collection, their shape, or something that is other, are not Devadatta and Devadatta is not established as any of those; nevertheless, Devadatta that is designated upon those is posited as a functioning thing.
 
 **General presentation of the three times:**
+- [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
 - [[Madhyamaka/Presentation of the three times - Lower Schools (Tendarwa)\|Presentation of the three times - Lower Schools (Tendarwa)]]
 - [[Madhyamaka/Presentation of the three times - Prasangika (Tendarwa)\|Presentation of the three times - Prasangika (Tendarwa)]]
 
@@ -43,6 +44,7 @@ That follows because, for example, although the individual aggregates of Devadat
 **Objections & Responses:**
 - [[Madhyamaka/Actions would induce their fruitions endlessly (Tendarwa)\|Actions would induce their fruitions endlessly (Tendarwa)]]
 - [[Madhyamaka/Interpretative and Definitive Meaning wrt the Alaya (Tendarwa)\|Interpretative and Definitive Meaning wrt the Alaya (Tendarwa)]]
+- [[Madhyamaka/Who asserts and does not assert an Alaya (Tendarwa)\|Who asserts and does not assert an Alaya (Tendarwa)]]
 - [[Madhyamaka/Cittamatra presentation and proofs of the Alaya (LTK)\|Cittamatra presentation and proofs of the Alaya (LTK)]]
 - [[Madhyamaka/Reasonings refuting the Alaya (Tendarwa)\|Reasonings refuting the Alaya (Tendarwa)]]
 - [[Madhyamaka/The three natures in Prasangika (Tendarwa)\|The three natures in Prasangika (Tendarwa)]]

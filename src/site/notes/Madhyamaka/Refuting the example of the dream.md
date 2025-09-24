@@ -36,6 +36,8 @@ That follows because all three (eyes, forms, and mental consciousness) of the dr
 ཁྱད་པར་མེད་པར་ཐལ། གསུམ་ཀ་རང་བཞིན་གྱིས་སྐྱེ་བ་མེད་པར་མཚུངས་པའི་ཕྱིར།
 The subject - objects of knowledge - it follows that just like the three of eyes and so forth, also the remaining objects, sense-faculties, and consciousnesses (ear and so forth) of the dream are no different in terms of truth and falsity because all three are the same in not being inherently produced.
 
+**Appearances to dreams are:** [[Madhyamaka/Forms that are phenomena sources\|Forms that are phenomena sources]]
+
 ---
 རྨི་ལམ་གྱི་དཔེས་ཤེས་པ་བདེན་པར་མི་འགྲུབ་པར་མ་ཟད། དཔེ་དེས་དངོས་པོ་ཐམས་ཅད་བརྫན་པར་གྲུབ་པ་ཡིན་ནོ།
 Not only does the example of the dream not establish consciousness as being truly existent, this example establishes that all things are falsities.

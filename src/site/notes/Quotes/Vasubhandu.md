@@ -21,7 +21,12 @@ The eight Prakaraṇas (Cittamatra Treatises): པྲ་ཀ་ར་ན་སྡ
 7. [[Quotes/Reasoning for Explanations\|Reasoning for Explanations]] རྣམ་བཤད་རིགས་པ། Vyākhyayukti
 8. Treatise Establishing Karma ལས་སྒྲུབ་པའི་རབ་ཏུ་བྱེད་པ། Karmasiddhiprakaraṇa
 
-
+---
+Vasubandhu's Four Disciples who are masters in their field: རང་མཁས་ཀྱི་སློབ་མ་བཞི།
+1. Pramana: Acharya Dignaga ཚད་མ་རང་ལས་མཁས་པ་སློབ་དཔོན་ཕྱོགས་ཀྱི་གླང་པོ།
+2. Vinaya: Acharya Guṇaprabha འདུལ་བ་རང་ལས་མཁས་པ་སློབ་དཔོན་ཡོན་ཏན་འོད།
+3. Perfection of Wisdom: Arya Vimuktisena ཕར་ཕྱིན་རང་ལས་མཁས་པ་འཕགས་པ་རྣམ་གྲོལ་སྡེ།
+4. Abhidharma: Acharya Sthiramati མངོན་པ་རང་ལས་མཁས་པ་སློབ་དཔོན་བློ་གྲོས་བརྟན་པ།
 
 
 ---

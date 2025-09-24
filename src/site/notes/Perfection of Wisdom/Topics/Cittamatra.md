@@ -6,7 +6,7 @@
 ཆོས་ཉིད་ཀྱིས་ཐོབ་པ་ནང་གི་སྐྱེ་མཆེད་དེ་དྲུག་པ་ཡིད་ཀྱི་སྐྱེ་མཆེད་ཀྱི་སྟེང་གི་ཟག་མེད་ཀྱི་སེམས་ཀྱི་ས་བོན་ལ་རིགས་སུ་འདོད།
 **Cittamatrins assert lineage to be:** A seed of an uncontaminated mind in the continuum of sentient beings, that:
 1. has come in a continuity from one life to the next since beginningless time,
-2. is attained by way of dharmatā, and
+2. is naturally possessed, and
 3. is deposited upon the inner sources, i.e. the sixth that is the mental-source.
 
 **Divisions:**
