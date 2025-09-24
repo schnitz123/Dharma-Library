@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dharma-library/","tags":["gardenEntry"]}
 ---
 
-<br><img src="/img/user/website/rabbit.png" alt="Profile" style="float: right; margin: 0 20px 20px 0; width: 500px;"><br><br>Hi! Welcome to my Dharma Library! 
+<br><img src="/img/user/website/rabbit.png" alt="Profile" style="float: right; margin: 0 20px 20px 0; width: 500px;"><br>Hi! Welcome to my Dharma Library! 
 
 Here you can find over a thousand pages of my notes on the topics of the major texts of the Gelug curriculum. Please use the left-hand toolbar to navigate them; they are ordered roughly in accordance with how they are studied in the monasteries.
 
