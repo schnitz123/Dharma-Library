@@ -33,12 +33,10 @@ em, h1 {
    }
 
 .sidebar {
-   position: sticky;
-   top: 0;
+display: none;
    }
 .navbar {
-    position: sticky;
-    z-index: 1000;
+display: none;
    }
 
    
