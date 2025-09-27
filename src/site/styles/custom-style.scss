@@ -9,6 +9,13 @@ body {
   --font-editor: var(--font-editor-override), var(--font-text-override),
     var(--font-editor-theme);
 
+.content {
+    margin: auto;
+    font-size: 18px;
+    position: relative;
+   }
+   
+    @media screen and (min-width: 1000px) {
   .content {
     max-width: 1200px;
     margin: auto;
@@ -18,11 +25,8 @@ body {
     margin-left: 300px;
     position: relative;
 
-   @media (max-width: 2000px) {
-        margin-top: 75px;
-    }
 }
-
+   }
    
 strong, b {
   color: rgb(234, 198, 118); /* Change the color to whatever you prefer */
