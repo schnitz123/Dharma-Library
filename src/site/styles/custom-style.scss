@@ -27,6 +27,29 @@ body {
 
 }
    }
+
+
+.desktop-only {
+    display: none;
+}
+
+@media screen and (min-width: 1000px) {
+    .desktop-only {
+        display: block; /* or display: flex, display: grid, etc., depending on the content */
+    }
+}
+
+
+.mobile-only {
+    display: block; /* Content is visible by default */
+}
+
+@media screen and (min-width: 1000px) {
+    .mobile-only {
+        display: none; /* Hides the content on large screens */
+    }
+}
+
    
 strong, b {
   color: rgb(234, 198, 118); /* Change the color to whatever you prefer */
