@@ -4,9 +4,9 @@
 
 དམིགས་ཡུལ་གཟུགས་སྒྲ་དྲི་རོ་རེག་བྱ་སྟེ་དོན་ལྔ། མིག་རྣ་བ་སྣ་ལྕེ་ལུས་ཀྱི་དབང་པོ་ལྔའི་སེམས་ཅན་དང༌། 
 བདག་དང་ཆོས་ཀུན་བཏགས་པའི་ངོ་བོ་ཉིད་ལ་མངོན་པར་ཞེན་པའི་བག་ཆགས་དང་གསུམ་ལ་དམིགས། 
-**Observed-objects:** Sentient beings with
+**Observed-objects:**
 - The five object: forms, sounds, smells, tastes, and tangible-objects;
-- The five sense-faculties: eyes, ears, nose, tongue, and body; as well as
+- The five sense-faculties: eyes, ears, nose, tongue, and body ("mind-possessors"); as well as
 - The imprints of strong conception to the thoroughly imputed natures of self and phenomena.
 
 རྣམ་པ་སྣོད་བཅུད་དེ་དག་སྣང་ཡང་རང་གིས་ཀྱང་མི་ངེས་ལ་རྗེས་སུ་ངེས་པ་ཡང་འདྲེན་མི་ནུས་པ།

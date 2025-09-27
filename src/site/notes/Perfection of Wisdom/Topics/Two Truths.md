@@ -30,5 +30,5 @@
 *A sense consciousness is called a “conventional awareness”* because of being an awareness that obscures the seeing of thusness.
 
 ---
-
+See also: [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths (Madhyamaka)]]
 Up a level: [[Perfection of Wisdom/Topics/Mahayana Instructions\|Mahayana Instructions]]

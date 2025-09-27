@@ -13,7 +13,8 @@
 
 སེམས་ཙམ་དུ་གསུངས་པའི་ཙམ་གྱིས་སྒྲས་ཕྱི་དོན་མི་འགོག་པར་བསྟན་པའོ།
 
-
+---
+[[Madhyamaka/Three refutations of external objects\|Three refutations of external objects]]
 
 
 ---

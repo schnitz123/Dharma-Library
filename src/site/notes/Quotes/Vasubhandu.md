@@ -16,7 +16,7 @@ The eight Prakaraṇas (Cittamatra Treatises): པྲ་ཀ་ར་ན་སྡ
 3. Explanation of Differentiation of Dharma and Dharmata ཆོས་དང་ཆོས་ཉིད་རྣམ་འབྱེད་ཀྱི་བཤད་པ། 
    dharma dharmatāvibhaṅga vṛtti
 4. Thirty Verses སུམ་ཅུ་པ། Triṃśikākārikā
-5. Twenty Verses ཉི་ཤུ་པ། Viṃśatikākārikā
+5. [[Quotes/Twenty Verses\|Twenty Verses]] ཉི་ཤུ་པ། Viṃśatikākārikā
 6. Treatise on the Five Aggregates ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ། Pañcaskandhaprakaraṇa
 7. [[Quotes/Reasoning for Explanations\|Reasoning for Explanations]] རྣམ་བཤད་རིགས་པ། Vyākhyayukti
 8. Treatise Establishing Karma ལས་སྒྲུབ་པའི་རབ་ཏུ་བྱེད་པ། Karmasiddhiprakaraṇa

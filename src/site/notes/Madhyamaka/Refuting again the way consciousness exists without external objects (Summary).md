@@ -8,15 +8,23 @@
 Although external objects do not exist, the sense-faculties of the sense consciousnesses exist.
 
 མིག་བློ་སྟེ་མིག་གི་རྣམ་ཤེས་སྐྱེ་བའི་རང་གི་ནུས་པ་བག་ཆགས་གང་ཞིག་ཀུན་གཞི་ལ་བཞག་པ་སྨིན་པ་ལས་དེ་མ་ཐག་ཏུ་མིག་ཤེས་ཀུན་ནས་སྐྱེ་བར་འགྱུར་ཞིང་། 
-མིག་རང་གི་རྣམ་ཤེས་དངོས་སུ་སྐྱེ་བའི་རྟེན་གྱིས་ནུས་པ་སྨིན་པའི་སྐབས་ཀྱི་ཀུན་གཞི་ལ་མིག་དབང་སྣང་བ་དེ་ལ་གཏི་མུག་གི་འཇིག་རྟེན་པ་རྣམས་
-ཕྱི་རོལ་དོན་དུ་གྱུར་པའི་དབང་པོ་གཟུགས་ཅན་པ་མིག་ཡིན་ནོ། ཅེས་བྱ་བར་རྟོགས་པར་བྱེད་ཀྱི། རྣམ་ཤེས་ལས་རྫས་ཐ་དད་པའི་མིག་དབང་ནི་མེད་དོ། 
-དེ་བཞིན་དུ་རྣ་བ་སོགས་ལ་ཡང་ཤེས་པར་བྱའོ།
-From the ripening of its imprint (a potency for producing an eye-consciousness) that has been deposited upon the Alaya, an eye-consciousness will immediately be produced. The appearance of an eye-faculty to the Alaya at the time of the ripening of the potency which acts as the support for directly producing the eye-consciousness is understood by ignorant worldly beings as being an external physical faculty that is the eye-faculty. However, an eye-faculty that is a difference substance from consciousness does not exist. The ear-faculty and so forth should be understood similarly.
+From the ripening of its imprint (a potency for producing an eye-consciousness) that has been deposited upon the Alaya, an eye-consciousness will immediately be produced. 
+
+མིག་རང་གི་རྣམ་ཤེས་དངོས་སུ་སྐྱེ་བའི་རྟེན་གྱིས་ནུས་པ་སྨིན་པའི་སྐབས་ཀྱི་ཀུན་གཞི་ལ་མིག་དབང་སྣང་བ་
+**The eye-faculty is:** The appearance of an eye-faculty to the Alaya at the time of the ripening of the potency which acts as the support for directly producing the eye-consciousness
+
+དེ་ལ་གཏི་མུག་གི་འཇིག་རྟེན་པ་རྣམས་ཕྱི་རོལ་དོན་དུ་གྱུར་པའི་དབང་པོ་གཟུགས་ཅན་པ་མིག་ཡིན་ནོ། ཅེས་བྱ་བར་རྟོགས་པར་བྱེད་ཀྱི། 
+This is understood by ignorant worldly beings as being an external physical faculty. 
+
+རྣམ་ཤེས་ལས་རྫས་ཐ་དད་པའི་མིག་དབང་ནི་མེད་དོ། དེ་བཞིན་དུ་རྣ་བ་སོགས་ལ་ཡང་ཤེས་པར་བྱའོ།
+However, an eye-faculty that is a difference substance from consciousness does not exist. The ear-faculty and so forth should be understood similarly.
+
+---
 
 ཕྱི་དོན་མེད་ཀྱང་དབང་ཤེས་ཀྱི་དམེགས་རྐྱེན་ཡོད་དེ། འཇིག་རྟེན་འདི་ན་དབང་པོ་ལྔ་ལས་བྱུང་བའི་རྣམ་པར་རིག་པ་ལྔ་སྔོན་པོ་སོགས་ཕྱི་རོལ་གྱི་གཟུང་བ་མེད་པར་
 རྣམ་ཤེས་རང་གི་ས་བོན་ཀུན་གཞི་ལ་བཞག་པ་སྨིན་པ་ལས་སྔོན་པོ་སོགས་སུ་སྣང་བ་ཉིད་འབྱུང་བ་མ་རྟོགས་པར། 
-སྐྱེ་བས་སེམས་སྔོ་སོགས་སུ་སྣང་བ་ལ་ཕྱི་རོལ་གྱི་གཟུང་བར་ཁས་ལེན་པ་སྟེ་མངོན་པར་ཞེན་པ་ཙམ་ཡིན་པའི་ཕྱིར།
-Although external objects do not exist, the observed object conditions of eye-consciousnesses exist because in this world it is not understood that the five types of consciousness arising from the five sense-faculties lack blue and so forth that are their external apprehendeds, but rather that the appearances of blue and so forth to consciousness arise from the ripening of their seeds deposited upon the Alaya; therefore, the appearances of blue and so forth to the mind are asserted as external apprehendeds, but is mere conceptualisation.
+སྐྱེ་བོས་སེམས་སྔོ་སོགས་སུ་སྣང་བ་ལ་ཕྱི་རོལ་གྱི་གཟུང་བར་ཁས་ལེན་པ་སྟེ་མངོན་པར་ཞེན་པ་ཙམ་ཡིན་པའི་ཕྱིར།
+Although external objects do not exist, the observed object conditions of eye-consciousnesses exist because in this world it is not understood that the five types of consciousness arise from the five sense-faculties without blue and so forth as their external apprehendeds and that the appearances of blue and so forth to consciousness arise from the ripening of their seeds deposited upon the Alaya; therefore, the appearances of blue and so forth to the mind are asserted as external apprehendeds, but this is the mere conceptualisation of ordinary beings.
 
 གཟུགས་སོགས་སེམས་ཀྱི་བདག་ཉིད་ཙམ་ཡིན་པའི་དོན་ཡང་འདི་ཡིན་ན། འོོ་ན། ཕྱི་དོན་མེད་ཀྱང་དོན་སྣང་གི་ཤེས་པ་སྐྱེ་བའི་དཔེ་ཇི་ལྟ་བུ་ཡིན་ཞེ་ན།
 If this is the meaning of forms and so forth being merely the nature of mind, then in that case what example is there for the production of consciousnesses to which objects appear despite the non-existence of external objects?
@@ -26,9 +34,18 @@ If this is the meaning of forms and so forth being merely the nature of mind, th
 There is something to be posited: In dreams, although forms and so forth do not exist as separate objects, through the ripening of the potencies that are their imprints, forms, sounds and so forth give rise to the minds possessing their aspects. Similarly, when awake, external objects do not exist but the minds to which those appear do inherently exist.
 
 ---
+[[Madhyamaka/Jangkya - the three conditions in Cittamatra\|Jangkya - the three conditions in Cittamatra]]
+{ #02dc34}
+
+
+---
 ཤེས་བྱ་ཆོས་ཅན། ཇི་ལྟར་མིག་མེད་པར་ནི་རྨི་ལམ་དུ་སྔོ་སོགས་སྣང་བའི་ཡིད་ཀྱི་སེམས་རང་བཞིན་གྱིས་འབྱུང་བར་འགྱུར་ན། 
 འོ་ན། རྨི་ལམ་དེ་ལྟར་བཞིན་དུ་མིག་དབང་མེད་པར་ཏེ་མེད་ཀྱང་རྣམ་ཤེས་རང་གི་ས་བོན་གྱི་བག་ཆགས་ནིེ་སྨིན་པ་ལས། ལོང་བ་ལའང་སད་པའིེ་སྐབས་འདིར་སྔོ་སོགས་གསལ་བར་སྣང་བའི་ཡིད་སེམས་ཅིས་མི་སྐྱེ་སྟེ་སྐྱེ་རིགས་པར་ཐལ། སད་རྨི་གཉིས་ཀར་ལོང་བ་ལ་མིག་དབང་མེད་ཅིང་བག་ཆགས་ཡོད་པར་མཚུངས་པའི་ཕྱིར། 
 The subject - objects of knowledge - it follows that if, without the eye-faculty, a mental-consciousness to which blue and so forth appears in a dream inherently arises, then in that case, just as in a dream, why would a mental consciousness to which blue and so forth clearly appear not arise from the ripening of the imprints that are their seeds even also for blind people when awake, even without their eye-faculty? It is logical that it would arise because both when awake and dreaming, a blind person equally lacks an eye-faculty but has imprints.
+
+[[Madhyamaka/Vasubandhu - Two types of eye-faculty\|Vasubandhu - Two types of eye-faculty]]
+{ #c8f65a}
+
 
 དེ་ལ་ཁོ་ན་རེ། མ་ཁྱབ་སྟེ། དེ་ལྟར་མཚུངས་ཀྱང་བག་ཆགས་ཀྱི་ནུས་པ་སྨིན་པའི་རྐྱེན་ཡོད་མེད་མི་མཚུངས་པའི་ཕྱིར་ཏེ། 
 དེ་འདྲའིེ་རྐྱེན་རྨི་ལམ་ན་ཡོད་ཅིང་ལོང་བ་ལ་སད་པའི་ཚེ་མེད་པའི་ཕྱིར་ཞེ་ན།
