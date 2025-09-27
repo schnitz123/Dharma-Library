@@ -4,9 +4,10 @@
 
 <img src="/img/user/website/rabbit.png" alt="Profile" class="gyurme-pic"><br>Hi! Welcome to my Dharma Library! 
 
-Here you can find over a thousand pages of my notes on the topics of the major texts of the Gelug curriculum. Please use the left-hand toolbar to navigate them; they are ordered roughly in accordance with how they are studied in the monasteries.
+Here you can find over a thousand pages of my notes on the topics of the major texts of the Gelug curriculum. 
 
-In addition, you can find my written translations of texts available for free (upper toolbar).
+<p class="desktop-only">Please use the left-hand toolbar to navigate them. In addition, you can find my written translations of texts available for free (upper toolbar).</p>
+<p class="mobile-only">Test for mobile</p>
 
 It is still very much a work in progress (and probably forever will be). It started in the beginning of 2023 and over time I hope to continue adding other useful resources and translations.
 
