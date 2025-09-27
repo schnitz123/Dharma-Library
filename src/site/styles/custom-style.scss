@@ -33,6 +33,7 @@ em, h1 {
    }
    
 /* Sidebar container styling */
+   @media screen and (min-width: 1000px) {
 .custom-sidebar {
   position: fixed;
   top: 0;
@@ -45,12 +46,15 @@ em, h1 {
   font-size: 18px;
   line-height: 1.5;
 }
-
+ 
+      
 .navbar {
     position: fixed;
     z-index: 1000;
    }
 
+   }
+      
 .nav-links {
   list-style: none;
    font-size: 22px;
