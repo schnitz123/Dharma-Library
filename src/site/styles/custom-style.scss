@@ -32,7 +32,7 @@ em, h1 {
    color: rgb(173, 216, 230);
    }
 
-.sidebar {
+.custom-sidebar {
 display: none;
    }
 .navbar {
@@ -57,6 +57,7 @@ display: none;
  
       
 .navbar {
+   display: block;
     position: fixed;
     z-index: 1000;
    }
