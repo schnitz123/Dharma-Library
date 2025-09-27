@@ -31,6 +31,16 @@ strong, b {
 em, h1 {
    color: rgb(173, 216, 230);
    }
+
+.sidebar {
+   position: sticky;
+   top: 0;
+   }
+.navbar {
+    position: sticky;
+    z-index: 1000;
+   }
+
    
 /* Sidebar container styling */
    @media screen and (min-width: 1000px) {
