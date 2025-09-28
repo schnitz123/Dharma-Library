@@ -15,7 +15,7 @@ body {
     position: relative;
    }
    
-    @media screen and (min-width: 1000px) {
+@media screen and (min-width: 1000px) {
   .content {
     max-width: 1200px;
     margin: auto;
@@ -24,33 +24,48 @@ body {
     margin-top: 90px;
     margin-left: 300px;
     position: relative;
-
-}
    }
+  .desktop-only {
+        display: block; /* or display: flex, display: grid, etc., depending on the content */
+   }
+  .mobile-only {
+        display: none; /* Hides the content on large screens */
+   }
+  .gyurme-pic {
+        float: right;
+        margin: 0 20px 20px 0;
+        width: 400px; /* Fixed width for large screens */
+        height: auto;
+   }
+  .custom-sidebar {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;        /* Adjust width as needed */
+        height: 100%;
+        padding: 20px;
+        overflow-y: auto;
+        box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+        font-size: 18px;
+        line-height: 1.5;
+   }
+   .navbar {
+        display: block;
+        position: fixed;
+        z-index: 1000;
+   }
+}
 
 
 .desktop-only {
     display: none;
 }
 
-@media screen and (min-width: 1000px) {
-    .desktop-only {
-        display: block; /* or display: flex, display: grid, etc., depending on the content */
-    }
-}
-
-
 .mobile-only {
     display: block; /* Content is visible by default */
 }
 
-@media screen and (min-width: 1000px) {
-    .mobile-only {
-        display: none; /* Hides the content on large screens */
-    }
-}
-
-   
 strong, b {
   color: rgb(234, 198, 118); /* Change the color to whatever you prefer */
 }
@@ -75,40 +90,6 @@ display: none;
     width: auto;
 }
 
-   @media screen and (min-width: 1000px) {
-  .gyurme-pic {
-     float: right;
-  margin: 0 20px 20px 0;
-  width: 400px; /* Fixed width for large screens */
-  height: auto;
-      }
-   }
-   
-/* Sidebar container styling */
-   @media screen and (min-width: 1000px) {
-.custom-sidebar {
-   display: block;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 250px;        /* Adjust width as needed */
-  height: 100%;
-  padding: 20px;
-  overflow-y: auto;
-  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-  font-size: 18px;
-  line-height: 1.5;
-}
- 
-      
-.navbar {
-   display: block;
-    position: fixed;
-    z-index: 1000;
-   }
-
-   }
-      
 .nav-links {
   list-style: none;
    font-size: 22px;
@@ -128,8 +109,6 @@ display: none;
 }
 
 
-   
-   
 ul, ol {
   /*  margin-top: -20px; */
     margin-block-start: -20px;
