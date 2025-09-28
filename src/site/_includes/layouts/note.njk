@@ -30,7 +30,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
         {% if settings.dgShowInlineTitle === true %}
-          <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
+          <h2 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h2>
         {% endif %}
 
 <!-- Static Sidebar -->
@@ -69,7 +69,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           </ul></li>
       </ul>
     </div>
-
+<!-- Static Sidebar -->
 
 
         <div class="header-meta">
