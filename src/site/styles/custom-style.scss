@@ -168,11 +168,11 @@ li > p {
   align-items: center;
 }
 .icon-bar {
-  display: block;
+  display: block; !important;
   width: 25px;
-  height: 3px;
-  margin: 5px auto;
-  background-color: #fff;
+  height: 3px; !important;
+  margin: 5px auto; !important;
+  background-color: #fff; !important;
   transition: all 0.3s ease-in-out;
 }
 
