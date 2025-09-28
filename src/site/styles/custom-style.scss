@@ -170,8 +170,8 @@ li > p {
 .icon-bar {
   display: block !important;
   width: 15px;
-  height: 3px; 
-  margin: 5px auto; 
+  height: 3px !important; 
+  margin: 5px auto !important; 
   background-color: #333; 
   transition: all 0.3s ease-in-out;
 }
