@@ -152,78 +152,115 @@ li > p {
   margin-bottom: -10px;
 } 
 
-/* --- Hamburger Icon Styling --- */
+/* --- Hamburger Icon Styling (Top-Right) --- */
 .menu-toggle {
-  /* Position the button on the top-right */
   position: absolute;
-  top: 15px; /* Adjust spacing from the top */
-  right: 15px; /* Adjust spacing from the right */
-  
+  top: 15px;
+  right: 15px;
   background: none;
   border: none;
   cursor: pointer;
   padding: 10px;
-  z-index: 1000; /* Ensure it's on top of other elements */
+  z-index: 1000;
 }
-
-/* Visually hidden text for screen readers */
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  border: 0;
-}
-
-/* The three lines of the hamburger icon */
 .icon-bar {
   display: block;
   width: 25px;
   height: 3px;
   margin: 5px auto;
-  background-color: #333; /* Change color as needed */
+  background-color: #333;
   transition: all 0.3s ease-in-out;
 }
 
-/* --- Mobile Menu List Styling (Hidden by Default) --- */
+/* --- Main Mobile Menu Styling (Hidden by Default) --- */
 .mobile-menu-list {
   list-style: none;
   padding: 0;
   margin: 0;
+  display: none; /* HIDDEN by default */
   
-  /* HIDDEN by default */
-  display: none; 
-  
-  position: fixed; /* Fix to viewport */
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%; /* Cover the entire viewport */
-  background-color: rgba(0, 0, 0, 0.9); /* Semi-transparent overlay */
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.95);
   z-index: 999;
   
-  /* Center the links vertically for a full-screen menu */
-  display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  overflow-y: auto; /* Allows scrolling if menu is long */
 }
-
-/* The class added by JavaScript to show the menu */
+/* Class added by JavaScript to show the main menu */
 .mobile-menu-list.is-open {
-  display: flex; /* Override 'display: none' */
+  display: flex; 
 }
-
-/* Style the links inside the mobile menu */
+.mobile-menu-list > li {
+  width: 90%;
+  text-align: center;
+  padding: 10px 0;
+}
 .mobile-menu-list a {
   color: white;
-  padding: 15px;
-  display: block;
   font-size: 1.5rem;
   text-decoration: none;
+  display: inline-block;
+}
+
+/* --- Submenu (Second Level) Styling and Collapsing --- */
+
+/* 1. Hide the Checkbox */
+.submenu-checkbox {
+    /* Use 'hidden' attribute in HTML, but this ensures it's never visible */
+    display: none; 
+}
+
+/* 2. Style the Label (The parent link area) */
+.submenu-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.submenu-label a {
+    /* Ensure the link text doesn't steal all the click space from the arrow */
+    pointer-events: none; 
+}
+
+/* 3. Collapse the Submenu (Set initial max-height to 0 and hide overflow) */
+.submenu {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    max-height: 0; /* Key for collapsing */
+    overflow: hidden; /* Hide the content when collapsed */
+    transition: max-height 0.3s ease-out; /* Smooth collapse animation */
+}
+.submenu li a {
+    font-size: 1.1rem;
+    opacity: 0.7;
+    padding: 8px 0;
+}
+
+/* 4. EXPAND the Submenu when the Checkbox is checked */
+.submenu-checkbox:checked + .submenu-label + .submenu {
+    /* Use a large enough value to accommodate all links when expanded */
+    max-height: 500px; 
+}
+
+/* 5. Toggle Arrow Icon (For Visual Feedback) */
+.toggle-arrow:before {
+    content: '▼'; /* Down arrow (closed state) */
+    display: inline-block;
+    color: white;
+    margin-left: 10px;
+    font-size: 0.8em;
+    transition: transform 0.3s;
+}
+
+/* 6. Rotate Arrow when Submenu is open (Checked) */
+.submenu-checkbox:checked + .submenu-label .toggle-arrow:before {
+    content: '▲'; /* Up arrow (open state) */
 }
    
 }
