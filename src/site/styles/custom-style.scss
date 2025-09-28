@@ -166,6 +166,7 @@ li > p {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  line-height: 0; !important;
 }
 .icon-bar {
   display: block; !important;
