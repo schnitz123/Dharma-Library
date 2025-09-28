@@ -168,6 +168,9 @@ li > p {
   align-items: center;
   height: 21px !important; 
   width: 45px !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important; 
 }
 .icon-bar {
   display: block !important;
