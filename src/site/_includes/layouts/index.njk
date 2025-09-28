@@ -115,7 +115,29 @@
     {%include "components/lucideIcons.njk"%}
 
 
+document.addEventListener('DOMContentLoaded', () => {
+  const toggleButton = document.querySelector('.menu-toggle');
+  const menuList = document.getElementById('main-mobile-menu');
 
+  if (toggleButton && menuList) {
+    toggleButton.addEventListener('click', () => {
+      // Toggles the 'is-open' class on the menu list
+      menuList.classList.toggle('is-open');
+      
+      // Toggles ARIA attributes for accessibility
+      const isExpanded = toggleButton.getAttribute('aria-expanded') === 'true' || false;
+      toggleButton.setAttribute('aria-expanded', !isExpanded);
+    });
+    
+    // Optional: Close the MAIN menu when any link (including sub-links) is clicked
+    menuList.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        menuList.classList.remove('is-open');
+        toggleButton.setAttribute('aria-expanded', 'false');
+      });
+    });
+  }
+});
 
 
 </body>
