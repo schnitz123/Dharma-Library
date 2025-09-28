@@ -262,5 +262,17 @@ li > p {
 .submenu-checkbox:checked + .submenu-label .toggle-arrow:before {
     content: '▲'; /* Up arrow (open state) */
 }
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
    
 }
