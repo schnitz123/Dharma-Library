@@ -152,6 +152,78 @@ li > p {
   margin-bottom: -10px;
 } 
 
+/* --- Hamburger Icon Styling --- */
+.menu-toggle {
+  /* Position the button on the top-right */
+  position: absolute;
+  top: 15px; /* Adjust spacing from the top */
+  right: 15px; /* Adjust spacing from the right */
+  
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  z-index: 1000; /* Ensure it's on top of other elements */
+}
 
+/* Visually hidden text for screen readers */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+/* The three lines of the hamburger icon */
+.icon-bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  background-color: #333; /* Change color as needed */
+  transition: all 0.3s ease-in-out;
+}
+
+/* --- Mobile Menu List Styling (Hidden by Default) --- */
+.mobile-menu-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  
+  /* HIDDEN by default */
+  display: none; 
+  
+  position: fixed; /* Fix to viewport */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; /* Cover the entire viewport */
+  background-color: rgba(0, 0, 0, 0.9); /* Semi-transparent overlay */
+  z-index: 999;
+  
+  /* Center the links vertically for a full-screen menu */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* The class added by JavaScript to show the menu */
+.mobile-menu-list.is-open {
+  display: flex; /* Override 'display: none' */
+}
+
+/* Style the links inside the mobile menu */
+.mobile-menu-list a {
+  color: white;
+  padding: 15px;
+  display: block;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
    
 }
