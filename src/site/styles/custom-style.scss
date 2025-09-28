@@ -14,7 +14,8 @@ body {
     font-size: 18px;
     position: relative;
    }
-   
+
+/* Start mobile settings */
 @media screen and (min-width: 1000px) {
   .content {
     max-width: 1200px;
@@ -55,8 +56,12 @@ body {
         position: fixed;
         z-index: 1000;
    }
+   .navbar-mobile {
+        display:none;
+   }
 }
 
+/* End Mobile Setting */
 
 .desktop-only {
     display: none;
@@ -80,7 +85,9 @@ display: none;
 .navbar {
 display: none;
    }
-
+.navbar-mobile {
+   display:block;
+   }
 
 .gyurme-pic {
     float: none; /* Crucial: stop the floating behavior */
