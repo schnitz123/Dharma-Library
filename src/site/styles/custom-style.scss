@@ -157,7 +157,7 @@ li > p {
   position: absolute;
   top: 15px;
   right: 15px;
-  background-color: #333;
+  background-color: #fff;
   border: none;
   cursor: pointer;
   padding: 8px 10px;
@@ -169,10 +169,10 @@ li > p {
 }
 .icon-bar {
   display: block !important;
-  width: 25px;
+  width: 15px;
   height: 3px; 
   margin: 5px auto; 
-  background-color: #fff; 
+  background-color: #333; 
   transition: all 0.3s ease-in-out;
 }
 
