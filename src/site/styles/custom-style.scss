@@ -164,6 +164,7 @@ li > p {
   z-index: 1000;
   display: flex;
   justify-content: center;
+  flex-direction: column; 
   align-items: center;
 }
 .icon-bar {
