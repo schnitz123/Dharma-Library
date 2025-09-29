@@ -232,7 +232,9 @@ li > p {
 .mobile-menu-list .no-bold a {
    font-weight: normal !important;
 }
-
+.mobile-menu-list li.no-bold {
+    font-weight: normal !important;
+}
    
 /* --- Submenu (Second Level) Styling and Collapsing --- */
 
