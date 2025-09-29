@@ -214,7 +214,11 @@ li > p {
   text-decoration: none;
   display: inline-block;
 }
+.mobile-menu-list .no-bold a {
+   font-weight: normal !important;
+}
 
+   
 /* --- Submenu (Second Level) Styling and Collapsing --- */
 
 /* 1. Hide the Checkbox */
