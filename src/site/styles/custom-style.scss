@@ -44,9 +44,9 @@ display: none;
 .profile-pic {
     float: right;
     display: block; 
-    margin: 0 5px 5px 0; 
-    max-width: 50%; /* Allow it to scale down on small screens, ensuring a bit of padding */
-    width: auto;
+    margin: 5px auto; 
+    /* max-width: 50%; */ /* Allow it to scale down on small screens, ensuring a bit of padding */
+    width: 100px;
 }
    
 /* Start mobile settings */
@@ -75,7 +75,7 @@ display: none;
    .profile-pic {
         float: right;
         margin: 0 20px 20px 0;
-        width: 200px; /* Fixed width for large screens */
+        width: 200px !important; /* Fixed width for large screens */
         height: auto;
    }
    
