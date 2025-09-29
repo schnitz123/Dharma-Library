@@ -40,6 +40,13 @@ display: none;
     max-width: 90%; /* Allow it to scale down on small screens, ensuring a bit of padding */
     width: auto;
 }
+
+.profile-pic {
+    float: right;
+    display: block; 
+    margin: 0 5px 5px 0; 
+    max-width: 100px;
+}
    
 /* Start mobile settings */
 @media screen and (min-width: 1000px) {
@@ -64,6 +71,13 @@ display: none;
         width: 400px; /* Fixed width for large screens */
         height: auto;
    }
+   .profile-pic {
+        float: right;
+        margin: 0 20px 20px 0;
+        width: 200px; /* Fixed width for large screens */
+        height: auto;
+   }
+   
   .custom-sidebar {
         display: block;
         position: fixed;
