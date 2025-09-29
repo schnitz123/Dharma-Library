@@ -45,7 +45,8 @@ display: none;
     float: right;
     display: block; 
     margin: 0 5px 5px 0; 
-    max-width: 100px;
+    max-width: 50%; /* Allow it to scale down on small screens, ensuring a bit of padding */
+    width: auto;
 }
    
 /* Start mobile settings */
