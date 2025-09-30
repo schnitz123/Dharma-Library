@@ -25,7 +25,7 @@ Arya Nagarjuna's Essence of Dependent-Arising (Tib-Eng) (version 1.1 uploaded 07
 
 **Upcoming:**
 
-Ācārya Tenzin Gyurme's Opening the Door to Liberation: Clear Explanation of the Presentation of the Sixteen Aspects of the Four Truths
+Ācārya Tenzin Gyurmi's Opening the Door to Liberation: Clear Explanation of the Presentation of the Sixteen Aspects of the Four Truths
 - [[website/Offerings for translation\|See here]]
 
 Jetsunpa's Great and Small Presentations of Paths and Grounds
