@@ -45,9 +45,8 @@ In order to explain the above Cittamatra assertions, three verses "without appre
 - [[Madhyamaka/Refuting the example of the dream\|Refuting the example of the dream]] རྨི་ལམ་གྱི་དཔེ་དགག་པ། 
 - [[Madhyamaka/Refuting the example of perceiving falling hairs\|Refuting the example of perceiving falling hairs]] སྐྲ་ཤད་མཐོང་བའི་དཔེ་དགག་པ།
 
----
-བག་ཆགས་ཀྱི་ནུས་པ་ལས་དོན་གྱིས་སྟོང་པའི་ཤེས་པ་སྐྱེ་བའེ་དོན་དགག
-[[Madhyamaka/Refutation of the meaning Consciousness empty of objects arising from the potencies of imprints\|Refutation of the meaning Consciousness empty of objects arising from the potencies of imprints]]
+བག་ཆགས་ཀྱི་ནུས་པ་ལས་དོན་གྱིས་སྟོང་པའི་ཤེས་པ་སྐྱེ་བའི་དོན་དགག
+**Refutation of the meaning:** [[Madhyamaka/Consciousness empty of objects arising from the potencies of imprints\|Consciousness empty of objects arising from the potencies of imprints]]
 
 སླར་ཡང་ཕྱི་རོལ་མེད་པར་རྣམ་ཤེས་ཡོད་ཚུལ་བརྗོད་པ་དགག་པ།
 [[Madhyamaka/Refuting again the way consciousness exists without external objects (Summary)\|Refuting again the way consciousness exists without external objects (Summary)]]

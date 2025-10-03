@@ -46,11 +46,7 @@ Therefore, the subject - objects of knowledge - "the fruitions of actions are in
 The meaning is that the relationship of actions and their results is necessarily explained in dependence upon scriptures; it cannot be inferred merely through reasoning.
 
 ---
-**JS:** Four Inconceivables: བསམ་གྱིས་མི་ཁྱབ་པ་བཞི།
-1. Inconceivable fruitions of sentient beings' actions སེམས་ཅན་རྣམས་ཀྱི་ལས་ཀྱི་རྣམ་པར་སྨིན་པ་བསམ་གྱིས་མི་ཁྱབ། 
-2. Inconceivable powers of Mantra and medicines སྔགས་དང་སྨན་གྱི་ནུས་པ་བསམ་གྱིས་མི་ཁྱབ། 
-3. Inconceivable powers of the Yogis' meditative stabilisations རྣལ་འབྱོར་པའི་ཏིང་ངེ་འཛིན་གྱི་མཐུ་བསམ་གྱིས་མི་ཁྱབ། 
-4. Inconceivable emanations of the Tathagatas དེ་བཞིན་གཤེགས་པའི་སྤྲུལ་པ་བསམ་གྱིས་མི་ཁྱབ་པའོ།
+**JS:** [[Madhyamaka/Four Inconceivables\|Four Inconceivables]]: བསམ་གྱིས་མི་ཁྱབ་པ་བཞི།
 
 ---
 ཀུན་གཞིེ་གསུངས་པའི་མདོ་དང་མི་འགལ་ཏེ། ཚོགས་དྲུག་ལས་ངོ་བོ་ཐ་དད་པའི་ཀུན་གཞི་ཡོད་ཅིང་། གང་ཟག་ཉིད་རྫས་སུ་ཡོད་ལ། 

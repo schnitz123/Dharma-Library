@@ -16,8 +16,16 @@ The subject - a preta's eye-consciousness to which a river appears as blood and 
 ---
 ལས་སྟོབས་ལྡན་བསགས་པའི་ལྷ་མི་ཡི་དྭགས་གསུམ་གྱིས། བརླན་ཞིང་གཤེར་བ་ཕོར་པ་གང་ལ་ཐུན་མོང་དུ་བལྟས་པའི་ཚེ། 
 བརླན་ཞིང་གཤེར་བ་ཕོར་པ་གང་པོ་དེའི་སྟེང་དུ། བདུད་རྩི་དང་ཆུ་དྭངས་ཤིང་བསིལ་བ་དང་། རྣག་ཁྲག་གསུམ་ཚད་མས་གྲུབ་པ་ཡོད།
-When the three - a deva, human, and preta, who have accumulated powerful karma - look at a common vessel filled with "wet and moistening", then the three - nectar, cool and clear water, and pus and blood - are established by valid cognition on the basis of that vessel filled with "wet and moistening".
+When the three - a deva, human, and preta, who have accumulated powerful karma - commonly look at a cup filled with "wet and moistening", then the three - nectar, cool and clear water, and pus and blood - are established by valid cognition on the basis of that cup filled with "wet and moistening".
+
+---
+[[Madhyamaka/Three appearances of a river (Gomde Uma)\|Three appearances of a river (Gomde Uma)]]
+
+[[Madhyamaka/Three appearances of a river (Panchen)\|Three appearances of a river (Panchen)]]
+
+
+
 
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]] / [[Madhyamaka/Madhyamaka\|Madhyamaka]]
