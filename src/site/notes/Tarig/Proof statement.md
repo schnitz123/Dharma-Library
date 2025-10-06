@@ -28,7 +28,7 @@
 - [[Tarig/Correct effect sign\|Correct effect sign]]: 
 	- If smoke exists, it is pervaded by the existence of fire; for example, like in the kitchen, smoke also exists on the smokey mountain pass.
 	  དུ་བ་ཡོད་ན། མེ་ཡོད་པས་ཁྱབ། དཔེར་ན། ཚང་མང་བཞིན། དུ་ལྡན་གྱི་ལ་ལ་ཡང་དུ་བ་ཡོད་དོ།
-	- If fire does not exist, it is pervaded by the non-existence of smoke; for example, like in a waterfall, but smoke exists on the smokey mountain pass.
+	- If fire does not exist, it is pervaded by the non-existence of smoke; for example, like in a river, but smoke exists on the smokey mountain pass.
 	  མེ་མེད་ན། དུ་བ་མེད་པས་ཁྱབ། དཔེར་ན། ཆུ་ཀླུང་བཞིན། དུ་ལྡན་གྱི་ལ་ལ་ནི་དུ་བ་ཡོད་དོ།
 - [[Tarig/Correct non-observation sign\|Correct non-observation sign]]:
 	- If tree does not exist, it is pervaded by the non-existence of Juniper; for example, like in a meadow without trees, trees also do not exist on a craggy cliff where trees are not observed.

@@ -57,5 +57,5 @@
 - [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]
 - 406
 
-
+[[Madhyamaka/Twenty views of the transitory collection\|Twenty views of the transitory collection]]
 
