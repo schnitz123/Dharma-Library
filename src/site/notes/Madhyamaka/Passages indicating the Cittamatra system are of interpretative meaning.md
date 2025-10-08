@@ -50,4 +50,4 @@ In this context, it is not necessary to explicitly quote an indicator as interpr
 The section indicating that the Sugatagarbha with clear and complete marks and signs exists in the continua of all sentient beings is explained in the section on Angulimala, however, mainly it is the section on ???
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Refutation of the Cittamatra System#^d86b7f\|Refutation of the Cittamatra System]]

@@ -49,11 +49,12 @@
 - [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
 - [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]]
 	- [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Tendarwa)\|Presentation of cause and effect does not require positing an Alaya (Tendarwa)]]
-	- [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
-	- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
+		- [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
+	- [[Madhyamaka/Refutation of the Cittamatra System#^cbee37\|Refuting that consciousness is inherently established without external objects]]
 	- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
-	- [[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]
-- [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]
+		- [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures\|Refuting self-knowers as the proof of other-powered natures]]
+		- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
+		- [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]
 - [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]
 - 406
 

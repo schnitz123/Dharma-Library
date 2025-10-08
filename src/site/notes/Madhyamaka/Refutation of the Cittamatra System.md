@@ -7,6 +7,8 @@
 ---
 ཕྱི་དོན་མེད་པར་ཤེས་པ་རང་བཞིན་གྱིས་གྲུབ་པ་དགག་པ།
 [[Madhyamaka/Refuting that consciousness is inherently established without external objects (Gomde)\|Refuting that consciousness is inherently established without external objects (Gomde)]]
+{ #cbee37}
+
 - Refutation of the examples:
 	- [[Madhyamaka/Refuting the example of the dream\|Refuting the example of the dream]]
 	- [[Madhyamaka/Refuting the example of perceiving falling hairs\|Refuting the example of perceiving falling hairs]]
@@ -44,6 +46,9 @@
    ཕྱིེ་རོལ་དང་ནང་གི་སེམས་གཉིས་ཡོད་མེད་མཚུངས་པར་བསྟན་པ།
 3. [[Madhyamaka/Explaining the intention of indicating Mind Only in the Lankavatara Sutra\|Explaining the intention of indicating Mind Only in the Lankavatara Sutra]]
    ལང་ཀར་གཤེགས་པ་ལས་སེམས་ཙམ་དུ་གསུངས་པའི་དགོངས་པ་བཤད་པ།
+
+[[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]
+{ #d86b7f}
 
 
 ---

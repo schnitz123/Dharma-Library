@@ -27,6 +27,29 @@ Although the consciousness perceives both object and object-possessor, its way o
 བརྟགས་དོན་བཙལ་ན་མི་རྙེད་པའི་འཇིག་རྟེན་པའི་ཐ་སྙད་ཡིན་པའི་ཕྱིར།
 The subject - this way of remembering - it is a system depending upon mere worldly conventions; it is not posited through seeking the designated-object because it is a worldly convention that is not findable upon seeking the designated-object.
 
+---
+སྐྱེས་བུ་ལྷས་བྱིན་ལྟ་བུས་སྔར་སྔོན་པོ་མཐོང་ནས། ཕྱིས་སྔོན་པོ་མཐོང་བའི་ཚེ། ངས་སྔོན་པོ་མཐོང་སྙམ་དུ་ཡུལ་ཅན་དྲན་པ་སྐྱེ་བའི་རྒྱུ་མཚན་ཡོད་དེ།
+**(Panchen:)** When Devadatta, for example, sees blue and then later sees blue, there is a reason for the arising of a memory of the object-possessor thinking "I saw blue" because:
+1. At that time, the eye-consciousness perceiving blue and the later memory of blue observe the same object (i.e. blue) and are included in a single continuum; and 
+   དེའི་ཚེ་སྔོན་པོ་མཐོང་བའི་མིག་ཤེས་དང༌། ཕྱིས་སྔོན་པོ་དྲན་པའི་དྲན་ཤེས་གཉིས་ཡུལ་སྔོན་པོ་གཅིག་ལ་དམིགས་ཤིང༌། རྒྱུད་གཅིག་གིས་བསྡུས་པ་གང་ཞིག
+2. The experience that is the perceiver and the memory of blue are not established by own-character other.
+   མཐོང་མཁན་གྱི་མྱོང་བ་དང༌། སྔོན་པོ་དྲན་པའི་དྲན་ཤེས་གཉིས་པོ་རང་བཞིན་གྱིས་གྲུབ་པའི་གཞན་མ་ཡིན་པའི་ཕྱིར།
+
+མྱོང་བ་ལས་དྲན་པ་སྐྱེ་ཚུལ་དེ་ཉིད་བརྟེན་ནས་བཏགས་པ་ཙམ་དུ་གྲུབ་སྟེ། ཡོད་པ་གང་ཞིག ཐ་སྙད་བཏགས་པའི་བཏགས་དོན་བཙལ་བའི་ཚེ་མི་རྙེད་པའི་ཕྱིར།
+This way in which memory is produced from experience is established as merely designated in dependence because 1) it exists and 2) it is not findable when seeking designated object of the designated term.
+
+---
+སྔོ་འཛིན་ལ་མྱོང་བྱེད་རང་རིག་མེད་ཀྱང༌། ངས་སྔོན་པོ་མཐོང་སྙམ་པའི་ཡུལ་ཅན་གྱི་དྲན་པ་སྐྱེ་བ་མི་འགལ་ཏེ། 
+**(Tendarwa:)** Although a self-knower that is the experiencer of the apprehender of blue does not exist, this does not contradict the arising of a memory of the object-possessor thinking "I saw blue": because:
+- Because the object and object-possessor of the memory produced subsequent to the apprehender of blue and the object and object-possessor of the apprehender of blue are not established by own-character individual (/different); and
+  སྔོ་འཛིན་གྱི་རྗེས་སུ་སྐྱེས་པའི་དྲན་ཤེས་ཡུལ་ཡུལ་ཅན་དང་སྔོ་འཛིན་གྱི་ཡུལ་ཡུལ་ཅན་གཉིས་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པའི་སོ་སོ་བ་མ་ཡིན་ཀྱང༌། 
+རྒྱུན་གཅིག་པའི་འབྲེལ་བ་གྲུབ་པའི་ཕྱིར་དང༌། སྔོ་འཛིན་གྱི་ཡུལ་སྔོན་པོ་དེ་དང༌། དྲན་ཤེས་ཀྱི་ཡུལ་སྔོན་པོ་གཉིས་ཡུལ་གཅིག་པའི་ཕྱིར་དང༌།
+- Because although the apprehender of blue is not "I", it is a part of the "I" and therefore, since it perceived blue, it is feasible that a memory thinking "I saw blue" arises.
+  སྔོ་འཛིན་དེ་ང་མ་ཡིན་ཀྱང་ངའི་ཆ་ཤས་ཡིན་པས། དེས་སྔོན་པོ་མཐོང་བས་ངས་སྔོན་པོ་མཐོང་ངོ་སྙམ་པའི་དྲན་པ་སྐྱེ་བ་འཐད་པའི་ཕྱིར།
+
+དེ་ལྟར་ཡིན་ཀྱང་སྔོན་འཛིན་གྱི་དུས་སུ་གྲུབ་པའི་སྔོན་པོ་དེ། དྲན་ཤེས་ཀྱི་དུས་སུ་གྲུབ་སྙམ་པའི་དྲན་པ་སྐྱེ་བ་མ་ཡིན་ཏེ།
+དེ་ལྟ་བུའི་བློ་ལྷན་སྐྱེས་ལ་དུས་ཀྱིས་ཁྱད་པར་དུ་བྱས་པའི་དྲན་པ་སྐྱེ་བ་མི་འཐད་པའི་ཕྱིར།
+Nevertheless, a memory thinking that the blue that exists at the time of the apprehender of blue exists at the time of the memory is *not* produced because it is not feasible that a memory qualified by time is produced for such innate awarenesses.
 
 ---
 Up a level: [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures#^57d563\|Refuting self-knowers as the proof of other-powered natures]]

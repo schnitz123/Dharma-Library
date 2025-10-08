@@ -26,8 +26,17 @@ Cause, effect, and functioning thing are mutually inclusive.
 If it is a functioning thing, it is pervaded by being both; but a pot's direct effect and a pot's indirect effect are mutually exclusive.
 
 ---
+**Nominal divisions of cause and effect:**
+- Cause for positing (འཇོག་བྱེད་ཀྱི་རྒྱུ།) and posited result (རྣམ་པར་བཞག་བྱའི་འབྲས་བུ)
+  Mutually inclusive with definition (མཚན་ཉིད།) and definiendum (མཚོན་བྱ།)<br><br>
+- Cause for knowing (ཤེས་བྱེད་ཀྱི་རྒྱུ།) and effect that is known (བྱེད་བྱའི་འབྲས་བུ།)
+  Mutually inclusive with correct sign (རྟགས་ཡང་དག) and probandum (བསྒྲུབ་བྱ།)<br><br>
+{ #6fe5b4}
 
+- Producing cause (སྐྱེད་བྱེད་ཀྱི་རྒྱུ) and produced effect (བསྐྱེད་བྱའི་འབྲས་བུ།)
+  Actual cause and effect.
 
+---
 See also [[Collected Topics/Six Causes Five Results\|Six Causes Five Results]]
 
 Up a level: [[Collected Topics/Collected Topics\|Collected Topics]]

@@ -30,10 +30,10 @@ The reason is established because that is not cognised by either itself or a sep
 
 ཤེས་བྱ་ཆོས་ཅན། རང་རིག་མངོན་སུམ་དེ་ཉིད་ཀྱིས་གཞན་དབང་གི་ཤེས་པ་དེ་མྱོང་བར་གྲུབ་པ་མ་ཡིན་པར་ཐལ། རང་རིག་མངོན་སུམ་མ་གྲུབ་པའི་ཕྱིར་ཏེ། 
 རང་ཉིད་རང་ལ་བྱ་བ་བྱེད་པ་འགལ་བའི་ཕྱིར།
-Answer: The subject - objects of knowledge - it follows that the self-knowing direct perception itself is not established as experiencing that other-powered consciousness because self-knowing direct perception is not established; because something acting upon itself is contradictory.
+*Answer:* The subject - objects of knowledge - it follows that the self-knowing direct perception itself is not established as experiencing that other-powered consciousness because self-knowing direct perception is not established; because something acting upon itself is contradictory.
 
 དཔེར་ན་རལ་གྲིའི་སོ་དེ་ཉིད་ཀྱིས་དེ་ཉིད་མི་གཅོད་ལ། སོར་མོའེ་རྩེ་མོ་དེ་ཉིད་ཀྱིས་དེ་ཉིད་ལ་མི་རེག་པ་བཞེན་ནོ།
-For example, the blade of a sword does not cut itself and the tip of the fingernail does not touch itself.
+For example, the blade of a sword does not cut itself and the tip of the finger does not touch itself.
 
 
 ---
@@ -41,43 +41,21 @@ For example, the blade of a sword does not cut itself and the tip of the fingern
 **Refuting the others' response that that is logical**
 { #57d563}
 
-1. [[Madhyamaka/Refutation of self-knowers as the basis for memory\|Refutation of self-knowers as the basis for memory]]
-2. [[Madhyamaka/How memory operates without self-knowers\|How memory operates without self-knowers]]
+1. [[Madhyamaka/Cittamatra reasoning for self-knowers\|Cittamatra reasoning for self-knowers]]
+2. [[Madhyamaka/Refutation of self-knowers as the basis for memory\|Refutation of self-knowers as the basis for memory]]
+3. [[Madhyamaka/How memory operates without self-knowers\|How memory operates without self-knowers]]
 
-
----
 རིགས་པ་གཞན་གྱིས་ཀྱང་རང་རིག་མི་འཐད་པར་བསྟན་པ། 
-**Indicating that self-knowers are unfeasible also using other reasonings**
+[[Madhyamaka/Indicating that self-knowers are unfeasible also using other reasonings\|Indicating that self-knowers are unfeasible also using other reasonings]]
+{ #aef923}
 
-སེམས་ཙམ་པ་ཆོས་ཅན། ཁྱོད་ཀྱི་གཞན་དབང་གི་ཤེས་པ་རང་བཞིན་གྱིས་གྲུབ་པ་ཚད་མ་གང་གིས་འཛིན་པར་འགྱུར་ཏེ་མི་འགྱུར་པར་ཐལ། 
-དེ་འཛིན་པ་ཡོད་ན་རང་རིག་གིས་འཇིན་དགོས་པ་གང་ཞིག རང་རིག་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར་ཏེ། དེ་བཀག་ཟིན་པ་དེའི་ཕྱིར།
-The subject - Cittamatrins - it follows that your inherently established other-powered consciousnesses are not apprehended by any valid cognition because 1) if an apprehension of those exists, then they are necessarily apprehended by self-knowers and 2) self-knower do not exist; because those have already been refuted.
 
-གཞན་ཡང་རང་རིག་འདོད་པ་མི་འཐད་དེ། དེ་ལ་ཤེས་བྱེད་མེད་ཅིང་གནོད་བྱེད་ཡོད་པའི་ཕྱིར།
-Moreover, asserting self-knowers is incorrect because it has no proofs and has refutations.
+[[Madhyamaka/Refutation of self-knowers in other texts (Shantideva)\|Refutation of self-knowers in other texts (Shantideva)]] གཞུང་གཞན་ནས་བཤད་ཚུལ།
+{ #77f7e4}
 
-ཇི་ལྟར་ཡོད་ན། རང་རིག་དེ་ཉིད་ཀྱིས་གཞན་དབང་གི་ཤེས་པ་རང་བཞིན་གྱིས་གྲུབ་པ་དེ་འཛིན་པར་རིགས་པའང་མ་ཡིན་ཏེ། 
-བྱེད་པ་པོ་དང་ལས་དང་བྱ་བ་གསུམ་ནི་གཅིག་ཉིད་དུ་རིགས་པ་མ་ཡིན་པའི་ཕྱིར།
-How so? It is not logical that self-knowers apprehend inherently established other-powered consciousnesses because it is illogical that the three - agent, object, and action - are just one.
 
-ཁབ་སྟེ། རང་རིག་འདོད་ན་བྱ་བྱེད་ལས་གསུམ་གཅིག་ཏུ་འགྱུར་བའིེ་ཕྱིར།
-There is pervasion because if self-knowers are asserted, then agent, object, and action become one.
-
-ཇི་ལྟར་འགྱུར་ན། དེ་ཡང་རང་རིག་འདོད་པས་སྔོན་འཛིན་ཤེས་པའི་སྟེང་ན་དེ་མ་ཐག་རྐྱེན་གྱིས་ལག་རྗེས་བཞག་པའི་མྱོང་བ་གསལ་རིག་གི་ངོ་བོ་གཅིག་དང་། 
-དམིགས་རྐྱེན་གྱིས་ལག་རྗེས་བཞག་པའི་སྔོན་སྣང་དབང་ཤེས་གཉིས་ཡོད་ལ།
-How so? Due to asserting self knowers, then on the basis of a consciousness apprehending blue there exist:
-1. An entity of clear and knowing experience that is the effect of the immediately preceding condition; and
-2. The sense-consciousness to which blue appears that is the effect of the observed object condition.
-
-དེའི་སྔ་མ་དེ་མྱོང་བྱེད་རང་རིག་དང་། ཕྱི་མ་དེའི་མྱོང་བྱའི་ཡུལ་དུ་འདོད་ཅིང་།
-The previous is the experiencer, the self-knower, and the latter is asserted as its experienced-object.
-
-མྱོང་བྱ་མྱོང་བྱེད་གཉིས་ཀྱང་ཐ་དད་ཁོ་ནར་འདོད་ལ། 
-དེ་ལྟ་བུའི་རིག་བྱ་རིག་བྱེད་ལ་ཡིད་ཅི་ཙམ་གཏད་ཀྱང་ཐ་དད་པའི་རྣམ་པ་ཆར་རྒྱུ་མེད་ཅིང་སྒྲུབ་བྱེད་ཀྱང་མནའ་ཙམ་དུ་ཟད་ལ། 
-The experiencer and experienced are asserted as just different. However, no matter how much the mind is focused on such knower and known, an aspect of difference will not appear and the proof is also nothing but a promise.
-
-དེ་ལྟ་ནའང་འཐད་པའི་བྱ་བྱེད་དུ་འདོད་ན། བྱ་བྱེད་ལས་གསུམ་གཅིག་ཏུ་འགྱུར་ཞེས་པའོ། ལེགས་པར་བཤད་དོ།
-If that is nevertheless asserted as a feasible object and agent, then agent, object, and actions become one. This is well explained.
+[[Madhyamaka/Summary of four refutations by Candrakirti (JS)\|Summary of four refutations by Candrakirti (JS)]]
+{ #2bad2b}
 
 
 ---
