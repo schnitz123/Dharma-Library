@@ -9,10 +9,10 @@
                 <li><a href="/website/written-translations/">Written translations</a></li>
                 <li><a href="/website/offerings/">Make an offering</a></li>
             </ul>
-        </div>
         {% if settings.dgEnableSearch === true%}
             {% include "components/searchButton.njk" %}
         {%endif%}
+        </div>
     </nav>
     <nav class="navbar-mobile">
         <div class="navbar-inner">
@@ -89,9 +89,6 @@
                    
   </ul>
         </div>
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
     </nav>
     {%else%}
     <div class="empty-navbar" >
