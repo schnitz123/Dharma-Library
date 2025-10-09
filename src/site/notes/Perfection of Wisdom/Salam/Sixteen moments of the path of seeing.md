@@ -76,7 +76,7 @@ Therefore, those sixteen are a single meditation session that is in single-point
 ལུང་འདི་དག་གིས་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་གྱིས་ཁོ་རང་མ་རྟོགས་ཟེར་བ་ལེགས་པར་བཀག་གོ
 These passages (quotes Haribhadra and Gyaltsab Je) thoroughly refute statements to the effect that the uninterrupted path of the Mahayana path of seeing does not realise itself.
 i.e. Jetsunpa asserts that it does realise itself (implicitly).
-Realising emptiness and implicitly realising the awareness realising emptiness does not make emptiness [[Collected Topics/Affirming negation\|affirming negation]] because the awareness realising emptiness is an affirming negation. See also [[Collected Topics/Affirmations and Negations\|Negations]].
+Realising emptiness and implicitly realising the awareness realising emptiness does not make emptiness [[Collected Topics/Affirming negation\|affirming negation]] because the awareness realising emptiness is an affirming negation. See also [[Collected Topics/Positively-qualified and Negatively-qualified phenomena\|Negations]].
 
 ---
 ཉན་ཐོས་ཀྱི་མཐོང་ལམ་བཟོད་པ་བརྒྱད་ཅིག་ཅར་དུ་སྐྱེ་བ་ཡོད་དེ། སྤང་བྱ་ཅིག་ཅར་བའི་རྒྱུན་ཞུགས་ཞུགས་པའི་རྒྱུད་ལ་དེ་ལྟར་སྐྱེ་བའི་ཕྱིར། 

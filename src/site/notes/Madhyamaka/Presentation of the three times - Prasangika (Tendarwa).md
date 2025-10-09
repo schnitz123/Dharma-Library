@@ -86,7 +86,7 @@ Therefore, in the system that asserts that the disintegratedness of sprout and t
 **Disintegratedness is a functioning thing and affirming negation**
 
 མྱུ་གུའི་ཞིག་པ་དེ་དངོས་པོ་ཡིན་ཀྱང་དེ་དགག་པ་ནི་ཡིན་ཏེ། རང་ཉིད་རྟོགས་པའི་བློས་རང་གི་དགག་བྱ་དངོས་སུ་བཅད་ནས་རྟོགས་དགོས་པའི་ཆོས་ཡིན་པའི་ཕྱིར། 
-Although the disintegratedness of sprout is a thing, it is a [[Collected Topics/Affirmations and Negations\|negation]] because of being a phenomenon that is necessarily realised by the awareness realising it through explicitly negating its object of negation.
+Although the disintegratedness of sprout is a thing, it is a [[Collected Topics/Positively-qualified and Negatively-qualified phenomena\|negation]] because of being a phenomenon that is necessarily realised by the awareness realising it through explicitly negating its object of negation.
 
 དེ་མ་ཡིན་དགག་ཡིན་ཏེ། དེ་དགག་པ་གང་ཞིག །མེད་དགག་མ་ཡིན་པའི་ཕྱིར། 
 It is an affirming negation because 1) it is a negation and 2) it is not a non-affirming negation.

@@ -7,7 +7,7 @@
 1. A negation; and
 2. There exists that which is a common locus of:
 	1. That conveyed as an object of comprehension to its apprehending conception upon the sound expressing it negating its object of negation; and
-	2. Being an affirmation.
+	2. Being a positively-qualified phenomenon.
 
 རང་ཉིད་ངེས་པའི་བློས་རང་གི་དགག་བྱ་བཀག་ཤུལ་དུ་རང་གི་འཕངས་བྱར་གྱུར་པའི་ཆོས་གཞན་འཕེན་པའམ་སྒྲུབ་པའི་དགག་པ། མ་ཡིན་དགག་གི་མཚན་ཉིད།
 **Definition (Tendarwa):** A negation that conveys or establishes another phenomenon that is its conveyed-object upon the awareness ascertaining it negating its object of negation.
@@ -22,25 +22,25 @@ Other-exclusion that is an affirming negation and affirming negation are mutuall
 
 ---
 **Divisions of affirming negation:**
-1. Affirming negation where the sound expressing it *explicitly* conveys the other phenomenon (affirmation) that is its conveyed-object
+1. Affirming negation where the sound expressing it *explicitly* conveys the other phenomenon (positively-qualified) that is its conveyed-object
    རང་ཞེས་བརྗོད་པའི་སྒྲས་རང་གི་འཕངས་བྱར་གྱུར་པའི་ཆོས་གཞན་སྒྲུབ་པ་དངོས་སུ་འཕེན་པའི་མ་ཡིན་དགག
    *Illustrations:*
    - The place where a pot is not observed by valid cognition བུམ་པ་ཚད་མས་མ་དམིགས་པའི་ས་ཕྱོགས།
    - A field without mountains རི་མེད་པའི་ཐང་།
 <br>
-1. Affirming negation where the sound expressing it *implicitly* conveys the other phenomenon (affirmation) that is its conveyed-object
+1. Affirming negation where the sound expressing it *implicitly* conveys the other phenomenon (positively-qualified) that is its conveyed-object
    རང་ཞེས་བརྗོད་པའི་སྒྲས་རང་གི་འཕངས་བྱར་གྱུར་པའི་ཆོས་གཞན་སྒྲུབ་པ་ཤུགས་ལ་འཕེན་པའི་མ་ཡིན་དགག
    *Illustrations:*
    - The opposite of non-pot བུམ་པ་མ་ཡིན་པ་ལས་ལོག་པ།
    - The fat Devadatta does not eat food in the daytime ལྷས་བྱིན་ཚོན་པོ་ཉིན་པར་ཟས་མི་ཟ་བ།
 <br>
-1. Affirming negation where the sound expressing it *both explicitly and implicitly* conveys the other phenomenon (affirmation) that is its conveyed-object
+1. Affirming negation where the sound expressing it *both explicitly and implicitly* conveys the other phenomenon (positively-qualified) that is its conveyed-object
    རང་ཞེས་བརྗོད་པའི་སྒྲས་རང་གི་འཕངས་བྱར་གྱུར་པའི་ཆོས་གཞན་སྒྲུབ་པ་དངོས་ཤུགས་གཉིས་ཀ་ལ་འཕེན་པའི་མ་ཡིན་དགག
    *Illustration:*
    - The fat Devadatta, who does not eat during the day, is not thin 
      ཉིན་པར་ཟས་མི་ཟ་བའི་ལྷས་བྱིན་ཚོན་པོ་རིད་པ་མ་ཡིན་པར་ཡོད་པ།
 <br>
-1. Affirming negation where the sound expressing it *contextually* conveys the other phenomenon (affirmation) that is its conveyed-object
+1. Affirming negation where the sound expressing it *contextually* conveys the other phenomenon (positively-qualified) that is its conveyed-object
    རང་ཞེས་བརྗོད་པའི་སྒྲས་རང་གི་འཕངས་བྱར་གྱུར་པའི་ཆོས་གཞན་སྒྲུབ་པ་སྐབས་སྟོབས་ཀྱིས་འཕེན་པའི་མ་ཡིན་དགག
    Illustration:
    - King Siddhartha is either of the royal caste or Brahmin caste and he is not of Brahmin caste
@@ -49,4 +49,4 @@ Other-exclusion that is an affirming negation and affirming negation are mutuall
 
 ---
 See also: [[Collected Topics/Other-exclusions that are affirming negations\|Other-exclusions that are affirming negations]]
-Up a level: [[Collected Topics/Affirmations and Negations\|Affirmations and Negations]]
+Up a level: [[Collected Topics/Positively-qualified and Negatively-qualified phenomena\|Positively-qualified and Negatively-qualified phenomena]]

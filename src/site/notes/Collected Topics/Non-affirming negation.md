@@ -28,4 +28,4 @@ Non-affirming negation and non-affirming other-exclusion are mutually inclusive.
    *Illustration:* selflessness of persons (གང་ཟག་གི་བདག་མེད།)
 
 ---
-Up a level: [[Collected Topics/Affirmations and Negations\|Affirmations and Negations]]
+Up a level: [[Collected Topics/Positively-qualified and Negatively-qualified phenomena\|Positively-qualified and Negatively-qualified phenomena]]

@@ -22,5 +22,6 @@
 
 [[Collected Topics/Past and Future\|Past and Future]]
 
-[[Collected Topics/Affirmations and Negations\|Affirmations and Negations]] / [[Collected Topics/Other-exclusion\|Other-exclusion]]
+[[Collected Topics/Positively-qualified and Negatively-qualified phenomena\|Positively-qualified and Negatively-qualified phenomena]] / [[Collected Topics/Other-exclusion\|Other-exclusion]]
 [[Collected Topics/Collective and Eliminative Engagers\|Collective and Eliminative Engagers]]
+[[Collected Topics/Elimination and determination\|Elimination and determination]]

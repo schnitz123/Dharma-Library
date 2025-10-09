@@ -80,7 +80,7 @@ That follows because they are established by way of own-character individual (/d
 { #76d2eb}
 
 
-[[Madhyamaka/Problems with self-realising (Jetsunpa)\|Problems with self-realising (Jetsunpa)]]
+[[Madhyamaka/Debate about consciousnesses realising themselves\|Debate about consciousnesses realising themselves]]
 { #a084dd}
 
 

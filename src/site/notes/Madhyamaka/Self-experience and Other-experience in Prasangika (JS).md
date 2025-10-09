@@ -45,6 +45,20 @@ The second reason is established because if other-experience exists, then it wou
 དེར་ཐལ། དཔེར་ན་བྱམས་པའི་སྐྱེ་བ་སྔོན་མར་རྒྱུད་གཞན་གྱི་ཉེར་སྦས་ཀྱིས་རང་ཉིད་སྐྱེས་པར་མི་དྲན་པ་བཞིན་ཡིན་པའི་ཕྱིར་དང་། ཐུག་མེད་ཀྱི་ཡང་སྐྱོན་ཡོད་པའི་ཕྱིར།
 That follows because for example, Maitreya's previous birth is not remembered by Upagupta who is of a different continuum and because there would also be the fault of an infinite regress.
 
+---
+གཞན་ཡང་རང་མྱོང་གཞན་མྱོང་གང་ཡང་མེད་པ་འཕགས་པའི་དགོངས་པར་ཐལ། 
+ཚད་མ་རང་མྱོང་མ་ཡིན་ལ། ཚད་མ་གཞན་མྱོང་དང་རྒྱུ་མེད་མིན་ཡང་ཚད་གྲུབ་མིང་གིས་བཏགས་ཙམ་ཡོད་ཅེས་སོ་སོར་ཕྱེ་ནས་བཞག་དགོས་པའི་ཕྱིར།
+Moreover, the non-existence of both self-experience and other-experience is the Arya's intention because it is necessary to posit this through differentiating:
+- Valid cognition is not self-experience;
+- Valid cognition is not other-experience;
+- It is not causeless; rather
+- Establishment of valid cognition exists as merely designated by name.
+
+རྩོད་ཟློག་ལས། ཚད་མ་རྣམས་ནི་རང་ཉིད་ཀྱིས། །འགྲུབ་མིན་ཕན་ཚུན་གྱིས་མིན་པའམ།།ཚད་མ་གཞན་གྱིས་མ་ཡིན་ལ། །གཞལ་བྱས་མ་ཡིན་རྒྱུ་མེད་མིན། 
+།ཆོས་ཀྱི་གནས་སྐབས་རབ་མཁས་པ། །དགེ་བ་ཡིས་ནི་ཆོས་རྣམས་ཀྱི། །དགེ་བའི་རང་བཞིན་ཆོས་རྣམས་གང་། །དེ་ལྟར་རབ་ཕྱེ་བརྗོད་བྱ་ཡིན། 
+།ཞེས་གསལ་བར་གསུངས་པའི་ཕྱིར།
+This is because Refutation of Objections says: Valid cognitions are not established by themselves, not by each other or by another valid cognition, not by the cognised-object, and not causelessly. Those skilled in the context of dharma, say that the nature virtuous dharmas is due to their virtue and differentiate them as such.
+
 
 ---
 Up a level: [[Madhyamaka/Refutation of self-knowers as the basis for memory#^76d2eb\|Refutation of self-knowers as the basis for memory]]

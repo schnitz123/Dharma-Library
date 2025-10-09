@@ -5,7 +5,7 @@
 གཞན་སེལ་ཡང་ཡིན། རང་གི་དགག་བྱ་བཀག་ཤུལ་དུ་འཕངས་པའི་སྒྲུབ་པ་མེད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པ། མེད་དགག་གི་གཞན་སེལ་གྱི་མཚན་ཉིད།
 **Definition:** The common locus of:
 1. Being an other-exclusion; and
-2. Lacking a positive phenomenon that is conveyed upon the negation of its object of negation
+2. Lacking a positively-qualified phenomenon that is conveyed upon the negation of its object of negation
 
 **Divisions:**
 1. Where the object of negation is possible among objects of knowledge 

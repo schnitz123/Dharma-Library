@@ -6,10 +6,10 @@
 **Definition:** That which appears as possessing the aspect of eliminating that which is not that when its aspect appears to a factually concordant awareness.
 
 གཞན་སེལ་དང་དགག་པ་དོན་གཅིག
-Other-exclusion and [[Collected Topics/Affirmations and Negations\|negation]] are mutually inclusive.
+Other-exclusion and [[Collected Topics/Positively-qualified and Negatively-qualified phenomena\|negatively-qualified phenomenon (negation)]] are mutually inclusive.
 
 བློ་དོན་མཐུན་ལ་རང་གི་རྣམ་པ་འཆར་བའི་ཚེ། དགག་པའི་རྣམ་པ་ཅན་དུ་འཆར་བ། དགག་པའི་མཚན་ཉིད།
-**Definition of negation (Pramana):** That which appears as possessing the aspect of a negation when its aspect appears to a factually concordant awareness.
+**Definition of negatively-qualified phenomenon (Pramana):** That which appears as possessing the aspect of a negation when its aspect appears to a factually concordant awareness.
 
 ---
 **Divisions:**
@@ -24,4 +24,4 @@ Other-exclusion and [[Collected Topics/Affirmations and Negations\|negation]] ar
 3. [[Collected Topics/Other-exclusions that are non-affirming negations\|Other-exclusions that are non-affirming negations]] མེད་དགག་གི་གཞན་སེལ།
 
 ---
-Up a level: [[Collected Topics/Collected Topics\|Collected Topics]] / [[Collected Topics/Affirmations and Negations\|Affirmations and Negations]]
+Up a level: [[Collected Topics/Collected Topics\|Collected Topics]] / [[Collected Topics/Positively-qualified and Negatively-qualified phenomena\|Positively-qualified and Negatively-qualified phenomena]]
