@@ -43,6 +43,9 @@ For example, the blade of a sword does not cut itself and the tip of the finger 
 
 1. [[Madhyamaka/Cittamatra reasoning for self-knowers\|Cittamatra reasoning for self-knowers]]
 2. [[Madhyamaka/Refutation of self-knowers as the basis for memory\|Refutation of self-knowers as the basis for memory]]
+	- [[Madhyamaka/The mental continuum of sentient beings is individual (Panchen)\|The mental continuum of sentient beings is individual (Panchen)]]
+	- [[Madhyamaka/Self-experience and Other-experience in Prasangika (JS)\|Self-experience and Other-experience in Prasangika (JS)]]
+	- [[Madhyamaka/Debate about consciousnesses realising themselves\|Debate about consciousnesses realising themselves]]
 3. [[Madhyamaka/How memory operates without self-knowers\|How memory operates without self-knowers]]
 
 རིགས་པ་གཞན་གྱིས་ཀྱང་རང་རིག་མི་འཐད་པར་བསྟན་པ། 
