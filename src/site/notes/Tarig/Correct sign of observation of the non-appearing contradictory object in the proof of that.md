@@ -7,7 +7,7 @@
 **Definition:**
 That which is the common locus of x being:
 1. the correct sign of non-observation of the non-appearing in the proof of that;
-2. either an affirming negation or a positive phenomenon.
+2. either an affirming negation or a positively-qualified phenomenon.
 
 **Illustration:**
 Taking the subject - in the space in front - a factually concordant subsequent cogniser ascertaining a meat-eater (there) does not exist in the continuum of a person for whom a meat-eater is a [[Tarig/Suprasensory object\|suprasensory object]] because of existence.

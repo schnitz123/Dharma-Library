@@ -7,7 +7,7 @@
 **Definition:**
 That which is a common locus of:
 1. being a correct sign of non-observation of that suitable to appear in the proof of that
-2. being either an [[Collected Topics/Affirming negation\|Affirming negation]] or a [[Collected Topics/positive phenomenon\|positive phenomenon]].
+2. being either an affirming negation or a positively-qualified phenomenon.
 
 **Divisions:**
 1. [[Tarig/Correct sign of observation of the contradictory object that is suitable to appear that relates via a non-simultaneous abiding contradiction\|Correct sign of observation of the contradictory object that is suitable to appear that relates via a non-simultaneous abiding contradiction]] ལྷན་ཅིག་མི་གནས་འགལ་ལ་བརྟེན་པའི་སྣང་རུང་འགལ་དམིགས་ཀྱི་རྟགས་ཡང་དག

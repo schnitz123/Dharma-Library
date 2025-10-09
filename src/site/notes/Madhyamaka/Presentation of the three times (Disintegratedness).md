@@ -16,7 +16,7 @@
 
 All three are functioning things but:
 - Past and future are affirming negations
-- Present is a positive phenomenon
+- Present is a positively-qualified phenomenon
 
 Disintegratedness is a functioning thing and an affirming negation:
 - Object of negation: sprout

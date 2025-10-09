@@ -30,11 +30,13 @@ In that case, since it is necessary to assert that the eye-consciousness apprehe
 *Answer:* In that case, it follows that the exalted wisdom of meditative equipoise of the Mahayana path of seeing knowing the modes explicitly realises dharmata and implicit to that also realises itself, i.e. the exalted wisdom that is the object-possessor.
 
 དེ་ལ་མི་འདོད་པ་ལ་འདས་པ་ཅི་ཞིག་ཡོད་སྙམ་ན།
-*Someone says:* Why would not pass into something we do not assert?
+*Someone says:* Why would it pass into something we do not assert?
 
 ཡེ་ཤེས་དེ་གང་ལ་རིག་ཤེས་ཚད་མར་སོང་བའི་གཞལ་བྱ་ཆོས་ཉིད་དེ་དགག་བྱ་བདེན་གྲུབ་བཅད་ཙམ་གྱི་མེད་དགག་ཁོ་ན་མ་ཡིན་པར་མ་ཡིན་དགག་ཏུ་ཐལ། 
 བདེན་གྲུབ་བཅད་ཙམ་དེ་དངོས་ཡུལ་དུ་བྱས་པའི་ཤུགས་ཀྱིས་བསྒྲུབ་ཆོས་ཡེ་ཤེས་དེ་བློ་ཡུལ་དུ་འཕངས་འདུག་པའི་ཕྱིར་རོ།
-*Answer:* It follows that the cognised-object (i.e. dharmata) wrt which that exalted wisdom has become a valid reasoning consciousness is not just a non-affirming negation that is the mere negation of its object of negation (i.e. true establishment) but would be an affirming negation because implicit to taking the mere negation of true establishment as its explicit object, it conveys a positive phenomenon (i.e. the exalted wisdom) as an object of awareness.
+*Answer:* It follows that the cognised-object (i.e. dharmata) wrt which that exalted wisdom has become a valid reasoning consciousness is not just a non-affirming negation that is the mere negation of its object of negation (i.e. true establishment) but would be an affirming negation because implicit to taking the mere negation of true establishment as its explicit object, it conveys a positively-qualified phenomenon (i.e. the exalted wisdom) as an object of awareness.
+{ #1b3691}
+
 
 བདེན་པར་མེད་ཅེས་བརྗོད་པའི་སྒྲས་ཀྱང་བདེན་མེད་རྟོགས་པའི་བློ་ཤུགས་ལ་བརྗོད་བྱར་འཕེན་བར་ཐལ་ལོ།
 It follows that also the terms expressing "lack of true existence" would implicitly convey the awareness realising the lack of true existence as an expressed-object.

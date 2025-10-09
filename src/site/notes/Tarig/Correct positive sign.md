@@ -8,7 +8,7 @@
 1. x is a correct sign in the proof of that;
 2. there is a possible common locus between:
 	1. being that held as the explicit property of the probandum in the proof of that using the sign "x"; and
-	2. being a positive phenomenon.
+	2. being a positively-qualified phenomenon.
 
 **Divisions:**
 1. [[Tarig/Correct effect sign\|Correct effect sign]]
