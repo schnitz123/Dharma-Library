@@ -7,24 +7,28 @@
 1. Non-deceptive wrt a cognised-object that is hidden to it; and
 2. Directly produced in dependence upon a correct sign (its support).
 
-འདིའི་དབྱེ་བར་གྱུར་པའི་ལུང་གི་ཚད་མ་ནི། དཔྱད་གསུམ་གྱིས་དག་པའི་ལུང་གི་རྟགས་ལས། 
-སྦྱིན་པས་ལོངས་སྤྱོད་ཁྲིམས་ཀྱིས་བདེ། །ཞེས་པའི་ལུང་རང་གི་བསྟན་བྱའི་དོན་ལ་མི་སླུ་བར་རྟོགས་པའི་རྗེས་དཔག་ལྟ་བུ་ལ་བྱེད། 
-Among its divisions, a **scriptural valid cognition** is taken to be: An inference that the scripture "Due to generosity, resources; due to ethics, happiness;" is non-deceptive wrt its indicated meaning through the sign "a scripture purified through the threefold analysis".
+རང་གི་རྟེན་དུ་གྱུར་པའི་རྟགས་ཡང་དག་ལ་བརྟེན་ནས་རང་ཡུལ་གྱི་གཙོ་བོར་གྱུར་པའི་ལྐོག་གྱུར་ལ་མི་སླུ་བའི་ཞེན་རིག རྗེས་སུ་དཔག་པའི་ཚད་མའི་མཚན་ཉིད།
+**(Panchen) Definition:** A determinative knower that is non-deceptive with respect to the hidden phenomenon that is its main object and depends upon the correct sign that is its support.
 
-Valid scripture and scriptural valid cognition are not the same: ལུང་ཚད་མ་དང་ལུང་གི་ཚད་མ་མི་འདྲ་སྟེ། 
-- Scriptural valid cognitions is as explained above ལུང་གི་ཚད་མ་ནི་སྔར་བཤད་པ་དེ་ཡིན་ལ།
-- Valid scripture is the Hundred-Thousand Verse Perfection of Wisdom, for example
-  ལུང་ཚད་མ་ནི་ཤེར་ཕྱིན་འབུམ་པ་ལྟ་བུ་ལ་བྱེད་དགོས་པའི་ཕྱིར།
- 
-ཕྱི་མ་གྲུབ་སྟེ། ལུང་ཚད་མ་དང་སྐྱེས་བུ་ཚད་མ་སོགས་ཁས་ལེན་དགོས། དེ་དག་ཤེས་པར་ཁས་ལེན་དུ་མི་རུང་བའི་ཕྱིར། 
-The latter is established because 1) it is necessary to assert [the existence of] valid scriptures, valid beings, and so forth, and 2) it is not suitable to posit those as being consciousness.
+---
+རྗེས་སུ་དཔག་པའི་ཚད་མ་ཡིན་ན་རང་གི་རྟེན་གཏན་ཚིགས་ཡང་དག་ལ་བརྟེན་པས་ཁྱབ། 
+**(Panchen)** If it is an inferential valid cognition, then it is pervaded by depending upon the correct reason that is its support.
 
-ཕྱི་མ་དེར་ཐལ། རྗེ་ཡབ་སྲས་ཀྱིས་ཚད་མའི་དབྱེ་བ་མཛད་པའི་ཚེ་ལུང་གི་ཚད་མ་ཞེས་འབྱུང་གི། ལུང་ཚད་མ་ཞེས་གང་དུ་ཡང་མི་འབྱུང་བའི་ཕྱིར། 
-The latter follows because Je and his spiritual sons, when indicating the divisions of valid cognition, use "scriptural valid cognition" and never "valid scripture".
+མ་གྲུབ་ན། མྱུ་གུ་ཆོས་ཅན། རྟེན་འབྲེལ་མ་ཡིན་པར་ཐལ། བདེན་གྲུབ་ཡིན་པའི་ཕྱིར། 
+ཞེས་པའི་ཐལ་འགྱུར་ཙམ་འཕངས་པ་ལ་བརྟེན་ནས་སྐྱེས་པའི་མྱུ་གུ་བདེན་མེད་དུ་རྟོགས་པའི་རྗེས་དཔག་ཡོད་པར་འགྱུར་ལ།
+If not established: There would exist an inference realising the sprout as lacking true existence that is produced in dependence upon merely throwing the consequence "The subject - sprout - it follows it is not a dependent-arising because it is truly established."
 
-དཔེ་ཉེར་འཇལ་གྱི་ཚད་མ་ཡང་རྟགས་ལ་མ་བརྟེན་པར། དཔེ་བཀོད་པ་ཙམ་ལས་དོན་རྟོགས་པའི་བློ་ལ་མི་བྱེད་དེ། 
-དེ་འདྲའི་ཚད་མ་ཡིན་ན་རང་གི་རྟེན་རྟགས་ལ་བརྟེན་དགོས་པའི་ཕྱིར།
-A **valid cognition of analogy** is *not* taken as: An awareness realising the meaning through merely stating an example, without depending upon a sign. This is because if it is such a valid cognition, then it necessarily depends upon a sign (its support).
+འདོད་ན། དེ་འདྲའི་ཐལ་འགྱུར་འཕངས་པ་ཙམ་ལ་བརྟེན་ནས་མྱུ་གུ་བདེན་གྲུབ་ཏུ་འདོད་པའི་ལོག་རྟོག་ཁེགས་པའི་གང་ཟག་ཡིན་ན། 
+མྱུ་གུ་བདེན་མེད་དུ་རྟོགས་པའི་རྗེས་དཔག་རང་རྒྱུད་ལ་དངོས་སུ་སྐྱེ་ཁ་མའི་གང་ཟག་ཡིན་དགོས་པར་འགྱུར་བས། 
+མྱུ་གུ་བདེན་པར་གྲུབ་བམ་མ་གྲུབ་སྙམ་པའི་ཐེ་ཚོམ་ལ་ཡུན་རིང་དུ་གནས་པའི་ཕྱི་རྒོལ་མེད་པར་འགྱུར་བའི་ཕྱིར། 
+If accepted: If it is a person has refuted wrong conception that assert the sprout as truly established in dependence upon merely that consequence having been thrown, it would necessarily be a person who is just about to directly produce in their continuum an inference realising the sprout as lacking true existence because an opponent for whom the doubt thinking "Is the sprout truly established or not?" remains for a long time would not exist.
+
+དེས་ན་སྒྲོན་གསལ་གྱི་མཆན་བུ་དང་སྟོང་ཐུན་ཆེན་མོ་གཉིས་ཀར་རྗེས་སུ་དཔག་པའི་ཚད་མ་ཡིན་ན་རང་གི་རྟེན་གཏན་ཚིགས་ཡང་དག་ལ་བརྟེན་པས་ཁྱབ་པར་
+གསུངས་པས་གཞན་གྱི་ངག་རྗེས་མ་འབྲང་ཞིག
+Therefore, since it is indicated in both the Annotations on the Clear Lamp and the Thousand Doses that if it is an inferential valid cognition, then it is pervaded by depending upon the correct reason that is its support, do not follow the words of others.
+
+---
+[[Madhyamaka/Valid cognitions of scripture and analogy\|Valid cognitions of scripture and analogy]]
 
 ---
 སྒྲ་མི་རྟག་རྟོགས་ཀྱི་རྗེས་དཔག་སྒྲ་མི་རྟག་པ་ལ་འཁྲུལ་བ་ཡིན་ཏེ། ཁྱོད་ལ་དེ་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་སྣང་བ་གང་ཞིག །དེ་རང་གི་མཚན་ཉིད་ཀྱིས་མ་གྲུབ་པའི་ཕྱིར།

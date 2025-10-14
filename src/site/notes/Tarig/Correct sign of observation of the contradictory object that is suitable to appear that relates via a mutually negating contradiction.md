@@ -12,6 +12,8 @@ That which is a common locus of:
 **Illustration:** product.
 
 **Divisions:**
+{ #a9926a}
+
 1. Correct sign refuting certainty through dependence
    ལྟོས་པས་ངེས་པ་འགོག་པའི་རྟགས་ཡང་དག
 2. Correct sign refuting dependence through certainty

@@ -17,7 +17,7 @@ Sautrantika assert that direct perceivers are pervaded by being unmistaken consc
 Sautrantika, Cittamatra, and Svatantrika assert that direct perceivers are pervaded by being non-conceptual; whereas Prasangika do not.
 
 Prasangika's unique assertions:
-- Definition of valid cogniser: An incontrovertible knower.
+- Definition of valid cogniser: A non-deceptive knower.
 - Subsequent cognisers are pervaded by being valid cognisers.
 - There are both conceptual and non-conceptual direct valid cognisers.
 ---

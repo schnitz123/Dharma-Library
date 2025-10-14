@@ -52,4 +52,8 @@ This way in which memory is produced from experience is established as merely de
 Nevertheless, a memory thinking that the blue that exists at the time of the apprehender of blue exists at the time of the memory is *not* produced because it is not feasible that a memory qualified by time is produced for such innate awarenesses.
 
 ---
+Although Jetsunpa asserts that the eye-consciousness apprehending blue implicitly apprehends itself and is thereby later remembered and establishes itself, Khedrup Je (and JS etc.) disagree:
+[[Madhyamaka/Khedrup Je's Thousand Doses on consciousness not realising itself#^daee9a\|Khedrup Je: How does the later memory establish the existence of the earlier apprehension of blue]]
+
+---
 Up a level: [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures#^57d563\|Refuting self-knowers as the proof of other-powered natures]]

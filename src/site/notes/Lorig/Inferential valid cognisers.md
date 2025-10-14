@@ -3,7 +3,7 @@
 ---
 
 རང་གི་རྟེན་རྟགས་ཡང་དག་ལ་བརྟེན་ནས་དངོས་སུ་སྐྱེས་པའི་གསར་དུ་མི་སླུ་བའི་གཞན་རིག་དེ། རྗེས་སུ་དཔག་པའི་ཚད་མའི་མཚན་ཉིད།<br>དེ་དང་རྗེས་དཔག་གཉིས་དོན་གཅིག
-**Definition:** A new incontrovertible other-knower that is directly produced in dependence upon its supporting [[Tarig/Correct sign\|correct sign]].
+**Definition:** A newly non-deceptive other-knower that is directly produced in dependence upon its supporting [[Tarig/Correct sign\|correct sign]].
 This and inferential cogniser are mutually inclusive.
 
 **Divisions:**
@@ -14,7 +14,7 @@ This and inferential cogniser are mutually inclusive.
 { #821f7b}
 
 3. **Inference of belief** ཡིད་ཆེས་ཀྱི་རྗེས་དཔག
-   e.g. Realising the scripture saying "From generosity, wealth; from ethics, happiness." is incontrovertible with respect to its indicated-meaning because of being a scriptures purified by the three analyses. དཔྱད་གསུམ་གྱིས་དག་པའི་ལུང་གིས་རྟགས་ལས། སྦྱིན་པས་ལོངས་སྤྱོད་ཁྲིམས་ཀྱིས་བདེ། ཞེས་སོགས་ཀྱི་ལུང་རང་གི་བསྟན་དོན་མི་སླུ་བར་རྟོགས་པའི་རྗེས་དཔག
+   e.g. Realising the scripture saying "From generosity, wealth; from ethics, happiness." is non-deceptive with respect to its indicated-meaning because of being a scriptures purified by the three analyses. དཔྱད་གསུམ་གྱིས་དག་པའི་ལུང་གིས་རྟགས་ལས། སྦྱིན་པས་ལོངས་སྤྱོད་ཁྲིམས་ཀྱིས་བདེ། ཞེས་སོགས་ཀྱི་ལུང་རང་གི་བསྟན་དོན་མི་སླུ་བར་རྟོགས་པའི་རྗེས་དཔག
 { #569308}
 
 

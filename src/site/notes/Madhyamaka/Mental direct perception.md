@@ -23,6 +23,24 @@
 གཞན་སེམས་ཤེས་པའི་མངོན་ཤེས། གཉིས་པའི་མཚན་གཞི། 
 **Illustration of the second:** A clairvoyance knowing others' minds.
 
+---
+རང་གི་རྟེན་དུ་གྱུར་པའི་རྟགས་ཡང་དག་ལ་མ་བརྟེན་པར་རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་ཡིད་དབང་ལས་བྱུང་བའི་མི་སླུ་བའི་ཞེན་རིག་དང༌།
+རང་ཡུལ་གྱི་གཙོ་བོ་དེ་རང་ལ་མངོན་དུ་གྱུར་པའི་སྒོ་ནས་དེ་ལ་མི་སླུ་བ་གང་རུང་དུ་གྱུར་པའི་ཡིད་བློ། ཡིད་ཀྱི་མངོན་སུམ་གྱི་ཚད་མའི་མཚན་ཉིད། 
+**(Panchen) Definition:** A mental awareness that is either:
+1. A non-deceptive determinative knower that arises from the mental-faculty that is its unique empowering condition without depending upon the correct sign that is its basis; or
+2. Non-deceptive with respect to its main object by way of that being manifest to it.
+
+དབྱེ་ན་སྔ་མ་བཞིན་ལྔ་ཡོད། 
+When divided, there are five as before.
+
+མཚན་ཉིད་ཟུར་གཉིས་ལྡན་སྨོས་པ་ནི་སྒྲ་མི་རྟག་པར་འཛིན་པའི་རྟོག་པ་ལྟ་བུ་ཡིད་ཀྱི་མངོན་སུམ་གྱི་ཚད་མར་བཞག་དགོས་པའི་གནད་ཀྱིས་སོ། 
+Both parts of the definition are necessary due to the essential point of needing to posit the conception apprehending sound as impermanent as a mental direct valid cognition.
+
+---
+[[Madhyamaka/Unique Prasangika presentation of mental direct perception (Panchen)\|Unique Prasangika presentation of mental direct perception (Panchen)]]
+[[Madhyamaka/All consciousnesses are direct valid cognition wrt their appearance (Khedrub Je)\|All consciousnesses are direct valid cognition wrt their appearance (Khedrub Je)]]
+[[Madhyamaka/The intention of Candrakirti's Four Hundred Verses about feelings (Jetsunpa)\|The intention of Candrakirti's Four Hundred Verses about feelings (Jetsunpa)]]
+[[Madhyamaka/Summary of Prasangika mental direct perception\|Summary of Prasangika mental direct perception]]
 
 ---
 Up a level: [[Madhyamaka/Direct valid cognition\|Direct valid cognition]]

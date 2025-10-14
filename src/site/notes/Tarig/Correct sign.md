@@ -37,5 +37,7 @@ Those two *in the proof of that* are mutually exclusive; but "product" is both t
 
 [[Tarig/Division by way of the opponent\|Division by way of the opponent]]
 
+[[Tarig/Correct sign of observation of the contradictory object that is suitable to appear that relates via a mutually negating contradiction#^a9926a\|Signs of non-dependence]] ལྟོས་མེད་ཀྱི་རྟགས།
+
 ---
 Up a level: [[Tarig/Tarig\|Tarig]]

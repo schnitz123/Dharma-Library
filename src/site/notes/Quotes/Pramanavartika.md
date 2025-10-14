@@ -15,7 +15,7 @@ Due to having clear appearances, such an awareness
 Comes to be a direct perceiver.
 
 གཙོ་བོའི་དོན་ལ་མི་བསླུའི་ཕྱིར། གཞན་ལ་རྗེས་སུ་དཔག་པ་ཡིན།
-Due to being incontrovertible with respect to the main meaning,
+Due to being non-deceptive with respect to the main meaning,
 It is extrapolated to the others.
 
 དེ་ཕྱིར་མི་རྟག་ལས་སྡུག་བསྔལ། སྡུག་བསྔལ་ལས་ནི་བདག་མེད་གསུངས།

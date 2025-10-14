@@ -55,8 +55,9 @@
 		- [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures\|Refuting self-knowers as the proof of other-powered natures]]
 		- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
 		- [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]
+			- [[Madhyamaka/Mental direct perception\|Mental direct perception]]
 - [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]
 - 406
 
-[[Madhyamaka/Twenty views of the transitory collection\|Twenty views of the transitory collection]]
+
 

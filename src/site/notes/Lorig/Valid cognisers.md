@@ -3,13 +3,13 @@
 ---
 
 གསར་དུ་མི་སླུ་བའི་རིག་པ། ཚད་མའི་མཚན་ཉིད།
-**Definition:** A new incontrovertible knower.
+**Definition:** A new non-deceptive knower.
 
 ཚད་མའི་མཚན་ཉིད་ཀྱི་ཟུར་དུ་གསར་དུ་དང་མི་སླུ་བ་དང་རིག་པ་ཞེས་གསུམ་སྨོས་པ་ལ་དགོས་པ་ཡོད་དེ།
 There is a purpose in all three parts of the definition:
 - "New" eliminates [[Lorig/Subsequent cognisers\|subsequent cognisers]] from being valid cognisers
   གསར་དུ་ཞེས་པས་དཔྱད་ཤེས་ཚད་མ་ཡིན་པ་གཅོད།
-- "Incontrovertible" eliminates [[Lorig/Correct assumptions\|correct assumptions]] from being valid cognisers
+- "Non-deceptive" eliminates [[Lorig/Correct assumptions\|correct assumptions]] from being valid cognisers
   མི་སླུ་བ་ཞེས་པས་ཡིད་དཔྱོད་ཚད་མ་ཡིན་པ་གཅོད།
 - "Knower" eliminates the physical sense-powers from being valid cognisers.
   རིག་པ་ཞེས་པས་དབང་པོ་གཟུགས་ཅན་པ་ཚད་མ་ཡིན་པ་གཅོད་པ་ཡིན་པའི་ཕྱིར།

@@ -13,6 +13,7 @@
 
 [[Madhyamaka/Discussion of view of the transitory collection\|Discussion of view of the transitory collection]]
 
+[[Madhyamaka/Twenty views of the transitory collection\|Twenty views of the transitory collection]]
 
 ---
 Up a level: [[Madhyamaka/Madhyamaka#^d08963\|Madhyamaka]]

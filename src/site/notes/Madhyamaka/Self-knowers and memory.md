@@ -41,7 +41,8 @@ An awareness realising the sense-consciousness to which blue appears exists beca
 དེ་རྟོགས་བྱེད་ཀྱི་བློ་དང་། དེ་མྱོང་བྱེད་ཀྱི་བློ་དོན་མི་གཅིག་སྟེ། སྔོར་སྣང་དབང་ཤེས་དེ་རང་ཉིད་རྟོགས་བྱེད་ཀྱི་བློ་ཡིན་ཡང་། རང་མྱོང་བྱེད་མ་ཡིན་པའི་ཕྱིར། 
 An awareness realising that and an awareness experiencing that are not mutually inclusive because although the sense-consciousness to which blue appears realises itself, it does not experience itself.
 
-See: [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures\|Refuting self-knowers as the proof of other-powered natures]]
+---
+**Main page:** [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures\|Refuting self-knowers as the proof of other-powered natures]]
 
 ---
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]

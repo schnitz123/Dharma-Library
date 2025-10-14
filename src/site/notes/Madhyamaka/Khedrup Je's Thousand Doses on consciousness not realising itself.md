@@ -59,4 +59,40 @@ If explicitly realising an object implicitly establishes the existence of the ob
 If that is asserted, then since it is necessary to assert (in accordance with Je Rinpoche's repeated statements) that the existence of the lack of inherent existence would be established by conventional valid cognition and would not be established by a reasoning consciousness, one will have degenerated from the basic presentation of the Madhyamaka system.
 
 ---
+ཁོ་བོ་ནི་འདི་ལྟར་སྨྲ་སྟེ། སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་སྔོ་འཛིན་མིག་ཤེས་ཡོད་པར་གྲུབ། ཇི་ལྟར་གྲུབ་ན་སྔོན་པོ་གཞལ་བའི་སྟོབས་ཀྱིས་གྲུབ་ཅེས་མི་སྨྲའི།
+We say as follows. The eye-consciousness apprehending blue establishes the existence of the eye-consciousness apprehending blue. How? It is not established through the force of cognising blue.
+{ #daee9a}
+
+
+སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་སྔོན་པོ་གཞལ་བའི་སྟོབས་ཀྱིས་ཚད་མ་གཞན་བརྒྱུད་མི་དགོས་པར་
+སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་སྔོན་པོ་གཟུང་བ་དྲན་པའི་ཤེས་པ་དངོས་སུ་འདྲེན་ལ།
+Rather, through the force of the eye-consciousness apprehending blue cognising blue no other valid cognitions are required and the eye-consciousness apprehending blue directly induces a memory-consciousness remembering the apprehension of blue. 
+
+སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་སྔོན་པོ་གཟུང་བ་དྲན་པའི་ཤེས་པ་དེ་ཉིད་ཀྱིས་སྔོན་པོ་མེད་པ་དང་སྔོ་འཛིན་མིག་ཤེས་མེད་པ་གཉིས་ཀའི་སྒྲོ་འདོགས་བཅད་ནས་
+བློ་ཁ་ཕྱོགས་པ་ཙམ་གྱིས་དེ་དག་ཡོད་པའི་ངེས་པ་འདྲེན་ནུས་པའི་ཚད་མ་ཡིན་པས་དྲན་ཤེས་དེ་ཉིད་མིག་ཤེས་ཡོད་པ་ལ་ཚད་མ་ཡིན་ཞིང༌། 
+This very memory-consciousness remembering the apprehension of blue by the eye-consciousness apprehending blue, having eliminated superimpositions both wrt the non-existence of blue and the non-existence of the eye-consciousness apprehending blue, is a valid cognition that is able to induce ascertainment of the existence of those merely through turning the mind to those; therefore, that very memory-consciousness is a valid cognition wrt the existence of the eye-consciousness.
+
+རྗེས་ཀྱི་དྲན་ཤེས་ཀྱིས་སྔོན་པོ་དྲན་པ་ན་སྔོ་འཛིན་བློ་ཡུལ་དུ་སྤངས་ནས་དྲན་པ་མ་ཡིན་གྱི་ངས་སྔོན་པོ་མཐོང་ངོ་སྙམ་དུ་སྔོ་འཛིན་གྱིས་ཁྱད་པར་དུ་བྱས་ནས་
+དྲན་པ་ཡིན་པས་དྲན་པ་དེ་ཉིད་ཀྱིས་སྔོན་པོ་དང་སྔོ་འཛིན་གཉིས་ཀ་དྲན་པ་ཡིན་ལ།
+When the later memory-consciousness remembers blue, it does not remember that separately from the apprehension of blue as its object of awareness. Thinking "I saw blue", it is a memory qualified by the apprehension of blue and therefore that very memory it is a memory of both the blue and the apprehension of blue.
+
+དེས་ན་སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་སྔོན་པོ་གཞལ་བ་ལ་ལྟོས་ནས་སྔོ་འཛིན་མིག་ཤེས་གྲུབ་པ་ཡིན་ཀྱང་སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་གྲུབ་པ་མིན་ནོ།
+Therefore, although the eye-consciousness apprehending blue establishes the eye-consciousness apprehending blue in relation to cognising blue, it is not established by the eye-consciousness apprehending blue.
+
+དེ་གཞིན་དུ་སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་སྔོན་པོ་གཞལ་ཡང་སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་སྔོན་པོ་གཟུང་བ་དེ་ཉིད་འཇལ་བ་ལ་སྔོ་འཛིན་མིག་ཤེས་ཚད་མ་མ་ཡིན་གྱི་
+སྔོ་འཛིན་མིག་ཤེས་ཀྱིས་སྔོན་པོ་གཟུང་བ་དྲན་པའི་ཤེས་པ་དེ་ཉིད་དེ་ལ་ཚད་མ་མ་ཡིན་ནོ།
+Similarly, although the eye-consciousness apprehending blue cognises blue, the eye-consciousness apprehending blue is not a valid cognition wrt cognising that very apprehension of blue by the eye-consciousness apprehending blue; the consciousness remembering the apprehension of blue by the eye-consciousness apprehending blue itself is a valid cognition wrt that.
+
+འཕགས་པ་སློབ་པའི་ཇི་ལྟ་བ་མཁྱེན་པའི་མཉམ་གཞག་ཡེ་ཤེས་ཀྱིས་བདེན་པར་གྲུབ་པ་རྣམ་པར་བཅད་ཙམ་གྱི་མེད་དགག་དེ་ཉིད་ཆུ་ལ་ཆུ་བཞག་གི་ཚུལ་གྱིས་གཞལ་གྱི། བདེན་མེད་ཡོད་པ་དང་ཡེ་ཤེས་རང་ཉིད་ཡོད་པ་གཉིས་གང་ཡང་གཞལ་བ་མ་ཡིན་ལ།
+The learner arya's exalted wisdom of meditative equipoise knowing the modes cognises just the non-affirming negation that is the mere negation of true establishment by way of water being poured into water; it does not cognise either the existence of the lack of inherent existence nor the existence of the exalted wisdom itself.
+
+འོན་ཀྱང་ཡེ་ཤེས་དེས་ཆོས་ཉིད་རྟོགས་པ་དྲན་པའི་རྗེས་ཀྱི་དྲན་ཤེས་ཀྱིས་ཡེ་ཤེས་དེས་ཆོས་ཉིད་གཞལ་བ་གྲུབ་པས་ཡེ་ཤེས་དེ་ཡང་གྲུབ་པ་ཡིན་ལ། དེའི་ཕྱིར་
+རིག་ཤེས་དེ་ལ་ལྟོས་ནས་རིག་ཤེས་དེ་ཡོད་པ་དང་ཆོས་ཉིད་ཡོད་པ་གཉིས་ཀ་གྲུབ་པ་ཡིན་ཀྱང་རིག་ཤེས་དེ་ཡོད་པ་དང་ཆོས་ཉིད་ཡོད་པ་རིག་ཤེས་ཀྱིས་གྲུབ་པ་མིན་ནོ།
+However, the later memory-consciousness remembering the realisation of dharmata by that exalted wisdom establishes the cognising of dharmata by that exalted wisdom and therefore also establishes that exalted wisdom. Therefore, although both the existence of that reasoning consciousness and the existence of dharmata are established in relation to that reasoning consciousness, the existence of that reasoning consciousness and the existence of dharmata are not established by that reasoning consciousness.
+
+དེའི་ཕྱིར་རྩ་ཤེའི་རྣམ་བཤད་ཆེན་མོར། དེ་ལྟ་ནའང་བར་དུ་ཚད་མ་གཞན་བརྒྱུད་པ་ལ་མི་ལྟོས་པར་རིག་ཤེས་ཀྱི་སྟོབས་ལ་བརྟེན་ནས་རང་བཞིན་མེད་པ་མེད་པར་འཛིན་པའི་སྒྲོ་འདོགས་དང་འཛིན་སྟངས་དངོས་སུ་འགལ་བའི་བློ་སྐྱེད་ནུས་ཤིང་དེ་ཉིད་ཀྱིས་དེ་གཅོད་པས་རིག་ཤེས་ལ་བརྟེན་ནས་སྒྲོ་འདོགས་གཅོད་མོད་ཀྱང་རིག་ཤེས་ཀྱིས་སྒྲོ་འདོགས་དེ་བཅད་པ་མིན་ནོ། །ཞེས་གསུངས།
+Due to that, the *Ocean of Reasoning* says: Although it is as such, without relying upon other intermediary valid cognitions, in dependence upon the force of the reasoning consciousness an awareness can be generated with a mode of apprehension that is directly contradictory to the superimpositions holding to the non-existence of the lack of inherent existence. Just that eliminates those and therefore in dependence upon the reasoning consciousness, the superimpositions are eliminated but the superimpositions are not eliminated by the reasoning consciousness.
+
+
+---
 Up a level: [[Madhyamaka/Debate about consciousnesses realising themselves\|Debate about consciousnesses realising themselves]]

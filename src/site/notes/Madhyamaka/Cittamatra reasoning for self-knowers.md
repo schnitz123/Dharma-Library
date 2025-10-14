@@ -44,7 +44,33 @@ If accepted: It follows it is not feasible because sutra says, "Embodied beings 
 *Therefore (Cittamatra):* There is a way of establishing as such because in dependence upon the sign "memory" the existence of an experiencer of the apprehender of blue is established; experiencers are definite as either experiencers of other objects or self-experiencer; if other-experiencers exist, then they would be refuted by reasonings via the consequence of an infinite regress and the consequence that a later apprehender of blue would not engage blue, and therefore it is unfeasible; if self-experiencers exist, then it is unfeasible that they would self-experience as distant and cut-off from themselves; therefore, self-knowers are established.
 
 ---
-**Next:** [[Madhyamaka/Refutation of self-knowers as the basis for memory\|Refutation of self-knowers as the basis for memory]]
+*Doubt:* Would the consequence of infinite regress not equally apply to the Cittamatra's assertion of self-knowers?
+
+*Answer:* It would not because Cittamatra assert that there would only be two self-knowers:
+- SK1: Experiencing the apprehension of blue
+- SK2: Experiencing SK1
+
+*If it is asked:* What establishes SK2?
+*Answer:* SK1. That is, due to mutually experiencing one another, they mutually establish one another; requiring no more self-knowers.
+
+**This is because Jetsunpa's Concentrations and Formless Absorptions says:** རྗེ་བཙུན་པའི་བསམ་གཟུགས་ལས།
+(See: [[Perfection of Wisdom/Concentrations/Branches of the first concentration\|Branches of the first concentration]])
+
+ཁོ་ན་རེ། བསམ་གཏན་དང་པོའི་དངོས་གཞི་སྙོམས་འཇུག་ཙམ་པོ་བའི་ཡན་ལག་ཏུ་གྱུར་པའི་རྟོག་པ་དེ་ཆོས་ཅན། རྟོག་དཔྱོད་གཉེན་པོའི་ཡན་ལག་དང་ལྡན་པར་ཐལ། བསམ་གཏན་དང་པོའི་དངོས་གཞི་སྙོམས་འཇུག་ཙམ་པོ་བ་ཡིན་པའི་ཕྱིར།
+*Someone says:* The subject - investigation that is a branch of the ordinary actual absorption of the first concentration - it follows that it possesses the branches of antidotes (investigation and analysis) because it is an ordinary actual absorption of the first concentration.
+
+རྟགས་གྲུབ་སྟེ། མཛོད་འགྲེལ་ལས། ཡན་ལག་བཞི་པའི་དམག་ཇི་ལྟ་བ་བཞིན་དུ་ཡན་ལག་ལྔ་པའི་བསམ་གཏན་ཡང་དེ་བཞིན་ནོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+The sign is established because the Abhidharmakosha Autocommentary says: "Just like an army with its four branches, it is a concentration with its five branches."
+
+འདོད་ན། དེའི་ཡན་ལག་ཏུ་གྱུར་པའི་རྟོག་པ་ཐུག་མེད་དུ་ཐལ། དེའི་ཡན་ལག་ཏུ་གྱུར་པའི་རྟོག་པ་དེའི་ཡང་ཡན་ལག་ཏུ་གྱུར་པའི་རྟོག་པ་ཡོད་པའི་ཕྱིར་ན།
+If accepted: It follows that investigations that are the branches of that would have an infinite regress because an investigation that is a branch of that investigation that is a branch of that exists.
+
+མ་ཁྱབ། སྔོར་སྣང་དབང་ཤེས་ཉམས་སུ་མྱོང་བའི་རང་རིག་ཐུག་མེད་དུ་ཐལ། དེ་ཉམས་སུ་མྱོང་བའི་རང་རིག་དེ་ཡང་ཉམས་སུ་མྱོང་བའི་རང་རིག་ཡོད་པའི་ཕྱིར།
+ཁྱབ་པ་འགྲིག
+*Answer:* No pervasion. It follows that self-knowers experiencing the sense-consciousness to which blue appears would have an infinite regress because a self-knower experiencing that self-knower experiencing that exists. The pervasion is the same.
+
+*Implied:* SK2 exists, but SK3 etc. do not because it does not lead to an infinite regress.
 
 ---
+**Next:** [[Madhyamaka/Refutation of self-knowers as the basis for memory\|Refutation of self-knowers as the basis for memory]]
 Up a level: [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures#^57d563\|Refuting self-knowers as the proof of other-powered natures]]

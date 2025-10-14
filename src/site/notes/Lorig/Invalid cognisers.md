@@ -3,7 +3,7 @@
 ---
 
 གསར་དུ་མི་སླུ་བ་མ་ཡིན་པའི་རིག་པ། ཚད་མིན་གྱི་བློའི་མཚན་ཉིད།
-**Definition:** A knower that is not new and incontrovertible.
+**Definition:** A knower that is not newly non-deceptive.
 
 **Divisions:**
 1. [[Lorig/Subsequent cognisers\|Subsequent cognisers]] དཔྱད་ཤེས།

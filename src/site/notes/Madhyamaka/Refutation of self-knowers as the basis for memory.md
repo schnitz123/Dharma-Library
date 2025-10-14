@@ -85,6 +85,7 @@ That follows because they are established by way of own-character individual (/d
 
 
 ---
+**Previous:** [[Madhyamaka/Cittamatra reasoning for self-knowers\|Cittamatra reasoning for self-knowers]]
 **Next:**
 - [[Madhyamaka/How memory operates without self-knowers\|How memory operates without self-knowers]]
 - [[Madhyamaka/Indicating that self-knowers are unfeasible also using other reasonings\|Indicating that self-knowers are unfeasible also using other reasonings]]

@@ -55,8 +55,8 @@ Illustration: pot.
 1. Definitions eliminating the discordant class རིགས་མི་མཐུན་སེལ་བའི་མཚན་ཉིད་དང་།
 2. Definitions elimination wrong conceptions ལོག་རྟོག་སེལ་བའི་མཚན་ཉིད་གཉིས་ཡོད་པའི་ཕྱིར།
 
-Example of something that is both: "A consciousness that is 1) newly incontrovertible and 2) non-conceptual and non-mistaken." (direct valid cognition)
-- "newly incontrovertible" eliminates non-valid cognition
+Example of something that is both: "A consciousness that is 1) newly non-deceptive and 2) non-conceptual and non-mistaken." (direct valid cognition)
+- "Newly non-deceptive" eliminates non-valid cognition
 - Either "non-conceptual" *or* "non-mistaken" eliminates inferential cognition
 - Stating *both* is done in order to eliminate wrong conceptions thinking "are sense consciousnesses to which two moons appear direct valid cognition?" and asserting conceptual direct perception, respectively.
 

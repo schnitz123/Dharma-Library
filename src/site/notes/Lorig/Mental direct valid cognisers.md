@@ -4,7 +4,7 @@
 
 རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་ཡིད་དབང་ལ་བརྟེན་ནས་བྱུང་བའི་རྟོག་པ་དང་བྲལ་ཞིང་གསར་དུ་མི་སླུ་བའི་རིག་པ། 
 ཡིད་ཀྱི་མངོན་སུམ་གྱི་ཚད་མའི་མཚན་ཉིད།
-**Definition:** A new incontrovertible knower, free from conceptuality, that arose in dependence upon the mental sense-power that is its uncommon [[Collected Topics/empowering condition\|empowering condition]].
+**Definition:** A newly non-deceptive knower, free from conceptuality, that arose in dependence upon the mental sense-power that is its uncommon [[Collected Topics/empowering condition\|empowering condition]].
 
 **Divisions:** Those apprehending the five sense object plus one apprehending phenomena.
 
