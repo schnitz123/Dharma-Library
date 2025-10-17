@@ -3,10 +3,10 @@
 ---
 
 ཁོ་ན་རེ། ཐ་སྙད་དུ་གཞན་སྐྱེ་ཡོད་དེ། དེ་མེད་ན་ཀུན་བྱང་མེད་པར་འགྱུར་པའི་སྐྱོན་ཡོད་པའི་ཕྱིར་ཞེ་ན། 
-Someone says: Other-production exists conventionally because if it did not exist, then there would be the fault that the thoroughly afflicted and completely pure would not exist.
+*Someone says:* Other-production exists conventionally because if it did not exist, then there would be the fault that the thoroughly afflicted and completely pure would not exist.
 
 དེ་མི་འཐད་པར་ཐལ། གཞན་སྐྱེ་ཡོད་ན་དོན་དམ་པའི་སྐྱེ་བ་མི་ཁེགས་པར་ཐལ་པའི་སྐྱོན་ཡོད་པའི་ཕྱིར།
-Response: It follows that that is incorrect because if other-production exists, then there would be the fault that ultimate production would not be refuted.
+*Response:* It follows that that is incorrect because if other-production exists, then there would be the fault that ultimate production would not be refuted.
 
 གཟུགས་སོགས་ཆོས་ཅན། ཁྱོད་རང་བཞིན་གྱིས་སྐྱེ་བ་ཚད་མ་གང་གིས་གྲུབ་པ་ཡིན་པར་འགྱུར་ཏེ་མི་འགྱུར་བར་ཐལ། 
 དེ་ཁོ་ན་ཉིད་དོན་དམ་ལ་དཔྱོད་པའི་སྐབས་སུ་སྐྱེ་བ་དོན་མེད་དང་ཐུག་མེད་དུ་ཐལ་བའི་རིགས་པ་གང་ཞིག་གིས་བདག་དང་གཞན་ལས་སྐྱེ་བ་རིགས་པ་མ་ཡིན་པར་བསྒྲུབས་ཟིན་པའི་རིགས་པ་དེས། ཐ་སྙད་དུ་ཡང་བདག་དང་གཞན་ལས་སྐྱེ་བ་རིགས་པ་མ་ཡིན་པར་འགྲུབ་པའི་ཕྱིར། 

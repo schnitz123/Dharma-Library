@@ -53,4 +53,4 @@ That follows because, for example, although the individual aggregates of Devadat
 
 
 ---
-Up a level: [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]] / [[Madhyamaka/Refuting production from other#^166916\|Refuting production from other]]
+Up a level: [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]]

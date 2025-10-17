@@ -35,7 +35,7 @@
 4. [[Madhyamaka/Indicating that refuting other-powered natures and worldly conventions is not the same\|Indicating that refuting other-powered natures and worldly conventions is not the same]]
    གཞན་དབང་དང་འཇིག་རྟེན་པའི་ཐ་སྙད་འགོག་པ་གཉིས་མི་མཚུངས་པར་བསྟན་པ།
 
-
+---
 སེམས་ཙམ་དུ་གསུངས་པའི་ཙམ་གྱིས་སྒྲས་ཕྱི་དོན་མི་འགོག་པར་བསྟན་པའོ།
 **Indicating that the term "only" in "mind only" does not refute external objects:**
 { #0eba1f}
@@ -46,9 +46,14 @@
    ཕྱིེ་རོལ་དང་ནང་གི་སེམས་གཉིས་ཡོད་མེད་མཚུངས་པར་བསྟན་པ།
 3. [[Madhyamaka/Explaining the intention of indicating Mind Only in the Lankavatara Sutra\|Explaining the intention of indicating Mind Only in the Lankavatara Sutra]]
    ལང་ཀར་གཤེགས་པ་ལས་སེམས་ཙམ་དུ་གསུངས་པའི་དགོངས་པ་བཤད་པ།
-
-[[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]
+	- [[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]
 { #d86b7f}
+
+	- [[Madhyamaka/Cittamatra passages that are of interpretative meaning (Gomde)\|Cittamatra passages that are of interpretative meaning (Gomde)]]
+{ #ccb047}
+
+	- [[Madhyamaka/Proving their interpretative meaning through reasoning (Gomde)\|Proving their interpretative meaning through reasoning (Gomde)]]
+{ #a9cbdc}
 
 
 ---

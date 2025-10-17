@@ -44,18 +44,29 @@
 - [[Madhyamaka/Reasoning refuting true existence\|Reasoning refuting true existence]]
 	- [[Madhyamaka/Reasoning of diamond slivers\|Reasoning of diamond slivers]]
 	- [[Madhyamaka/Four great reasonings refuting establishment by own-character (Gomde)\|Four great reasonings refuting establishment by own-character (Gomde)]]
-- [[Madhyamaka/Eight difficult points of Prasangika\|Eight difficult points of Prasangika]]
-- [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths]]
-- [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
-- [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]]
-	- [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Tendarwa)\|Presentation of cause and effect does not require positing an Alaya (Tendarwa)]]
-		- [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
-	- [[Madhyamaka/Refutation of the Cittamatra System#^cbee37\|Refuting that consciousness is inherently established without external objects]]
-	- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
-		- [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures\|Refuting self-knowers as the proof of other-powered natures]]
-		- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
-		- [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]
-			- [[Madhyamaka/Mental direct perception\|Mental direct perception]]
+	- In the context of refuting other-production:
+		- [[Madhyamaka/Eight difficult points of Prasangika\|Eight difficult points of Prasangika]]
+		- [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths]]
+		- [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
+		- [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]]
+			- [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Tendarwa)\|Presentation of cause and effect does not require positing an Alaya (Tendarwa)]]
+				- [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
+			- [[Madhyamaka/Refutation of the Cittamatra System#^cbee37\|Refuting that consciousness is inherently established without external objects]]
+			- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
+				- [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures\|Refuting self-knowers as the proof of other-powered natures]]
+				- [[Madhyamaka/Example of the three appearances of a river\|Example of the three appearances of a river]]
+				- [[Madhyamaka/Presentation of valid cognition\|Presentation of valid cognition]]
+					- [[Madhyamaka/Mental direct perception\|Mental direct perception]]
+	- [[Madhyamaka/Refutation of production from both (Gomde)\|Refutation of production from both (Gomde)]]
+{ #aae4ef}
+
+	- [[Madhyamaka/Refutation of causeless production (Gomde)\|Refutation of causeless production (Gomde)]]
+{ #06b58f}
+
+	- [[Madhyamaka/Established meaning of the refutation of production from the four extremes (Gomde)\|Established meaning of the refutation of production from the four extremes (Gomde)]]
+{ #55eecf}
+
+- 
 - [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]
 - 406
 

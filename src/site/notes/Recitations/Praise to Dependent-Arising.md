@@ -193,7 +193,7 @@ For the root of all faults will be undone. [31]
 ཁྱོད་ཀྱི་བསྟན་ལས་ཕྱིར་ཕྱོགས་པས། །ཡུན་རིང་ངལ་བ་བསྟེན་བྱས་ཀྱང༌། །ཕྱི་ཕྱིར་སྐྱོན་རྣམས་བོས་པ་བཞིན། །བདག་ཏུ་ལྟ་བ་བརྟན་ཕྱིར་རོ། །
 But those who turn away from your teaching, 
 Though they may struggle with hardship for a long time, 
-Faults increase ever more as if being called forth; 
+Faults increase ever more as if being invited; 
 For they make firm the view of self. [32]
 
 ཨེ་མའོ་མཁས་པ་འདི་གཉིས་ཀྱི། །ཁྱད་པར་ཁོང་དུ་ཆུད་གྱུར་བ། །དེ་ཚེ་རྐང་གི་ཁོང་ནས་ནི། །ཁྱོད་ལ་ཅི་ཕྱིར་གུས་མི་འགྱུར། །
