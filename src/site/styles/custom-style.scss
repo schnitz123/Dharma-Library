@@ -313,7 +313,7 @@ li > p {
   /* GRID: auto-fit with a smaller min width + tighter gap */
   .grid {
     display: grid;
-    gap: 1rem; /* smaller horizontal gap so more columns fit */
+    gap: 3rem; /* smaller horizontal gap so more columns fit */
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     justify-items: stretch; /* make each cell take the full column width */
     align-items: start;
