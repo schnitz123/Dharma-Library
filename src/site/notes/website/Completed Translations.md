@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/website/completed-translations/"}
 ---
 
-[[website/Translations/Notes on the Eight Difficult Points\|Notes on the Eight Difficult Points]]
 <div class="grid">
     <!-- Repeat this .cell block for each item. Add more to create more rows. -->
     <div class="cell">
@@ -36,35 +35,35 @@
 
     <div class="cell">
       <a href="page5.html" title="Open page 5">
-        <img src="image5.jpg" alt="Short description of image 5">
+        <img src="/pdf/8diff_icon.png" alt="Short description of image 5">
         <div class="caption">Page 5 caption</div>
       </a>
     </div>
 
     <div class="cell">
       <a href="page6.html" title="Open page 6">
-        <img src="image6.jpg" alt="Short description of image 6">
+        <img src="/pdf/8diff_icon.png" alt="Short description of image 6">
         <div class="caption">Page 6 caption</div>
       </a>
     </div>
 
     <div class="cell">
       <a href="page7.html" title="Open page 7">
-        <img src="image7.jpg" alt="Short description of image 7">
+        <img src="/pdf/8diff_icon.png" alt="Short description of image 7">
         <div class="caption">Page 7 caption</div>
       </a>
     </div>
 
     <div class="cell">
       <a href="page8.html" title="Open page 8">
-        <img src="image8.jpg" alt="Short description of image 8">
+        <img src="/pdf/8diff_icon.png" alt="Short description of image 8">
         <div class="caption">Page 8 caption</div>
       </a>
     </div>
 
     <div class="cell">
       <a href="page9.html" title="Open page 9">
-        <img src="image9.jpg" alt="Short description of image 9">
+        <img src="/pdf/8diff_icon.png" alt="Short description of image 9">
         <div class="caption">Page 9 caption</div>
       </a>
     </div>
