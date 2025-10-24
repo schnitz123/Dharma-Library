@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dharma-library/","tags":["gardenEntry"]}
 ---
 
-<img src="/img/user/website/rabbit.png" alt="Profile" class="gyurme-pic"><br>Hi! Welcome to my Dharma Library! 
+<br><img src="/img/user/website/rabbit.png" alt="Profile" class="gyurme-pic">Hi! Welcome to my Dharma Library! 
 
 Here you can find over a thousand pages of my notes on the topics of the major texts of the Gelug curriculum. 
 
