@@ -10,14 +10,6 @@
         <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
       </a>
     </div>
-
-    <div class="cell">
-      <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
-        <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
-        <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
-      </a>
-    </div>
-
     <div class="cell">
       <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
         <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
@@ -30,35 +22,36 @@
         <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
       </a>
     </div>
-
     <div class="cell">
       <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
         <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
         <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
       </a>
     </div>
-
     <div class="cell">
       <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
         <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
         <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
       </a>
     </div>
-
     <div class="cell">
       <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
         <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
         <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
       </a>
     </div>
-
     <div class="cell">
       <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
         <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
         <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
       </a>
     </div>
-
+    <div class="cell">
+      <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
+        <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
+        <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
+      </a>
+    </div>
     <div class="cell">
       <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
         <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
