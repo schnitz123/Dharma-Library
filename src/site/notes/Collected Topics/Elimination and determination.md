@@ -15,7 +15,7 @@ For example, the basis pot: when an awareness explicitly realises that it is imp
 དེ་མི་རྟག་པ་ཡིན་པ་ཚུར་ཡོངས་སུ་གཅོད་པའམ་གྲུབ་པ་ལྟ་བུ།
 For example, the basis pot: Through the force of an awareness eliminating away that it is permanent or ascertaining that it is not permanent, it is determined or established *towards* being impermanent.
 
-ཡང་དཔེར་ན། ཐག་ཁྲ་སྦྲུལ་འཛིན་ལ་མཚོན་ན། ཐག་ཁྲ་སྦྲུལ་ཡིན་པ་བཀག་པ་རྣམ་བཅད། ཐག་ཁྲག་ཐག་ཁྲར་སྒྲུབ་པ་ཡོངས་གཅོད་དོ།
+ཡང་དཔེར་ན། ཐག་ཁྲ་སྦྲུལ་འཛིན་ལ་མཚོན་ན། ཐག་ཁྲ་སྦྲུལ་ཡིན་པ་བཀག་པ་རྣམ་བཅད། ཐག་ཁྲ་ཐག་ཁྲར་སྒྲུབ་པ་ཡོངས་གཅོད་དོ།
 Anther example, apprehending a mottled rope as a snake:
 - Elimination is refuting that the mottled rope is a snake;
 - Determination is establishing that the mottles rope is a mottled rope.

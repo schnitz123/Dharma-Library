@@ -6,6 +6,12 @@ Here you will find my translation projects. All will be licensed under Creative 
 Producing a high quality written translation takes a lot of time and care. Please support my efforts in making more Tibetan Dharma texts freely available in English by [[website/Offerings\|donating]] or if you would like to sponsor/commission a particular translation, then please [contact me](mailto:shahartene108@gmail.com)
 
 ---
+[[website/Completed Translations\|Completed Translations]]
+
+Translations in Progress
+
+
+---
 **Available:**
 
 Je Tsongkhapa's Illumination of the Thought: chapters 1-5 (version 1.21 updated 05/03/25)

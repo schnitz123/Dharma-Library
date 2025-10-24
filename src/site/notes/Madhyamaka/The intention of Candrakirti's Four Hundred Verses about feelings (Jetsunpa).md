@@ -65,7 +65,7 @@ You cannot accept because it is a learner's exalted wisdom that is in single-poi
 
 ---
 རང་ལུགས་ནི། བདག་མེད་ཕྲ་རགས་གང་ཡང་མ་རྟོགས་པའི་རྟོག་པར་གྱུར་པའི་ཡིད་ཤེས་འཁོར་གྱི་ཚོར་བ་ལ་དགོངས་པ་ཡིན་ནོ།
-*Our own system:* The intention is the feelings in the retinue of conceptual mental consciousnesses of those who have not realised coarse or subtle selflessness.
+*Our own system:* The intention is the feelings in the retinue of conceptual mental consciousnesses that do not realise coarse or subtle selflessness.
 
 
 ---

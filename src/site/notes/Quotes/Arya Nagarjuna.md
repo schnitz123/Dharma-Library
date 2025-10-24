@@ -88,7 +88,7 @@ Remaining attached to things through debate is astonishing!
 The Wise do not make many promises
 And if through tough [deliberation] they do make one
 It is like a drawing in stone – 
-They will not change course even if they die.
+They will not do otherwise even if they die.
 
 ---
 **From Commentary on the Mind of Enlightenment:** བྱང་ཆུབ་སེམས་འགྲེལ་ལས།

@@ -49,9 +49,6 @@
 	- [[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|Passages indicating the Cittamatra system are of interpretative meaning]]
 { #d86b7f}
 
-	- [[Madhyamaka/Cittamatra passages that are of interpretative meaning (Gomde)\|Cittamatra passages that are of interpretative meaning (Gomde)]]
-{ #ccb047}
-
 	- [[Madhyamaka/Proving their interpretative meaning through reasoning (Gomde)\|Proving their interpretative meaning through reasoning (Gomde)]]
 { #a9cbdc}
 
