@@ -8,5 +8,7 @@ This text, noted down by Gyaltsab Je, examines the eight difficult points that a
 
 <a href="/pdf/Notes%20on%20the%20Eight%20Difficult%20Points.pdf" download>Download here</a>
 
+If you found this text useful, please consider [[website/Offerings\|making an offering]] towards future translations or to simply show your appreciation. Thanks.
+
 ---
 Up a level: [[website/Completed Translations\|Completed Translations]]

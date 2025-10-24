@@ -8,6 +8,7 @@ This text goes through the Eight Categories and Seventy Topics that are covered 
 
 <a href="/pdf/70%20Topics.pdf" download>Download here</a>
 
+If you found this text useful, please consider [[website/Offerings\|making an offering]] towards future translations or to simply show your appreciation. Thanks.
 
 ---
 Up a level: [[website/Completed Translations\|Completed Translations]]

@@ -8,6 +8,7 @@ Je Tsongkhapa's commentary on Chandrakirti's Supplement to the Middle Way (Madhy
 
 <a href="/pdf/Illumination%20of%20the%20Thought.pdf" download>Download here</a>
 
+If you found this text useful, please consider [[website/Offerings\|making an offering]] towards future translations or to simply show your appreciation. Thanks.
 
 ---
 Up a level: [[website/Completed Translations\|Completed Translations]]
