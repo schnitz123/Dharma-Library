@@ -14,14 +14,14 @@
 
     <div class="cell">
       <a href="page2.html" title="Open page 2">
-        <img src="image2.jpg" alt="Short description of image 2">
+        <img src="/pdf/8diff_icon.png" alt="Short description of image 2">
         <div class="caption">Page 2 caption</div>
       </a>
     </div>
 
     <div class="cell">
       <a href="page3.html" title="Open page 3">
-        <img src="image3.jpg" alt="Short description of image 3">
+        <img src="/pdf/8diff_icon.png" alt="Short description of image 3">
         <div class="caption">Page 3 caption</div>
       </a>
     </div>
@@ -29,7 +29,7 @@
     <!-- Add more .cell blocks to fill the 3x3 or create more rows -->
     <div class="cell">
       <a href="page4.html" title="Open page 4">
-        <img src="image4.jpg" alt="Short description of image 4">
+        <img src="/pdf/8diff_icon.png" alt="Short description of image 4">
         <div class="caption">Page 4 caption</div>
       </a>
     </div>
