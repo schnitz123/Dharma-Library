@@ -313,7 +313,7 @@ li > p {
   /* GRID: auto-fit with a smaller min width + tighter gap */
   .grid {
     display: grid;
-    gap: 0.35rem; /* smaller horizontal gap so more columns fit */
+    gap: 1rem; /* smaller horizontal gap so more columns fit */
     grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     justify-items: stretch; /* make each cell take the full column width */
     align-items: start;
@@ -347,7 +347,7 @@ li > p {
 
   /* FIXED thumbnail size for visual consistency */
   .cell img {
-    width: 400px;
+    width: 600px;
     height: 100%;       /* fixed thumbnail height keeps rows aligned */
     object-fit: cover;   /* crops evenly without distortion */
     display: block;
