@@ -302,42 +302,71 @@ li > p {
   border: 0;
 }
 
-.grid {
-  display: grid;
-  gap: 0.5rem;
-  justify-items: stretch;
-  align-items: start; /* ensures all start from same top line */
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  margin: 0 auto;
-  padding: 1rem;
-  max-width: none;
-}
+/* outer container — keep it fluid but optionally centered */
+  .wrap {
+    width: 100%;
+    max-width: 1200px; /* optional: change or remove; doesn't need to be tiny */
+    margin: 0 auto;
+    padding: 0.5rem;
+  }
 
-    .cell a {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-      text-decoration: none;
-      color: inherit;
-    }
+  /* GRID: auto-fit with a smaller min width + tighter gap */
+  .grid {
+    display: grid;
+    gap: 0.35rem; /* smaller horizontal gap so more columns fit */
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    justify-items: stretch; /* make each cell take the full column width */
+    align-items: start;
+    width: 100%;
+  }
 
-    .cell img {
-  width: 200px;
-  height: 100%;     /* optional, for equal heights */
-  object-fit: cover; /* crops without distortion */
-  display: block;
-  margin-bottom: 0.4rem;
-}
+  /* make every row equal height so columns in the same row align */
+  /* grid-auto-rows used with cells set to 100% height */
+  .grid { grid-auto-rows: 1fr; }
 
-    .caption {
-      font-size: 0.95rem;
-      line-height: 1.2;
-    }
+  .cell {
+    /* stretch to fill the grid row height */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
 
-    .cell a:focus-visible {
-      outline: 3px solid Highlight;
-      outline-offset: 3px;
-    }
+  /* the anchor fills the cell so caption always sits under image */
+  .cell a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    height: 100%;
+    width: 100%;
+    padding: 0.25rem;
+  }
 
+  /* FIXED thumbnail size for visual consistency */
+  .cell img {
+    width: 100%;
+    height: 140px;       /* fixed thumbnail height keeps rows aligned */
+    object-fit: cover;   /* crops evenly without distortion */
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  .caption {
+    font-size: 0.9rem;
+    margin-top: auto; /* push caption to bottom if there is extra vertical space */
+  }
+
+  /* accessibility: visible focus for keyboard users */
+  .cell a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 3px;
+  }
+
+  /* smaller screens: the minmax will automatically reduce columns to 2 or 1 */
+  @media (max-width:360px) {
+    .cell img { height: 120px; }
+  }
 }
