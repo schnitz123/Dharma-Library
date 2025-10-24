@@ -305,11 +305,12 @@ li > p {
 .grid {
   display: grid;
   gap: 0.5rem;
-  justify-items: center;
+  justify-items: stretch;
   align-items: start; /* ensures all start from same top line */
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   margin: 0 auto;
   padding: 1rem;
+  max-width: none;
 }
 
     .cell a {
