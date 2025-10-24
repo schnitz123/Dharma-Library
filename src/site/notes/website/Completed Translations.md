@@ -6,9 +6,9 @@
 <div class="grid">
     <!-- Repeat this .cell block for each item. Add more to create more rows. -->
     <div class="cell">
-      <a href="page1.html" title="Open page 1">
-        <img src="8diff_icon.png" alt="Eight Difficult Points">
-        <div class="caption">Page 1 caption</div>
+      <a href="https://dharmalibrary.netlify.app/website/translations/notes-on-the-eight-difficult-points/">
+        <img src="/pdf/8diff_icon.png" alt="Eight Difficult Points">
+        <div class="caption">Notes on the Eight Difficult Points by Tsongkhapa</div>
       </a>
     </div>
 
