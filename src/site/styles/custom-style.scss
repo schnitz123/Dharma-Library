@@ -304,9 +304,10 @@ li > p {
 
 .grid {
   display: grid;
-  gap: 1rem;
+  gap: 0.5rem;
   justify-items: center;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  align-items: start; /* ensures all start from same top line */
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   margin: 0 auto;
   padding: 1rem;
 }
@@ -321,11 +322,12 @@ li > p {
     }
 
     .cell img {
-      max-width: 100%;
-      height: auto;
-      margin-bottom: 0.5rem;
-      display: block;
-    }
+  width: 200px;
+  height: 100%;     /* optional, for equal heights */
+  object-fit: cover; /* crops without distortion */
+  display: block;
+  margin-bottom: 0.4rem;
+}
 
     .caption {
       font-size: 0.95rem;
