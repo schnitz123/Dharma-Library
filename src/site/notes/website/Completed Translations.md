@@ -30,13 +30,13 @@
     </div>
     <div class="cell">
       <a href="https://dharmalibrary.netlify.app/website/translations/commentary-on-recognising-my-mother/">
-        <img src="/pdf/8diff_icon.png">
+        <img src="/pdf/mother_icon.png">
         <div class="caption">Commentary on Recognising the Mother<br>by Kunkhyen Jigme Wangpo</div>
       </a>
     </div>
     <div class="cell">
       <a href="https://dharmalibrary.netlify.app/website/translations/essence-of-dependent-arising/">
-        <img src="/pdf/8diff_icon.png">
+        <img src="/pdf/depar_icon.png">
         <div class="caption">Essence of Dependent-Arising<br>by Nagarjuna</div>
       </a>
     </div>
