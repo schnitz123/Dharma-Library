@@ -7,8 +7,13 @@
 ནང་དུ་ཡང་རྨ་བྱའི་མདོངས་ལ་སོགས་པའི་ཁྲ་བོ་དེ་རྣམས་སུས་ཀྱང་མ་བྱས་པར་འབྱུང་བ་བཞིན་ནོ་ཞེ་ན།
 *The Charvakas say:* Although the faults explains would apply if produced from a cause, since we assert causeless production, there are no such faults. For example, externally, the lotus's petals being soft and coarse, its thorns, and so forth, arise causelessly; similarly for the internal, the patterns in the peacock's feathers arose without being created by anyone.
 
+---
+[[Madhyamaka/Charvaka assertions\|Charvaka assertions]]
+
+---
+
 དེ་འགོག་པ་ལ། གལ་ཏེ་རྒྱུ་མེད་ཁོ་ནར་ཞེས་སོགས་ཤོ་ལོ་ཀ་ལྔ་གསུངས།
-To refute that: "If just causelessly..." and so forth, five verses are stated [v6.99-103]
+*To refute that:* "If just causelessly..." and so forth, five verses are stated [v6.99-103]
 
 དངོས་པོ་མཐའ་དག་ཆོས་ཅན། ཡུལ་དུས་རྟག་ཏུ་རང་གི་རྒྱུ་ཡིན་མིན་ཐམས་ཅད་ལས་ཀྱང་སྐྱེ་བར་འགྱུར་བར་ཐལ། རྒྱུ་མེད་ལས་སྐྱེ་བ་དེའི་ཚེ་སྟེ་དེའི་ཕྱིར། 
 The subject - all things - it follows that they would be produced at all times and from everything, whether it is their cause or not, because of being produced causelessly.

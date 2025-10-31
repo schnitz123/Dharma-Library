@@ -70,4 +70,4 @@
 
 
 ---
-Up a level: [[Perfection of Wisdom/IntDef/Words and Treatises\|Words and Treatises]]
+Up a level: [[Words and Treatises\|Words and Treatises]]

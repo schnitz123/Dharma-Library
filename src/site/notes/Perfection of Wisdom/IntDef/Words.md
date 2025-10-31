@@ -20,4 +20,4 @@
 - Empowering condition: [[Perfection of Wisdom/IntDef/Three Types of Words\|Three Types of Words]]
 
 ---
-Up a level: [[Perfection of Wisdom/IntDef/Words and Treatises\|Words and Treatises]]
+Up a level: [[Words and Treatises\|Words and Treatises]]

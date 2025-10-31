@@ -20,5 +20,15 @@ That and other-powered nature of form are mutually inclusive.
 Form's emptiness of true existence is the dharmata of form and the form of dharmata.
 That and the thoroughly-established nature of form are mutually inclusive.
 
+**Geshe Gelek's Summary:**
+- Cittamatra:
+	- Other-powered nature of form: Form
+	- Imputational nature of form: Form and the valid cognition apprehending form being different substances
+	- Thoroughly-established nature of form: The other-powered nature of form being empty of the imputational nature of form.
+- Madhyamaka:
+	- Other-powered nature of form: Form
+	- Imputational nature of form: Truly established form
+	- Thoroughly-established nature of form: Form's emptiness of true establishment / same as above
+
 ---
 Up a level: [[Perfection of Wisdom/IntDef/IntDef\|IntDef]]

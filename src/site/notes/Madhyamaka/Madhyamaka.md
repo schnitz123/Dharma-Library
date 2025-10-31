@@ -66,6 +66,7 @@
 	- [[Madhyamaka/Established meaning of the refutation of production from the four extremes (Gomde)\|Established meaning of the refutation of production from the four extremes (Gomde)]]
 { #55eecf}
 
+	- Dependent-arising 155
 - 
 - [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]
 - 406

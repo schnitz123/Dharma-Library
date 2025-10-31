@@ -2,23 +2,30 @@
 {"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/interpretative-and-definitive-sutras/"}
 ---
 
-**Vaibhashika + Sautrantika + Cittamatra** བྱེ་མདོ་གཉིས་དང་སེམས་ཙམ་པ།
+ཉན་ཐོས་སྡེ་གཉིས་ཕལ་མོ་ཆེས་སངས་རྒྱས་ཀྱི་བཀའ་ཡིན་ན་ངེས་པའི་དོན་ཅན་ཁོ་ན་ཡིན་པས་ཁྱབ་པར་འདོད་ཅིང་
+དྲང་ངེས་གཉིས་ཀ་འདོད་པ་ཡང་ཡོད་པར་རྟོག་གེ་འབར་བ་ལས་བཤད་དོ།
+**(Jangkya tenets:)** The two Hearer schools for the most part assert that if it is [[Perfection of Wisdom/IntDef/Words\|Buddha Words]], then it is pervaded by being only of definitive meaning; however, [Bhavaviveka's] Blaze of Reasoning explains that there are also those who assert both interpretative and definitive meaning sutras.
+
+བྱེ་མདོ་གཉིས་ཀྱིས་ཐེག་ཆེན་གྱི་སྡེ་སྣོད་སངས་རྒྱས་ཀྱི་བཀར་ཁས་མི་ལེན།
+Vaibashika and Sautrantika do not assert the Mahayana Basket as Buddha Words.
+
+---
+**Cittamatra** སེམས་ཙམ་པ།
 - **Definitive:** A sutra whose indicated-meaning is suitable to be taken literally.
   ངེས་དོན་གྱི་མདོ། རང་གི་བསྟན་དོན་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ།
 - **Interpretative:** A sutra whose indicated-meaning is not suitable to be taken literally.
   དྲང་དོན་གྱི་མདོ། དེ་ལྟར་མི་རུང་བའི་མདོ། 
 
-བྱེ་མདོ་གཉིས་ཀྱིས་ཐེག་ཆེན་གྱི་སྡེ་སྣོད་སངས་རྒྱས་ཀྱི་བཀར་ཁས་མི་ལེན།
-V and S do not assert the Mahayana Basket as the Words of the Buddha.
+For more: [[Perfection of Wisdom/IntDef/Interpretative and Definitive meaning (Cittamatra)\|Interpretative and Definitive meaning (Cittamatra)]]
 
 ---
 **Svatantrika** རང་རྒྱུད་པ།
-- **Definitive:** A sutra that indicates emptiness as its explicit main expressed-object and is suitable to be asserted literally. ངེས་དོན་གྱི་མདོ། སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ།
-- **Interpretative:** That observed as either 1) a sutra that takes conventional truth as its explicit main expressed-object or 2) a sutra that is not suitable to be asserted literally.
+- **Definitive:** A sutra that indicates emptiness as its explicit main subject-matter and is suitable to be asserted literally. 
+  ངེས་དོན་གྱི་མདོ། སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ།
+- **Interpretative:** That observed as either 1) a sutra that takes conventional truth as its explicit main subject-matter or 2) a sutra that is not suitable to be asserted literally.
   དྲང་དོན་གྱི་མདོ། ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ།
 
----
-**From IntDef GM:**
+Alternatively:
 
 དོན་དམ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་ཅིང་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོར་དམིགས་པ་དེ། ངེས་དོན་གྱི་མདོའི་མཚན་ཉིད་ཡིན།
 **Definition of a definitive meaning sutra:** That observed as a sutra that:
