@@ -66,9 +66,21 @@
 	- [[Madhyamaka/Established meaning of the refutation of production from the four extremes (Gomde)\|Established meaning of the refutation of production from the four extremes (Gomde)]]
 { #55eecf}
 
-	- Dependent-arising 155
-- 
+	- [[Madhyamaka/Refuting production from the four extremes using the sign of dependent-arising (Gomde)\|Refuting production from the four extremes using the sign of dependent-arising (Gomde)]]
+{ #dc1538}
+
+	- [[Madhyamaka/The result of such refutation (Gomde)\|The result of such refutation (Gomde)]]
+{ #f33668}
+
 - [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]
+{ #160af9}
+
+	- [[Madhyamaka/Purpose of establishing the selflessness of persons through reasoning (Gomde)\|Purpose of establishing the selflessness of persons through reasoning (Gomde)]]
+{ #91a418}
+
+	- [[Madhyamaka/Refuting the inherent establishment of I and Mine (Gomde)\|Refuting the inherent establishment of I and Mine (Gomde)]]
+{ #f5a4c3}
+
 - 406
 
 
