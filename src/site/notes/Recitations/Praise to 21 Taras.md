@@ -2,6 +2,19 @@
 {"dg-publish":true,"permalink":"/recitations/praise-to-21-taras/"}
 ---
 
+སྒྲོལ་མ་ཉེར་གཅིག་གི་བསྟོད་པ་བསྡུས་པ་བཞུགས་སོ།
+**Abbreviated praise to the Twenty-One Taras**
+
+ཨོཾ་རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ལོ།
+OM I prostrate to Jetsunma Arya Tara!
+
+ཕྱག་འཚལ་སྒྲོལ་མ་ཏཱ་རེ་དཔའ་མོ། ཏུཏྟཱ་ར་ཡིས་འཇིགས་ཀུན་སེལ་མ། ཏུ་རེ་དོན་རྣམས་ཐམས་ཅད་སྟེར་མ། སྭ་ཧཱ་ཡི་གེར་བཅས་ལ་རབ་འདུད།
+I prostrate to Tara, TARE, the heroin
+Who with TUTTARA eliminates all fears and
+Bestows the welfare of all TURE,
+Together with the letters SVAHA; I bow down.
+
+---
 ཨོཾ་རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ལོ། 
 
 །ཕྱག་འཚལ་སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། །སྤྱན་ནི་སྐད་ཅིག་གློག་དང་འདྲ་མ། །འཇིག་རྟེན་གསུམ་དགོན་ཆུ་སྐྱེས་ཞལ་གྱི། །གེ་སར་བྱེ་བ་ལས་ནི་བྱུང་མ། 

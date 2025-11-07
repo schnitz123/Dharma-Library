@@ -36,6 +36,10 @@ If accepted: This contradicts that the appearance of the nature of blue and so f
 འདི་ནི་ཐ་སྙད་པའི་ཚད་མ་ལ་གཟུགས་སོགས་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་སྣང་ཞིང་སྣང་བ་ལྟར་དུ་དེ་ལ་ཚད་མར་མ་སོང་ན་གཟུགས་སོགས་དེ་དག་ཡོད་པར་འཇོག་མི་ཤེས་པར་འདོད་པའི་དངོས་སྨྲ་བ་སྤྱིའི་རྩོད་པའོ།
 *Answer:* This is the general debate of the Proponents of Things that assert that forms and so forth appear as established by own-character to conventional valid cognition but do not know how to posit the existence of those forms and so forth if those don't become valid cognitions with respect to those in accordance with their appearance.
 
+---
+It is the general debate because not all Proponents of Things assert that if things do not exist ultimately, then they necessarily do not exist conventionally because, for example, Vaibhashikas assert the pot is not an ultimate truth but is a conventional truth.
+
+---
 འདི་ལ་བཤད་པར་བྱ་སྟེ། གང་དག་རབ་རིབ་ཅན་གྱི་མིག་ལ་སྐྲ་ཤད་སྣང་ལ་མོ་གཤམ་གྱི་བུ་མི་སྣང་བའི་ཁྱད་པར་མེད་པར་ཐལ། 
 རབ་རིེབ་ཅན་སོགས་ཀྱི་བློའི་ཡུལ་དུ་གྱུར་པའི་སྐྲ་ཤད་ལ་སོགས་པ་དེ་དག་དང་མོ་གཤམ་གྱི་བུ་གཉིས་མ་སྐྱེས་པར་མཚུངས་པའི་ཕྱིར། 
 ཞེས་རེ་ཤིག་སྟེ་སྔོན་ལ་རབ་རིབ་ཅན་དེ་དག་ཉིད་ལ་བརྩད་པར་བྱ་ཞིང་།
