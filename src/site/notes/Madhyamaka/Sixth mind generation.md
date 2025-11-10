@@ -371,6 +371,10 @@ Just as the object of knowledge does not exist, neither does the awareness. [6.7
 
 ཉོན་མོངས་སྐྱོན་རྣམས་མ་ལུས་འཇིག་ཚོགས་ལ། །ལྟ་ལས་བྱུང་བར་བློ་ཡིས་མཐོང་གྱུར་ཞིང༌། །
 བདག་ནི་འདི་ཡི་ཡུལ་དུ་རྟོགས་བྱས་ནས། །རྣལ་འབྱོར་པ་ཡིས་བདག་ནི་འགོག་པར་བྱེད། །
+Having perceived with intelligence that the faults of the afflictions without exception 
+Arise from the view of the transitory collection and 
+Having realised that the self is its object, 
+The yogis refute the self. [6.120]
 
 ཟ་པོ་རྟག་དངོས་བྱེད་པོ་མིན་པའི་བདག །ཡོན་ཏན་བྱ་མེད་མུ་སྟེགས་རྣམས་ཀྱིས་བརྟགས། །
 དེའི་དབྱེ་ཅུང་ཟད་ཅུང་ཟད་ལ་བརྟེན་ནས། །མུ་སྟེགས་ཅན་རྣམས་ལུགས་ནི་ཐ་དད་འགྱུར། །

@@ -2,6 +2,17 @@
 {"dg-publish":true,"permalink":"/madhyamaka/charvaka-assertions/"}
 ---
 
+**(Jigme Wangpo:)** Cārvākas [assert that] there is no coming to this life from the previous birth because no one has seen that called “a previous birth”.
+
+Temporary minds are established from temporary bodies; just like a temporarily existing light from a temporarily existing butter-lamp.
+
+There is also no going from this birth to a future one because the body and mind are one substance and therefore when the body disintegrates, awareness also disintegrates; just like a stone carving disintegrates when the stone disintegrates.
+
+As such, they assert that objects of comprehension are pervaded by being individually characterised phenomena and that valid cognition are pervaded by only direct valid cognition; this is because they do not assert generally characterised phenomena and inferential valid cognition.
+
+Some Cārvākas assert that all functioning things are naturally arisen without causes. This is because all phenomena such as the sun rising, water flowing downwards, the roundness of peas, thorns being pointy and sharp, the colours of a peacock, and so forth were not created by anyone but arise naturally.
+
+---
 བློ་ནི་ལུས་ལ་བརྟེན་པའི་ཕྱིར། །གོམས་པས་གྲུབ་པ་མེད་ཅེ་ན།
 **Pramanavartika:** If: Since awareness depends upon the body, there is no accomplishment through familiarity.
 
@@ -41,4 +52,4 @@ They also say: The mind that is initially produced is produced from the mindless
 As such, the mental-consciousness is produced solely through the attributes of the body's four elements and when the body disintegrates, it too disintegrates. Therefore, there is no familiarisation with the path over many births and therefore, since omniscience does not exist and suffering etc. are causeless, there is no path the liberates from those nor liberation. In this way they deprecate liberation.
 
 ---
-Up a level: [[Madhyamaka/Refutation of causeless production (Gomde)\|Refutation of causeless production (Gomde)]]
+Up a level: [[Tenets/Tenets\|Tenets]] / [[Madhyamaka/Refutation of causeless production (Gomde)\|Refutation of causeless production (Gomde)]]

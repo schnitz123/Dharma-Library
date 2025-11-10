@@ -15,5 +15,6 @@
 
 [[Madhyamaka/Twenty views of the transitory collection\|Twenty views of the transitory collection]]
 
+
 ---
 Up a level: [[Madhyamaka/Madhyamaka#^160af9\|Madhyamaka]]

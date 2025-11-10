@@ -81,6 +81,9 @@
 	- [[Madhyamaka/Refuting the inherent establishment of I and Mine (Gomde)\|Refuting the inherent establishment of I and Mine (Gomde)]]
 { #f5a4c3}
 
+		- [[Madhyamaka/Refuting a self that is a different entity from the aggregates imputed by Non-Buddhists\|Refuting a self that is a different entity from the aggregates imputed by Non-Buddhists]]
+		- [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self\|Refuting the Buddhist assertions of the aggregates as the self]]
+		- 
 - 406
 
 

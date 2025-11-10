@@ -14,8 +14,10 @@
 2. [[Lorig/Subsequent cognisers\|Subsequent cognisers]] དཔྱད་ཤེས།
    e.g. Second moment of a self-knowing direct perceiver experiencing an eye consciousness.<br>མིག་ཤེས་ཉམས་སུ་མྱོང་བའི་རང་རིག་མངོན་སུམ་སྐད་ཅིག་གཉིས་པ།
 3. [[Lorig/Appearance without ascertainment\|Appearance without ascertainment]] སྣང་ལ་མ་ངེས་པའི་བློ། e.g.:
-	1. Self-knowing direct perceiver experiencing happiness being a consciousness in the continua of Samkhyas or Vaisheshikas.<br>གྲངས་ཅན་པའམ་བྱེ་བྲག་པའི་རྒྱུད་ཀྱི་བདེ་བ་ཤེས་པ་ཡིན་པ་ཉམས་སུ་མྱོང་བའི་རང་རིག་མངོན་སུམ།
-	2. Self-knower experiencing inferential cognisers being valid cognisers in the continua of Nihilists. རྒྱང་འཕེན་པའི་རྒྱུད་ཀྱི་རྗེས་དཔག་ཚད་མ་ཡིན་པ་ཉམས་སུ་མྱོང་བའི་རང་རིག
+	1. Self-knowing direct perceiver experiencing happiness being a consciousness in the continua of Samkhyas or Vaisheshikas.
+	   གྲངས་ཅན་པའམ་བྱེ་བྲག་པའི་རྒྱུད་ཀྱི་བདེ་བ་ཤེས་པ་ཡིན་པ་ཉམས་སུ་མྱོང་བའི་རང་རིག་མངོན་སུམ།
+	2. Self-knower experiencing inferential cognisers being valid cognisers in the continua of Nihilists.
+	   རྒྱང་འཕེན་པའི་རྒྱུད་ཀྱི་རྗེས་དཔག་ཚད་མ་ཡིན་པ་ཉམས་སུ་མྱོང་བའི་རང་རིག
 
 ---
 See also: [[Lorig/Self-knowing direct valid cognisers\|Self-knowing direct valid cognisers]]

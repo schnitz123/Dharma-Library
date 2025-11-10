@@ -4,7 +4,7 @@
 
 མུ་སྟེགས་གྲངས་ཅན་པ་རྣམས་ཀྱིས་ནི། ཕུང་པོ་ལས་དོན་གཞན་པའི་གང་ཟག་རྫས་ཡོད་བདག་གི་ངོ་བོ་དེ་ལྟ་བུའི་བདག་དེ་ཁྱད་ཆོས་ལྔ་ལྡན་དུ་ཁས་ལེན་པ་ཡིན་ཏེ། 
 གྲངས་ཅན་གྱིས་བདག་དེ།
-The Non-Buddhist **Samkhyas** assert that the self that is a substantially existent person separate from the aggregates possesses five distinguishing features because the Samkhyas assert that the self:
+The Non-Buddhist **[[Tenets/Samkhya\|Samkhya]]** assert that the self that is a substantially existent person separate from the aggregates possesses five distinguishing features because the Samkhyas assert that the self:
 1. In samsara, is the experiencer of pleasant and unpleasant results;
    འཁོར་བའི་གནས་སྐབས་སུ་བདེ་སྡུག་གི་འབྲས་བུ་ལ་ལོངས་སྤྱོད་པའི་ཟ་བ་པོ་དང་།
 2. In liberation, then despite all transformations dissolving into the Prakriti, the self is a permanent thing that remains alone;
@@ -17,7 +17,7 @@ The Non-Buddhist **Samkhyas** assert that the self that is a substantially exist
    ཡུལ་ཐམས་ཅད་ལ་ཁྱབ་པར་ཡོད་པས་ཡུལ་རྣམས་སུ་འགྲོ་འོང་གི་བྱ་བ་མེད་པར་གཏགས་ནས་འདོད་པའི་ཕྱིར།
 
 བྱེ་བྲག་པས་བདག་དེ་ཟ་བ་པོ་ཡིན་པ་རྟག་དངོས་ཡིན་པ་བྱེད་པ་པོ་ཡིན་པ་ཡོན་ཏན་དང་ལྡན་པ། བྱ་བ་མེད་པའི་ཁྱད་ཆོས་དང་ལྡན་པར་འདོད།
-The **Vaiśeṣikas** assert that the self possesses the distinguishing features of: being the experiencer, being a permanent thing, being the creator, possessing the qualities, and lacking the activities.
+The **[[Tenets/Nyaya-Vaisheshika\|Vaiśeṣikas]]** assert that the self possesses the distinguishing features of: being the experiencer, being a permanent thing, being the creator, possessing the qualities, and lacking the activities.
 
 བྱེ་བྲག་པ་ཁ་ཅིག་སྐུམ་པ་དང་རྐྱོང་བའི་བྱ་བ་དང་ལྡན་པར་འདོད།
 Some Vaisheshikas assert that it possesses the activities of contracting and extending.

@@ -9,10 +9,22 @@
 སྤངས་པ་མེད་པ་ཐོབ་མེད་པ། ཆད་པ་མེད་པ་རྟག་མེད་པ། །འགག་པ་མེད་པ་སྐྱེ་མེད་པ། །དེ་ནི་མྱ་ངན་འདས་པར་བརྗོད། །
 
 རེ་ཞིག་མྱ་ངན་འདས་དངོས་མིན། །རྒ་ཤིའི་མཚན་ཉིད་ཐལ་བར་འགྱུར། །རྒ་དང་འཆི་བ་མེད་པ་ཡི། །དངོས་པོ་ཡོད་པ་མ་ཡིན་ནོ། །
+Firstly, nirvana is not a functioning thing;
+It would consequently have the characteristics of ageing and death.
+There does not exist a functioning thing
+That lack ageing and death. [25.4]
 
 གལ་ཏེ་མྱ་ངན་འདས་དངོས་ན། །མྱ་ངན་འདས་པ་འདུས་བྱས་འགྱུར། །དངོས་པོ་འདུས་བྱས་མ་ཡིན་པ། །འགའ་ཡང་གང་ན་ཡོད་མ་ཡིན། །
+If nirvana were a functioning thing,
+Then nirvana would be a compounded phenomenon;
+A functioning thing that is not a compounded phenomenon
+Does not exist anywhere whatsoever. [25.5]
 
 གལ་ཏེ་མྱ་ངན་འདས་དངོས་ན། །ཇི་ལྟར་མྱང་འདས་དེ་བརྟེན་མིན། །དངོས་པོ་བརྟེན་ནས་མ་ཡིན་པ། །འགའ་ཡང་ཡོད་པ་མ་ཡིན་ནོ། །
+If nirvana were a functioning thing,
+Then how could nirvana not be dependent?
+A functioning thing that is not dependent
+Does not exist anywhere whatsoever. [25.6]
 
 གལ་ཏེ་མྱ་ངན་འདས་དངོས་མིན། །དངོས་མེད་ཇི་ལྟར་རུང་བར་འགྱུར། །གང་ལ་མྱ་ངན་འདས་དངོས་མིན། །དེ་ལ་དངོས་མེད་ཡོད་མ་ཡིན། །
 

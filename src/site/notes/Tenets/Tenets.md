@@ -13,6 +13,12 @@
 4. Proponents of Non-Nature ངོ་བོ་ཉིད་མེད་པར་སྨྲ་བ། / [[Tenets/Madhyamika\|Madhyamika]] དབུ་མ་པ།
 
 [[Tenets/Objects of negation\|Objects of negation]]
+See: [[../Charts/tenets charts.pdf|Tenets Charts]]
+See: [[Lorig/Lorig of different tenets\|Lorig of different tenets]]
 
-See [[../Charts/tenets charts.pdf|Tenets Charts]]
-See [[Lorig/Lorig of different tenets\|Lorig of different tenets]]
+---
+**Non-Buddhist Schools:**
+- [[Tenets/Samkhya\|Samkhya]]
+- [[Tenets/Nyaya-Vaisheshika\|Nyaya-Vaisheshika]]
+- [[Madhyamaka/Charvaka assertions\|Charvaka]]
+
