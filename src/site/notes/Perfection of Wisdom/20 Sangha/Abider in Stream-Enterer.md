@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/abider-in-stream-enterer/"}
 ---
 
-འབྲས་གནས་བཞིའི་ནང་ཚན་གང་ཞིག མཐོང་སྤང་ཀུན་སྦྱོར་གསུམ་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ལ་གནས་པའི་འཕགས་པ།
-རྒྱུན་ཞུགས་འབྲས་གནས་ཀྱི་མཚན་ཉིད།
+འབྲས་གནས་བཞིའི་ནང་ཚན་གང་ཞིག མཐོང་སྤང་ཀུན་སྦྱོར་གསུམ་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་
+དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ལ་གནས་པའི་འཕགས་པ། རྒྱུན་ཞུགས་འབྲས་གནས་ཀྱི་མཚན་ཉིད།
 **Definition:** An arya
 1. Who is a subdivision of the four Abiders and
 2. Abiding in the result of the Way of the Śramaṇa that abides in the class distinguished by having abandoned [[Perfection of Wisdom/20 Sangha/the three entanglements\|the three entanglements]] that are objects of abandonment of the path of seeing.

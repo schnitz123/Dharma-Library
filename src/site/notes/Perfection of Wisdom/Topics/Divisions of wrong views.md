@@ -58,7 +58,10 @@ The Brahmajāla section [from the Vimala­kīrti­nirdeśa sutra] presents 62 wr
 	7. View of both གཉིས་ཀར་ལྟ་བ་དང༌།
 	8. View of neither གཉིས་ཀ་མ་ཡིན་པར་ལྟ་བ།
 
+
 **These are also explained as fourteen:**
+{ #403e3b}
+
 - Four in relation to a beginning སྔོན་གྱི་མཐའ་ལ་བརྟེན་པ་བཞི།
 	1. View of true existence wrt the self and world as permanent བདག་དང་འཇིག་རྟེན་རྟག་པར་བདེན་པར་ལྟ་བ་དང༌།
 	2. View of true existence wrt those as impermanent མི་རྟག་པར་བདེན་པར་ལྟ་བ་དང༌།

@@ -11,9 +11,13 @@
 
 ---
 
+[[Madhyamaka/Presentation of the person (JS)\|Presentation of the person (JS)]]
+
 [[Madhyamaka/Discussion of view of the transitory collection\|Discussion of view of the transitory collection]]
 
-[[Madhyamaka/Twenty views of the transitory collection\|Twenty views of the transitory collection]]
+[[Madhyamaka/Twenty views of self (Tendarwa)\|Twenty views of self (Tendarwa)]]
+
+[[Madhyamaka/Twenty views of the transitory collection (alt)\|Twenty views of the transitory collection (alt)]]
 
 
 ---

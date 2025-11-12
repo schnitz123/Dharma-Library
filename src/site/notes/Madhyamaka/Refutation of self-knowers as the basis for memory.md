@@ -70,6 +70,8 @@ Moreover, it follows that proving the existence of an experiencer of the apprehe
 དེར་ཐལ། རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པའི་སོ་སོ་བ་ཡིན་པའི་ཕྱིར།
 That follows because Maitreya's experiences are not remembered by Upagupta, for example.
 That follows because they are established by way of own-character individual (/different).
+{ #1c1f3c}
+
 
 ---
 [[Madhyamaka/The mental continuum of sentient beings is individual (Panchen)\|The mental continuum of sentient beings is individual (Panchen)]]

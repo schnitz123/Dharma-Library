@@ -447,9 +447,21 @@ The yogis refute the self. [6.120]
 
 གཟུགས་བདག་མ་ཡིན་བདག་ནི་གཟུགས་ལྡན་མིན། །གཟུགས་ལ་བདག་མེད་བདག་ལའང་གཟུགས་ཡོད་མིན། །
 དེ་ལྟར་རྣམ་བཞིར་ཕུང་ཀུན་ཤེས་བྱ་སྟེ། །དེ་དག་བདག་ཏུ་ལྟ་བ་ཉི་ཤུར་འདོད། །
+Form is not the self; the self does not possess form;
+Form does not have a self; the self also does not have form.
+All the aggregates should be understood in these four ways;
+Those are asserted as the twenty views of self. [6.144] 
+{ #5901d0}
+
 
 ལྟ་རི་བདག་མེད་རྟོགས་པའི་རྡོ་རྗེ་ཡིས། །བཅོམ་བདག་གང་དང་ལྷན་ཅིག་འཇིག་འགྱུར་པ། །
-འཇིག་ཚོགས་ལྟ་རི་ལྷུན་སྟུག་ལ་གནས་པ། །རྩེ་མོ་མཐོ་བར་གྱུར་པ་འདི་དག་གོ། །
+འཇིག་ཚོགས་ལྟ་རི་ལྷུན་སྟུག་ལ་གནས་པ། །རྩེ་མོ་མཐོ་བར་གྱུར་པ་འདི་དག་གོ །
+The mountain of views is destroyed by the vajra of the realisation of selflessness.
+That destroyed alongside the self
+Are these tall peaks
+Abiding on the towering mountain of the view of the transitory collection. [6.145]
+{ #5901d1}
+
 
 ཁ་ཅིག་དེ་ཉིད་གཞན་ཉིད་རྟག་མི་རྟག། །ལ་སོགས་བརྗོད་མེད་གང་ཟག་རྫས་ཡོད་འདོད། །
 རྣམ་ཤེས་དྲུག་གི་ཤེས་བྱར་དེ་འདོད་ཅིང༌། །དེ་ནི་ངར་འཛིན་གཞིར་ཡང་འདོད་པ་ཡིན། །
