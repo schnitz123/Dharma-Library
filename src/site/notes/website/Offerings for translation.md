@@ -18,7 +18,7 @@ I’ve known Shahar for years and seen his intelligence, accuracy, and sincerity
 We all wish to make the Dharma freely available, so we plan to publish the final English book in a free digital format. 
 
 **How much will the translation cost?**
-We first want to emphasize that making an offering of even a euro means we are working together as a group to make this happen, which gives the project so much positive energy! This means offerings of any amount are beneficial. Shahar and I estimate it will be a minimum of 5,000 euros for translating and publishing this book, so we don’t expect to raise it all immediately, rather in stages as the project progresses. So far over 500 euros has been raised, so the translation has already begun. 
+We first want to emphasize that making an offering of even a euro means we are working together as a group to make this happen, which gives the project so much positive energy! This means offerings of any amount are beneficial. Shahar and I estimate it will be a minimum of 5,000 euros for translating and publishing this book, so we don’t expect to raise it all immediately, rather in stages as the project progresses. So far over 1000 euros has been raised, so the translation has already begun. 
 
 **How can I contribute?**
 If possible, please contact [myself](mailto:sarahsuntara@gmail.com) or [Shahar](mailto:shahartene108@gmail.com) to make offerings via local bank transfer or the Wise app; we can provide bank account details in GBP/EUR/USD etc. (Preferred due to the lower fees).

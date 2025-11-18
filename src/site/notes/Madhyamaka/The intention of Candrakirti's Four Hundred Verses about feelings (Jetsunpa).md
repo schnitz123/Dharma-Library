@@ -67,6 +67,16 @@ You cannot accept because it is a learner's exalted wisdom that is in single-poi
 རང་ལུགས་ནི། བདག་མེད་ཕྲ་རགས་གང་ཡང་མ་རྟོགས་པའི་རྟོག་པར་གྱུར་པའི་ཡིད་ཤེས་འཁོར་གྱི་ཚོར་བ་ལ་དགོངས་པ་ཡིན་ནོ།
 *Our own system:* The intention is the feelings in the retinue of conceptual mental consciousnesses that do not realise coarse or subtle selflessness.
 
+---
+སྐབས་འདིའི་ཟག་བཅས་ཀྱི་བདེ་བ་དེ་ཚོར་བ་ཁོ་ན་མིན་ལ་དེ་མཚུངས་ཀྱི་སེམས་སེམས་བྱུང་ཡུལ་ཟག་བཅས་ཐམས་ཅད་དེའི་མཚན་གཞིར་འཇོག་པའི་ཕྱིར། 
+**(JS:)** The contaminated pleasure in this context is not only feelings; also the minds and mental factors concomitant with that, as well as all contaminated phenomena can be posited as its illustration.
+
+དེར་ཐལ། དེ་རྣམས་ཟག་བཅས་ཀྱི་བདེ་བ་དང་། འགྱུར་བའི་སྡུག་བསྔལ་གྱི་གཞི་མཐུན་ཡིན་པའི་ཕྱིར།
+That follows because those are a common locus of 1) contaminated pleasure and 2) suffering of change.
+
+ལམ་རིམ་འབྲིང་ལས། དེ་ཡང་ཚོར་བ་དེ་ཁོ་ན་མིན་གྱི་དེ་དང་མཚུངས་པར་ལྡན་པའི་སེམས་སེམས་བྱུང་གཞན་རྣམས་དང་། 
+གང་ལ་དམིགས་ནས་སྐྱེས་པའི་ཡུལ་ཟག་བཅས་རྣམས་ཀྱང་འགྱུར་བའི་སྡུག་བསྔལ་ལོ། ཞེས་གསུངས་པའི་ཕྱིར།
+This is because Middling Lamrim says: "Moreover, it is not only the feeling. The minds and mental factors concomitant with that, as well as the contaminated objects upon observation of which they arise are also suffering of change."
 
 ---
 **Previous:** [[Madhyamaka/Unique Prasangika presentation of mental direct perception (Panchen)\|Unique Prasangika presentation of mental direct perception (Panchen)]]
