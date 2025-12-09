@@ -20,6 +20,7 @@ That follows because the self and aggregates have already been explained as not 
 
 ---
 
+[[Madhyamaka/Presentation of the person (JS)\|Presentation of the person (JS)]]
 [[Madhyamaka/Twenty views of self (Tendarwa)\|Twenty views of self (Tendarwa)]]
 
 

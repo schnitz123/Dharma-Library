@@ -8,12 +8,19 @@ If it were different from the aggregates, then it would not possess the characte
 *Given to Tsongkhapa in a dream.*
 
 བདག་ཉིད་ཡོད་པ་མ་ཡིན་ན། །བདག་གི་ཡོད་པར་ག་ལ་འགྱུར། །བདག་དང་བདག་གི་ཞི་བའི་ཕྱིར། །ངར་འཛིན་ང་ཡིར་འཛིན་མེད་འགྱུར། །
+If the self does not exist, then how could a "mine" exist?
+Due to pacifying "I" and "mine" there will be not apprehension of "I" and "mine". [2]
 
 ངར་འཛིན་ང་ཡིར་འཛིན་མེད་གང༌། །དེ་ཡང་ཡོད་པ་མ་ཡིན་ཏེ། །ངར་འཛིན་ང་ཡིར་འཛིན་མེད་པར། །གང་གིས་མཐོང་བས་མི་མཐོང་ངོ༌། །
 
 ནང་དང་ཕྱི་རོལ་ཉིད་དག་ལ། །བདག་དང་བདག་གི་སྙམ་ཟད་ན། །ཉེ་བར་ལེན་པ་འགག་འགྱུར་ཞིང༌། །དེ་ཟད་པས་ན་སྐྱེ་བ་ཟད། །
+If thoughts of "I" and "mine" are exhausted with respect to the inner and the outer,
+Then appropriation will cease and due to exhausting that, birth is exhausted. [4]
 
 ལས་དང་ཉོན་མོངས་ཟད་པས་ཐར། །ལས་དང་ཉོན་མོངས་རྣམ་རྟོག་ལས། །དེ་དག་སྤྲོས་ལས་སྤྲོས་པ་ནི། །སྟོང་པ་ཉིད་ཀྱིས་འགག་པར་འགྱུར། །
+Due to exhausting karma and afflictions, one is liberated. Karma and afflictions are from conceptualisations,
+Those are from elaborations. Elaborations will ceased through emptiness. [5]
+
 
 བདག་གོ་ཞེས་ཀྱང་བཏགས་གྱུར་ཅིང༌། །བདག་མེད་ཅེས་ཀྱང་བསྟན་པར་གྱུར། །སངས་རྒྱས་རྣམས་ཀྱིས་བདག་དང་ནི། །བདག་མེད་འགའ་མེད་ཅེས་ཀྱང་བསྟན། །
 

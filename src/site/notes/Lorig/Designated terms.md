@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lorig/designated-terms/"}
 ---
 
-###### དོན་དེ་ལ་རྗེས་གྲུབ་ཏུ་བརྡའ་སྦྱར་བ་ཡང་ཡིན། དོན་དེའི་མིང་ཕལ་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ།<br>དོན་དེའི་བཏགས་མིང་གི་མཚན་ཉིད།
+དོན་དེ་ལ་རྗེས་གྲུབ་ཏུ་བརྡའ་སྦྱར་བ་ཡང་ཡིན། དོན་དེའི་མིང་ཕལ་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ། དོན་དེའི་བཏགས་མིང་གི་མཚན་ཉིད།
 **Definition of being the designated term of an object:** That observed as a common locus of 1) being a term that is subsequently applied to that object and 2) being a secondary term for that object.
 
 **Division:**

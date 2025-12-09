@@ -23,7 +23,7 @@ Self, person, being, and so forth are synonymous.
 
 གདགས་གཞི་དེར་འཇོག་མི་རུང་སྟེ། བདག་དུ་མར་ཐལ་བ་སོགས་དང་། གདགས་གཞི་གདགས་ཆོས་ཀྱི་དབྱེ་བ་མེད་པར་འགྱུར་བའི་ཕྱིར།
 It is not suitable to posit the basis of designation as that because there are the consequences of many selves and so forth and that the basis of designation and designated-phenomenon would become indivisible.
-
+See: [[Madhyamaka/Refuting the positions of being support and supported and so forth\|Refuting the positions of being support and supported and so forth]]
 
 ---
 Up a level: [[Madhyamaka/Apprehension of true existence\|Apprehension of true existence]]

@@ -27,12 +27,20 @@ Some Vaisheshikas assert that it possesses the activities of contracting and ext
 **Vedāntins** assert that although the self is singular, pervading all contained and containers, it appears manifold due to different bodily supports. For example, although space is one, it appears different inside different containers.
 
 ---
+**The two refuting syllogisms:**
+{ #c4a1c8}
+
+
 མུ་སྟེགས་པ་དེ་དག་གིས་ཇི་ལྟར་བརྟགས་པར་དེ་ལྟར་དུ་གྱུར་པའི་བདག་ནི་ཆོས་ཅན། དེ་དག་གིས་བརྟགས་པ་ལྟར་དུ་ཡོད་པ་མ་ཡིན་ཏེ། སྐྱེ་བ་དང་བྲལ་བའིེ་ཕྱིར། 
 དཔེར་ན། མོ་གཤམ་གྱི་བུ་ལྟར་རོ།
 The subject - the self as it is imputed by those Non-Buddhists - it does not exist as imputed by those because of being devoid of production; for example, like the son of a barren woman.
 
 དེ་དག་གིས་བརྟགས་པའི་བདག་ནི་ཆོས་ཅན། ངར་འཛིན་ལྷན་སྐྱེས་ཀྱི་རྟེན་ཏེ་དམིགས་ཡུལ་དུའང་མི་རིགས་ཏེ། མ་སྐྱེས་པའི་ཕྱིར།
 The subject - the self imputed by those - it is not suitable as the support, i.e. observed-object, of the innate apprehension of I because it is unproduced.
+
+These two refute that self ultimately and conventionally by way of adding the ultimate qualification. However, [[Madhyamaka/The faults in Bhavaviveka's position\|previously]], in the context of refuting self-production, it was said there is no purpose in adding the ultimate qualification; so why is it added here but earlier said to be unnecessary?
+
+---
 
 མུ་སྟེགས་པས་བཏགས་པའི་བདག་གི་ངོ་བོར་མ་ཟད་བདག་དེའི་ཁྱད་པར་ཀུན་ཀྱང་ཡོད་པ་མ་ཡིན་ཏེ། 
 རྒྱུ་མཚན་གང་གིས་ཕྱིར་ན་གྲངས་ཅན་གྱི་བསྟན་བཅོས་དང་བྱེ་བྲག་པ་སོགས་ཀྱི་བསྟན་བཅོས་ལས་བདག་དེའི་ཁྱད་ཆོས་ཟ་བ་པོ་དང་། 

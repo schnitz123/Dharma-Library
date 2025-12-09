@@ -9,6 +9,7 @@ Not only is Buddhapalita's commentary section refuting self-production without f
 ཞེས་དོན་དམ་གྱི་ཁྱད་པར་སྦྱར་བ་མི་འཐད་པའི་ཕྱིར་ཏེ། དོན་དམ་གྱི་ཁྱད་པར་བསྒྲུབ་བྱ་ལ་སྦྱར་བ་ཡང་མི་འཐད། ཆོས་ཅན་ལ་སྦྱར་བ་ཡང་མི་འཐད་པའི་ཕྱིར།
 It is incorrect to add the qualification "ultimately" in "Ultimately, the inner-sources are not produced from self because they exist; just like the existence of consciousness." because 1) it is incorrect to add the qualification "ultimately" to the probandum and 2) it is also incorrect to add it to the subject.
 
+
 ---
 ལེགས་ལྡན་འབྱེད་ན་རེ། མིག་སོགས་ནང་གི་སྐྱེ་མཆེད་རྣམས་དོན་དམ་པར་བདག་ལས་སྐྱེ་བ་མེད་དེ། ཡོད་པའི་ཕྱིར། དཔེར་ན་སེམས་པ་ཅན་བཞིན་ནོ། 
 ཞེས་བདག་སྐྱེ་འགོག་པའི་ཚེ་དོན་དམ་གྱི་ཁྱད་པར་ངེས་པར་སྦྱོར་བ་ཡིན་ནོ། ཞེ་ན། 
@@ -34,6 +35,9 @@ Also no purpose to refute ordinary people because they do not talk about "self-p
 གཉིས་པ་ལྟར་ན་ཡང་མི་རིགས་ཏེ། སྔ་རྒོལ་དབུ་མ་པ་ལ་ལྟོས་པའི་ཆོས་ཅན་མ་གྲུབ་པའི་སྐྱོན་ཡོད་པའི་ཕྱིར་ཏེ། 
 ཀུན་རྫོབ་ཙམ་གྱི་མིག་སོགས་ཀྱང་ཆོས་ཅན་དུ་འཛིན་མི་རིགས་ཏེ། ཕྱི་རྒོལ་གྲངས་ཅན་ལ་ལྟོས་པའི་ཆོས་ཅན་མ་གྲུབ་པའི་སྐྱོན་དུ་འགྱུར་བའི་ཕྱིར།
 *In the second case,* this is also unsuitable because there would be the fault of a non-established subject from the perspective of the Madhyamika defender; because it is also unsuitable to take "eyes and so forth that are mere conventionalities" as the subject because there would be the fault of a non-established subject from the perspective of the Samkhya opponent.
+
+---
+Later, when refuting the self of the Samkhya school ([[Madhyamaka/Refuting a self that is a different entity from the aggregates imputed by Non-Buddhists#^c4a1c8\|here]]), the ultimate qualification is added and the self is refuted both ultimately and conventionally. Why is it unnecessary here, but added in that context?
 
 ---
 ལེགས་ལྡན་འབྱེད་ན་རེ། མིག་སོགས་ནང་གི་སྐྱེ་མཆེད་རྣམས་ཆོས་ཅན། དོན་དམ་པར་བདག་ལས་སྐྱེ་བ་མེད་དེ། ཡོད་པའི་ཕྱིར། དཔེར་ན་སེམས་པ་ཅན་བཞིན། 
