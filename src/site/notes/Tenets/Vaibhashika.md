@@ -18,25 +18,20 @@
 **Definition of Ultimate Truth:** That observed as a phenomenon whose apprehending awareness is not lost when it is destroyed or mentally separated into parts.
 
 ---
+[[Tenets/Eighteen Vaibhashika Schools (Jangkya tenets)\|Eighteen Vaibhashika Schools (Jangkya tenets)]]
+
 **Four Root Subschools:**
-1. Sarvāstivāda ཐམས་ཅད་ཡོད་པར་སྨྲ་བ།
+1. *Sarvāstivāda* ཐམས་ཅད་ཡོད་པར་སྨྲ་བ།
    Followers of Rāhula and recite the scriptures in Sanskrit; they are called as such due to propounding that the three times exist. 
-   སྒྲ་གཅན་འཛིན་གྱི་རྗེས་སུ་འབྲངས་ཤིང་གསུང་རབ་ལེགས་སྦྱར་སྐད་དུ་འདོན་པ། དུས་གསུམ་ཡོད་པར་སྨྲ་བས་ཐམས་ཅད་ཡོད་སྨྲ་པ་ཞེས་པ་དང་།
-2. Mahāsāṃghika ཕལ་ཆེན་པ།
+   སྒྲ་གཅན་འཛིན་གྱི་རྗེས་སུ་འབྲངས་ཤིང་གསུང་རབ་ལེགས་སྦྱར་སྐད་དུ་འདོན་པ། དུས་གསུམ་ཡོད་པར་སྨྲ་བས་ཐམས་ཅད་ཡོད་སྨྲ་པ་ཞེས་པ་དང་།<br><br>
+2. *Mahāsāṃghika* ཕལ་ཆེན་པ།
    Followers of Mahākāśyapa and recite the scriptures in Prākrit; they are called as such since during the division, most of the sangha joined this group. གནས་བརྟན་འོད་སྲུངས་ཆེན་པོའི་རྗེས་སུ་འབྲངས་ཤིང་། 
-   གསུང་རབ་རང་བཞིན་སྐད་དུ་འདོན་པ། གྱེས་པའི་ཚེ་དགེ་འདུན་ཕལ་ཆེ་བ་ཕྱོགས་འདིར་འདུས་པས་ཕལ་ཆེན་པ་ཞེས་པ་དང་།
-3. Sthavira གནས་བརྟན་པ།
-   They recite the scriptures in Piśāci and are called as such due to propounding the Elders as the Arya lineage. གསུང་རབ་ཤ་ཟའི་སྐད་ཀྱིས་འདོན་པ། གནས་བརྟན་འཕགས་པའི་རིགས་ཡིན་པར་སྨྲ་བས་གནས་བརྟན་པ་ཞེས་པ། 
-4. Sammitīyā མང་བཀུར་བ།
+   གསུང་རབ་རང་བཞིན་སྐད་དུ་འདོན་པ། གྱེས་པའི་ཚེ་དགེ་འདུན་ཕལ་ཆེ་བ་ཕྱོགས་འདིར་འདུས་པས་ཕལ་ཆེན་པ་ཞེས་པ་དང་།<br><br>
+3. *Sthavira* གནས་བརྟན་པ།
+   They recite the scriptures in Piśāci and are called as such due to propounding the Elders as the Arya lineage. གསུང་རབ་ཤ་ཟའི་སྐད་ཀྱིས་འདོན་པ། གནས་བརྟན་འཕགས་པའི་རིགས་ཡིན་པར་སྨྲ་བས་གནས་བརྟན་པ་ཞེས་པ། <br><br>
+4. *Saṃmittīya* མང་བཀུར་བ།
    Followers of Upāli and recite the scriptures in Apabhraṃśa; they are called as such due to being the lineage of many being offering service.
    ཉེ་བར་འཁོར་གྱི་རྗེས་སུ་འབྲངས་ཤིང་། གསུང་རབ་ཟུར་ཆག་སྐད་གྱིས་འདོན་པ། སྐྱེ་བོ་མང་པོས་བཀུར་སྟི་བྱས་པའི་རིགས་ཡིན་པས་མང་བཀུར་བ་ཞེས་པ།
-
-**Eighteen Subschools:**
-1. Sarvāstivāda - Seven: གཞི་ཀུན་པ། འོད་སྲུངས་སྡེ། ས་སྟོན་སྡེ། ཆོས་སྲུང་སྡེ། མང་ཐོས། tāmraśaṭīya གོས་དམར་སློབ་མ། རྣམ་པར་ཏ་སྨྲ་བའི་སྡེ།
-2. Mahāsāṃghika - Five: ཤ་རི་ལ་གནས་པ། ནུབ་རི་ལ་གནས་པ། གངས་རིར་གནས་པ། འཇིག་རྟེན་འདས་པར་སྨྲ་བ། བཏགས་པར་སྨྲ་བ།
-3. Sthavira - Three: རྒྱལ་བྱེད་ཚལ་ན་གནས་པ། འཇིགས་མེད་རི་ལ་གནས་པ། གཙུག་ལག་ཁང་ཆེན་ན་གནས་པ།
-4. Sammitīyā - Three: ས་སྒྲོག་རི། སྲུང་བ་པ། [[Tenets/Vātsīputrīya\|Vātsīputrīya]] གནས་མ་བུ་ཡི་སྡེ།
-
 
 
 ---
