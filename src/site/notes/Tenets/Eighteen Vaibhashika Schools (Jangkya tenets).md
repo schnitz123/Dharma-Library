@@ -18,10 +18,10 @@ Bhavaviveka's Blaze of Reasoning mentions three systems of categorisation:
 	1. Sthavira གནས་བརྟན་པ། / Haimavata གངས་རི་པ།
 	2. Sarvāstivāda ཐམས་ཅད་ཡོད་པར་སྨྲ་བ། / Vibhajyavāda རྣམ་པར་ཕྱེ་སྟེ་སྨྲ་བ། / 
 	   Hetuvāda རྒྱུར་སྨྲ་བ། / Muruntaka མུ་ཏུན་ཏ་ཀ་པ།
-	3. Vātsīputriya གནས་མ་བུ་པ།
+	3. Vātsīputrīya གནས་མ་བུ་པ།
 	4. Dharmottariya ཆོས་མཆོག་པ།
 	5. Bhadrāyanīya བཟང་པོའ་ིལམ་པ།
-	6. Sammatīya ཀུན་གྱིས་བཀུར་བ། / Avantika ཨབ་ན་ཏ་ཀ་པ། / Kaurukullaka ཀུ་རུ་ཀུ་ལླ་པ།
+	6. Sammatīya མང་བཀུར་བ། ཀུན་གྱིས་བཀུར་བ། / Avantika ཨབ་ན་ཏ་ཀ་པ། / Kaurukullaka ཀུ་རུ་ཀུ་ལླ་པ།
 	7. Mahīśāsaka མང་སྟོན་པ།
 	8. Dharmaguptaka ཆོས་སྦས་པ།
 	9. Suvarşaka ཆར་བཟང་འབེབས་པ། / Kāśyapīya འོད་སྲུངས་པ།
@@ -32,8 +32,8 @@ Bhavaviveka's Blaze of Reasoning mentions three systems of categorisation:
 	- Sarvāstivāda ཐམས་ཅད་ཡོད་པར་སྨྲ་བ།
 		1. Sarvāstivāda ཐམས་ཅད་ཡོད་པར་སྨྲ་བ།
 		2. Sūtravāda མདོ་སྡེ་སྨྲ་བ།
-	- Vātsīputriya གནས་མ་བུ་པ།
-		1. Sammatīya ཀུན་གྱིས་བཀུར་བ།
+	- Vātsīputrīya གནས་མ་བུ་པ།
+		1. Sammatīya མང་བཀུར་བ། ཀུན་གྱིས་བཀུར་བ།
 		2. Dharmottarīya ཆོས་མཆོག་པ།
 		3. Bhadrāyanīya བཟང་པོའ་ིལམ་པ།
 		4. Şanņagarika གྲོང་ཁྱེར་དྲུག་པ།
@@ -77,10 +77,10 @@ Bhavaviveka's Blaze of Reasoning mentions three systems of categorisation:
 	1. Jetavaniya རྒྱལ་བྱེད་ཚལ་གནས།
 	2. Abhayagirika འཇིགས་བྱེད་གནས།
 	3. Mahāvihāra གཙུག་ལག་ཁང་ཆེན།
-4. Sammatīya ཀུན་གྱིས་བཀུར་བ། (3)
+4. Sammatīya མང་བཀུར་བ། ཀུན་གྱིས་བཀུར་བ། (3)
 	1. Kurukulla ས་སྒྲོགས་རིས།
 	2. Avantika སྲུང་བ་པ།
-	3. Vātsīputriya གནས་མ་བུ་པ། 
+	3. Vātsīputrīya གནས་མ་བུ་པ། 
 
 
 

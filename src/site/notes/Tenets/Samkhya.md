@@ -10,21 +10,16 @@ They assert that objects of knowledge are definite in number as twenty-five; the
 - The Great 			[Mahat / Intellect, buddhi]
 - Ego 				[Ahaṁkāra]
 - The Five Sense Objects 	[Tanmātra]
+	- The Five Sense Objects are form, sound, smell, taste, and tactile.
 - The Eleven Faculties 		[Indriya]
+	- The Five Faculties of Awareness 	[Buddhīndriya]
+		- The faculties of eye, ear, nose, tongue, and body.
+	- The Five Faculties of the Body 	[Karmendriya]
+		- Speech, arms, legs, anus, and genitalia.
+	- The Mental Faculty 			[Manas]
 - The Five Elements 		[Bhūta]
+	- Earth, water, fire, air, and space.
 
-The Five Sense Objects are form, sound, smell, taste, and tactile.
-
-The Eleven Faculties are:
-- The Five Faculties of Awareness 	[Buddhīndriya]
-- The Five Faculties of the Body 	[Karmendriya]
-- The Mental Faculty 			[Manas]
-
-The Five Faculties of Awareness are the faculties of eye, ear, nose, tongue, and body.
-
-The Five Faculties of the Body are speech, arms, legs, anus, and genitalia.
-
-The Five Elements are earth, water, fire, air, and space.
 
 ---
 Among these, the Being [Puruṣa] is consciousness and the remaining twenty-four are asserted as matter due to being collections and aggregations.
