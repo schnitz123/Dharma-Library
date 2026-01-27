@@ -9,7 +9,7 @@
 དེའི་ནང་ཚན་ཁ་ཅིག་ན་རེ། བདག་ལྟའི་རྟེན་དུ་སྟེ་དམིགས་པར་ནས་ཕུང་པོ་ལྔ་ཆར་ཡང་འདོད་དེ། མདོ་ལས། དགེ་སློང་དག་དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་གང་སུ་དག་ཅིག་
 བདག་གོ་སྙམ་དུ་ཡང་དག་པར་རྗེས་སུ་ལྟ་བ་དག་ནི། ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ་པོ་འདི་ཁོ་ན་ལ་ཡང་དག་པར་རྗེས་སུ་ལྟའོ། ཞེས་གསུངས་པའིེ་ཕྱིར་དང་། 
 ངར་འཛིན་ལྷན་སྐྱེས་ལ་འཇིག་པའི་ཆོགས་པ་ཅན་ལ་ལྟ་བ་ཞེས་ཀྱང་གསུངས་པའི་ཕྱིར། ཞེས་སྨྲའོ།
-Some of their subschools assert that the support of observed-object of the view of a self is *all five aggregates* 1) because sutra says, "Gelongs, any ṡramaṇa or brahmin with a thorough view thinking "self" is thoroughly viewing only these five appropriated aggregates." and 2) because the innate apprehension of self is indicated as "view of the transitory collection".
+Some of their subschools assert that the support or observed-object of the view of a self is *all five aggregates* 1) because sutra says, "Gelongs, any ṡramaṇa or brahmin with a thorough view thinking "self" is thoroughly viewing only these five appropriated aggregates." and 2) because the innate apprehension of self is indicated as "view of the transitory collection".
 
 མང་བཀུར་བ་ཁ་ཅིག་སེམས་ཅིག་པུ་བདག་ཏུ་འདོད་དེ། མདོ་ལས། བདག་ཉིད་བདག་གི་མགོན་ཡིན་གྱི། །གཞན་ནི་སུ་ཞིག་མགོན་དུ་འགྱུར། 
 །བདག་ཉིད་ལེགས་པར་ཐུལ་བས་ནི། །མཁས་པས་མཐོ་རིས་ཐོབ་པར་འགྱུར། ཞེས་བདག་གིས་བདག་འདུལ་པར་གསུངས་པ་ནི་སེམས་ཡིན་པའི་ཕྱིར།

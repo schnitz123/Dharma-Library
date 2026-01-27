@@ -129,5 +129,4 @@ Therefore, the innate awareness apprehending "I" is posited as observing the ind
 ---
 Next: [[Madhyamaka/Indicating the systems of others as unrelated\|Indicating the systems of others as unrelated]]
 
----
 Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self\|Refuting the Buddhist assertions of the aggregates as the self]] / [[Madhyamaka/Refuting the inherent establishment of I and Mine (Gomde)\|Refuting the inherent establishment of I and Mine (Gomde)]]
