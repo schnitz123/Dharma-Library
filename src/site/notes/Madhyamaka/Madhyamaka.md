@@ -88,6 +88,7 @@
 			- [[Madhyamaka/Presentation of the person (JS)\|Presentation of the person (JS)]]
 			- [[Madhyamaka/Twenty views of self (Tendarwa)\|Twenty views of self (Tendarwa)]]
 		- [[Madhyamaka/Refuting a substantially existent person that is inexpressible as same or different\|Refuting a substantially existent person that is inexpressible as same or different]]
+		- [[Madhyamaka/Presentation of the self as merely dependently designated together with an example (example of the chariot)\|Presentation of the self as merely dependently designated together with an example (example of the chariot)]]
 - 406
 
 

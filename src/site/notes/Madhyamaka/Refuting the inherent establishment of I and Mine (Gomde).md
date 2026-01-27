@@ -18,7 +18,10 @@
 [[Madhyamaka/Refuting a substantially existent person that is inexpressible as same or different\|Refuting a substantially existent person that is inexpressible as same or different]]
 
 
-བདག་བརྟེན་ནས་བཏགས་པ་ཙམ་དུ་བཞག་པ་དཔེ་དང་བཅས་པ་བཤད། 
+བདག་བརྟེན་ནས་བཏགས་པ་ཙམ་དུ་བཞག་པ་དཔེ་དང་བཅས་པ་བཤད།
+[[Madhyamaka/Presentation of the self as merely dependently designated together with an example (example of the chariot)\|Presentation of the self as merely dependently designated together with an example (example of the chariot)]]
+
+
 དེ་ལྟར་བཞག་པ་ལ་མཐར་འཛིན་གྱི་རྟོག་པ་སྤངས་སླ་བའི་ཡོན་ཏན་བསྟན་པའོ།
 
 
