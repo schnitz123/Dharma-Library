@@ -16,11 +16,11 @@ The implied meaning: When selflessness is perceived, the non-existence of the ag
 ཁོ་ན་རེ། བདག་མེད་པ་མཐོང་བའི་ཚེ་ཕུང་པོ་མེད་པར་རྟོགས་པའི་སྐྱོན་མེད་དེ། ཕུང་པོ་བདག་ཏུ་བཞག་པ་ནི་ལས་འབྲས་ཀྱི་རྟེན་དུ་གྱུར་པའི་བདག་ཡིན་གྱི་
 དགག་བྱའི་བདག་མིན་ལ། རྣལ་འབྱོར་པས་བདག་མེད་རྟོགས་པའི་ཚེ་རྟག་པའི་བདག་ཙམ་སྤོང་བ་སྟེ་མེད་པར་མཐོང་རྒྱུའི་དགག་བྱའི་བདག་ནི་
 རྟག་གཅིག་རང་དབང་ཅན་དུ་གྱུར་པའི་ནང་གི་བྱེད་པའི་སྐྱེས་བུ་ལ་བྱེད་དོ་ཞེ་ན།
-*Objection:* There is no fault that when perceiving selflessness, the aggregates are realised as non-existence because positing the aggregates as the self is in relation to the self that is the support of cause and effect; not the self that is the object of negation. Also, when yogis realise selflessness, they abandon, i.e. perceive as non-existent, just the permanent self; whereas, the self that is the object of negation is taken as the being that is the inner agent and is permanent, unitary, and independent.
+*Objection:* There is no fault that when perceiving selflessness, the aggregates are realised as non-existent because positing the aggregates as the self is in relation to the self that is the support of cause and effect; not the self that is the object of negation. Also, when yogis realise selflessness, they abandon, i.e. perceive as non-existent, just the permanent self; whereas, the self that is the object of negation is taken as the being that is the inner agent and is permanent, unitary, and independent.
 
 འོ་ན། མང་བཀུར་པ་ཁྱོད་ཀྱི་ལུགས་ལ་སེམས་སོ། ཕུང་པོ་ལྔ་བཏགས་དོན་བཙལ་ནས་རྙེད་པའི་བདག་ཏུ་མི་འབྱུང་བར་ཐལ། 
 བདག་མེད་མཐོང་ཞེས་པ་དེའི་ཚེ་རྟག་པའི་བདག་ཙམ་བདག་ཏུ་འཇོག་གི་ཕུང་པོ་བདག་ཏུ་མི་འཇོག་པ་དེའི་ཕྱིར།
-*Answer:* In that case, think about your own system, Sammitīyā! It follows that the five aggregates do not exist as a self that is findable upon search for the designated-object because saying "perceiving selflessness" is posited in relation to just a permanent self as the self and not posited in relation to the aggregates as the self.
+*Answer:* In that case, think about your own system, Sammitīyā! It follows that the five aggregates do not exist as a self that is findable upon searching for the designated-object because saying "perceiving selflessness" is posited in relation to just a permanent self as the self and not posited in relation to the aggregates as the self.
 
 ཁྱབ་སྟེ། ཕུང་པོ་བཏགས་དོན་བཙལ་ནས་རྙེད་པའི་བདག་ཡིན་ན་དགག་བྱའི་བདག་ཡིན་དགོས་པའི་ཕྱིར།
 There is pervasion because if the aggregates are a self that is findable upon searching for the designated-object, then it is necessarily the self that is the object of negation.

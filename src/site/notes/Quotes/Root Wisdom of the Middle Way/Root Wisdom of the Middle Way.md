@@ -13,7 +13,7 @@ I prostrate to the Youthful Manjushri!
 I prostrate to the holiest of proponents, the Perfect Buddha, who taught
 That which is dependently-arisen to be without cessation, without production,
 Without annihilation, without permanence, without coming, without going,
-Not different entities and not one entity, and peacefully free from elaborations.
+Not different entities and not one entity, and free from elaborations and pacified.
 
 [[Quotes/Root Wisdom of the Middle Way/Chapter 1 - Investigation of conditions\|Chapter 1 - Investigation of conditions]] རྐྱེན་བརྟག་པ།
 [[Quotes/Root Wisdom of the Middle Way/Chapter 2 - Investigation of coming and going\|Chapter 2 - Investigation of coming and going]] འགྲོ་བ་དང་འོང་བ་བརྟག་པ།

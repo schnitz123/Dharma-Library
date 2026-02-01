@@ -26,4 +26,6 @@ If accepted: This is contradictory with asserting that it is abandoned by way of
 
 
 ---
+Next: [[Madhyamaka/The self would be annihilated upon nirvana without remainder\|The self would be annihilated upon nirvana without remainder]]
+
 Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|Refuting the Buddhist assertions of the aggregates as the self]]

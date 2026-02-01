@@ -13,13 +13,14 @@ Both reasons are established because if the self and aggregates existed as inher
 
 དེར་ཐལ། གཞན་དང་ལྡན་པ་ནི་ལྷ་སྦྱིན་གནག་སྟེ་བ་ལང་དང་ལྡན་པ་ལྟ་བུ་དང་། གཞན་མིན་པ་དང་ལྡན་པ་ནིེ་ལྷ་སྦྱིན་གཟུགས་དང་ལྡན་པ་ལྟ་བུ་ཡིན་ན། 
 བདག་ནི་གཟུགས་ལས་དེ་ཉིད་དེ་གཅིག་རང་གཞིན་ཉིད་དུ་རང་བཞིན་གྱིས་མེད་པའི་ཕྱིར།
-That follows because if "possessing other" is like Devadatta possessing a cow and "possessing non-other" is like Devadatta possessing a body, then the self does not inherently exist as one with form.
+That follows because if "possessing other" is like Devadatta possessing a cow and "possessing not-other" is like Devadatta possessing a body, then the self does not inherently exist as one with form.
 
 དེར་ཐལ། རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་བདག་དང་ཕུང་པོ་གཅིག་དང་ཐ་དད་གང་རུང་དུ་རང་བཞིན་གྱིས་ཡོད་པ་མིན་པར་བཤད་ཟིན་པ་དེའི་ཕྱིར།
 That follows because the self and aggregates have already been explained as not being inherently existence one or different.
 
 ---
 
+See:
 [[Madhyamaka/Presentation of the person (JS)\|Presentation of the person (JS)]]
 [[Madhyamaka/Twenty views of self (Tendarwa)\|Twenty views of self (Tendarwa)]]
 

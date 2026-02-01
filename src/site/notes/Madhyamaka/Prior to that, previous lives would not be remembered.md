@@ -20,4 +20,6 @@ There is pervasion because if it is that, then it is necessarily unrelated diffe
 
 
 ---
+Next: [[Madhyamaka/Accumulated actions would go to waste\|Accumulated actions would go to waste]]
+
 Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|Refuting the Buddhist assertions of the aggregates as the self]]

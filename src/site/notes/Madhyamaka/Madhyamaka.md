@@ -83,10 +83,7 @@
 
 		- [[Madhyamaka/Refuting a self that is a different entity from the aggregates imputed by Non-Buddhists\|Refuting a self that is a different entity from the aggregates imputed by Non-Buddhists]]
 		- [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self\|Refuting the Buddhist assertions of the aggregates as the self]]
-			- [[Madhyamaka/Explaining the purpose for indicating the aggregates as a self\|Explaining the purpose for indicating the aggregates as a self]]
 		- [[Madhyamaka/Refuting the positions of being support and supported and so forth\|Refuting the positions of being support and supported and so forth]]
-			- [[Madhyamaka/Presentation of the person (JS)\|Presentation of the person (JS)]]
-			- [[Madhyamaka/Twenty views of self (Tendarwa)\|Twenty views of self (Tendarwa)]]
 		- [[Madhyamaka/Refuting a substantially existent person that is inexpressible as same or different\|Refuting a substantially existent person that is inexpressible as same or different]]
 		- [[Madhyamaka/Presentation of the self as merely dependently designated together with an example (example of the chariot)\|Presentation of the self as merely dependently designated together with an example (example of the chariot)]]
 - 406

@@ -31,7 +31,7 @@ For example, when referring to trees as a forest, it is referring to the collect
 
 འདོད་ན། ཕུང་པོའེ་ཚོགས་པ་བདག་མ་ཡིན་པར་ཐལ། ཕུང་པོའི་ཚོགས་པ་དེ་སྡུག་བསྔལ་ལས་སྐྱོབ་པའི་མགོན་ཡང་མ་ཡིན།
 ཉོན་མོངས་འདུལ་བར་བྱེད་པའི་འདུལ་བ་པོའང་མ་ཡིན། ལེགས་ཉེས་ཤན་འབྱེད་པའི་དཔང་པོ་ཉིད་ཀྱང་མ་ཡིན་པའི་ཕྱིར།
-If accepted: It follows that the collection of the aggregates is not the self because the collection of the aggregates is not is not the protector that protects it from suffering, is not the subduer that subdues the affliction, nor is it the judge that differentiates between good and bad.
+If accepted: It follows that the collection of the aggregates is not the self because the collection of the aggregates is not the protector that protects it from suffering, is not the subduer that subdues the affliction, nor is it the judge that differentiates between good and bad.
 
 དེར་ཐལ། ཕུང་པོ་ཚོགས་པ་དེ་རྫས་སུ་མེད་པའི་ཕྱིར།
 That follows because the collection of the aggregates does not substantially exist.
@@ -43,7 +43,7 @@ There is pervasion in the previous because sutra says "The self is the protector
 
 མགོན་མིན་འདུལ་བའང་དཔང་པོ་ཉིད་ཀྱང་མིན་ཞེས་པ་རྟགས་མ་གྲུབ་སྟེ། ཚོགས་པ་ཅན་རྣམས་མགོན་དང་དཔང་པོ་སོགས་ཡིན་པས་ཚོགས་ཙམ་ཡང་
 མགོན་དང་དཔང་པོར་འགྱུར་ཏེ། ཚོགས་པ་དང་ཚོགས་པ་ཅན་གཉིས་ངོ་བོ་ཐ་དད་དུ་མེད་པའི་ཕྱིར་ཞེ་ན།
-*Objection:* Regarding saying "It is not the protector, nor the subduer or judge", reason not established because collection-possessors are the protector, judge, and so forth and therefore the mere collection is also the protector and judge because the collection and collection-possessor are not different entities.
+*Objection:* Regarding saying "It is not the protector, nor the subduer or judge", reason not established because collection-possessors are the protector, judge, and so forth and therefore the mere collection is also the protector and judge because the collection and collection-possessors are not different entities.
 
 ཤིང་རྟ་དེ་ཡི་ཡན་ལག་གི་ཚོགས་པ་ཕྱོགས་གཅིག་ཏུ་གནས་པ་རྣམས་ཤིང་རྟ་ཉིད་དུ་འགྱུར་བར་ཐལ། ཕུང་པོ་ཆོགས་པ་བདག་ཡིན་པ་དེའི་ཚེ་སྟེ་དེའི་ཕྱིར།
 *Answer:* It follows that the collection of the parts of a chariot that are collected in one place are the chariot itself because the collection of the aggregates is the self.
@@ -71,11 +71,11 @@ Where does it say it? In the sutra saying "Just as the collection of the parts..
 
 ཁོ་ན་རེ། ཤིང་རྟའི་ཡན་ལག་ཚོགས་ཙམ་ཤིང་རྟ་མིན་གྱི་ཤིང་རྟའི་ཡན་ལག་རྣམས་སྒྲིག་པའི་དབྱིབས་ཤིང་རྟར་འཇོག་སྟེ། དེའི་ཚེ་ཤིང་རྟའི་མིང་རྙེད་པར་འགྱུར་བའི་ཕྱིར། 
 དེ་བཞིན་དུ་གང་ཟག་གྱི་རྒྱུད་ཀྱིས་བསྡུས་པའི་ཕུང་པོའེ་དབྱིབས་བདག་ཡིན་ནོ་ཞེ་ན།
-*Objection:* The mere collection of the chariot's parts are not the chariot but the arranged shape of the chariot's parts is posited as the chariot because at that time they gain the name "chariot". Similarly, the shape of the aggregates included in a person's continuum is the self.
+*Objection:* The mere collection of the chariot's parts are not the chariot but the arranged configuration of the chariot's parts is posited as the chariot because at that time they gain the name "chariot". Similarly, the configuration of the aggregates included in a person's continuum is the self.
 
 ཤེས་བྱ་ཆོས་ཅན། མང་བཀུར་བ་ཁྱོད་ཀྱི་ལུགས་ལ་གཟུགས་ཅན་དེ་དག་ཉིད་དེ་ཁོ་ན་བདག་ཅེས་བྱ་བར་འགྱུར་གྱི་སེམས་དང་སོགས་ཀྱིས་བསྡུས་པ་སེམས་བྱུང་གི་ཚོགས་པ་རྣམས་ནི་བདག་ཉིད་དུ་འགྱུར་བ་མ་ཡིན་པར་ཐལ། རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་ཕུང་པོའི་དབྱིབས་བདག་ཡིན་པ་གང་ཞིག 
 དབྱིབས་དེ་གཟུགས་ཅན་ཁོ་ན་ལ་ཡོད་ཀྱི་སེམས་བྱུང་དེ་དག་ལ་དབྱིབས་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར། དེ་དག་གཟུགས་ཅན་མ་ཡིན་པའི་ཕྱིར།
-*Answer:* The subject - objects of knowledge - it follows that in the Sammitīyā system, just those that are physical will be referred to as self, whereas the collection of mind and what is included in the "and so forth", i.e. mental factors, would not be "self" because 1) the aggregates' shape is the self and 2) shape only exists in physical things; mental factors do not have shape; because those are not physical.
+*Answer:* The subject - objects of knowledge - it follows that in the Sammitīyā system, just those that are physical will be referred to as self, whereas the collection of mind and what is included in the "and so forth", i.e. mental factors, would not be "self" because 1) the aggregates' configuration is the self and 2) configuration only exists in physical things; mental factors do not have configuration; because those are not physical.
 
 ---
 ཕུང་པོ་ཚོགས་ཙམ་བདག་ཏུ་འདོད་པ་ལ་གནོད་བྱེད་གཞན་བསྟན་པ།
@@ -84,25 +84,25 @@ Where does it say it? In the sutra saying "Just as the collection of the parts..
 གནོད་བྱེད་དེར་མ་ཟད་ཉེ་བར་ལེན་པ་པོ་བདག་རང་དང་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ཚོགས་པ་གཉིས་གཅིག་ཡིན་ཞེས་པ་རིགས་པའིེ་དངོས་པོ་སྟེ་མ་ཡིན་པར་ཐལ། 
 དེ་ཡིན་པ་དེ་ལྟ་ན་ལས་དང་བྱེད་པ་པོ་གཉིས་གཅིག་ཉིད་དུ་འགྱུར་དགོས་པ་གང་ཞིག དེ་གཉིས་གཅིག་མ་ཡིན་པའི་ཕྱིར་ཏེ། 
 རྫ་མཁན་དང་རྫ་བུམ་སོགས་གཅིག་ཏུ་མི་རིགས་པའི་ཕྱིར།
-Not only are there those refutations, it follows that saying that the self (the appropriator) and the collection of the aggregates (the appropriated) are one is not a logical thing because 1) in that case, the object and agent would necessarily become one and 2) those two are not one; because it is not logical that the potter and the clay pot (and so forth) are one.
+Not only are there those refutations, it follows that saying that the self (the appropriator) and the collection of the aggregates (the appropriated) are one is not a logical thing because 1) in that case, the acted-upon-object and agent would necessarily become one and 2) those two are not one; because it is not logical that the potter and the clay pot (and so forth) are one.
 
 ཁྱབ་སྟེ། ལེན་པོ་བྱེད་པ་པོ་དང་བླང་བྱ་ལས་ཡིན་པའི་ཕྱིར།
-There is pervasion because the appropriator is the agent and the appropriated is the object.
+There is pervasion because the appropriator is the agent and the appropriated is the acted-upon-object.
 
 རྩ་ཤེ་ལས། དེ་བཞིེན་ཉེར་ལེན་ཤེས་པར་བྱ། ཞེས་པའི་དོན་ཡང་ལས་དང་བྱེད་པ་པོ་ཕན་ཚུན་ལྟོས་ནས་འཇོག་པའི་དཔེ་དེ་བཞིན་དུ། 
 ཉེ་བར་བླང་བྱ་དང་ལེན་པ་པོ་ཡང་འཇོག་ཅེས་པའོ།
-The meaning of [Nagarjuna's] Root Wisdom saying "The appropriation should be known to be similar." is an example of positing the action and agent in mutual dependence. The appropriated and appropriator are also posited similarly.
+The meaning of [Nagarjuna's] Root Wisdom saying "The appropriation should be known to be similar." is an example of positing the acted-upon-object and agent in mutual dependence. The appropriated and appropriator are also posited similarly.
 
 ཁོ་ན་རེ། མདོ་ལས། གང་ལ་བྱེད་པ་པོ་ནི་མ་དམིགས་ཀྱི་ལས་ཀྱང་ཡོད་ལ་རྣམ་པར་སྨིན་པ་ཡང་ཡོད་དོ། ཞེས་བྱེད་པ་པོ་བདག་མེད་ལ་ལས་སུ་བྱ་བ་ཕུང་པོ་ཙམ་གྱི་
 གསེབ་ནས་ལེན་བྱ་ལེན་བྱེད་འཇོག་པར་གསུངས་པས་བྱ་བྱེད་གཅིག་ཏུ་ཐལ་བའི་སྐྱོན་མེད་དོ་སྙམ་དུ་བློ་ལ་སེམས་པ་ཡིན་ནོ་ཞེ་ན།
-*Objection:* Sutra says "The agent is not observed, but there is an object and there is also a fruition." Indicating that there there is no self that is the agent, but the appropriated and appropriator can be posited from among the mere aggregates (the object). Therefore, there is no fault of the agent and object becoming one.
+*Objection:* Sutra says "The agent is not observed, but there is an acted-upon-object and there is also a fruition." Indicating that there there is no self that is the agent, but the appropriated and appropriator can be posited from among the mere aggregates (the acted-upon-objects). Therefore, there is no fault of the agent and acted-upon-object becoming one.
 
 ཤེས་བྱ་ཆོས་ཅན། བྱེད་པ་པོ་མེད་ལ་ལས་བསགས་པའི་ཁྱད་པར་གང་ཞིག་ཡོད་པ་མ་ཡིན་པར་ཐལ། ལས་སུ་བྱ་བ་ཕུང་པོ་ཚོགས་པ་ཡང་མེད་པའི་ཕྱིར་ཏེ། 
 རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་བྱེད་པ་པོ་བདག་མེད་པ་དེའི་ཕྱིར།
-*Answer:* The subject - objects of knowledge - it follows that it is not the case that the agent does not exist but some attribute of having accumulated actions does exist because the object, the collection of the aggregates, does not exist; because the agent, the self, does not exist.
+*Answer:* The subject - objects of knowledge - it follows that it is not the case that the agent does not exist but some attribute of having accumulated actions does exist because the acted-upon-object, the collection of the aggregates, does not exist; because the agent, the self, does not exist.
 
 ཁྱབ་སྟེ། ལས་སུ་བྱ་བ་ནི་བྱེད་པ་པོ་ལ་ལྟོས་ནས་འཇོག་དགོས་པའི་ཕྱིར།
-There is pervasion because the object is necessarily posited in dependence upon the agent.
+There is pervasion because the acted-upon-object is necessarily posited in dependence upon the agent.
 
 དེས་ན་མདོ་དེས་བྱེད་པ་པོའེ་བདག་རང་བཞིན་གྱིས་ཡོད་པ་བཀག་ནས་ལས་འབྲས་ཆུད་མི་ཟ་བར་བསྟན་ནོ།
 Therefore, that sutra indicates that having refuted an inherently existent agent-self, actions and their results are not lost.
@@ -129,4 +129,4 @@ Therefore, the innate awareness apprehending "I" is posited as observing the ind
 ---
 Next: [[Madhyamaka/Indicating the systems of others as unrelated\|Indicating the systems of others as unrelated]]
 
-Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self\|Refuting the Buddhist assertions of the aggregates as the self]] / [[Madhyamaka/Refuting the inherent establishment of I and Mine (Gomde)\|Refuting the inherent establishment of I and Mine (Gomde)]]
+Up a level: [[Madhyamaka/Refuting the inherent establishment of I and Mine (Gomde)\|Refuting the inherent establishment of I and Mine (Gomde)]]

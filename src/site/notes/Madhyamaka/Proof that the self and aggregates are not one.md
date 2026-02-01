@@ -8,7 +8,7 @@
 The subject - objects of knowledge - the self and aggregates are not one because 1) if they were, then the self and the world possessing an end, as well as impermanent etc. included in the "and so forth", would be suitable to be indicated in scripture but 2) those are not indicated in scripture. (See: [[Perfection of Wisdom/Topics/Divisions of wrong views#^403e3b\|Fourteen Unspecified Views]])
 
 དང་པོ་གྲུབ་སྟེ། ཕུང་པོ་མཐའ་དང་ལྡན་པ་དང་མི་རྟག་པར་ལུང་བསྟན་པའི་ཕྱིར།
-The first is established because the aggregates are not indicated in scriptures as possessing an end and impermanent
+The first is established because the aggregates are not indicated in scriptures as possessing an end and impermanent.
 
 དེར་ཐལ། ཁྱོད་ཀྱི་ལུགས་ལ་ལྷག་མེད་ཀྱི་ཚེ་ཕུང་པོ་མེད་ཅིང་། ཕུང་པོ་ངོ་བོ་ཉིད་ཀྱི་སྐྱེ་འཇིག་བྱེད་པར་བཤད་པའི་ཕྱིར་རོ། 
 That follows because it is explained in your system in your system that at the time of without remainder the aggregates do not exist and that the aggregates are inherently produced and disintegrate.

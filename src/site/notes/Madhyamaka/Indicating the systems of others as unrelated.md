@@ -24,4 +24,5 @@ Therefore, perceiving the non-existence of just the permanent self, one might re
 
 ---
 Back: [[Madhyamaka/Explaining the purpose for indicating the aggregates as a self\|Explaining the purpose for indicating the aggregates as a self]]
+
 Up a level: [[Madhyamaka/Refuting the inherent establishment of I and Mine (Gomde)\|Refuting the inherent establishment of I and Mine (Gomde)]]

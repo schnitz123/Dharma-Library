@@ -34,12 +34,40 @@ The subject - objects of knowledge - when analysing the self it is not found, **
 6. [[Madhyamaka/The mere collection of parts is not the chariot\|The mere collection of parts is not the chariot]] ཡན་ལག་འདུས་པ་ཙམ་ཡང་ཤིང་རྟ་མ་ཡིན།
 { #6388c0}
 
-7. [[Madhyamaka/The mere configuration of the parts is also not the chariot\|The mere configuration of the parts is also not the chariot]] ཡན་ལག་གིེ་དབྱིེབས་ཙམ་ཡང་ཤིང་རྟ་མ་ཡིན་པས།
+7. [[Madhyamaka/The mere shape of the parts is also not the chariot\|The mere shape of the parts is also not the chariot]] ཡན་ལག་གིེ་དབྱིེབས་ཙམ་ཡང་ཤིང་རྟ་མ་ཡིན་པས།
 { #793785}
 
 
 ཤིང་རྟ་དཔྱད་ན་མི་རྙེད་པ་ཇི་ལྟ་བ་བཞིན་དུ་བདག་ཕུང་གཉིས་ལ་ཡང་ཤེས་པར་བྱ་བ་ཡིན་པའི་ཕྱིར།
 Therefore, if analysing the chariot it is not found; similarly, it should be understood in relation to the self and aggregates.
+
+---
+དེ་ལ་ཁོ་ན་རེ། ཁྱོད་ལྟར་ན་འཇིག་རྟེན་ན་ཤིང་རྟའི་ཐ་སྙད་དོན་མཐུན་རྒྱུན་ཆད་པར་འགྱུར་བར་ཐལ། ཤིང་རྟའི་ཐ་སྙད་འདོགས་པའི་གཞི་མེད་པའི་ཕྱིར་ཏེ། 
+ཤིང་རྟ་རྣམ་པ་བདུན་གྱི་རིགས་པས་བཙལ་བ་ན་མེད་པའི་ཕྱིར་ཞེ་ན།
+*Objection:* It follows that according to you [i.e. Prasangika], the factually concordant term "chariot" would be discontinued in the world because the basis for designating the term "chariot" does not exist; because the chariot does not exist when sought using the sevenfold-reasoning.
+
+དབུ་མ་པ་ཆོས་ཅན། ཁྱོད་ཀྱི་ལུགས་ལ་ཤིང་རྟ་ལ་བརྟེན་པའི་ཐ་སྙད་རྒྱུན་ཆད་པའི་ཉེས་པ་མེད་དེ། 
+ཤིང་རྟ་དེ་ནི་དེ་ཉིད་དོན་དམ་དུའམ་འཇིག་རྟེན་ཀུན་རྫོབ་ཏུ་རྣམ་པ་བདུན་གྱི་རིགས་པས་བཙལ་བའི་ཚེ་གྲུབ་པར་འགྱུར་བ་མ་ཡིན་མོད་ཀྱིེ། 
+དེ་ལྟ་ནའང་བརྟགས་དོན་བཙལ་བའི་རྣམ་པར་དཔྱད་པ་མེད་པ་འཇིག་རྟེན་གྱི་ཐ་སྙད་ཉིད་ལས་ཤིང་རྟའི་སྐབས་འདིར་རང་གི་ཡན་ལག་འཕང་ལོ་དང་གཟེར་བུ་སོགས་ལ་བརྟེན་ནས་ཤིང་རྟའི་ཐ་སྙད་འདོགས་པ་ཡིན་པའི་ཕྱིར།
+*Response:* The subject - Madhyamikas - there is no fault that in their system the term referring to "chariot" would be discontinued because although the chariot will not be established ultimately or in worldly-conventions when sought using the sevenfold-reasoning, nevertheless, through the worldly-terminology of "chariot" (that does not analyse to seek the designated-object) the term "chariot" is designated in dependence upon its parts (the wheel, nails, and so forth).
+
+---
+ཤེས་བྱ་ཆོས་ཅན། དབུ་མ་པའི་ལུགས་ལ་ཁྱད་གཞི་ཤིང་རྟ་རྟེན་ནས་བཏགས་པ་ཙམ་དུ་གྲུབ་པ་མ་ཟད། 
+ཤིང་རྟ་དེ་ཉིད་ཡན་ལག་ཅན་དུ་འཇོག་པའི་མིང་གི་ཁྱད་པར་གཞན་རྣམས་ཀྱང་བརྟགས་དོན་བཙལ་ན་མེད་ཀྱང་འཇིེག་རྟེན་ལ་གྲགས་པའི་སྒོ་ནས་ཁས་བླང་བར་བྱ་སྟེ། 
+ཤིང་རྟ་དེ་ཉིད་འཕང་ལོ་སོགས་རང་གི་ཡན་ལག་ལ་ལྟོས་ནས་ཡན་ལག་ཅན་དང་དེ་རང་གི་ཆ་ཤས་ཅན་དང་། ཤིང་རྟ་དེ་ཉིད་རང་གི་ཉེ་བར་བླང་བྱ་ལེན་པའི་བྱ་བ་ལ་ལྟོས་ནས་བྱེད་པ་པོ་ཞེས་འགྲོ་བ་ལ་བསྙད་པ་དང་། འཕང་ལོ་སོགས་རང་གི་ཉེ་བར་ལེན་པ་ལ་ལྟོས་ནས་སྐྱེ་བོ་རྣམས་ལ་ཉེ་བར་ལེན་པ་པོ་ཉིད་དུ་གྲུབ་པའི་ཕྱིར།
+The subject - objects of knowledge - in the Madhyamaka system, not only is the chariot (the attribute-basis) established as merely dependently designated, also other nominal attributes for positing the chariot as a part-possessor do not exist when seeking the designated-object but are asserted by way of worldly-renown because that chariot is described as:
+- A part-possessor and a component-possessor in relation to its parts (the wheels and so forth),
+- An agent in relation to its activity of appropriating its appropriated, and
+- An appropriator in relation to its appropriated (the wheels and so forth).
+
+དེ་ལ་དངོས་སྨྲ་བ་རྣམས་ན་རེ། ཡན་ལག་ཚོགས་པ་ཙམ་ཡན་ལག་ཅན་ཡིན་གྱི་ཆོགས་ཙམ་མིན་པའི་ཡན་ལག་ཅན་ནིེ་མེད་དེ།
+ཚོགས་པ་ལས་ངོ་བོ་ཐ་དད་པའི་ཡན་ལག་ཅན་མ་དམིགས་པའི་ཕྱིར་ཞེ་ན།
+*The Proponents of Things object:* The mere collection of the parts is the part-possessor; a part-possessor that is not the mere collection does not exist because a part-possessor that is a different entity from the collection is not observed.
+
+དངོས་སྨྲ་བ་ཁྱོད་ལ་ཁོ་བོས་འཇིག་རྟེན་ན་གྲགས་ཤིང་གྲུབ་པའི་ཀུན་རྫོབ་ཤིང་རྟ་སོགས་མ་བརླག་ཅིག་ཅེས་བཟློག་སྟེ་སྨྲ་བར་བྱ་དགོས་པར་ཐལ། 
+ཤིང་རྟའི་ཡན་ལག་རེ་རེ་བ་དང་ཚོགས་པ་གང་ཡང་མ་ཡིན། དེ་ལས་དོན་གཞན་པའི་ཤིང་རྟ་ཡང་མེད་པ་གང་ཞིག 
+རང་གི་གདགས་གཞི་ལ་བཏགས་པ་ཙམ་གྱི་ཤིང་རྟ་ནི་ཁྱོད་ཀྱིས་འཇོག་མི་ཤེས་པའི་ཕྱིར། རྟགས་སྒྲུབ་ཟིན།
+*Response:* It follows that it is necessary to tell you, Proponents of Things, to not destroy conventionalities (such as the chariot and so forth) that are established and renown in the world because 1) [the chariot] is not the individual parts of the chariot nor their collection and a chariot that is a separate object from those does not exist and 2) you do not know how to posit a chariot that is merely designated in dependence upon its basis of designation. The reason has already been proven.
 
 
 ---

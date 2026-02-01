@@ -15,4 +15,6 @@ If accepted: The subject - Sammitīyā - it follows that you possess the view ho
 
 
 ---
+Next: [[Madhyamaka/Prior to that, previous lives would not be remembered\|Prior to that, previous lives would not be remembered]]
+
 Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|Refuting the Buddhist assertions of the aggregates as the self]]

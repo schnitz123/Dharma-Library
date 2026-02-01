@@ -8,7 +8,7 @@ Moreover, It follows that the creator of an action would not experience the frui
 དེར་ཐལ། བདག་སྔ་ཕྱི་རང་བཞིན་གྱིས་གྲུབ་ན་འབྲེལ་མེད་ཡིན་དགོས་གང་ཞིག སྔ་ཕྱི་འབྲེལ་མེད་ལ་ཕྱི་མ་སྔ་མའི་རྒྱུན་དུ་མེད་པ་ཐད་དགོས་པའི་ཕྱིར།
 That follows because 1) if the past and future selves are inherently established, then they are necessarily unrelated and 2) for unrelated past and future [phenomena], the future [phenomenon] is necessarily not suitable to exist as the continuum of the past [phenomenon].
 
-Continues: [[Madhyamaka/Accumulated actions would ripen for someone else\|Accumulated actions would ripen for someone else]]
-
 ---
+Next: [[Madhyamaka/Accumulated actions would ripen for someone else\|Accumulated actions would ripen for someone else]]
+
 Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|Refuting the Buddhist assertions of the aggregates as the self]]

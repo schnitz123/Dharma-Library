@@ -36,4 +36,6 @@ The first is established because if it is truly established one, then the awaren
 
 
 ---
+Next: [[Madhyamaka/The self would be substantially existent\|The self would be substantially existent]]
+
 Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|Refuting the Buddhist assertions of the aggregates as the self]]

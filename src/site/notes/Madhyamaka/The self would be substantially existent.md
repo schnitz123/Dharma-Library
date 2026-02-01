@@ -14,4 +14,6 @@ That cannot be accepted because it is an imputed existent; because of accepting 
 
 
 ---
+Next: [[Madhyamaka/The view of the transitory collection would not be erroneous\|The view of the transitory collection would not be erroneous]]
+
 Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|Refuting the Buddhist assertions of the aggregates as the self]]
