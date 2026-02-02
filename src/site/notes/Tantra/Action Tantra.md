@@ -20,6 +20,8 @@ Which [[Tantra/The Four Empowerments\|empowerments]]? གང་བསྐུར�
 
 ---
 **Keeping the vows and commitments pure** དམ་ཚིག་དང་སྡོམ་པ་དག་པར་བྱ་བ།
+{ #244ff2}
+
 - Suitable support: Holding any of the [[Tantra/Pratimoksha Vows\|Pratimoksha Vows]] (or minimum abandoning ten non-virtues)
 - In terms of vows: only the [[Shantideva/Bodhisattva Vows\|Bodhisattva Vows]]
 - In terms of commitments, there are fourteen:
@@ -39,8 +41,11 @@ Which [[Tantra/The Four Empowerments\|empowerments]]? གང་བསྐུར�
 ---
 **How to first engage in approximation** སྔོན་དུ་བསྙེན་པ་ཇི་ལྟར་བྱ་བ།
 
+[[Tantra/Action Tantra Chart\|Action Tantra Chart]]
+
 *The Four Concentrations:* རྒྱུད་སྡེ་འོག་མ་ནས་བཤད་པའི་བསམ་གཏན་བཞི།
-1. [[Tantra/Concentration of the four-branched recitation\|Concentration of the four-branched recitation]] བཟླས་བརྗོད་ཡན་ལག་བཞིའི་བསམ་གཏན།
+1. [[Tantra/Concentration of the four-branched recitation\|Concentration of the four-branched recitation]] བཟླས་བརྗོད་ཡན་ལག་བཞིའི་བསམ་གཏན། 
+   Focusing on the four bases, self-basis on [[Tantra/Six Deities\|Six Deities]], together with [[Tantra/Vitality exertion\|Vitality exertion]]
 { #6234c5}
 
 2. Concentration abiding in fire མེ་གནས་ཀྱི་བསམ་གཏན།
@@ -50,18 +55,22 @@ Which [[Tantra/The Four Empowerments\|empowerments]]? གང་བསྐུར�
 *Subsumed into Two Concentrations:*
 1. Concentration with recitation (1) བཟླས་བརྗོད་དང་བཅས་པའི་བསམ་གཏན།
 2. [[Tantra/Concentration without recitation\|Concentration without recitation]] (2-4) བཟླས་བརྗོད་ལ་མ་ལྟོས་པའི་བསམ་གཏན།
-   Also: Concentration on the three principles དེ་ཉིད་གསུམ་གྱི་བསམ་གཏན།
-{ #48710d}
+{ #7dabb3}
 
 
-*Subsumed into the Two Yogas:*
-1. Yoga with signs (1-3) མཚན་བཅས་ཀྱི་རྣལ་འབྱོར།
+
+*Subsumed into the Two Yogas:* 
+1. [[Tantra/Performance Tantra#^bc2e6e\|Yoga with signs]] (1-3) མཚན་བཅས་ཀྱི་རྣལ་འབྱོར།
    To develop calm abiding
-2. Yoga without signs (4) མཚན་མེད་ཀྱི་རྣལ་འབྱོར།
+2. [[Tantra/Performance Tantra#^fff376\|Yoga without signs]] (4) མཚན་མེད་ཀྱི་རྣལ་འབྱོར།
    To develop special insight
 
-[[Action Tantra Chart.png|Action Tantra Chart]]
 
 ---
 
-Having mastered the approximation, how to accomplish the siddhis བསྙེན་པ་ལས་སུ་རུང་ནས་དངོས་གྲུབ་ཇི་ལྟར་སྒྲུབ་པ།
+**Having mastered the approximation, how to accomplish the siddhis** བསྙེན་པ་ལས་སུ་རུང་ནས་དངོས་གྲུབ་ཇི་ལྟར་སྒྲུབ་པ།
+
+[[Tantra/Divisions of siddhis\|Divisions of siddhis]]
+
+---
+Up a level: [[Tantra/Tantra\|Tantra]]
