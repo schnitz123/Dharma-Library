@@ -11,6 +11,7 @@
 
 [[Collected Topics/Isolates\|Isolates]]
 [[Collected Topics/Definition, Definiendum, and Illustration\|Definition, Definiendum, and Illustration]]
+[[Collected Topics/Illustration statements\|Illustration statements]]
 
 [[Collected Topics/Cause and Effect\|Cause and Effect]]
 [[Collected Topics/Conditions\|Conditions]]

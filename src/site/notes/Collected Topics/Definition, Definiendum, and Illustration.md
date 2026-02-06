@@ -25,7 +25,7 @@ There is a way of laying out what is a **triply-qualified imputed existent**: �
 
 ---
 དོན་བྱེད་ནུས་པའི་རྣམ་པར་གཞག་བྱའི་ཆོས་གསུམ་ཚང་བ་དེ། དོན་བྱེད་ནུས་པའི་མཚོན་བྱའི་མཚན་ཉིད།
-**Definition of the illustration of the definiendum of that able to perform a function:** that which is a triply-qualified posited of that able to perform a function.
+**Definition of the definiendum of that able to perform a function:** that which is a triply-qualified posited of that able to perform a function.
 
 Way of laying out: འདྲེན་ཚུལ་ཡོད་དེ།
 1. It is the definiendum of that able to perform a function; དོན་བྱེད་ནུས་པའི་མཚོན་བྱ་ཡིན་པ།
@@ -45,7 +45,9 @@ Way of laying out: འདྲེན་ཚུལ།
    དངོས་པོའི་མཚན་ཉིད་ཀྱི་མཚན་གཞིར་གང་བཟུང་བ་ལ་སྲིད་པ།
 
 དོན་བྱེད་ནུས་པས་དངོས་པོ་མཚོན་པའི་གཞིར་གྱུར་པ་དེ། དངོས་པོའི་མཚན་གཞིའི་མཚན་ཉིད།
-**Definition of illustration of functioning thing:** that which is a basis for illustrating functioning thing as being that able to perform a function.
+**Definition of illustration of functioning thing:** that which is a basis that that able to perform a function to illustrate functioning thing.
+
+i.e. the basis upon which the definition illustrates the definiendum.
 
 Illustration: pot.
 

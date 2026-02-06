@@ -3,6 +3,10 @@
 ---
 
 ཕུང་མིན་ཕུང་པོ་ལས་གཞན་མིན། །དེ་ལ་ཕུང་མེད་དེ་དེར་མེད། །དེ་བཞིན་གཤེགས་པ་ཕུང་ལྡན་མིན། །དེ་བཞིན་གཤེགས་པ་གང་ཞིག་ཡིན། །
+Not the aggregates, not different from the aggregates,
+The aggregates are not in Him, nor is He in the aggregates,
+The Tathagata is not the possessor of the aggregates;
+What is the Tathagata? [1]
 
 གལ་ཏེ་སངས་རྒྱས་ཕུང་པོ་ལ། །བརྟེན་ནས་རང་བཞིན་ལས་ཡོད་མིན། །རང་བཞིན་ལས་ནི་གང་མེད་པ། །དེ་གཞན་དངོས་ལས་ག་ལ་ཡོད། །
 

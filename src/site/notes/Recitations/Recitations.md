@@ -14,6 +14,7 @@
 
 [[Recitations/Praise to Buddha Shakyamuni\|Praise to Buddha Shakyamuni]]
 [[Recitations/Praise to the Seventeen Nalanda Masters\|Praise to the Seventeen Nalanda Masters]]
+[[Recitations/Great Praise of the Twelve Acts of the Buddha\|Great Praise of the Twelve Acts of the Buddha]]
 
 
 [[Quotes/Three Principal Aspects of the Path\|Three Principal Aspects of the Path]]

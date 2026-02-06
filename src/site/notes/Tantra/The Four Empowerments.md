@@ -11,7 +11,19 @@
 4. Bell: to release the chains of jealousy ཕྲག་དོག་ལྕགས་སྒྲོལ་དྲིལ་བུའི་དབང་།
 5. Name: to clear away the darkness of ignorance གཏི་མུག་མུན་སེལ་མིང་གི་དབང་།
 
-**In Kalachakra there are sixteen:** དུས་འཁོར་གྱི་རྒྱུད་ལ་བཅུ་དྲུག་ཡོད་དེ།
+**The crown used for the crown-empowerment has five sections corresponding to:**
+
+|            Dhyani Buddha            | Colour |                    Wisdom                    |       Aggregate       |
+|:-----------------------------------:|:------:|:--------------------------------------------:|:---------------------:|
+|    Vairocana<br>རྣམ་པར་སྣང་མཛད།     | White  |    Mirror-like<br>མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས།     |         Form          |
+|      Amitābha<br>འོད་དཔག་མེད།       |  Red   |     Discrimination<br>སོར་རྟོགས་ཡེ་ཤེས།      |    Discrimination     |
+| Ratnasambhava<br>རིན་ཆེན་འབྱུང་གནས། | Yellow |         Equality<br>མཉམ་ཉིད་ཡེ་ཤེས།          |        Feeling        |
+|   Amoghasiddhi<br>དོན་ཡོད་གྲུབ་པ།   | Green  | Accomplishing activities<br>བྱ་སྒྲུབ་ཡེ་ཤེས། | Compositional factors |
+|      Akṣobhya<br>མི་བསྐྱོད་པ།       |  Blue  |    Dharmadhatu<br>ཆོས་དབྱིངས་ཀྱི་ཡེ་ཤེས།     |     Consciousness     |
+
+
+---
+**In Kalachakra there are sixteen empowerments:** དུས་འཁོར་གྱི་རྒྱུད་ལ་བཅུ་དྲུག་ཡོད་དེ།
 - The seven empowerments of entering like a child བྱིས་པ་ལྟར་འཇུག་པའི་དབང་བདུན།
 - The four high empowerments གོང་མ་བཞི།
 - The four greatly high empowerments གོང་ཆེན་བཞི།

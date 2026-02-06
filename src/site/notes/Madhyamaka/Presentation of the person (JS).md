@@ -19,7 +19,7 @@ Self, person, being, and so forth are synonymous.
 **Divisions:** "I" and "Mine"
 
 བདག་འཇོག་ཚུལ་ཡོད་དེ། གདགས་གཞི་ལ་རྣམ་པ་བདུན་དུ་བཙལ་ཀྱང་མི་རྙེད་པས་ན་གདགས་གཞི་ལ་མིང་རྐྱང་ཕར་བཏགས་ལ་འཇོོག་པ་ཡིན་པའི་ཕྱིར། 
-**Mode of positing the self:** Due to not finding it having sought it in the seven ways upon the basis of designation, it is posited as that designated out as mere name upon the basis of designation.
+**Mode of positing the self:** Since it is not found despite seeking it in the seven ways upon the basis of designation, it is posited as that designated out as mere name upon the basis of designation.
 
 གདགས་གཞི་དེར་འཇོག་མི་རུང་སྟེ། བདག་དུ་མར་ཐལ་བ་སོགས་དང་། གདགས་གཞི་གདགས་ཆོས་ཀྱི་དབྱེ་བ་མེད་པར་འགྱུར་བའི་ཕྱིར།
 It is not suitable to posit the basis of designation as that because there are the [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|consequences of many selves and so forth]] and that the basis of designation and designated-phenomenon would become indivisible.
