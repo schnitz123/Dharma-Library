@@ -14,5 +14,3 @@ It is still very much a work in progress (and probably forever will be). It star
 If there are any mistakes, typos, pages not working, etc. then please do let me know.
 
 [Contact me](mailto:shahartene108@gmail.com)
-
-[[Texts & Quotes/Texts & Quotes\|Texts & Quotes]]
