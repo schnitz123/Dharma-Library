@@ -9,7 +9,7 @@
    [[Tantra/Discussion regarding the three lower tantras\|Discussion regarding the three lower tantras]]
    [[Tantra/Grounds and paths in the three lower tantras\|Grounds and paths in the three lower tantras]]
    [[Tantra/Attaining enlightenment in the three lower tantras\|Attaining enlightenment in the three lower tantras]]
-4. Highest Yoga Tantra བླ་མེད་རྣལ་འབྱོར་རྒྱུད།
+4. [[Tantra/Highest Yoga Tantra\|Highest Yoga Tantra]] བླ་མེད་རྣལ་འབྱོར་རྒྱུད།
 
 
 ---

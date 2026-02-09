@@ -6,7 +6,7 @@
 
 [[Shantideva/Bodhisattva Vows\|Bodhisattva Vows]]
 
-Tantric vows
+[[Lamrim Glossary/Tantric vows\|Tantric vows]]
 
 ---
 Up a level: [[Lamrim Glossary/Lamrim Glossary\|Lamrim Glossary]]

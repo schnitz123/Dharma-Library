@@ -24,7 +24,7 @@ The Buddhas' concentration of non-affliction is superior to that of Hearers etc.
 In accordance with these, doubting whether they become an observed-object condition for the Hearers', it is clear they do not have to be present for those sentient beings.
 
 ---
-[[Quotes/Buddha Sutra Misc\|Buddha's goldsmith quote]]
+[[Texts & Quotes/Buddha Sutra Misc\|Buddha's goldsmith quote]]
 
 ---
 སངས་རྒྱས་འཕགས་པའི་རྒྱུད་ཀྱི་ཉོན་མོངས་མེད་པའི་ཏིང་ངེ་འཛིན་དེ། ཉན་ཐོས་ཀྱི་དེ་ལས་ཁྱད་པར་དུ་འཕགས་པའི་དོན་ཡོད་དེ། 

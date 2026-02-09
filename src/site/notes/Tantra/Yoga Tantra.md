@@ -12,10 +12,11 @@ Similar to [[Tantra/Action Tantra\|Action Tantra]] plus:
 
 See: [[Tantra/The Four Empowerments\|The Four Empowerments]]
 
+
 ---
 **Keeping the vows and commitments pure** དམ་ཚིག་དང་སྡོམ་པ་དག་པར་བྱ་བ།
 
-Holding Bodhisattva and Tantric Vows depending on the empowerment.
+Holding [[Shantideva/Bodhisattva Vows\|Bodhisattva Vows]] and [[Lamrim Glossary/Tantric vows\|Tantric Vows]] depending on the empowerment.
 
 ---
 **How to first engage in approximation** སྔོན་དུ་བསྙེན་པ་ཇི་ལྟར་བྱ་བ།

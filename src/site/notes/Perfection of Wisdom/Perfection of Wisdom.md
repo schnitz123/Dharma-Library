@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/perfection-of-wisdom/perfection-of-wisdom/"}
 ---
 
-[[Perfection of Wisdom/70 Topics/70 Topics\|70 Topics]] / [[Quotes/21 Perfection of Wisdom Commentaries\|21 Perfection of Wisdom Commentaries]]
+[[Perfection of Wisdom/70 Topics/70 Topics\|70 Topics]] / [[Texts & Quotes/21 Perfection of Wisdom Commentaries\|21 Perfection of Wisdom Commentaries]]
 
 **Supplementary Topics:**
 - [[Perfection of Wisdom/IntDef/IntDef\|Interpretative and Definitive Meaning]]

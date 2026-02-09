@@ -15,7 +15,7 @@ In dependence upon the mind of an actual concentration that is its empowering co
 1. [[Perfection of Wisdom/Topics/Marks\|Marks]] མཚན་བཟང་། (32)
 2. [[Perfection of Wisdom/Topics/Signs\|Signs]] དཔེ་བྱད། (80)
 
-[[Quotes/Arya Nagarjuna#^6f2bbf\|Nagarjuna quote]]
+[[Texts & Quotes/Arya Nagarjuna#^6f2bbf\|Nagarjuna quote]]
 
 ---
 དེ་གཉིས་ལ་ཁྱད་པར་ཡོད་དེ། མཚན་བཟང་རྣམས་གཙོ་བོ་དང་། དཔེ་བྱད་རྣམས་འཁོར་ཡིན་པས་གཙོ་འཁོར་གྱི་ཁྱད་པར་ཡོད་པའི་ཕྱིར། 

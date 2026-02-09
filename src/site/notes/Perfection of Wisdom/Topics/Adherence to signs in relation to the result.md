@@ -23,7 +23,7 @@ There is an antidote and mode of abandonment of that subtle attachment: because 
 དེའི་དངོས་གཉེན་བྱེད་པའི་རིགས་སུ་གནས་པའི་ཕྱིར།
 The subject - an exalted knower directly realising emptiness in the continuum of an Arya Bodhisattva - it abandons adherence to true existence wrt to the result because it abides in the class of the direct antidote to that.
 
-Quote: [[Quotes/Pramanavartika#^1f2c11\|Pramanavartika]]
+Quote: [[Texts & Quotes/Pramanavartika#^1f2c11\|Pramanavartika]]
 
 ཆོས་ཐམས་ཅད་ཀྱི་གནས་ལུགས་ཟབ་པའི་རྒྱུ་མཚན་ཡོད་དེ། དེ་རྟོགས་པར་དཀའ་བ་ཡིན་བའི་ཕྱིར། 
 ཆོས་ཐམས་ཅད་བདེན་སྟོང་ཆོས་ཅན། རྟོགས་པར་དཀའ་བ་ཡིན་ཏེ། ཚུར་མཐོང་གི་མངོན་སུམ་གྱི་ཡུལ་ལས་འདས་ཤིང། རིགས་ཤེས་ཀྱི་རྙེད་དོན་ཡིན་པའི་ཕྱིར།

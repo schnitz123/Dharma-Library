@@ -14,7 +14,7 @@
 ཐབས་ཤེས་ཁྱད་པར་ཅན་ཟིན་མ་ཟིན་གྱི་སྒོ་ནས་ཁྱད་པར་ཕྱེ་བ།
 Differentiated by way of being conjoined or not by special method and wisdom.
 
-Quote for close and distant from Buddhahood: [[Quotes/Ornament for Mahayana Sutras#^f8adac\|Ornament for Mahayana Sutras]]
+Quote for close and distant from Buddhahood: [[Texts & Quotes/Ornament for Mahayana Sutras#^f8adac\|Ornament for Mahayana Sutras]]
 
 ---
 Up a level: [[Perfection of Wisdom/Perfection of Wisdom#^750d3e\|Perfection of Wisdom]]

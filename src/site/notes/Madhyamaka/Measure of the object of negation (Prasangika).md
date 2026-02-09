@@ -20,7 +20,7 @@ As such:
 - The apprehension of that object of negation as existent on the basis of persons and phenomena is the apprehension of the self of persons and the apprehension of the self of phenomena, respectively.
   དགག་བྱ་དེ་གང་ཟག་དང་ཆོས་ཀྱི་སྟེང་དུ་ཡོད་པར་འཛིན་པ་ནི་རིམ་པ་བཞིན་དུ་གང་ཟག་གི་བདག་འཛིན་དང་ཆོས་ཀྱི་བདག་འཛིན་ཡིན།
 
-[[Quotes/Arya Nagarjuna#^667114\|Precious Garland quote]]
+[[Texts & Quotes/Arya Nagarjuna#^667114\|Precious Garland quote]]
 
 ---
 Up a level: [[Madhyamaka/Object of negation\|Object of negation]]
