@@ -31,14 +31,14 @@
 
 ---
 ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་དུ་གྱུར་པའི་མངོན་རྗེས་སོགས་དུ་མ་ཡོད་ཀྱང། དང་པོ་ཉིད་ནས་ཐེག་ཆེན་དུ་རིགས་ངེས་པའི་སྟོང་ཉིད་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་མཉམ་གཞག་ཡེ་ཤེས་དེ་བཅད་ཤེས་ཡིན་པའི་ཕྱིར། དེ་བློ་རིག་བདུན་པོ་གང་རུང་ཡིན། དེ་རྗེས་དཔག ཡིད་དཔྱོད། སྣང་ལ་མ་ངེས་པ། ཐེ་ཚོམ། ལོག་ཤེས། མངོན་སུམ་གང་རུང་མ་ཡིན་པའི་ཕྱིར།
-For a bodhisattva of definite Mahayana lineage from the start, the exalted wisdom of meditative equipoise of the Mahayana path of preparation that is in single-pointed equipoise on emptiness is a [[Lorig/Subsequent cognisers\|subsequent cogniser]] because:
+For a bodhisattva of definite Mahayana lineage from the start, the exalted wisdom of meditative equipoise of the Mahayana path of preparation that is in single-pointed equipoise on emptiness is a [[Preliminaries/Lorig/Subsequent cognisers\|subsequent cogniser]] because:
 { #b5875d}
 
-- It is one of the [[Lorig/Seven Awarenesses and Knowers\|Seven Awarenesses and Knowers]] - this is easy (དང་པོ་སླ།)
-- It is not an [[Lorig/Inferential valid cognisers\|inferential cogniser]], - because of being an awareness arisen through meditation 
+- It is one of the [[Preliminaries/Lorig/Seven Awarenesses and Knowers\|Seven Awarenesses and Knowers]] - this is easy (དང་པོ་སླ།)
+- It is not an [[Preliminaries/Lorig/Inferential valid cognisers\|inferential cogniser]], - because of being an awareness arisen through meditation 
   (སྒོམ་བྱུང་གི་བློ་ཡིན་པའི་ཕྱིར།)
-- It is not a [[Lorig/Correct assumptions\|correct assumption]], [[Lorig/Appearance without ascertainment\|appearance without ascertainment]], [[Lorig/Doubt\|doubt]], or [[Lorig/Wrong consciousness\|wrong consciousness]] - because of being a path to liberation (ཐར་ལམ་ཡིན་པའི་ཕྱིར།)
-- It is not a [[Lorig/Direct perceivers\|direct perceiver]] - because of being an awareness realising emptiness in the continuum of an ordinary being (སོ་སྐྱེའི་རྒྱུད་ཀྱི་སྟོང་ཉིད་རྟོགས་པའི་བློ་ཡིན་པའི་ཕྱིར།)
+- It is not a [[Preliminaries/Lorig/Correct assumptions\|correct assumption]], [[Preliminaries/Lorig/Appearance without ascertainment\|Appearance without ascertainment]], [[Preliminaries/Lorig/Doubt\|doubt]], or [[Preliminaries/Lorig/Wrong consciousness\|wrong consciousness]] - because of being a path to liberation (ཐར་ལམ་ཡིན་པའི་ཕྱིར།)
+- It is not a [[Preliminaries/Lorig/Direct perceivers\|direct perceiver]] - because of being an awareness realising emptiness in the continuum of an ordinary being (སོ་སྐྱེའི་རྒྱུད་ཀྱི་སྟོང་ཉིད་རྟོགས་པའི་བློ་ཡིན་པའི་ཕྱིར།)
 
 ---
 
@@ -69,7 +69,7 @@ For a bodhisattva of definite Mahayana lineage from the start, the exalted wisdo
 <br>
 5. *Division of small, middling and great* ཆུང་འབྲིང་ཆེན་པོའི་དབྱེ་བ། - because it is correct to divide the supreme dharma level of the Mahayana path of preparation into small, middling, and great (not so for Hinayana)
    ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་ཆོས་མཆོག་ལ་ཆུང་འབྲིང་ཆེན་པོའི་དབྱེ་བ་འཐད། 
-   See: [[Perfection of Wisdom/Salam/Ordinary Hearer grounds#^d14ce2\|Ordinary Hearer grounds]] / [[Abhidharmakosha/Chapter 6#^db2c73\|Abhidharmakosha (ch6)]]
+   See: [[Perfection of Wisdom/Salam/Ordinary Hearer grounds#^d14ce2\|Ordinary Hearer grounds]] / [[Texts & Quotes/Abhidharmakosha/Chapter 6#^db2c73\|Abhidharmakosha (ch6)]]
 
 ---
 **Etymology:**

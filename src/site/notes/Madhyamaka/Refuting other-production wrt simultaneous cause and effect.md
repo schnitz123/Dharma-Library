@@ -5,9 +5,9 @@
 ཁ་ཅིག་ན་རེ། རྒྱུ་འབྲས་ཀྱང་དུས་མཉམ་དུ་གྲུབ་སྟེ། 
 མིག་གྱི་བློ་རྣམ་པར་ཤེས་པ་ལ་རང་གི་སྐྱེ་བྱེད་རང་དང་དུས་གཅིག་པ་་་་ལས་མིག་བློ་རང་བཞིན་གྱིས་གཞན་ཉིད་དུ་ཡོད་པའི་ཕྱིར་ཞེ་ན།
 *Someone [Vaibhashika] says:* Cause and effect are simultaneously established because for an eye consciousness, its simultaneous producers that it is inherently other from are:
-- The eye sense-power མིག་དབང་དང་། (its [[Collected Topics/Six Causes Five Results#^41ba52\|simultaneously arisen cause]] / [[Collected Topics/empowering condition\|empowering condition]])
-- Forms གཟུགས་དང་། (its [[Collected Topics/observed-object condition\|observed-object condition]])
-- The discrimination, feeling, and so forth, that are simultaneous with it (its [[Collected Topics/Six Causes Five Results#^862b10\|concomitant cause]])
+- The eye sense-power མིག་དབང་དང་། (its [[Preliminaries/Collected Topics/Six Causes Five Results#^41ba52\|simultaneously arisen cause]] / [[Preliminaries/Collected Topics/empowering condition\|empowering condition]])
+- Forms གཟུགས་དང་། (its [[Preliminaries/Collected Topics/observed-object condition\|observed-object condition]])
+- The discrimination, feeling, and so forth, that are simultaneous with it (its [[Preliminaries/Collected Topics/Six Causes Five Results#^862b10\|concomitant cause]])
   དེ་དང་ལྷན་ཅིག་ཏུ་འབྱུང་བའི་འདུ་ཤེས་དང་ཆོར་བ་སོགས།
 
 མིག་གི་རྣམ་པར་ཤེས་པ་ཆོས་ཅན། མིག་དབང་ལས་སླར་ཡང་འབྱུང་བའི་དགོས་པ་མེད་པར་ཐལ། མིག་སོགས་ཀྱི་དུས་ན་ཡོད་པའི་ཕྱིར།

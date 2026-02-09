@@ -13,8 +13,8 @@
 	2. Non-meritorious actions བསོད་ནམས་མ་ཡིན་པའི་ལས།
 	3. Immovable actions མི་གཡོ་བའི་ལས།
 2. **True origins of afflictions** ཉོན་མོངས་པའི་ཀུན་འབྱུང་བདེན་པ།
-	1. [[MMF/Six root afflictions\|Six root afflictions]] རྩ་ཉོན་དྲུག
-	2. [[MMF/Twenty secondary afflictions\|Twenty secondary afflictions]] ཉེ་ཉོན་ཉི་ཤུ།
+	1. [[Preliminaries/MMF/Six root afflictions\|../../Preliminaries/MMF/Six root afflictions]] རྩ་ཉོན་དྲུག
+	2. [[Preliminaries/MMF/Twenty secondary afflictions\|../../Preliminaries/MMF/Twenty secondary afflictions]] ཉེ་ཉོན་ཉི་ཤུ།
 
 ---
 For more on karma see: [[Perfection of Wisdom/Dependent Arising/Compositional actions\|Compositional actions]].

@@ -52,4 +52,4 @@ They also say: The mind that is initially produced is produced from the mindless
 As such, the mental-consciousness is produced solely through the attributes of the body's four elements and when the body disintegrates, it too disintegrates. Therefore, there is no familiarisation with the path over many births and therefore, since omniscience does not exist and suffering etc. are causeless, there is no path the liberates from those nor liberation. In this way they deprecate liberation.
 
 ---
-Up a level: [[Tenets/Tenets\|Tenets]] / [[Madhyamaka/Refutation of causeless production (Gomde)\|Refutation of causeless production (Gomde)]]
+Up a level: [[Preliminaries/Tenets/Tenets\|Tenets]] / [[Madhyamaka/Refutation of causeless production (Gomde)\|Refutation of causeless production (Gomde)]]

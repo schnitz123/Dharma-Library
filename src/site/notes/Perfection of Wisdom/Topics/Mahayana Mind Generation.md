@@ -16,7 +16,7 @@
 ---
 [[Perfection of Wisdom/Topics/Divisions of Mind Generation\|Divisions of Mind Generation]]
 
-[[Shantideva/Bodhisattva Vows\|Bodhisattva Vows]]
+[[Texts & Quotes/Shantideva/Bodhisattva Vows\|Bodhisattva Vows]]
 
 ---
 **Support:**

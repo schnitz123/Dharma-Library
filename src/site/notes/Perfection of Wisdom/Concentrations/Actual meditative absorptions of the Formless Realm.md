@@ -34,7 +34,7 @@
 **Definition of a resultant birth of a formless absorption:** A phenomenon attained through birth that is included in either the fruitional or causally concordant result of cultivating a causal meditative absorption of a formless absorption in other lifetimes.
 **Illustration:** A phenomenon attained through birth in the continua of sentient beings born in the four types of formless realms.
 
-For specific rebirths see: [[../../Charts/samsara.pdf|samsara]]
+For specific rebirths see: [[../../Charts/samsara.pdf\|samsara]]
 
 
 

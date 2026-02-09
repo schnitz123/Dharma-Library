@@ -8,7 +8,7 @@
 2. Abiding in the class of obscurations that mainly hinder the attainment of liberation.
 
 དབྱེ་ན། རྩ་ཉོན་དྲུག །ཉེ་ཉོན་ཉི་ཤུ་རྣམས་སུ་ཡོད།
-**Divisions:** [[MMF/Six root afflictions\|Six root afflictions]] and [[MMF/Twenty secondary afflictions\|twenty secondary afflictions]].
+**Divisions:** [[Preliminaries/MMF/Six root afflictions\|../../Preliminaries/MMF/Six root afflictions]] and [[Preliminaries/MMF/Twenty secondary afflictions\|../../Preliminaries/MMF/Twenty secondary afflictions]].
 
 ---
 ཉོན་སྒྲིབ་དང་ཤེས་སྒྲིབ་གང་རུང་གང་ཞིག གཙོ་བོར་ཐམས་ཅད་མཁྱེན་པ་ཐོབ་པ་ལ་བར་དུ་གཅོད་བྱེད་ཀྱི་སྒྲིབ་པའི་རིགས་སུ་གནས་པ། ཤེས་སྒྲིབ་ཀྱི་མཚན་ཉིད། 

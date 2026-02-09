@@ -26,7 +26,7 @@
 1. [[Perfection of Wisdom/20 Sangha/Mere Abider in Stream-Enterer\|Mere Abider in Stream-Enterer]] རྒྱུན་ཞུགས་འབྲས་གནས་ཙམ་པོ་བ།
 2. [[Perfection of Wisdom/20 Sangha/Special Abiders in Stream-Enterer\|Special Abiders in Stream-Enterer]] རྒྱུན་ཞུགས་འབྲས་གནས་ཁྱད་པར་ཅན།
 
-See: [[Abhidharmakosha/Chapter 6#^3af027\|Abhidharmakosha v6.32]]
+See: [[Texts & Quotes/Abhidharmakosha/Chapter 6#^3af027\|Abhidharmakosha v6.32]]
 
 ---
 **Division by way of realisation:** རྟོགས་པའི་སྒོ་ནས།

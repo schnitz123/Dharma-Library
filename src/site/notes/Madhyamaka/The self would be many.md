@@ -21,7 +21,7 @@ All three consequences cannot be accepted because it contradicts the assertion i
 
 འདི་ནི་རང་སྡེ་འོག་མས་བདག་ཕུང་གཉིས་རང་བཞིན་གྱིས་གྲུབ་པའི་ངོ་བོ་གཅིག་ཏུ་འདོད་ལ། 
 དེ་ལྟར་ན། དེ་གཉིས་ཆ་ཤས་ཐམས་ཅད་ནས་གཅིག་ཡིན་དགོས། དེ་ཡིན་ན་ལྡོག་པ་གཅིག་ཡིན་དགོས་པའི་ཕྱིར།
-This is because the lower schools assert that the self and aggregates are inherently established one entity; in that case, those two are necessarily one in terms of all parts/aspects and if it is that, then it is necessarily [[Collected Topics/One isolate\|one isolate]].
+This is because the lower schools assert that the self and aggregates are inherently established one entity; in that case, those two are necessarily one in terms of all parts/aspects and if it is that, then it is necessarily [[Preliminaries/Collected Topics/One isolate\|one isolate]].
 
 དང་པོ་གྲུབ་སྟེ། རང་ངོས་ནས་གྲུབ་པའི་ངོ་བོ་གཅིག་ཡིན་ན། རང་གི་ལྟོས་ས་རྒྱུ་རྐྱེན་དང་ཆ་ཤས་གང་ཡང་མེད་དགོས་པའི་ཕྱིར།
 The first is established because if it is one entity established from its own side, then it necessarily does not have any supports, i.e. causes and conditions, and parts.

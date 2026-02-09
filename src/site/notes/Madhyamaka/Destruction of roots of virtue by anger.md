@@ -38,7 +38,7 @@ Alternatively, inferred based on the scriptures quoted in 1 and 4, such that:
 
 བཞི་པ་ནི། བསྐལ་པ་སྟོང་དུ་བསགས་པའི་དགེ་རྩ་འཇོམས་པར་གསུངས་ཏེ། སྤྱོད་འཇུག་ལས། བསྐལ་པ་སྟོང་དུ་བསགས་པ་ཡི། 
 སྦྱིན་དང་བདེ་གཤེགས་མཆོད་ལ་སོགས། ལེགས་སྤྱད་གང་ཡིན་དེ་ཀུན་ཀྱང་། ཁོང་ཁྲོ་གཅིག་གིས་འཇོམས་པར་བྱེད། ཅེས་གསུངས་པའི་ཕྱིར།
-*The fourth* is said to destroy root virtues accumulated over a thousand eons because Engaging in Bodhisattva Practices says: [[Shantideva/Chapter 1#^889775\|v1.34]]
+*The fourth* is said to destroy root virtues accumulated over a thousand eons because Engaging in Bodhisattva Practices says: [[Texts & Quotes/Shantideva/Chapter 1#^889775\|v1.34]]
 
 ལྔ་པ་ནི། ཐམས་ཅད་ཡོད་སྨྲ་བའི་གཞུང་བསླབ་བཏུས་སུ་དྲངས་པ་ལྟར་བཤད་པ་ནི། 
 འབྲས་བུ་ཕུན་སུམ་ཚོགས་པ་ཡུན་རིང་པོར་འབྱུང་འགྱུར་ཐུང་ངུར་བྱས་པ་དང་། ཆེན་པོ་འབྱུང་འགྱུར་ཆུང་ངུར་བྱས་པ་ནི། དགེ་རྩ་བསྲབས་པ་དང་ཟད་པ་ཆུང་ངུ་དང་། དགེ་རྩའི་འབྲས་བུ་ཡིད་འོང་འབྱིན་པའི་ནུས་པ་ཕལ་ཆེར་བཅོམ་པ་ནི་ཡོངས་སུ་བྱང་བ་སྟེ། ཟད་པ་ཆེན་པོ་དང་། དེ་གཉིས་ཀྱི་བར་གྱི་བྱང་བ་ལྟ་བུ་ཟད་པར་འབྲིང་ངོ་།

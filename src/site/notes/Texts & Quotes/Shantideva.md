@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/"}
 ---
 
-See: [[Shantideva/Shantideva\|Shantideva]]
+See: [[Texts & Quotes/Shantideva/Shantideva\|Shantideva]]
 
 བརྟགས་པའི་དངོས་ལ་མ་རེག་པར། དེ་ཡི་དངོས་མེད་འཛིན་མ་ཡིན།
 Without contacting the designated thing

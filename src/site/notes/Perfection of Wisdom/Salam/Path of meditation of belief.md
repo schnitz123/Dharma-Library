@@ -6,7 +6,7 @@
 **Definition:** A Mahayana subsequent clear realisation that is convinced and believes in the Mothers as the source of the three welfares.
 
 སྐབས་འདིའི་མོས་པ་ནི་ཤེར་ཕྱིན་གྱི་ཡོན་ཏན་ལ་དམིགས་པའི་དང་བའི་དད་པའམ་ཡིད་ཆེས་པའི་དད་པ་ལ་བྱ།
-In general, this refers to the mental factor of belief (from among the [[MMF/Five object-ascertaining mental factors\|five object-ascertaining mental factors]]) but belief in this context refers to faith or conviction observing the qualities of the perfection of wisdom.
+In general, this refers to the mental factor of belief (from among the [[Preliminaries/MMF/Five object-ascertaining mental factors\|five object-ascertaining mental factors]]) but belief in this context refers to faith or conviction observing the qualities of the perfection of wisdom.
 
 **Divisions:**
 1. *Belief in one's own welfare* རང་དོན་མོས་པ།

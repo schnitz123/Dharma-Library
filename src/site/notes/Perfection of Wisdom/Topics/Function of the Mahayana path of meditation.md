@@ -18,15 +18,15 @@
 6. The place where the bodhisattva on the path of meditation (the support) lives becoming a holy place རྟེན་བྱང་སེམས་སྒོམ་ལམ་པ་གང་དུ་བཞུགས་པའི་ས་ཕྱོགས་མཆོད་རྟེན་དུ་འགྱུར་བ།
 
 **Subdivision of those:**
-1. [[Collected Topics/Six Causes Five Results#^bbf10b\|Personally made results]] (similar to):
+1. [[Preliminaries/Collected Topics/Six Causes Five Results#^bbf10b\|Personally made results]] (similar to):
 	1. Qualities of increase
 		1. Substantial cause: 1
 		2. Cooperative condition: 2
 	2. Qualities of eliminating discordant conditions
 		1. Freedom from inner discordant conditions: 3
 		2. Freedom from external discordant conditions: 4
-2. [[Collected Topics/Six Causes Five Results#^4fa970\|Causally concordant result]]: 5
-3. [[Collected Topics/Six Causes Five Results#^01307e\|Environmental result]]: 6
+2. [[Preliminaries/Collected Topics/Six Causes Five Results#^4fa970\|Causally concordant result]]: 5
+3. [[Preliminaries/Collected Topics/Six Causes Five Results#^01307e\|Environmental result]]: 6
 
 ---
 Up a level: [[Perfection of Wisdom/Perfection of Wisdom#^7dcbff\|Perfection of Wisdom]]

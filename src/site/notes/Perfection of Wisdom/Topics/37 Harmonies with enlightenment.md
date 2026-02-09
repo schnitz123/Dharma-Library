@@ -18,7 +18,7 @@
 7. [[Perfection of Wisdom/Topics/Eight branches of arya paths\|Eight branches of arya paths]] འཕགས་ལམ་ཡན་ལག་བརྒྱད།
    Paths of deliverance རྣམ་པར་ངེས་པར་འབྱིན་པའི་ལམ།
 
-When the 37 are subsumed into their [[Collected Topics/One type#^7e1ba9\|substance type]], there are ten:
+When the 37 are subsumed into their [[Preliminaries/Collected Topics/One type#^7e1ba9\|substance type]], there are ten:
 1. Faith དད་པ།
 2. Joyous effort བརྩོན་འགྲུས།
 3. Faith དྲན་པ།

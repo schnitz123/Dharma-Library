@@ -37,7 +37,7 @@ Buddhashri:
 - 9 - 12: waking
 
 འབྲས་རང་གི་རྟགས་ཅི་རིགས་པར་ཡོད་དོ། རྟགས་བཅུ་གཉིས་པོ་དེའི་དང་པོ་བརྒྱད་འབྲས་རྟགས་དང་ཐ་མ་བཞི་རང་བཞིན་གྱི་རྟགས་སུ་ལོ་ཆེན་བཞེད། 
-Can be either result signs or nature signs. (see [[Tarig/Correct sign\|Correct sign]])
+Can be either result signs or nature signs. (see [[Preliminaries/Tarig/Correct sign\|Correct sign]])
 According to Great Lotsawa:
 - First eight are result signs
 - Remaining four are nature signs

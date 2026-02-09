@@ -12,7 +12,7 @@ It is called as such because arya persons who abide in it are referred to as ult
    Etymology: Uncontaminated uninterrupted paths are the Way of the Śramaṇa and [liberated paths] are their results similar to the cause 
    ཟག་མེད་བར་ཆད་མེད་ལམ་དགེ་སྦྱོང་གི་ཚུལ་ཡིན་ལ། ཁྱོད་དེའི་རྒྱུ་མཐུན་གྱི་འབྲས་བུ་ཡིན་པས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར།
 2. *True cessations* འགོག་བདེན།
-   Etymology: Uncontaminated uninterrupted paths are the Way of the Śramaṇa and [true cessations] are their [[Collected Topics/Six Causes Five Results#^029b79\|results of separation]] ཟག་མེད་བར་ཆད་མེད་ལམ་དགེ་སྦྱོང་གི་ཚུལ་ཡིན་ལ། ཁྱོད་དེའི་བྲལ་འབྲས་ཡིན་པས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར།
+   Etymology: Uncontaminated uninterrupted paths are the Way of the Śramaṇa and [true cessations] are their [[Preliminaries/Collected Topics/Six Causes Five Results#^029b79\|results of separation]] ཟག་མེད་བར་ཆད་མེད་ལམ་དགེ་སྦྱོང་གི་ཚུལ་ཡིན་ལ། ཁྱོད་དེའི་བྲལ་འབྲས་ཡིན་པས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར།
 
 ---
 **Divisions:** There are eighty-nine compounded liberated paths because there are: བརྒྱད་ཅུ་རྩ་དགུ་ཡོད་དེ།
@@ -25,7 +25,7 @@ It is called as such because arya persons who abide in it are referred to as ult
 
 Same for the eighty-nine true cessations.
 
-See: [[Abhidharmakosha/Chapter 6#^d702df\|Abhidharmakosha]]
+See: [[Texts & Quotes/Abhidharmakosha/Chapter 6#^d702df\|Abhidharmakosha]]
 
 ---
 In this context, there are **Four Results** because there are three sets of main obstacles to liberation
@@ -51,7 +51,7 @@ In this context, there are **Four Results** because there are three sets of main
 5. Attaining the exalted wisdom realising the sixteen aspects, impermanence and so forth
    མི་རྟག་སོགས་བཅུ་དྲུག་རྟོགས་པའི་ཡེ་ཤེས་ཐོབ་པ་ཡིན་པའི་ཕྱིར།
 
-See: [[Abhidharmakosha/Chapter 6#^17c67c\|Abhidharmakosha]]
+See: [[Texts & Quotes/Abhidharmakosha/Chapter 6#^17c67c\|Abhidharmakosha]]
 
 ---
 **The way of attaining the results:**

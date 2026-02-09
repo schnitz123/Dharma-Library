@@ -21,7 +21,7 @@ If no pervasion: It follows that it will be endlessly produced again because des
 If no pervasion: That subject, it follows that it is endlessly produced because despite existing, it needs to be produced again.
 
 ---
-These two consequences are correct consequences not conveying a proof (see [[Tarig/Correct consequence\|Correct consequence]]) because theses are non-established reasons for Prasangika:
+These two consequences are correct consequences not conveying a proof (see [[Preliminaries/Tarig/Correct consequence\|Correct consequence]]) because theses are non-established reasons for Prasangika:
 { #9e4465}
 
 1. The subject - sprout - it exists [at the time of the cause] because its repeated production is not senseless.

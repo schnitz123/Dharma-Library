@@ -6,7 +6,7 @@
 **Definition of valid cognition:** A non-deceptive knower.
 
 རང་རྒྱུད་པ་མན་ཆད་ཀྱིས་ཚད་མའི་སྐད་དོད་པྲ་མཱཎ་ཞེས་པའི་པྲ་དང་པོ་དང༌། མཱཎ་འཇལ་བ་ལ་བྱས་ནས་དང་པོ་སྟེ་གསར་དུ་འཇལ་བས་ཚད་མ་ཞེས་འཆད་ཀྱང༌། 
-**(Panchen:)** Svatantrika and below explain the Sanskrit term Pramana such that pra means first and mana means cognition; therefore, that which newly cognises is [[Lorig/Valid cognisers\|valid cognition]].
+**(Panchen:)** Svatantrika and below explain the Sanskrit term Pramana such that pra means first and mana means cognition; therefore, that which newly cognises is [[Preliminaries/Lorig/Valid cognisers\|valid cognition]].
 
 འདིར་པྲ་གཙོ་བོ་ལ་འཇུག་པའི་དབང་དུ་བྱས་ནས་རང་ཡུལ་གྱི་གཙོ་བོ་ལ་མི་སླུ་བའི་རིག་པ་ཚད་མའི་འཇོག་བྱེད་དུ་མཛད་ཅིང༌།
 In this context, pra is taken to mean main, therefore the **definition of valid cognition:** A knower that is non-deceptive with respect to its main object.
@@ -28,5 +28,5 @@ In this context, pra is taken to mean main, therefore the **definition of valid 
 
 
 ---
-See also: [[Lorig/Valid cognisers\|Valid cognisers (Sautrantika)]]
+See also: [[Preliminaries/Lorig/Valid cognisers\|Valid cognisers (Sautrantika)]]
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]

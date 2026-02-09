@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/preliminaries/lorig/direct-valid-cognisers/"}
+---
+
+རྟོག་པ་དང་བྲལ་ཞིང་གསར་དུ་མི་སླུ་བའི་རིག་པ་དེ། མངོན་སུམ་གྱི་ཚད་མའི་མཚན་ཉིད།
+**Definition:** A newly non-deceptive knower that is free from conceptuality.
+
+**Divisions:**
+1. [[Preliminaries/Lorig/Self-knowing direct valid cognisers\|Self-knowing direct valid cognisers]] རང་རིག་མངོན་སུམ་གྱི་ཚད་མ།
+2. [[Preliminaries/Lorig/Sense direct valid cognisers\|Sense direct valid cognisers]] དབང་པོའི་མངོན་སུམ་གྱི་ཚད་མ།
+3. [[Preliminaries/Lorig/Mental direct valid cognisers\|Mental direct valid cognisers]] ཡིད་ཀྱི་མངོན་སུམ་གྱི་ཚད་མ།
+4. [[Preliminaries/Lorig/Yogic direct valid cognisers\|Yogic direct valid cognisers]] རྣལ་འབྱོར་མངོན་སུམ་གྱི་ཚད་མ།
+
+---
+See also: [[Preliminaries/Lorig/Direct perceivers\|Direct perceivers]]
+Up a level: [[Preliminaries/Lorig/Valid cognisers\|Valid cognisers]]

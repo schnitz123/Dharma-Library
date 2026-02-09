@@ -36,7 +36,7 @@ In the Svatantrika system, they do not exist because:
 དེའི་རྒྱུད་ཀྱི་ང་ཙམ་གྱི་སྟེང་དུ་སྒོམ་སྤང་རྟོག་པའི་ས་བོན་ཁས་ལེན་པ་མི་འགལ་བའི་ཕྱིར་ཏེ། དེས་ང་ཙམ་གང་ཟག་གི་མཚན་གཞིར་ཁས་ལེན་པའི་ཕྱིར།
 In the Prasangika system, the seeds of the conceptions that are objects of abandonment of the path of meditation exist in their continuum because although the mental consciousness in their continuum has already become uncontaminated in nature, that does not contradict asserting that the  seeds of the conceptions that are objects of abandonment of the path of meditation [exist] on the basis of the "mere I" in their continuum; because they assert that the "mere I" is the illustration of the person.
 
-See: [[Collected Topics/Established Base#^0cfa2a\|Contaminated/Uncontaminated for Prasangika]]
+See: [[Preliminaries/Collected Topics/Established Base#^0cfa2a\|Contaminated/Uncontaminated for Prasangika]]
 
 See: [[Madhyamaka/Obscurations in Hinayana\|Obscurations in Hinayana]]
 

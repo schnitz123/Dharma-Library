@@ -11,7 +11,7 @@ The result of *Foe-Destroyer* can be actualised on the support of any of the thr
 - Form Realm: e.g. some Non-Returners proceeding to the Form Realm
 - Formless Realm: e.g. Non-Returners proceeding to the Formless Realm
 
-See: [[Abhidharmakosha/Chapter 6#^0aeeff\|Abhidharmakosha]]
+See: [[Texts & Quotes/Abhidharmakosha/Chapter 6#^0aeeff\|Abhidharmakosha]]
 
 ---
 Up a level: [[Perfection of Wisdom/20 Sangha/Results of the Way of the Śramaṇa#^a3da58\|Results of the Way of the Śramaṇa]]

@@ -29,5 +29,5 @@ There are two divisions superficial causes of error: འཕྲལ་གྱི་
 
 
 ---
-See also: [[Lorig/Four Causes of Error\|Four Causes of Error]]
+See also: [[Preliminaries/Lorig/Four Causes of Error\|Four Causes of Error]]
 Up a level: [[Madhyamaka/Presentation of the two truths\|Presentation of the two truths]]

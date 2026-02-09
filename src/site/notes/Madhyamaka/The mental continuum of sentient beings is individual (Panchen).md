@@ -59,7 +59,7 @@ However, the two [schools] who prove self-knowers also refute that "quick operat
 
 ཡང་བླ་མ་ཁ་ཅིག རྒྱ་དཔེ་དག་པར་བྱས་ནས། 
 རྣམ་བཤད་ལས། རྣམ་འགྲེལ་དུ་འཇུག་པ་མྱུར་བ་ཅིག་ཅར་དུ་འཁྲུལ་བའི་རྒྱུ་ཡིན་པ་བཀག་པར་གསུངས་པ་ཤེས་བྱེད་ཀྱི་རྒྱུ་ལ་དགོངས་ཞེས་ཟེར།
-*Some lamas say:* Assuming the Sanskrit original to be correct, the statement in the Illumination that "quick operation" is refuted in the Pramanavartika as being a cause for their being mistaken to be simultaneous has the intention of the [[Collected Topics/Cause and Effect#^6fe5b4\|cause for knowing]].
+*Some lamas say:* Assuming the Sanskrit original to be correct, the statement in the Illumination that "quick operation" is refuted in the Pramanavartika as being a cause for their being mistaken to be simultaneous has the intention of the [[Preliminaries/Collected Topics/Cause and Effect#^6fe5b4\|cause for knowing]].
 
 མི་འཐད་དེ། དེ་ལྟར་ན་འགྲེལ་པར་འཇུག་པ་མྱུར་བས་ཅིག་ཅར་དུ་འཇུག་པ་ལྟ་བུར་མངོན་ཞེས་གསུངས་པ་ཡང༌། 
 ཤེས་བྱེད་ཀྱི་རྒྱུ་ལ་འཆད་དགོས་པས་རྒྱ་དཔེ་དག་པར་ཁས་བླངས་པ་དང་འགལ་བའི་ཕྱིར།
@@ -85,7 +85,7 @@ Although the conceptual consciousness is induced by its preceding non-conceptual
 
 Therefore, "quick operation" is:
 - Established as a cause for mistaking them as simultaneous;
-- Refuted as a [[Collected Topics/Cause and Effect#^6fe5b4\|cause for knowing]] for mistaking them as simultaneous
+- Refuted as a [[Preliminaries/Collected Topics/Cause and Effect#^6fe5b4\|cause for knowing]] for mistaking them as simultaneous
 
 The latter is established because it requires pervasion; otherwise: It follows mistaken awarenesses exist in the continuum of a Buddha because sequentially arising awarenesses mistakenly appear as simultaneous; because of their quick operation. (No pervasion!)
 

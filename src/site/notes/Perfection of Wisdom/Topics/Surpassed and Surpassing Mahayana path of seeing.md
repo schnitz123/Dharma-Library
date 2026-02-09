@@ -29,7 +29,7 @@ Related to: [[Perfection of Wisdom/Topics/Paths that are surpassed through abidi
 **These two (surpassed and surpassing) arise simultaneously but manifestly arise gradually, otherwise:**
 - If they arise simultaneously during uninterrupted path, either:
 	- Both explicitly: Follows simultaneous direct realisation of the two truths exists for sentient beings.
-	- Surpassing explicitly, surpassed implicitly: Follows emptiness is an [[Collected Topics/Affirming negation\|affirming negation]] because of implicitly conveying an affirmation, i.e. the sixteen aspects.
+	- Surpassing explicitly, surpassed implicitly: Follows emptiness is an [[Preliminaries/Collected Topics/Affirming negation\|affirming negation]] because of implicitly conveying an affirmation, i.e. the sixteen aspects.
 - If they arise gradually, either:
 	- Surpassed first, surpassing second: Follows they are a Gradual Abandoner because of first abandoning the acquired afflictive obscurations that are objects of abandonment of the path of seeing followed by the acquired knowledge obscurations that are those.
 	- Surpassing first, surpassed second: The surpassed exists during that first moment (uninterrupted path) because in the next moment arises the liberated path that has abandoned acquired grasping to the self of persons.

@@ -7,7 +7,7 @@
 | -------------------------------------- | ---------------------------------------------------- |
 | [[Texts & Quotes/Buddha Sutra Misc\|Buddha Sutra Misc]]                  | [[Texts & Quotes/Sutras Sanskrit Index\|Sutras Sanskrit Index]]<br>                        |
 | [[Texts & Quotes/Protector Maitreya and Arya Asanga\|Protector Maitreya and Arya Asanga]] | [[Texts & Quotes/Arya Nagarjuna et al\|Arya Nagarjuna et al]]                             |
-| [[Texts & Quotes/Dignaga and Dharmakirti\|Dignaga and Dharmakirti]]            | [[Shantideva/Shantideva\|Bodhisattvacaryavatara]] |
+| [[Texts & Quotes/Dignaga and Dharmakirti\|Dignaga and Dharmakirti]]            | [[Texts & Quotes/Shantideva/Shantideva\|Bodhisattvacaryavatara]] |
 | [[Texts & Quotes/Je Tsongkhapa\|Je Tsongkhapa]]                      | [[Texts & Quotes/Vasubhandu\|Vasubhandu]]                                       |
 |                                        | [[Texts & Quotes/Misc Quotes\|Misc Quotes]]                                      |
 

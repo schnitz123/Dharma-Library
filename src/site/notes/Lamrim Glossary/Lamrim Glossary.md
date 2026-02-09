@@ -21,7 +21,7 @@
 1. [[Perfection of Wisdom/Topics/Four Truths\|Four Noble Truths]]
 	1. [[Lamrim Glossary/Suffering of Samsara\|Suffering of Samsara]]
 	2. [[Lamrim Glossary/Motivation of Actions\|Motivation of Actions]] - Other topics see: [[Perfection of Wisdom/Dependent Arising/Compositional actions\|Compositional actions]]
-	3. For afflictions see: [[MMF/Six root afflictions\|Six root afflictions]] + [[MMF/Twenty secondary afflictions\|Twenty secondary afflictions]]
+	3. For afflictions see: [[Preliminaries/MMF/Six root afflictions\|Six root afflictions]] + [[Preliminaries/MMF/Twenty secondary afflictions\|Twenty secondary afflictions]]
 	4. [[Perfection of Wisdom/Dependent Arising/Dependent Arising\|Twelve Links of Dependent Arising]]
 	5. [[Perfection of Wisdom/Topics/Sixteen Attributes of the Four Truths\|Sixteen Attributes of the Four Truths]]
 2. [[Lamrim Glossary/Mind of Definite Emergence and Three Higher Trainings\|Mind of Definite Emergence and Three Higher Trainings]]

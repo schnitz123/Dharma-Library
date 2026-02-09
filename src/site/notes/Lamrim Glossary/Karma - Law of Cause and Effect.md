@@ -9,9 +9,9 @@
 4. Actions done do not vanish / perish ལས་བྱས་པ་ཆུད་མི་ཟ་བ།
 
 **Three types of objects and their valid cognisers:** ཡུལ་གསུམ་དང་དེ་དག་གི་འཛིན་པའི་ཚད་མ།
-1. Manifest object – [[Lorig/Direct perceivers\|direct perceivers]] མངོན་གྱུར། མངོན་སུམ།
-2. Hidden phenomena – [[Lorig/Inferential valid cognisers\|inferential cognisers]] ལྐོག་གྱུར། རྗེས་དཔག
-3. Very Hidden phenomena – [[Lorig/Inferential valid cognisers#^569308\|inferential cogniser of belief]] ཤིན་ཏུ་ལྐོག་གྱུར། ཡིད་ཆེས་ཀྱི་རྗེས་དཔག
+1. Manifest object – [[Preliminaries/Lorig/Direct perceivers\|direct perceivers]] མངོན་གྱུར། མངོན་སུམ།
+2. Hidden phenomena – [[Preliminaries/Lorig/Inferential valid cognisers\|inferential cognisers]] ལྐོག་གྱུར། རྗེས་དཔག
+3. Very Hidden phenomena – [[Preliminaries/Lorig/Inferential valid cognisers#^569308\|inferential cogniser of belief]] ཤིན་ཏུ་ལྐོག་གྱུར། ཡིད་ཆེས་ཀྱི་རྗེས་དཔག
 
 **The aspect of every action:** ལས་རེ་རེ་ལ།
 1. Basis གཞི།
@@ -59,9 +59,9 @@
 4. Strong due to the intention བསམ་པའི་སྒོ་ནས་སྟོབས་ཆེ་བ།
 
 **The three types of results:** དེ་དག་གི་འབྲས་བུ་ལ་གསུམ།
-1.	[[Collected Topics/Six Causes Five Results#^ac034d\|Fruitional result]] རྣམ་སྨིན་གྱི་འབྲས་བུ།
-2.	[[Collected Topics/Six Causes Five Results#^4fa970\|Causally concordant result]] རྒྱུ་མཐུན་པའི་འབྲས་བུ།
-3.	[[Collected Topics/Six Causes Five Results#^01307e\|Environmental or dominant result]] བདག་པོའི་འབྲས་བུའམ། དབང་གི་འབྲས་བུ།
+1.	[[Preliminaries/Collected Topics/Six Causes Five Results#^ac034d\|Fruitional result]] རྣམ་སྨིན་གྱི་འབྲས་བུ།
+2.	[[Preliminaries/Collected Topics/Six Causes Five Results#^4fa970\|Causally concordant result]] རྒྱུ་མཐུན་པའི་འབྲས་བུ།
+3.	[[Preliminaries/Collected Topics/Six Causes Five Results#^01307e\|Environmental or dominant result]] བདག་པོའི་འབྲས་བུའམ། དབང་གི་འབྲས་བུ།
 
 **The causally concordant results of the Ten Non-Virtues:** མི་དགེ་བ་བཅུའི་རྒྱུ་མཐུན་པའི་འབྲས་བུ།
 1. Short life and many sicknesses ཚེ་ཐུང་ལ་ནད་མང་བ།

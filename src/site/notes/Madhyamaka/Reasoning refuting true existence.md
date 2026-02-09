@@ -11,7 +11,7 @@ There are many reasonings settling the lack of true existence: བདེན་�
 2. In terms of reasonings གཏན་ཚིགས་ཀྱི་དབང་དུ་བྱས་པ་གཉིས། 
 
 In terms of consequences:
-1. *Consequence generating an [[Lorig/Inferential valid cognisers#^821f7b\|inference of renown]] in others* གཞན་ལ་གྲགས་ཀྱི་རྗེས་དཔག་སྐྱེད་བྱེད་ཀྱི་ཐལ་འགྱུར།
+1. *Consequence generating an [[Preliminaries/Lorig/Inferential valid cognisers#^821f7b\|inference of renown]] in others* གཞན་ལ་གྲགས་ཀྱི་རྗེས་དཔག་སྐྱེད་བྱེད་ཀྱི་ཐལ་འགྱུར།
    e.g. The subject - a sprout - it follows that it does not depend upon its cause because of being inherently established. 
    མྱུ་གུ་ཆོས་ཅན། རང་གི་རྒྱུ་ལ་མ་ལྟོས་པར་ཐལ། རང་བཞིན་གྱིས་གྲུབ་པའི་ཕྱིར། ཞེས་པའི་ཐལ་འགྱུར་ལྟ་བུ།
 2. *Consequence of equivalence of reason* རྒྱུ་མཚན་མཚུངས་པའི་མགོ་སྙོམས་ཀྱི་ཐལ་འགྱུར།

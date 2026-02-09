@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/preliminaries/tarig/sign/"}
+---
+
+རྟགས་སུ་དཀོད་པ། རྟགས་ཀྱི་མཚན་ཉིད།
+**Definition of sign**: That stated as a sign.
+
+ཡོད་མེད་གང་རུང་ཡིན་ན། དེ་སྒྲུབ་ཀྱི་རྟགས་ཡིན་པས་ཁྱབ།
+If it is either an existent or a non-existent, it is pervaded by being a sign in the proof of that.
+
+**Divisions**:
+1. [[Preliminaries/Tarig/Correct sign\|Correct sign]] རྟགས་ཡང་དག
+2. [[Preliminaries/Tarig/Pseudo signs\|Pseudo signs]] རྟགས་ལྟར་སྣང་།
+
+---
+See also: [[Preliminaries/Tarig/Parts of the Syllogism\|Parts of the Syllogism]]

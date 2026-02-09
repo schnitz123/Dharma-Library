@@ -36,7 +36,7 @@
 **Definition of a resultant birth of a concentration:** A phenomenon attained through birth that is included in either the fruitional or causally concordant result of cultivating a causal meditative absorption of a concentration in other lifetimes.
 **Illustration:** A phenomenon attained through birth in the continua of sentient beings from Brahma Class and up to Akanishta.
 
-For specific rebirths see: [[../../Charts/samsara.pdf|samsara]]
+For specific rebirths see: [[../../Charts/samsara.pdf\|samsara]]
 
 ---
 Up a level: [[Perfection of Wisdom/Concentrations/The result attained (actual meditative absorption)\|The result attained (actual meditative absorption)]] / [[Perfection of Wisdom/Concentrations/Concentrations\|Concentrations]]

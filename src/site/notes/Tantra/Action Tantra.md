@@ -23,7 +23,7 @@ Which [[Tantra/The Four Empowerments\|empowerments]]? གང་བསྐུར�
 { #244ff2}
 
 - Suitable support: Holding any of the [[Tantra/Pratimoksha Vows\|Pratimoksha Vows]] (or minimum abandoning ten non-virtues)
-- In terms of vows: only the [[Shantideva/Bodhisattva Vows\|Bodhisattva Vows]]
+- In terms of vows: only the [[Texts & Quotes/Shantideva/Bodhisattva Vows\|Bodhisattva Vows]]
 - In terms of commitments, there are fourteen:
 	- Possessing faith in the Three Jewels, (3)
 	- faith in mantra,

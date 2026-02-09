@@ -48,10 +48,10 @@ This and a consciousness of the Buddha-ground are mutually inclusive.
 
 ---
 ཡེ་ཤེས་ཆོས་སྐུ་ཡིན་ན་རྣལ་འབྱོར་མངོན་སུམ་དང་། ཡིད་ཤེས་ཡིན་པས་ཁྱབ་པ་མེད་དེ། སངས་རྒྱས་འཕགས་པའི་མིག་ཤེས་དེ་ཡེ་ཤེས་ཆོས་སྐུ་ཡིན་པའི་ཕྱིར། 
-If it is the exalted wisdom Dharmakaya, there is no pervasion of it being a [[Lorig/Yogic direct perceivers\|yogic direct perceiver]] or a mental consciousness because an Arya Buddha's eye consciousness is an exalted wisdom Dharmakaya.
+If it is the exalted wisdom Dharmakaya, there is no pervasion of it being a [[Preliminaries/Lorig/Yogic direct perceivers\|yogic direct perceiver]] or a mental consciousness because an Arya Buddha's eye consciousness is an exalted wisdom Dharmakaya.
 
 དེ་ཡིན་ན་གཞན་རིག་གི་ཤེས་པ་ཡིན་པས་ཀྱང་མ་ཁྱབ་སྟེ། སངས་རྒྱས་འཕགས་པའི་རྒྱུད་ཀྱི་རང་རིག་དེ་ཡེ་ཤེས་ཆོས་སྐུ་ཡིན་པའི་ཕྱིར། 
-If it is that, it is also not pervaded by being a consciousness that is an [[Lorig/Other-knowers\|other-knower]], because the [[Lorig/Self-knowing direct perceivers\|self-knowers]] in the continuum of an Arya Buddha are exalted wisdom Dharmakaya.
+If it is that, it is also not pervaded by being a consciousness that is an [[Preliminaries/Lorig/Other-knowers\|other-knower]], because the [[Preliminaries/Lorig/Self-knowing direct perceivers\|self-knowers]] in the continuum of an Arya Buddha are exalted wisdom Dharmakaya.
 
 སངས་རྒྱས་ཀྱི་སའི་ཟག་མེད་ཀྱི་ཡེ་ཤེས་སྡེ་ཚན་ཉེར་གཅིག་པོ་ཆོས་ཅན། ཡེ་ཤེས་ཆོས་སྐུ་ཡིན་ཏེ། 
 ཇི་ལྟ་བ་དང་ཇི་སྙེད་པ་ལ་ལྟོས་ནས་གཟིགས་པ་མཐར་ཐུག་པའི་ཡེ་ཤེས་ཡིན་པའི་ཕྱིར། 

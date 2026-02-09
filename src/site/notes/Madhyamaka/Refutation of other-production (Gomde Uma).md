@@ -24,7 +24,7 @@ If a result that is established by its own-entity arises in dependence upon a se
 *Flinging these consequences applies because:* If the seed and sprout, for example, are established by way of own-character other, then they are necessarily self-supporting other; if they are that, then they would necessarily be mutually unrelated. If that is produced from that while not being related with that, then also darkness and so forth would necessarily be produced from flames.
 
 ---
-These two consequences are correct consequences conveying a proof (see [[Tarig/Correct consequence\|Correct consequence]]):
+These two consequences are correct consequences conveying a proof (see [[Preliminaries/Tarig/Correct consequence\|Correct consequence]]):
 { #3e30be}
 
 1. The subject - objects of knowledge - production from other does not exist because thick darkness does not arise from blazing flames. ཤེས་བྱ་ཆོས་ཅན། གཞན་སྐྱེ་མེད་དེ། མེ་ལྕེ་རབ་ཏུ་འབར་བ་ལས་མུན་པ་འཐུག་པོ་མ་འབྱུང་བའི་ཕྱིར།

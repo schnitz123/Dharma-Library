@@ -11,7 +11,7 @@
 		- 10 in relation to origins ཀུན་འབྱུང་མཐོང་སྤང་ཉོན་མོངས་བཅུ།
 		- 10 in relation to cessation འགོག་པའི་དེ་བཅུ།
 		- 10 in relation to paths ལམ་གྱི་དེ་བཅུ་དང་བཞི་བཅུ།
-		These are the [[MMF/Ten Afflictions\|ten afflictions]].
+		These are the [[Preliminaries/MMF/Ten Afflictions\|ten afflictions]].
 	- 72 included in the level of the Upper Realms
 	  དེར་གྱུར་པའི་གོང་མའི་སས་བསྡུས་ཀྱི་མཐོང་སྤང་ཉོན་སྒྲིབ་བདུན་ཅུ་རྩ་གཉིས།
 		- 36 included in the Form Realm གཟུགས་ཀྱི་སས་བསྡུས་ཀྱི་སུམ་ཅུ་རྩ་དྲུག

@@ -8,7 +8,7 @@ An awareness that apprehends its objects as truly established.
 
 See: [[Perfection of Wisdom/Topics/Three meanings of rtog pa\|Three meanings of rtog pa]]
 
-If it is such a conception, it is not pervaded by apprehending an [[Collected Topics/Positively-qualified and Negatively-qualified phenomena#^275cf1\|affirmation]] nor a [[Collected Topics/Positively-qualified and Negatively-qualified phenomena#^c71ed0\|negation]].
+If it is such a conception, it is not pervaded by apprehending an [[Preliminaries/Collected Topics/Positively-qualified and Negatively-qualified phenomena#^275cf1\|affirmation]] nor a [[Preliminaries/Collected Topics/Positively-qualified and Negatively-qualified phenomena#^c71ed0\|negation]].
 
 **Divisions:**
 1. [[Perfection of Wisdom/Topics/Conceptions of apprehendeds (Preparation)\|Conceptions of apprehendeds]] གཟུང་རྟོག

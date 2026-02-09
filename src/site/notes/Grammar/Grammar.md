@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/grammar/grammar/"}
 ---
 
-Terms / phrases / syllables (མིང་ཚིག་ཡི་གེ་གསུམ།) - see: [[Lorig/Expressive sound\|Expressive sound]]
+Terms / phrases / syllables (མིང་ཚིག་ཡི་གེ་གསུམ།) - see: [[Preliminaries/Lorig/Expressive sound\|Expressive sound]]
 
 **Three collections:** (ཚོགས་གསུམ།):
 - Nouns and adjectives མིང་གི་ཚོགས།
