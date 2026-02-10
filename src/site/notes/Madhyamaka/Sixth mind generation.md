@@ -480,6 +480,12 @@ Abiding on the towering mountain of the view of the transitory collection. [6.14
 
 ཤིང་རྟ་རང་ཡན་ལག་ལས་གཞན་འདོད་མིན། །གཞན་མིན་མ་ཡིན་དེ་ལྡན་ཡང་མིན་ཞིང༌། །
 ཡན་ལག་ལ་མིན་ཡན་ལག་དག་དེར་མིན། །འདུས་པ་ཙམ་མིན་དབྱིབས་མིན་ཇི་བཞིན་ནོ། །
+Just as a chariot is not asserted to be different from its parts,
+It is not not different, it also does not possess those,
+It is not in the parts, nor are the parts in it,
+It is not the mere collection, nor the shape. [6.151]
+{ #5901d2}
+
 
 གལ་ཏེ་ཚོགས་ཙམ་ཤིང་རྟར་འགྱུར་ན་ནི། །སིལ་བུར་གནས་ལ་ཤིང་རྟ་ཉིད་ཡོད་འགྱུར། །
 གང་ཕྱིར་ཡན་ལག་ཅན་མེད་ཡན་ལག་དག། །མེད་པས་དབྱིབས་ཙམ་ཤིང་རྟར་རིགས་པའང་མིན། །

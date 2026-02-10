@@ -13,6 +13,8 @@ This and contradiction are mutually inclusive.
    *Definition:* That which abides in mutual and direct discordance.
    ཕན་ཚུན་དངོས་སུ་མི་མཐུན་པར་གནས་པ། དངོས་འགལ་གྱི་མཚན་ཉིད།
    e.g. functioning thing and non-functioning thing, existence and non-existence <br><br>
+{ #3dbabb}
+
 2. **Indirect contradiction** བརྒྱུད་འགལ།
    *Definition:* That which is not direct harmer and harmed but which abides without common locus.
    དངོས་སུ་གནོད་བྱ་གནོད་བྱེད་མ་ཡིན་ཞིང་། གཞི་མི་མཐུན་པར་གནས་པ། བརྒྱུད་འགལ་གྱི་མཚན་ཉིད།

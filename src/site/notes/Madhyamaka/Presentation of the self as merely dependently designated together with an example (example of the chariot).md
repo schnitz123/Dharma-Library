@@ -20,6 +20,8 @@ The subject - objects of knowledge - the self is established as merely designate
 For example, just like a sprout is established to be an imputed-existent due to not being produced by way of the four extremes; the example has already been proven.
 
 ---
+Related to [[Madhyamaka/Sixth mind generation#^5901d2\|verse 6.151]]
+
 ཤེས་བྱ་ཆོས་ཅན། བདག་ཤིང་རྟ་ལྟར་དཔྱད་པའི་ཚེ་མི་རྙེད་དེ། དཔེར་ན།
 The subject - objects of knowledge - when analysing the self it is not found, **like a chariot**, because for example:
 1. The chariot is not asserted as a different substance from its parts
@@ -41,6 +43,8 @@ The subject - objects of knowledge - when analysing the self it is not found, **
 ཤིང་རྟ་དཔྱད་ན་མི་རྙེད་པ་ཇི་ལྟ་བ་བཞིན་དུ་བདག་ཕུང་གཉིས་ལ་ཡང་ཤེས་པར་བྱ་བ་ཡིན་པའི་ཕྱིར།
 Therefore, if analysing the chariot it is not found; similarly, it should be understood in relation to the self and aggregates.
 
+[[Madhyamaka/Sevenfold analysis of the chariot (Jangkya)\|Sevenfold analysis of the chariot (Jangkya)]]
+
 ---
 དེ་ལ་ཁོ་ན་རེ། ཁྱོད་ལྟར་ན་འཇིག་རྟེན་ན་ཤིང་རྟའི་ཐ་སྙད་དོན་མཐུན་རྒྱུན་ཆད་པར་འགྱུར་བར་ཐལ། ཤིང་རྟའི་ཐ་སྙད་འདོགས་པའི་གཞི་མེད་པའི་ཕྱིར་ཏེ། 
 ཤིང་རྟ་རྣམ་པ་བདུན་གྱི་རིགས་པས་བཙལ་བ་ན་མེད་པའི་ཕྱིར་ཞེ་ན།
@@ -49,7 +53,7 @@ Therefore, if analysing the chariot it is not found; similarly, it should be und
 དབུ་མ་པ་ཆོས་ཅན། ཁྱོད་ཀྱི་ལུགས་ལ་ཤིང་རྟ་ལ་བརྟེན་པའི་ཐ་སྙད་རྒྱུན་ཆད་པའི་ཉེས་པ་མེད་དེ། 
 ཤིང་རྟ་དེ་ནི་དེ་ཉིད་དོན་དམ་དུའམ་འཇིག་རྟེན་ཀུན་རྫོབ་ཏུ་རྣམ་པ་བདུན་གྱི་རིགས་པས་བཙལ་བའི་ཚེ་གྲུབ་པར་འགྱུར་བ་མ་ཡིན་མོད་ཀྱིེ། 
 དེ་ལྟ་ནའང་བརྟགས་དོན་བཙལ་བའི་རྣམ་པར་དཔྱད་པ་མེད་པ་འཇིག་རྟེན་གྱི་ཐ་སྙད་ཉིད་ལས་ཤིང་རྟའི་སྐབས་འདིར་རང་གི་ཡན་ལག་འཕང་ལོ་དང་གཟེར་བུ་སོགས་ལ་བརྟེན་ནས་ཤིང་རྟའི་ཐ་སྙད་འདོགས་པ་ཡིན་པའི་ཕྱིར།
-*Response:* The subject - Madhyamikas - there is no fault that in their system the term referring to "chariot" would be discontinued because although the chariot will not be established ultimately or in worldly-conventions when sought using the sevenfold-reasoning, nevertheless, through the worldly-terminology of "chariot" (that does not analyse to seek the designated-object) the term "chariot" is designated in dependence upon its parts (the wheel, nails, and so forth).
+*Response:* The subject - Madhyamikas - there is no fault that in their system the term referring to "chariot" would be discontinued because although the chariot will not be established ultimately or in worldly-conventions when sought using the sevenfold-reasoning, nevertheless, through the worldly-terminology of "chariot" (that does not analyse and seek the designated-object) the term "chariot" is designated in dependence upon its parts (the wheel, nails, and so forth).
 
 ---
 ཤེས་བྱ་ཆོས་ཅན། དབུ་མ་པའི་ལུགས་ལ་ཁྱད་གཞི་ཤིང་རྟ་རྟེན་ནས་བཏགས་པ་ཙམ་དུ་གྲུབ་པ་མ་ཟད། 

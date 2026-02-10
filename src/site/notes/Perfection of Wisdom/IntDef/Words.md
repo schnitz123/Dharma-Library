@@ -6,7 +6,7 @@
 **Definition:** Sayings (/Scriptures) of the Buddha that possess the four attributes.
 
 **The four attributes:** ཁྱད་ཆོས་བཞི་ནི།
-1. Subject matter: possessing the qualities of higher status and liberation.
+1. Subject matter: possessing the qualities of higher states and liberation.
    བརྗོད་བྱ། མཐོ་རིས་དང་ཐར་པ་སོགས་ཀྱི་ཡོན་ཏན་དང་ལྡན་པ།
 2. Expresser: free from all faults of speech. རྗོད་བྱེད། ཚིག་གི་སྐྱོན་མཐའ་དག་དང་བྲལ་བ།
 3. Function: said for the purpose of abandoning some object of abandonment, such as the afflictions of the three realms. བྱེད་ལས། ཁམས་གསུམ་གྱི་ཉོན་མོངས་སོགས་སྤང་བྱ་ཅི་རིགས་སྤོང་ཕྱིར་དུ་གསུངས་པ།
@@ -20,4 +20,4 @@
 - Empowering condition: [[Perfection of Wisdom/IntDef/Three Types of Words\|Three Types of Words]]
 
 ---
-Up a level: [[Words and Treatises\|Words and Treatises]]
+Up a level: [[Perfection of Wisdom/IntDef/IntDef\|IntDef]]

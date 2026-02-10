@@ -11,10 +11,14 @@
 དེ་ཉིད་བདག་ཏུ་འགྱུར་སྙམ་ན། །ཉེ་བར་ལེན་པ་ཐ་དད་འགྱུར། །ཉེ་བར་ལན་པ་མ་གཏོགས་པར། །ཁྱོད་ཀྱི་བདག་ནི་གང་ཞིག་ཡིན། །
 
 ཉེ་བར་ལེན་པ་མ་གཏོགས་པའི། །བདག་ཡོད་མ་ཡིན་བྱས་པའི་ཚེ། །ཉེ་བར་ལེན་ཉིད་བདག་ཡིན་ན། །ཁྱོད་ཀྱི་བདག་ནི་མེད་པ་ཡིན། །
+Having shown that a self not included in the appropriated does not exist,
+If the appropriated were the self, then your self is non-existent. [27.5]
 
 ཉེ་བར་ལེན་ཉིད་བདག་མ་ཡིན། །དེ་འབྱུང་བ་དང་འཇིག་པ་ཡིན། །ཉེ་བར་བླང་བ་ཇི་ལྟ་བུར། །ཉེ་བར་ལེན་པོ་ཡིན་པར་འགྱུར། །
 
 བདག་ནི་ཉེ་བར་ལེན་པ་ལས། །གཞན་དུ་འཐད་པ་ཉིད་མ་ཡིན། །གལ་ཏེ་གཞན་ན་ལེན་མེད་པར། །གཟུང་ཡོད་རིགས་ན་གཟུང་དུ་མེད། །
+The self is not feasible to be other than the appropriated.
+If it were other, then without the appropriated it would be suitable to be apprehended; but it is not. [27.7]
 
 དེ་ལྟར་ལེན་ལས་གཞན་མ་ཡིན། །དེ་ནི་ཉེར་ལེན་ཉིད་ཀྱང་མིན། །བདག་ནི་ཉེ་བར་ལེན་མེད་མིན། །མེད་པ་ཉིད་དུའང་དེ་མ་ངེས། །
 
