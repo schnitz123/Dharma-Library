@@ -86,6 +86,7 @@
 		- [[Madhyamaka/Refuting the positions of being support and supported and so forth\|Refuting the positions of being support and supported and so forth]]
 		- [[Madhyamaka/Refuting a substantially existent person that is inexpressible as same or different\|Refuting a substantially existent person that is inexpressible as same or different]]
 		- [[Madhyamaka/Presentation of the self as merely dependently designated together with an example (example of the chariot)\|Presentation of the self as merely dependently designated together with an example (example of the chariot)]]
+			- [[Madhyamaka/Sevenfold analysis of the chariot (Jangkya)\|Sevenfold analysis of the chariot (Jangkya)]]
 		- [[Madhyamaka/Indicating the qualities of such a presentation to easily abandon conceptions holding to extremes\|Indicating the qualities of such a presentation to easily abandon conceptions holding to extremes]]
 - 406
 

@@ -124,19 +124,19 @@ If the aggregates are the self, then it would possess production and disintegrat
 *Question:* What fault is there with the self possessing production and disintegration?
 
 ཐ་སྙད་ཙམ་ཡིན་ན་སྐྱོན་མེད་མོད་ཀྱང་རང་མཚན་གྱིས་གྲུབ་པའི་སྐྱེ་འཇིག་བྱེད་ན་སྐྱོན་གསུམ་ཡོད་དེ། 
-Response: Although there is no fault if it is only conventionally, if it is taken as production and disintegration that is established by own-character, then there are three faults:
+*Response:* Although there is no fault if it is only conventionally, if it is taken as production and disintegration that is established by own-character, then there are three faults:
 1. Remembering [past] births would be unfeasible སྐྱེ་བ་དྲན་པ་མི་འཐད་པ་དང་། 
 2. Actions done would be lost ལས་བྱས་པ་ཆུད་ཟོས་པ་དང་། 
 3. Meeting with actions one has not done ལས་མ་བྱས་པ་དང་འཕྲད་པའི་ཉེས་པ་གསུམ་མོ།
 
 དེ་ཡང་སྐྱེ་བ་སྔ་ཕྱིའི་བདག་རང་གི་མཚན་ཉིད་ཀྱིས་སོ་སོ་བ་ཡིན་ན་འབྲེལ་མེད་དོན་གཞན་དུ་འགྱུར་པའི་རྒྱུ་མཚན་གྱིས་སྐྱོན་དེ་གསུམ་འབྱུང་བའོ།
-Moreover, if the selves of past and future births were individual by own-character, then they would become unrelated different objects; due to that those three faults arise.
+Moreover, if the selves of past and future births were individual by own-character, then they would become unrelated different objects; due to that, those three faults arise.
 
 གལ་ཏེ་རང་མཚན་གྱིས་སོ་སོ་བ་ཡིན་ཀྱང་རྒྱུད་གཅིག་པས་སྐྱོན་མེད་དོ་ཅེ་ན།
-*Objection:* Although they are individual by own-character, due to being a single continuum, there is no fault.
+*Objection:* Although they are individual by own-character, since they are a single continuum there is no fault.
 
 དེ་ཡང་མི་འཐད་དེ། རང་གི་ངོ་བོས་ཐ་དད་ན་ནི་རྒྱུད་གཅིག་ཏུ་མི་རུང་བའི་ཕྱིར། དཔེར་ན་བྱམས་པ་དང་ཉེར་སྦས་བཞིན།
-Response: That is incorrect because if they are different by their own-nature, then they would not be suitable to be a single continuum; for example, like Maitreya and Upagupta.
+*Response:* That is incorrect because if they are different by their own-nature, then they would not be suitable to be a single continuum; for example, like Maitreya and Upagupta.
 
 **Refuting the position that the self and the aggregates are different** བདག་ཕུང་གཉིས་ཐ་དད་པའི་ཕྱོགས་དགག་པ་ནི། 
 
@@ -162,7 +162,7 @@ These two reasonings are respectively indicates in the Root Wisdom:
   ཉེར་བདུན་པ་ལས། གལ་ཏེ་གཞན་ན་ལེན་མེད་པར། །གཟུང་ཡོད་རིགས་ན་གཟུང་དུ་མེད། །ཞེས་པ་རྣམས་ཀྱིས་བསྟན་ནོ།
 
 རིགས་པ་དེ་དག་གིས་ཕྱོགས་ལྷག་མ་རྣམས་ཀྱང་རྟོགས་པར་འགྱུར་པའི་ཚུལ་ནི། 
-**The way in the remaining positions are realised through these reasonings**
+**The way the remaining positions are realised through these reasonings**
 
 དེ་ལྟར་རང་བཞིན་གཅིག་ཐ་དད་གཉིས་ཁེགས་པས་ཕུང་པོ་ལ་བདག་དང་བདག་ལ་ཕུང་པོ་བརྟེན་ནས་ཡོད་པའི་བརྟེན་པའི་ཕྱོགས་གཉིས་ཀྱང་ཁེགས་པར་འགྱུར་ཏེ། 
 དེ་གཉིས་ནི་རང་བཞིན་ཐ་དད་དུ་ཡོད་ན་འཐད་པར་གྱུར་པ་ལས་རང་བཞིན་ཐ་དད་པའི་ཕྱོགས་བཀག་ཟིན་པའི་ཕྱིར་རོ།
