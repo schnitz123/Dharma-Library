@@ -56,6 +56,38 @@ Therefore, if analysing the chariot it is not found; similarly, it should be und
 *Response:* The subject - Madhyamikas - there is no fault that in their system the term referring to "chariot" would be discontinued because although the chariot will not be established ultimately or in worldly-conventions when sought using the sevenfold-reasoning, nevertheless, through the worldly-terminology of "chariot" (that does not analyse and seek the designated-object) the term "chariot" is designated in dependence upon its parts (the wheel, nails, and so forth).
 
 ---
+གང་ཟག་གི་བདག་འགོག་པའི་རིགས་པའི་གཙོ་བོ་ནི། འཇུག་པ་ལས།
+དེ་ནི་དེ་ཉིད་དུའམ་འཇིག་རྟེན་དུ། །རྣམ་པ་བདུན་གྱིས་འགྲུབ་འགྱུར་མིན་མོད་ཀྱི། 
+རྣམ་དཔྱད་མེད་པར་འཇིག་རྟེན་ཉིད་ལས་ནི། །རང་གི་ཡན་ལག་བརྟེན་ནས་འདོགས་པ་ཡིན། ཞེས་
+**(ILTK IntDef:)** The main reasoning for refuting the self of persons is as stated in the Supplement:
+That, in suchness or in the world, is not established through the seven ways;
+However, without analysis, just through the world, it is designated in dependence upon its parts. [6.158]
+
+ཤིང་རྟ་རང་གི་ཡན་ལག་དང་གཅིག་དང་ཐ་དད་དང་ལྡན་པ་དང་ཕན་ཚུན་བརྟེན་པའི་ཚུལ་གཉིས་དང་ཚོགས་ཙམ་དང་ཚོགས༌པའི་དབྱིབས་ཏེ་བདུན་དུ་བཙལ་བས་
+མི་རྙེད་ཀྱང༌། རང་གི་ཡན་ལག་ལ་བརྟེན་ནས་བཏགས་པའི་བཏགས་ཡོད་དུ་འཇོག་པ་བཞིན་དུ་གང་ཟག་ཀྱང་འཇོག་པར་གསུངས་ལ།
+The Supplement indicates that although the chariot is not found through seeking it in the seven ways - as one with its parts, as different from those, and their possessor, as support and supported, as the mere collection, and as the shape of the collection - it is posited as an imputed-existent designated in dependence upon its parts; the person is similarly posited.
+
+དེ་ཉིད་ཟབ་མོའི་ལྟ་བ་བདེ་བླག་ཏུ་རྙེད་པའི་ཐབས་སུ་གསུངས་པས་དེའི་རིགས་པ་རྣམས་ནི་གང་ཟག་གི་བདག་འགོག་པའི་རིགས་པའི་གཙོ་བོར་ཤེས་པར་བྱ་སྟེ།
+Since it is said that that is the method for easily finding the profound view, it should be understood that those reasonings are the main reasoning for refuting the self of persons.
+
+འཇུག་པ་ལས།
+རྣམ་བདུན་གྱིས་མེད་གང་དེ་ཇི་ལྟ་བུར། །ཡོད་ཅེས་རྣལ་འབྱོར་པས་འདིའི་ཡོད་མི་རྙེད།
+དེས་དེ་ཉིད་ལའང་བདེ་བླག་འཇུག་འགྱུར་བས། །འདིར་དེའི་གྲུབ་པ་དེ་བཞིན་འདོད་པར་བྱ། ཞེས་གསུངས་ཏེ།
+The Supplement says:
+That which is non-existent in the seven ways, how can it be said to exist? Yogis do not find its existence
+And they also easily engage in suchness; therefore, in this context, its establishment should be asserted as such. [6.160]
+
+ཐོག་མར་གང་ཟག་ལ་རྣམ་པ་བདུན་དུ་བཙལ་ན་མི་རྙེད་པ་དང་རང་གི་ཕུང་པོ་ལ་བརྟེན་ནས་འདོགས་པ་འདི་གོ་སླ་བས་འཁྲིད་པའི་རིམ་པ་ཡང་དེ་བཞིན་ནོ།
+Initially, not finding the person if sought in the seven ways is easier to understand than it being designated in dependence upon its aggregates; therefore, the order of guidance is as such.
+
+འདི་ཡང་ཕུང་པོ་ལ་བརྟེན་ནས་བཏགས་པ་ཉིད་ཀྱིས་བདུན་པོ་དེར་གང་ཟག་མི་རྙེད་པ་གང་ཟག་གི་བདག་མེད་ཀྱི་དོན་ཡིན་པས་རྟེན་འབྱུང་གི་རིགས་པ་ལ་ཐུག་གོ
+Moreover, since not finding the person to be those seven due to being designated in dependence upon the aggregates is the meaning of the selflessness of persons, it also connects with the reasoning of dependent-arising.
+
+དེ་ལྟར་ན་བརྟེན་ནས་སྐྱེ་བ་དང་བརྟེན་ནས་བཏགས་པའི་གཏན་ཚིགས་ཀྱིས་རང་ལས་སྐྱེ་བ་ལ་སོགས་པ་བཞི་དང་རང་བཞིན་གཅིག་ཐ་དད་ལ་སོགས་པ་བདུན་
+ཆོས་དང་གང་ཟག་ལ་འགོག་པ་འདི་ཉིད་རིགས་པ་རྣམས་ཀྱི་དོན་པོར་ཟུངས་ཤིག
+As such, using the reasons of "dependent production" and "dependent designation" to refute the four extremes (production from self and so forth) and the seven ways (being one or different entities, and so forth) wrt to phenomena and persons should be held as the most important reasonings!
+
+---
 ཤེས་བྱ་ཆོས་ཅན། དབུ་མ་པའི་ལུགས་ལ་ཁྱད་གཞི་ཤིང་རྟ་རྟེན་ནས་བཏགས་པ་ཙམ་དུ་གྲུབ་པ་མ་ཟད། 
 ཤིང་རྟ་དེ་ཉིད་ཡན་ལག་ཅན་དུ་འཇོག་པའི་མིང་གི་ཁྱད་པར་གཞན་རྣམས་ཀྱང་བརྟགས་དོན་བཙལ་ན་མེད་ཀྱང་འཇིེག་རྟེན་ལ་གྲགས་པའི་སྒོ་ནས་ཁས་བླང་བར་བྱ་སྟེ། 
 ཤིང་རྟ་དེ་ཉིད་འཕང་ལོ་སོགས་རང་གི་ཡན་ལག་ལ་ལྟོས་ནས་ཡན་ལག་ཅན་དང་དེ་རང་གི་ཆ་ཤས་ཅན་དང་། ཤིང་རྟ་དེ་ཉིད་རང་གི་ཉེ་བར་བླང་བྱ་ལེན་པའི་བྱ་བ་ལ་ལྟོས་ནས་བྱེད་པ་པོ་ཞེས་འགྲོ་བ་ལ་བསྙད་པ་དང་། འཕང་ལོ་སོགས་རང་གི་ཉེ་བར་ལེན་པ་ལ་ལྟོས་ནས་སྐྱེ་བོ་རྣམས་ལ་ཉེ་བར་ལེན་པ་པོ་ཉིད་དུ་གྲུབ་པའི་ཕྱིར།

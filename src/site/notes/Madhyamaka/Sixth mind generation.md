@@ -506,13 +506,17 @@ It is not the mere collection, nor the shape. [6.151]
 སྐྱེ་བ་མེད་པས་གཟུགས་སོགས་ཀྱང་ཡོད་མིན། །དེ་ཡི་ཕྱིར་ཡང་དེ་དག་དབྱིབས་མི་རིགས། །
 
 དེ་ནི་དེ་ཉིད་དུ་འམ་འཇིག་རྟེན་དུ། །རྣམ་པ་བདུན་གྱིས་འགྲུབ་འགྱུར་མིན་མོད་ཀྱི། །
-རྣམ་དཔྱད་མེད་པར་འཇིག་རྟེན་ཉིད་ལས་འདིར། །རང་གི་ཡན་ལག་བརྟེན་ནས་འདོགས་པ་ཡིན༑ །
+རྣམ་དཔྱད་མེད་པར་འཇིག་རྟེན་ཉིད་ལས་འདིར། །རང་གི་ཡན་ལག་བརྟེན་ནས་འདོགས་པ་ཡིན། །
+That, in suchness or in the world, is not established through the seven ways;
+However, without analysis, just through the world, it is designated in dependence upon its parts. [6.158]
 
 དེ་ཉིད་ཡན་ལག་ཅན་དེ་ཆ་ཤས་ཅན། །ཤིང་རྟ་དེ་ཉིད་བྱེད་པོ་ཞེས་འགྲོར་བསྙད། །
 སྐྱེ་བོ་རྣམས་ལ་ལེན་པོ་ཉིད་དུ་འགྲུབ། །འཇིག་རྟེན་གྲགས་པའི་ཀུན་རྫོབ་མ་བརླག་ཅིག། །
 
 རྣམ་བདུན་གྱིས་མེད་གང་དེ་ཇི་ལྟ་བུར། །ཡོད་ཅེས་རྣལ་འབྱོར་པས་འདིའི་ཡོད་མི་རྙེད། །
 དེས་དེ་ཉིད་ལའང་བདེ་བླག་འཇུག་འགྱུར་བས། །འདིར་དེའི་གྲུབ་པ་དེ་བཞིན་འདོད་པར་བྱ། །
+That which is non-existent in the seven ways, how can it be said to exist? Yogis do not find its existence
+And they also easily engage in suchness; therefore, in this context, its establishment should be asserted as such. [6.160]
 
 ཤིང་རྟ་ཡོད་ཉིད་མིན་ན་དེ་ཡི་ཚེ། །ཡན་ལག་ཅན་མེད་དེའི་ཡན་ལག་ཀྱང་མེད། །
 ཤིང་རྟ་ཚིག་ན་ཡན་ལག་མེད་དཔེ་བཞིན། །བློ་མེས་ཡན་ལག་ཅན་བསྲེགས་ཡན་ལག་གོ། །

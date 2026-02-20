@@ -25,6 +25,21 @@
 དེ་ལྟར་བཞག་པ་ལ་མཐར་འཛིན་གྱི་རྟོག་པ་སྤངས་སླ་བའི་ཡོན་ཏན་བསྟན་པ།
 [[Madhyamaka/Indicating the qualities of such a presentation to easily abandon conceptions holding to extremes\|Indicating the qualities of such a presentation to easily abandon conceptions holding to extremes]]
 
+---
+**Refuting the inherent establishment of Mine**
+{ #114850}
+
+
+ཁོ་ན་རེ། བདག་རང་བཞིན་གྱིས་མེད་ཀྱང་བདག་གི་བ་རང་བཞིན་གྱིས་ཡོད་དོ་ཞེ་ན།
+Someone says: Although the self does not inherently exist, the mine inherently exists!
+
+ཤེས་བྱ་ཆོས་ཅན། རང་བཞིན་གྱིས་གྲུབ་པ་མེད་པར་བདག་གི་བ་རང་བཞིན་གྱིས་གྲུབ་པ་ཡོད་པ་མ་ཡིན་ཏེ། 
+རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་བྱེད་པ་པོ་རྫ་མཁན་མེད་པ་ཅན་ཡིན་ན་ལས་སུ་བྱ་བ་རྫ་བུམ་ཡང་མེད་དགོས་པ་དེའི་ཕྱིར།
+Response: The subject - objects of knowledge - lacking inherent establishment, the mine is not inherently established because if the agent, the potter, is non-existent, then the acted-upon object, the clay-pot, is also necessarily non-existent.
+
+དེས་ན་བདག་དང་བདག་གི་བ་རང་བཞིན་གྱིས་གྲུབ་པས་སྟོང་པར་ལྟ་ཞིང་གོམས་པར་བྱེད་པའི་རྣལ་འབྱོར་པ་དེ་འཁོར་བ་ལས་མྱུར་དུ་གྲོལ་བར་འགྱུར་ཏེ། 
+བདག་དང་བདག་གི་བ་རང་བཞིན་གྱིས་གྲུབ་པར་འཛིན་པ་ནིེ་འཁོར་བའི་རྩ་བ་ཡིན་པ་དེའི་ཕྱིར།
+Therefore, the yogi that views and familiarises with the self and the mine being empty of inherent establishment will be quickly liberated from samsara because the apprehension of the self and the mine as inherently established is the root of samsara.
 
 ---
 Up a level: [[Madhyamaka/Madhyamaka#^f5a4c3\|Madhyamaka]]

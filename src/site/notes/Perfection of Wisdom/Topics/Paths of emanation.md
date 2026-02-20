@@ -22,7 +22,7 @@
    ཕྱི་རོལ་གྱི་གཟུགས་ལ་དམིགས་པའི་ཆགས་སྡང་གི་རྟོག་པ་དང༌། སྡུག་མི་སྡུག་ལ་སོགས་པའི་གཟུགས་རྣམས་ལ་ལྟོས་ཏེ་ངོ་བོ་ཉིད་ཀྱིས་གྲུབ་པར་རྟོག་པའི་རྣམ་པ་བསལ་ནས་གཟུགས་སྣང་ཐམས་ཅད་སྡུག་པ་ཇི་ལྟར་འདོད་པ་བཞིན་དུ་སྒོམ་པར་བྱེད།  
 
 གཟུགས་མེད་ཀྱི་རྣམ་ཐར་འགོག་པའི་རྣམ་ཐར་རྣམས་ཀྱི་སྙོམས་འཇུག་ལྔ་པོ་དེ་དག་ཇི་ལྟར་སྒོམ་པ་བཞིན་དུ་སྒོམ་པར་བྱེད་དོ།
-The five meditative absorptions of the liberations of the Formless Realm and of cessation (see: [[Perfection of Wisdom/Topics/Paths of happily abiding in this life\|Paths of happily abiding in this life]]) are also cultivated in accordance with the cultivation of these.
+The five meditative absorptions of the liberations of the Formless Realm and of cessation (see: [[Perfection of Wisdom/Topics/Paths of happily abiding in this life\|Paths of happily abiding in this life]]) are also cultivated in accordance with how these are cultivated.
 
 These three together with the five in the next category are collectively called the [[Perfection of Wisdom/Topics/Eight liberations\|Eight liberations]].
 

@@ -19,7 +19,7 @@ This has four:
 Just like even individual slivers, i.e. pieces or fragments, of diamond (/meteoric iron) can penetrate and destroy solid rocky mountains, this reasoning is able to refute and destroy the conceived-object of the apprehension of true existence without remainder.
 
 ---
-[[Madhyamaka/Overview of the presentation of reasonings refuting true existence#^432198\|Order of the four refutations]]
+[[Madhyamaka/Overview of the presentation of reasonings refuting true existence (Gomde)#^432198\|Order of the four refutations]]
 
 
 ---

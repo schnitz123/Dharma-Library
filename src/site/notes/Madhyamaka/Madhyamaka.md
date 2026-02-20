@@ -88,6 +88,13 @@
 		- [[Madhyamaka/Presentation of the self as merely dependently designated together with an example (example of the chariot)\|Presentation of the self as merely dependently designated together with an example (example of the chariot)]]
 			- [[Madhyamaka/Sevenfold analysis of the chariot (Jangkya)\|Sevenfold analysis of the chariot (Jangkya)]]
 		- [[Madhyamaka/Indicating the qualities of such a presentation to easily abandon conceptions holding to extremes\|Indicating the qualities of such a presentation to easily abandon conceptions holding to extremes]]
+		- [[Madhyamaka/Refuting the inherent establishment of I and Mine (Gomde)#^114850\|Refuting the inherent establishment of the Mine]]
+	- [[Madhyamaka/Extrapolating the analysis of the self and the chariot to other things (Gomde)\|Extrapolating the analysis of the self and the chariot to other things (Gomde)]]
+{ #5b3905}
+
+	- [[Madhyamaka/Explanation of the classifications of emptiness (Gomde)\|Explanation of the classifications of emptiness (Gomde)]]
+{ #daa280}
+
 - 406
 
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/madhyamaka/four-great-reasonings-refuting-establishment-by-own-character-gomde/"}
 ---
 
-Three consequences to refute inherent existence (from the Root Text):
+**Three consequences to refute inherent existence (from the Root Text):**
 1. [[Madhyamaka/Refutation via the Arya meditative equipoise\|Refutation via the Arya meditative equipoise]]
 2. [[Madhyamaka/Refutation via withstanding ultimate analysis\|Refutation via withstanding ultimate analysis]]
 3. [[Madhyamaka/Refutation via non-refutation of ultimate production\|Refutation via non-refutation of ultimate production]]

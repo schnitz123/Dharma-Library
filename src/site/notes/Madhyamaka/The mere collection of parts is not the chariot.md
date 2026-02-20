@@ -19,7 +19,9 @@ There is pervasion: If the wheels, nails, and so forth were inherently establish
 It follows that the mere collection of the parts of the chariot are not the chariot because the parts of the chariot do not exist; because the chariot that is the part-possessor does not exist.
 
 དེར་ཐལ། ཚོགས་ཙམ་མ་ཡིན་པའི་ཡན་ལག་ཅན་ནི་མེད། དེ་ནི་ཡན་ལག་ཅན་དུ་མི་རུང་བའི་ཕྱིར། རྟགས་རང་ལུགས་ལ་གྲུབ་བོ།
-That follows because a part-possessor that is not a mere collection does not exist and that is not suitable as a part-possessor. The reason is established in your system.
+That follows because 1) a part-possessor that is not a mere collection does not exist and 2) [the mere collection of the parts of the chariot] is not suitable as a part-possessor. The [first] reason is established in your system.
+
+If second reason not established: That follows because of being the basis of designation of the part-possessor (i.e. the chariot).
 
 ---
 Up a level: [[Madhyamaka/Presentation of the self as merely dependently designated together with an example (example of the chariot)#^6388c0\|Example of the Chariot]]

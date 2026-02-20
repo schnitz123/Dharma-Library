@@ -7,7 +7,9 @@
 
 **Divisions:**
 1. [[Madhyamaka/Apprehension of a self of persons\|Apprehension of a self of persons]] གང་ཟག་གི་བདག་འཛིན།
+	- Main refutation: [[Madhyamaka/Sevenfold analysis of the chariot (Jangkya)\|Sevenfold analysis of the chariot (Jangkya)]]
 2. [[Madhyamaka/Apprehension of a self of phenomena\|Apprehension of a self of phenomena]] ཆོས་ཀྱི་བདག་འཛིན།
+	- Main refutation: [[Madhyamaka/Reasoning of diamond slivers\|Reasoning of diamond slivers]]
 
 ---
 

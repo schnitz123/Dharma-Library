@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/madhyamaka/reasoning-refuting-true-existence/"}
 ---
 
-See: [[Madhyamaka/Overview of the presentation of reasonings refuting true existence\|Overview of the presentation of reasonings refuting true existence]]
+See: [[Madhyamaka/Overview of the presentation of reasonings refuting true existence (Gomde)\|Overview of the presentation of reasonings refuting true existence (Gomde)]]
 
 ---
 
