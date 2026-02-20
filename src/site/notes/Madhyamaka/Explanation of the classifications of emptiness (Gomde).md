@@ -36,25 +36,11 @@ That follows because sutras indicating those are Mahayana sutras.
 ---
 **Extensive explanation of their individual divisions** ཕྱེ་བ་སོ་སོའེ་དོན་རྒྱས་པར་བཤད་པ།
 
-**The sixteen emptinesses:**
+[[Madhyamaka/The sixteen emptinesses\|The sixteen emptinesses]]
 { #56cfae}
 
-1. [[Madhyamaka/Emptiness of the inner\|Emptiness of the inner]] ནང་སྟོང་པ་ཉིད།
-2. [[Madhyamaka/Emptiness of the outer\|Emptiness of the outer]] ཕྱི་སྟོང་ཉིད།
-3. [[Madhyamaka/Emptiness of the inner and outer\|Emptiness of the inner and outer]] ཕྱི་ནང་སྟོང་ཉིད།
-4. [[Madhyamaka/Emptiness of emptiness\|Emptiness of emptiness]] སྟོང་པ་ཉིད་སྟོང་ཉིད།
-5. [[Madhyamaka/Emptiness of the great\|Emptiness of the great]] ཆེནཔོ་སྟོང་ཉིད།
-6. [[Madhyamaka/Emptiness of the ultimate\|Emptiness of the ultimate]] དོན་དམ་པ་སྟོང་ཉིད།
-7. [[Madhyamaka/Emptiness of the compounded\|Emptiness of the compounded]] འདུས་བྱས་སྟོང་ཉིད།
-8. [[Madhyamaka/Emptiness of the uncompounded\|Emptiness of the uncompounded]] འདུས་མ་བྱས་སྟོང་ཉིད།
-9. [[Madhyamaka/Emptiness of that beyond extremes\|Emptiness of that beyond extremes]] མཐའ་ལས་འདས་པ་སྟོང་ཉིད།
-10. [[Madhyamaka/Emptiness of the beginningless and endless\|Emptiness of the beginningless and endless]] ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་ཉིད།
-11. [[Madhyamaka/Emptiness of the non-discarded\|Emptiness of the non-discarded]] དོར་བ་མེད་པ་སྟོང་ཉིད།
-12. [[Madhyamaka/Emptiness of nature\|Emptiness of nature]] རང་བཞིན་སྟོང་ཉིད།
-13. [[Madhyamaka/Emptiness of all phenomena\|Emptiness of all phenomena]] ཆོས་ཐམས་ཅད་སྟོང་ཉིད།
-14. [[Madhyamaka/Emptiness of own-character\|Emptiness of own-character]] རང་གི་མཚན་ཉིད་སྟོང་ཉིད།
-15. [[Madhyamaka/Emptiness of non-observation\|Emptiness of non-observation]] མི་དམིགས་པ་སྟོང་ཉིད།
-16. [[Madhyamaka/Emptiness of the nature of non-things\|Emptiness of the nature of non-things]] དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་ཉིད།
+
+226
 
 
 ---

@@ -12,4 +12,4 @@ The subject - the emptiness of inherent establishment of the three realms - it i
 
 
 ---
-Up a level [[Madhyamaka/Explanation of the classifications of emptiness (Gomde)#^56cfae\|Explanation of the classifications of emptiness (Gomde)]]
+Up a level: [[Madhyamaka/The sixteen emptinesses\|The sixteen emptinesses]]

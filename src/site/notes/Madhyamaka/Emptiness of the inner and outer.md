@@ -11,4 +11,4 @@ The subject - the lack of inherent existence of those that are both inner and ou
 
 
 ---
-Up a level [[Madhyamaka/Explanation of the classifications of emptiness (Gomde)#^56cfae\|Explanation of the classifications of emptiness (Gomde)]]
+Up a level: [[Madhyamaka/The sixteen emptinesses\|The sixteen emptinesses]]

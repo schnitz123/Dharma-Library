@@ -16,4 +16,4 @@ The subject - the Buddha who realises the ultimate indicating the emptiness of t
 
 
 ---
-Up a level [[Madhyamaka/Explanation of the classifications of emptiness (Gomde)#^56cfae\|Explanation of the classifications of emptiness (Gomde)]]
+Up a level: [[Madhyamaka/The sixteen emptinesses\|The sixteen emptinesses]]

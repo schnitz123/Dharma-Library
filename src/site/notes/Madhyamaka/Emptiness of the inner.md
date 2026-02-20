@@ -18,4 +18,4 @@ The subject - the lack of inherent existence of the six inner sources (eyes and 
 
 
 ---
-Up a level [[Madhyamaka/Explanation of the classifications of emptiness (Gomde)#^56cfae\|Explanation of the classifications of emptiness (Gomde)]]
+Up a level: [[Madhyamaka/The sixteen emptinesses\|The sixteen emptinesses]]

@@ -19,4 +19,4 @@ The subject - statements in the Mother sutras that emptiness is empty of true ex
 
 
 ---
-Up a level [[Madhyamaka/Explanation of the classifications of emptiness (Gomde)#^56cfae\|Explanation of the classifications of emptiness (Gomde)]]
+Up a level: [[Madhyamaka/The sixteen emptinesses\|The sixteen emptinesses]]
