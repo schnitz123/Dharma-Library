@@ -33,6 +33,19 @@ Moreover, if it is truly established one entity, then it is necessarily one isol
 དང་པོ་གྲུབ་སྟེ། བདེན་གྲུབ་ཀྱི་གཅིག་ཡིན་ན། རང་སྣང་བའི་བློ་དེ་དེ་ཁོ་ན་ཉིད་ཡུལ་དུ་བྱེད་པའི་བློ་མ་འཁྲུལ་བ་ཡིན་དགོས་པའི་ཕྱིར།
 The first is established because if it is truly established one, then the awareness to which it appears is necessarily a non-mistaken awareness taking suchness as its object.
 
+---
+ཁ་ཅིག ཕུང་པོ་ལྔ་པོ་བདག་ཡིན་ཞེ་ན། 
+*Someone says:* The five aggregates are the self.
+
+གང་ཟག་གཅིག་གི་རྒྱུད་ལ་བདག་མང་པོ་ཡོད་པར་ཐལ། དམ་བཅའ་འཐད་པ་གང་ཞིག ཕུང་པོ་ལྔ་པོ་མང་བ་ཡིན་པའི་ཕྱིར།
+*Jetsunpa:* It follows that many selves exist in the continuum of a single person because 1) the assertion is correct and 2) the five aggregates are many.
+
+འདོད་མི་ནུས་ཏེ། ལུང་དེའི་དོན་གྲུབ་པའི་ཕྱིར།
+You cannot accept because the established-meaning of the above sutra is correct.
+
+ཁོ་ན་རེ། གང་ཟག་གཅིག་གི་རྒྱུད་ལ་བདག་མང་པོ་ཡོད་པར་ཐལ། དེའི་རྒྱུད་ལ་བདག་སྐད་ཅིག་སྔ་ཕྱི་མང་པོ་ཡོད་པའི་ཕྱིར་ན་མ་ཁྱབ་བོ།
+*Someone says:* It follows that many selves exist in the continuum of a single person because there are many prior and later moments of the self in that continuum.
+*Jetsunpa:* No pervasion.
 
 
 ---

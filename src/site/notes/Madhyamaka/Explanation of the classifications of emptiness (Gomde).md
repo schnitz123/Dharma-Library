@@ -40,8 +40,13 @@ That follows because sutras indicating those are Mahayana sutras.
 { #56cfae}
 
 
-226
+[[Madhyamaka/The four emptinesses\|The four emptinesses]]
+{ #32cb7f}
 
+
+སྟོང་ཉིེད་ཀྱི་དབྱེ་བ་དང་། སྟོང་ཚུལ་དེ་དག་ནི་ཆོས་ཅན། རང་དགར་བཤད་པ་མ་ཡིན་ཏེ། 
+ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ཚུལ་ལུགས་སྟོན་པའི་མདོ་ལས་འདིར་བཤད་པ་དེ་སྐད་དུ་རབ་ཏུ་བསྒྲགས་པ་སྟེ་བཤད་པ་ཡིན་པའི་ཕྱིར་རོ།
+The subject - these divisions of emptiness and their mode of emptiness - are not explained arbitrarily because they are explained in this context in accordance with their proclamation in sutras indicating the system of the Perfection of Wisdom.
 
 ---
 Up a level: [[Madhyamaka/Madhyamaka#^daa280\|Madhyamaka]]

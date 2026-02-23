@@ -50,7 +50,15 @@ For example, without oneself having experienced the sweet taste in a flower's st
 གཟུགས་སོགས་ལ་དམིགས་པའི་ཆགས་སོགས་སྤོང་བའི་རྒྱུ་ཅི་ཞིག་འབྱུང་བར་འགྱུར་ཏེ་མི་འགྱུར་རོ།
 Also, the mere non-existence of a cuckoo on the stamen does not [entail] the non-observation of its taste while experiencing the sweet taste of the stamen and not being able to abandon the desire for that. Similarly, due to observing the own-nature of forms and so forth as truly existent, how could the perception of those as lacking a permanent self arise as a cause for abandoning attachment and so forth observing forms and so forth? It would not.
 
+---
+ཁ་ཅིག ཕུང་པོ་ལྔ་ཆོས་ཅན། རྣལ་འབྱོར་པས་བདག་མེད་མངོན་སུམ་དུ་མཐོང་བའི་ཚེ་དེས་ཁྱོད་མེད་པར་མངོན་སུམ་དུ་མཐོང་བར་ཐལ། ཁྱོད་བདག་ཡིན་པའི་ཕྱིར་ཟེར་ན།
+*Someone says:* The subject - the five aggregates - it follows that when the yogi directly perceives selflessness, they directly perceive those as non-existent because those are the self.
 
+གང་ཟག་ཆོས་ཅན། དེར་ཐལ། དེའི་ཕྱིར།
+*Jetsunpa:* The subject - the person - it follows that [when the yogi directly perceives selflessness, they directly perceive that as non-existent] because [that is the self].
+
+རང་ལུགས་ལ། གང་ཟག་གི་ཕུང་པོ་ལྔ་ཆོས་ཅན། གསལ་བ་དེར་ཐལ། རང་བཞིན་གྱིས་གྲུབ་པའི་གང་ཟག་ཡིན་པའི་ཕྱིར།
+In our own system: The subject - the five aggregates of the person - it follows that they are that predicate because of being an inherently established person.
 
 
 ---

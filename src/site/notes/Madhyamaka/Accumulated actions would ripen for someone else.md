@@ -21,6 +21,17 @@ Where was this explained? In the context of Maitreya depending upon Upagupta. ([
 རྒྱུ་མཚན་དེས་ན་ཕུང་པོ་ལྔ་དང་སེམས་བདག་ཡིན་པ་མི་རིགས་ཏེ། དེ་ལ་ཇི་སྐད་བཤད་པའི་རིགས་པས་གནོད་པ་དེའི་ཕྱིར།
 Due to those reasons, the five aggregates and the mind being the self is illogical because it is undermined by the reasonings explained above.
 
+---
+ཁ་ཅིག །སྐྱེ་བ་སྔ་མ་ལྷ་ལས་ཚེ་འཕོས་ནས་ད་ལྟ་མིར་སྐྱེས་པའི་མི་དེ་སྐྱེ་བ་སྔ་མ་ལྷར་སྐྱེས་པ་ཡིན་ཟེར་ན།
+*Someone says:* A human - who was a deva in a previous birth, died, and was born as human in the present life - was born as a deva in a previous life.
+
+དེ་འདྲའི་མི་ཆོས་ཅན། སྐྱེ་བ་སྔ་མར་སྐྱེས་པར་ཐལ། དམ་བཅའ་འཐད་པའི་ཕྱིར། འདོད་ན། སྐྱེ་བ་སྔ་མར་ཡོད་པར་ཐལ་ལོ།
+*Jetsunpa:* The subject - such a human - it follows that they were born in a previous life because that assertion is correct.
+If accepted: It follows they existed in a previous life!
+
+རང་ལུགས་ལ། སྐྱེ་བ་སྔ་མའི་ལྷ་དེའི་ང་དང་། ཚེ་འདིའི་མི་དེའི་ང་ཆ་ཤས་སུ་ལྡན་པའི་ང་ཙམ་དེ་སྐྱེ་བ་སྔ་མ་ལྷར་སྐྱེས་པ་ཡིན་ནོ།
+*In our own system:* It is the mere I that possesses the parts of the I of that deva in the previous birth and the I of the human in the present life that was born as a deva in a previous life.
+
 
 ---
 Up a level: [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|Refuting the Buddhist assertions of the aggregates as the self]]

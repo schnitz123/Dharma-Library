@@ -3,13 +3,19 @@
 ---
 
 [[Madhyamaka/Root Verses\|Root Verses]]
+*Key:* Unmarked = Jetsunpa. Unmarked sub-links belong to the textbook of their parent unless otherwise stated.
+
 
 **FIRST MIND GENERATION**
-- [[Madhyamaka/Three compassions\|Three compassions]]: སྙིང་རྗེ་གསུམ།
-	1. [[Madhyamaka/Compassion observing sentient beings\|Compassion observing sentient beings]] སེམས་ཅན་ལ་དམིགས་པའི་སྙིང་རྗེ།
-	2. [[Madhyamaka/Compassion observing phenomena\|Compassion observing phenomena]] ཆོས་ལ་དམིགས་པའི་སྙིང་རྗེ།
-	3. [[Madhyamaka/Compassion observing the non-observed\|Compassion observing the non-observed]] དམིགས་མེད་ལ་དམིགས་པའི་སྙིང་རྗེ།
-- [[Madhyamaka/Boundaries of the three compassions\|Boundaries of the three compassions]]
+- Homage to compassion without differentiating it སྙིང་རྗེ་ཆེན་པོ་ལ་སོ་སོར་མ་ཕྱེ་བར་བསྟོད་པ།
+	- [[Madhyamaka/Verse 1 (Gomde)\|Verse 1 (Gomde)]]
+	- [[Madhyamaka/Verse 2 (Gomde)\|Verse 2 (Gomde)]]
+- [[Madhyamaka/Homage to compassion while differentiating it (Gomde)\|Homage to compassion while differentiating it (Gomde)]] སོ་སོར་ཕྱེ་ནས་ཕྱག་འཚལ་བའོ།
+	- [[Madhyamaka/Three compassions\|Three compassions]]: སྙིང་རྗེ་གསུམ།
+		1. [[Madhyamaka/Compassion observing sentient beings\|Compassion observing sentient beings]] སེམས་ཅན་ལ་དམིགས་པའི་སྙིང་རྗེ།
+		2. [[Madhyamaka/Compassion observing phenomena\|Compassion observing phenomena]] ཆོས་ལ་དམིགས་པའི་སྙིང་རྗེ།
+		3. [[Madhyamaka/Compassion observing the non-observed\|Compassion observing the non-observed]] དམིགས་མེད་ལ་དམིགས་པའི་སྙིང་རྗེ།
+	- [[Madhyamaka/Boundaries of the three compassions\|Boundaries of the three compassions]]
 - [[Madhyamaka/Presentations of Arya Bodhisattva grounds\|Presentations of Arya Bodhisattva grounds]]
 	- [[Madhyamaka/Discussion about their observed-objects and aspects\|Discussion about their observed-objects and aspects]]
 	- [[Madhyamaka/Progressing with different views\|Progressing with different views]]
@@ -50,7 +56,7 @@
 		- [[Madhyamaka/Buddha's omniscience\|Buddha's omniscience]]
 		- [[Madhyamaka/Refutation of the Cittamatra System\|Refutation of the Cittamatra System]]
 			- [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Tendarwa)\|Presentation of cause and effect does not require positing an Alaya (Tendarwa)]]
-				- [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
+				- [[Madhyamaka/Presentation of the three times (Disintegratedness) (Jetsunpa)\|Presentation of the three times (Disintegratedness) (Jetsunpa)]]
 			- [[Madhyamaka/Refutation of the Cittamatra System#^cbee37\|Refuting that consciousness is inherently established without external objects]]
 			- [[Madhyamaka/Self-knowers and memory\|Self-knowers and memory]]
 				- [[Madhyamaka/Refuting self-knowers as the proof of other-powered natures\|Refuting self-knowers as the proof of other-powered natures]]
@@ -83,6 +89,7 @@
 
 		- [[Madhyamaka/Refuting a self that is a different entity from the aggregates imputed by Non-Buddhists\|Refuting a self that is a different entity from the aggregates imputed by Non-Buddhists]]
 		- [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self\|Refuting the Buddhist assertions of the aggregates as the self]]
+			- [[Madhyamaka/Refuting the Buddhist assertions of the aggregates as the self#^f5919c\|Seven consequences refuting that the aggregates are the self]]
 		- [[Madhyamaka/Refuting the positions of being support and supported and so forth\|Refuting the positions of being support and supported and so forth]]
 		- [[Madhyamaka/Refuting a substantially existent person that is inexpressible as same or different\|Refuting a substantially existent person that is inexpressible as same or different]]
 		- [[Madhyamaka/Presentation of the self as merely dependently designated together with an example (example of the chariot)\|Presentation of the self as merely dependently designated together with an example (example of the chariot)]]
@@ -95,7 +102,12 @@
 	- [[Madhyamaka/Explanation of the classifications of emptiness (Gomde)\|Explanation of the classifications of emptiness (Gomde)]]
 { #daa280}
 
-- 406
+- [[Madhyamaka/Summary by way of expressing the qualities of the sixth ground (Gomde)\|Summary by way of expressing the qualities of the sixth ground (Gomde)]]
+{ #e45646}
 
 
+**SEVENTH MIND GENERATION**
+G230
 
+**RESULTANT GROUND**
+J410

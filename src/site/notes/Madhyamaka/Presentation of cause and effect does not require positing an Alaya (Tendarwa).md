@@ -33,7 +33,7 @@ In the system of actions not inherently ceasing, it is suitable to assert disint
 That follows because, for example, although the individual aggregates of Devadatta, their mere collection, their shape, or something that is other, are not Devadatta and Devadatta is not established as any of those; nevertheless, Devadatta that is designated upon those is posited as a functioning thing.
 
 **General presentation of the three times:**
-- [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
+- [[Madhyamaka/Presentation of the three times (Disintegratedness) (Jetsunpa)\|Presentation of the three times (Disintegratedness) (Jetsunpa)]]
 - [[Madhyamaka/Presentation of the three times - Lower Schools (Tendarwa)\|Presentation of the three times - Lower Schools (Tendarwa)]]
 - [[Madhyamaka/Presentation of the three times - Prasangika (Tendarwa)\|Presentation of the three times - Prasangika (Tendarwa)]]
 

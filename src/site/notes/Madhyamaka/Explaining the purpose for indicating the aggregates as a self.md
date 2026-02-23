@@ -46,7 +46,7 @@ There is pervasion in the previous because sutra says "The self is the protector
 *Objection:* Regarding saying "It is not the protector, nor the subduer or judge", reason not established because collection-possessors are the protector, judge, and so forth and therefore the mere collection is also the protector and judge because the collection and collection-possessors are not different entities.
 
 ཤིང་རྟ་དེ་ཡི་ཡན་ལག་གི་ཚོགས་པ་ཕྱོགས་གཅིག་ཏུ་གནས་པ་རྣམས་ཤིང་རྟ་ཉིད་དུ་འགྱུར་བར་ཐལ། ཕུང་པོ་ཆོགས་པ་བདག་ཡིན་པ་དེའི་ཚེ་སྟེ་དེའི་ཕྱིར།
-*Answer:* It follows that the collection of the parts of a chariot that are collected in one place are the chariot itself because the collection of the aggregates is the self.
+*Response:* It follows that the collection of the parts of a chariot that are collected in one place are the chariot itself because the collection of the aggregates is the self.
 
 ཁྱབ་སྟེ། ཤིང་རྟ་དང་བདག་གཉིས་རང་གི་ཡན་ལག་ཚོགས་པ་ལ་འཇོག་མི་འཇོག་མཚུངས་པའི་ཕྱིར་ཏེ། 
 མདོ་ལས་ཇི་ལྟར་ཡན་ལག་ཚོགས་རྣམས་ལ་ཞེས་སོགས་གསུངས་པའི་ཕྱིར།
@@ -66,6 +66,25 @@ There is pervasion because in relation to a single basis, the basis of designati
 Where does it say it? In the sutra saying "Just as the collection of the parts..." and so forth.
 
 ---
+ཁ་ཅིག ཕུང་པོ་ལྔ་ཆོས་ཅན། བདག་མ་ཡིན་ཏེ། བདག་གི་གདགས་གཞི་ཡིན་པའི་ཕྱིར། གདུང་འདེགས་ཀྱི་དོན་བྱེད་ནུས་པ་ཆོས་ཅན། ཀ་བ་མ་ཡིན་ཏེ། ཀ་བའི་གདགས་གཞི་ཡིན་པའི་ཕྱིར། ཞེས་གསུང་ཞིང་། འབྲོག་པ་སངས་རྒྱས་སངས་རྒྱས་ཡིན་ཏེ། དེ་ལ་དེ་ལྟར་འཇིག་རྟེན་ན་གྲགས་པའི་ཕྱིར། ཞེས་གསུང་ན།
+*Someone says:* The subject - the five aggregates - they are not the self because of being the basis of designation of the self. The subject - that able to perform the function of load-bearing - it is not a pillar because of being the basis of designation of pillar. The Nomad [called] Buddha is a Buddha because of being renown in the world as such.
+
+སངས་རྒྱས་ཀྱི་ཕུང་པོ་ལྔ་ཆོས་ཅན། སངས་རྒྱས་མ་ཡིན་པར་ཐལ། སངས་རྒྱས་ཀྱི་གདགས་གཞི་ཡིན་པའི་ཕྱིར། ཁྱབ་པ་ཁས།
+*Jetsunpa:* The subject - the five aggregates of the Buddha - it follows that they are not Buddha because of being the basis of designation of Buddha. You asserted the pervasion.
+
+འདོད་མི་ནུས་ཏེ། ཡོན་ཏན་མཐར་ཐུག་ཡིན་པའི་ཕྱིར།
+You cannot accept because those are final qualities.
+
+གདུང་འདེགས་ཀྱི་དོན་བྱེད་ནུས་པ་ཆོས་ཅན། ཀ་བ་ཡིན་པར་ཐལ། ཁྱོད་ལ་ཀ་བ་ཞེས་འཇིག་རྟེན་ན་གྲགས་པའི་ཕྱིར། འཁོར་གསུམ།
+The subject - that able to perform the function of load-bearing - it follows that it is a pillar because of being renown in the world as a "pillar". Three spheres!
+
+བྱས་པ་ལ་ཁོ་ན་རེ། སངས་རྒྱས་དེ་ཐ་སྙད་བཏགས་པའི་བཏགས་དོན་བཙལ་བའི་ཚེ་རྙེད་པར་ཐལ། དེའི་ཕུང་པོ་ལྔ་སངས་རྒྱས་ཡིན་པའི་ཕྱིར་ན།
+*Regarding that, someone says:* It follows that when seeking the designated-object that is designated by the term Buddha, it is findable because their five aggregates are Buddha.
+
+མ་ཁྱབ་སྟེ། དེའི་ཕུང་པོ་ལྔ་པོ་རང་ཉིད་གང་ལ་བརྟེན་ནས་བཏགས་པའི་བཏགས་ཆོས་སུ་གྱུར་པའི་སངས་རྒྱས་མ་ཡིན་པས་སྐྱོན་མེད་དོ།
+*Jetsunpa:* No pervasion. There is no fault because their five aggregates are not the Buddha that is the designated-phenomenon that is designated in dependence upon those.
+
+---
 ཕུང་པོ་ཚོགས་ཙམ་གྱིེ་དབྱིབས་ཀྱི་བཀོད་པ་བདག་ཡིན་པ་དགག་པ།
 **Refuting that the arranged shape of the mere collection of the aggregates is the self**
 
@@ -75,7 +94,7 @@ Where does it say it? In the sutra saying "Just as the collection of the parts..
 
 ཤེས་བྱ་ཆོས་ཅན། མང་བཀུར་བ་ཁྱོད་ཀྱི་ལུགས་ལ་གཟུགས་ཅན་དེ་དག་ཉིད་དེ་ཁོ་ན་བདག་ཅེས་བྱ་བར་འགྱུར་གྱི་སེམས་དང་སོགས་ཀྱིས་བསྡུས་པ་སེམས་བྱུང་གི་ཚོགས་པ་རྣམས་ནི་བདག་ཉིད་དུ་འགྱུར་བ་མ་ཡིན་པར་ཐལ། རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་ཕུང་པོའི་དབྱིབས་བདག་ཡིན་པ་གང་ཞིག 
 དབྱིབས་དེ་གཟུགས་ཅན་ཁོ་ན་ལ་ཡོད་ཀྱི་སེམས་བྱུང་དེ་དག་ལ་དབྱིབས་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར། དེ་དག་གཟུགས་ཅན་མ་ཡིན་པའི་ཕྱིར།
-*Answer:* The subject - objects of knowledge - it follows that in the Sammitīyā system, just those that are physical will be referred to as self, whereas the collection of mind and what is included in the "and so forth", i.e. mental factors, would not be "self" because 1) the aggregates' configuration is the self and 2) configuration only exists in physical things; mental factors do not have configuration; because those are not physical.
+*Response:* The subject - objects of knowledge - it follows that in the Sammitīyā system, just those that are physical will be referred to as self, whereas the collection of mind and what is included in the "and so forth", i.e. mental factors, would not be "self" because 1) the aggregates' configuration is the self and 2) configuration only exists in physical things; mental factors do not have configuration; because those are not physical.
 
 ---
 ཕུང་པོ་ཚོགས་ཙམ་བདག་ཏུ་འདོད་པ་ལ་གནོད་བྱེད་གཞན་བསྟན་པ།
@@ -99,7 +118,7 @@ The meaning of [Nagarjuna's] Root Wisdom saying "The appropriation should be kno
 
 ཤེས་བྱ་ཆོས་ཅན། བྱེད་པ་པོ་མེད་ལ་ལས་བསགས་པའི་ཁྱད་པར་གང་ཞིག་ཡོད་པ་མ་ཡིན་པར་ཐལ། ལས་སུ་བྱ་བ་ཕུང་པོ་ཚོགས་པ་ཡང་མེད་པའི་ཕྱིར་ཏེ། 
 རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་བྱེད་པ་པོ་བདག་མེད་པ་དེའི་ཕྱིར།
-*Answer:* The subject - objects of knowledge - it follows that it is not the case that the agent does not exist but some attribute of having accumulated actions does exist because the acted-upon-object, the collection of the aggregates, does not exist; because the agent, the self, does not exist.
+*Response:* The subject - objects of knowledge - it follows that it is not the case that the agent does not exist but some attribute of having accumulated actions does exist because the acted-upon-object, the collection of the aggregates, does not exist; because the agent, the self, does not exist.
 
 ཁྱབ་སྟེ། ལས་སུ་བྱ་བ་ནི་བྱེད་པ་པོ་ལ་ལྟོས་ནས་འཇོག་དགོས་པའི་ཕྱིར།
 There is pervasion because the acted-upon-object is necessarily posited in dependence upon the agent.

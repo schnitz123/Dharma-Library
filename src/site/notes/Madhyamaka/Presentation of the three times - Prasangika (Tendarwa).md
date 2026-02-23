@@ -105,4 +105,4 @@ Physical virtuous actions of body and speech exist because physical non-virtuous
 Moreover, it follows that the disintegratedness of virtuous actions is virtue because 1) that is past and 2) virtuous roots of the three times exist.
 
 ---
-Up a level: [[Madhyamaka/Presentation of the three times (Disintegratedness)\|Presentation of the three times (Disintegratedness)]]
+Up a level: [[Madhyamaka/Presentation of the three times (Disintegratedness) (Jetsunpa)\|Presentation of the three times (Disintegratedness) (Jetsunpa)]]

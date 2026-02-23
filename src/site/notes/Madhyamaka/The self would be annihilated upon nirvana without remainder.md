@@ -12,7 +12,14 @@ Moreover, it follows that when attaining nirvana without remainder, the continuu
 འཇིག་ལྟས་གང་དུ་བཟུང་བའི་ཡུལ་ཉིད་རྟག་ཆད་དུ་འཛིན་པ་མཐར་ལྟ་གཉིས་ཁྱོད་ཀྱིས་ཁས་བླངས་པའི་ཕྱིར།
 If accepted: The subject - Sammitīyā - it follows that you possess the view holding to the extreme of annihilation because 1) the self exists at that time and 2) you apprehend that the continuum of the self is severed at that time; because you assert that apprehending the object apprehended by the view of the transitory collection as permanent or annihilated are the views holding to extremes.
 
+---
+ཁ་ཅིག དངོས་སྨྲ་བས་ལྷག་མེད་མྱང་འདས་ཀྱི་ཚེ་བདག་རྒྱུན་ཆད་པར་ཁས་ལེན་ཟེར་ན། 
+*Someone says:* The Proponents of Things assert that the continuum of the self is severed upon nirvana without remainder.
 
+འོ་ན། དེའི་ཚེ་དེ་རྒྱུན་ཆད་པར་ཐལ། ཕུང་པོ་ལྔ་བདག་གང་ཞིག །དེའི་ཚེ་ཕུང་པོ་ལྔའི་རྒྱུན་ཆད་པའི་ཕྱིར། 
+ཞེས་པའི་ཐལ་འགྱུར་དེ་དངོས་སྨྲ་བ་ལ་གནོད་བྱེད་ཀྱི་ཐལ་འགྱུར་མ་ཡིན་པར་ཐལ། དེས་དེ་འདྲའི་ཐལ་འགྱུར་ལ་འདོད་ལན་དོན་འཐུན་ཐེབས་པའི་ཕྱིར་ཏེ། 
+དེས་ལྷག་མེད་མྱང་འདས་ཀྱི་ཚེ་བདག་རྒྱུན་ཆད་པར་ཁས་ལེན་པའི་ཕྱིར།
+*Jetsunpa:* In that case, it follows that the consequence "It follows that its continuum is severed at that time because 1) the five aggregates are the self and 2) the continuum of the five aggregates is severed at that time." is not a consequence that undermines the Proponents of Things because they have a factually concordant response to such a consequence; because they assert that the continuum of the self is severed upon nirvana without remainder.
 
 ---
 Next: [[Madhyamaka/Prior to that, previous lives would not be remembered\|Prior to that, previous lives would not be remembered]]

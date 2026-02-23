@@ -64,7 +64,7 @@ The subject - the awareness realising selflessness without adherence to observed
 
 ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་པོ་འདི་རྣམས་ཀྱི་མཚན་ཉིད་སྔར་བཤད་པ་འདི་དག་ཆོས་ཅན། 
 རང་དགར་བཤད་པ་མ་ཡིན་ཏེ། དེ་ལྟར་ཡིན་པ་ཤེར་ཕྱིན་གྱི་མདོ་ལས་བརྗོད་པའི་ཕྱིར།
-The subject - the characteristics of these *six perfection* explained above - they are not carelessly explained because their being as such is stated in the Perfection of Wisdom sutras.
+The subject - the characteristics of these *six perfection* explained above - they are not explained arbitrarily because their being as such is stated in the Perfection of Wisdom sutras.
 
 བསམ་གཏན་བཞི་པོ་རྣམས་དང་ཚད་མེད་པ་བཞི་དང་དེ་བཞིན་དུ་དེ་གཉིས་ལས་གཞན་པ་གང་གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་བཞི་པོ་དེ་དག་ཆོས་ཅན། 
 ཡང་དག་མཁྱེན་པ་རྒྱལ་བ་ཡིས་མི་འཁྲུག་པ་ཁྲོ་བ་མེད་པའི་མཚན་ཉིད་ཅན་དུ་གསུངས་པ་ཡིན་ཏེ། 

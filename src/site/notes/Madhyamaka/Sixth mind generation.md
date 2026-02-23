@@ -716,6 +716,12 @@ And they also easily engage in suchness; therefore, in this context, its establi
 
 ཀུན་རྫོབ་དེ་ཉིད་གཤོག་ཡངས་དཀར་པོ་རྒྱས་གྱུར་པ། །ངང་པའི་རྒྱལ་པོ་དེ་ནི་སྐྱེ་བོའི་ངང་པ་ཡིས། །
 མདུན་དུ་བདར་ནས་དགེ་བའི་རླུང་གི་ཤུགས་སྟོབས་ཀྱིས། །རྒྱལ་བའི་ཡོན་ཏན་རྒྱ་མཚོའི་ཕ་རོལ་མཆོག་ཏུ་འགྲོ། །
+That king of swans who spreads his vast white wings - the conventional and suchness - 
+Is ushered forward by ordinary swans and
+Through the force of the wind of virtue
+Proceeds to the supreme far shore of the ocean of a Conqueror's qualities. [6.226]
+{ #70b5b4}
+
 
 དབུ་མ་ལ་འཇུག་པ་ལས་སེམས་བསྐྱེད་པ་དྲུག་པའོ།། །།
 

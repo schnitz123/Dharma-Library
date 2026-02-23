@@ -3,7 +3,7 @@
 ---
 
 མཐུན་དཔེར་བཟུང་བ། མཐུན་དཔེའི་མཚན་ཉིད།
-**Definition of similar case:** That held as a similar example.
+**Definition of similar example:** That held as a similar example.
 
 If it is selfless, it is pervaded by being a similar example.
 
