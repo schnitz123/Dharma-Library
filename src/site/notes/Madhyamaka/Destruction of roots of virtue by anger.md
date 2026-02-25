@@ -47,6 +47,23 @@ Alternatively, inferred based on the scriptures quoted in 1 and 4, such that:
 - Root virtues' potency to issue forth pleasant results being mostly destroyed is a "complete elimination" or great exhaustion.
 - An elimination that is between those two is a middling exhaustion.
 
+---
+དགེ་རྩ་འཇོམས་པ་ལ་མི་བཟོད་པ་ཁོང་ཁྲོ་ལས་གཞན་པའི་སྡིག་པ་སྟོབས་ཆེ་བ་ཡོད་པ་མ་ཡིན་ཏེ། རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་བྱང་སེམས་བདག་ཉིད་ཆེན་པོ་རང་ལས་བློ་དམན་པའི་རྒྱལ་སྲས་རྣམས་ལ་ཁྲོས་པ་ཡི་ཁྲོ་སེམས་སྐད་ཅིག་མ་གཅིག་གིས་སྦྱིན་པ་དང་ཚུལ་ཁྲིམས་གོམས་པ་ལས་བྱུང་བའི་བསོད་ནམས་ཀྱི་ཚོགས་ཀྱིས་བསྡུས་པའི་དགེ་རྩ་བསྐལ་བ་བརྒྱར་བསགས་པ་འཇོམས་པ་དེའི་ཕྱིར། 
+**(Gomde:)** In terms of destroying root-virtues, there is no greater negativity that impatience and anger because a single moment of an angry mind by a great bodhisattva towards an inferior conqueror child destroys the root-virtues included in the collection of merit arisen from familiarisation with generosity and ethics accumulated over a hundred eons.
+
+སྤྱོད་འཇུག་ཏུ། བསྐལ་བ་སྟོང་གི་དགེ་རྩ་འཇོམས་པར་གསུངས་པ་ནི་བྱང་སེམས་མ་ཡིན་པས་བྱང་སེམས་ལ་ཁྲོས་པའི་དབང་དུ་བྱས་པ་ཡིན་ནོ།
+The Bodhisattvacaryavatara saying that a thousand eons of root-virtues is destroyed is referring to a non-bodhisattva getting angry with a bodhisattva.
+
+ཁ་ཅིག་ན་རེ། ཐེག་ཆེན་སྦྱོར་ལམ་དུ་མྱུར་དུ་འཕོ་ནུས་པ་ཞིག་གིས་ལུང་བསྟན་ཐོབ་པའི་བྱང་སེམས་ལ་ཁྲོས་པས་དགེ་རྩ་འཇོམས་པར་བཤད་པ་མི་འཐད་པར་ཐལ། 
+ཐེག་ཆེན་ཚོགས་ལམ་ཆེན་པོ་བའི་རྒྱུད་ལ་ཁོང་ཁྲོ་མེད་པའི་ཕྱིར་ཏེ། 
+དེ་ཡིན་ན། བསམ་གཏན་གྱི་དངོས་གཞི་སྙོམས་འཇུག་ཐོབ་ལ་མ་ཉམས་པའི་གང་ཟག་ཡིན་དགོས་པའི་ཕྱིར་ན།
+*Someone says:* It follows that the explanation that root-virtues are destroyed by [a bodhisattva] who is quickly able to enter the Mahayana path of preparation getting angry at a bodhisattva who has attained a prophesy is incorrect because there is no anger in the continuum of someone on the Mahayana great path of accumulation; because if it is that, then they are necessarily a person that has attained and not degenerated a meditative absorption of an actual concentration.
+
+མ་ཁབ་སྟེ། ཐེག་ཆེན་ཚོགས་ལམ་ཆེན་པོ་བའི་རྒྱུད་ལ་ཁོང་ཁྲོ་ཡོད་པར་ཐལ། ཐེག་ཆེན་སྦྱོར་ལམ་དྲོད་པ་བའི་རྒྱུད་ལ་ཁོང་ཁྲོ་ཡོད་པའི་ཕྱིར།
+*Response:* No pervasion. It follows that there is anger in the continuum of someone on the Mahayana great path of accumulation because there is anger in the continuum of someone on the heat level of the Mahayana path of preparation.
+
+མ་གྲུབ་ན། དེར་ཐལ། དཔེར་ན་འདམ་བུའི་ཚལ་དེ་མེས་ཚིག་པར་སླ་བ་བཞིན་དུ་ཐེག་ཆེན་སྦྱོར་ལམ་དྲོད་པ་བའི་རྒྱུད་ཀྱི་དགེ་རྩ་ཡང་ཁོང་ཁྲོས་འཇོམས་པར་སླ་བ་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ལྟར་དུ་དཔེ་དོན་སྦྱར་ནས་ཡུམ་གྱི་མདོ་ལས་གསུངས་པའི་ཕྱིར།
+If reason not established: That follows because, for example, just like a reed forest is easily burnt by fire, the root-virtues in the continuum of someone on the heat level of the Mahayana path of preparation is easily destroyed by anger; because that is explained in the Mother Sutras through connecting those as example and meaning.
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Madhyamaka#^7b047e\|Madhyamaka]]

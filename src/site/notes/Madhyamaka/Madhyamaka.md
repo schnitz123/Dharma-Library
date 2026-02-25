@@ -27,17 +27,29 @@
 	- [[Madhyamaka/Division of four truths into coarse and subtle\|Division of four truths into coarse and subtle]]
 	- [[Madhyamaka/Both conceptions of self are afflictive obscurations\|Both conceptions of self are afflictive obscurations]]
 	- [[Madhyamaka/Hinayana Nirvana with and without remainder\|Hinayana Nirvana with and without remainder]]
+- [[Madhyamaka/Bodhisattva generosity (Gomde)\|Bodhisattva generosity (Gomde)]]
 
 **SECOND MIND GENERATION**
+{ #6c8891}
+
 - [[Madhyamaka/Surpassing ethics on the second ground\|Surpassing ethics on the second ground]]
 
-**THIRD MIND GENERATION**
+**THIRD MIND GENERATION** 
+{ #7b047e}
+
 - [[Madhyamaka/Obscurations and their abandonment\|Obscurations and their abandonment]]
 - [[Madhyamaka/Etymology for third ground\|Etymology for third ground]]
+- [[Madhyamaka/Surpassing patience on the third ground (Gomde)\|Surpassing patience on the third ground (Gomde)]]
 - Destruction of root virtues by anger:
 	- [[Madhyamaka/Two sutra quotes\|Two sutra quotes]]
 	- [[Madhyamaka/Debates over the meaning\|Debates over the meaning]]
 	- [[Madhyamaka/Destruction of roots of virtue by anger\|Destruction of roots of virtue by anger]]
+
+[[Madhyamaka/Discussion on first three grounds (Gomde)\|Discussion on first three grounds (Gomde)]]
+{ #cc82dc}
+
+
+Fourth ground G59
 
 **SIXTH MIND GENERATION**
 { #d08963}
@@ -107,7 +119,21 @@
 
 
 **SEVENTH MIND GENERATION**
-G230
+{ #8a564d}
+
+- [[Madhyamaka/Seventh ground (Gomde)\|Seventh ground (Gomde)]]
+
+**EIGHTH MIND GENERATION**
+{ #1e3b00}
+
+- [[Madhyamaka/Surpassing prayers and arising from cessation (Gomde)\|Surpassing prayers and arising from cessation (Gomde)]]
+- [[Madhyamaka/Indicating that all afflictions have been exhausted (Gomde)\|Indicating that all afflictions have been exhausted (Gomde)]]
+- [[Madhyamaka/Attainment of the ten powers (Gomde)\|Attainment of the ten powers (Gomde)]]
+
+**NINTH MIND GENERATION**
+{ #b057b2}
+
+- [[Madhyamaka/Ninth ground (Gomde)\|Ninth ground (Gomde)]]
 
 **RESULTANT GROUND**
-J410
+J410 G247

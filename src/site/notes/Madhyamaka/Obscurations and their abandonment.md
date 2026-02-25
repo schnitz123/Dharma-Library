@@ -41,9 +41,4 @@ See: [[Preliminaries/Collected Topics/Established Base#^0cfa2a\|Contaminated/Unc
 See: [[Madhyamaka/Obscurations in Hinayana\|Obscurations in Hinayana]]
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
-
-
-
-
-  
+Up a level: [[Madhyamaka/Madhyamaka#^7b047e\|Madhyamaka]]

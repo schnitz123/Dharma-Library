@@ -15,4 +15,4 @@ Therefore, the subject - the second ground Bodhisattva - they are not a person v
 
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Madhyamaka#^6c8891\|Madhyamaka]]

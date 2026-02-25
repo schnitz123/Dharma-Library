@@ -83,10 +83,12 @@ The Desire Realm attachment of the worldly. [3.11]
 
 །སྦྱིན་སོགས་ཆོས་གསུམ་དེ་དག་ཕལ་མོ་ཆེར། །བདེ་བར་གཤེགས་པས་ཁྱིམ་པ་རྣམས་ལ་བསྔགས། 
 །བསོད་ནམས་ཞེས་བྱའི་ཚོགས་ཀྱང་དེ་དག་ཉིད། །སངས་རྒྱས་གཟུགས་ཀྱི་བདག་ཉིད་སྐུ་ཡི་རྒྱུ།
-The Sugatas mostly praised these three Dharmas,
+The Sugatas mostly recommended these three Dharmas,
 Generosity and so forth, for lay people;
 Moreover, the collection called “merit” is just these,
 The cause of the Buddha’s Form Body. [3.12]
+{ #1b3ae1}
+
 
 །རྒྱལ་བའི་སྲས་པོ་ཉི་མ་ལ་གནས་འོད་བྱེད་འདི། །རང་གཏོགས་མུན་རྣམས་དང་པོ་ཡང་དག་བསལ་བྱས་ནས། 
 །འགྲོ་བའི་མུན་པ་རྣམ་པར་འཇོམས་པར་མངོན་པར་འདོད། །ས་འདིར་ཤིན་ཏུ་རྣོ་བར་གྱུར་ཀྱང་ཁྲོ་མི་འགྱུར།

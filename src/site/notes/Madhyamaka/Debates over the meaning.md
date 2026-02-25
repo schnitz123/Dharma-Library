@@ -39,4 +39,4 @@ The previous will ripen [first].
 This is incorrect.
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Madhyamaka#^7b047e\|Madhyamaka]]

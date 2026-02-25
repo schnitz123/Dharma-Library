@@ -31,7 +31,7 @@
 
 
 ཁོ་ན་རེ། བདག་རང་བཞིན་གྱིས་མེད་ཀྱང་བདག་གི་བ་རང་བཞིན་གྱིས་ཡོད་དོ་ཞེ་ན།
-Someone says: Although the self does not inherently exist, the mine inherently exists!
+Someone says: Although the self does not inherently exist, the mine inherently exists.
 
 ཤེས་བྱ་ཆོས་ཅན། རང་བཞིན་གྱིས་གྲུབ་པ་མེད་པར་བདག་གི་བ་རང་བཞིན་གྱིས་གྲུབ་པ་ཡོད་པ་མ་ཡིན་ཏེ། 
 རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་བྱེད་པ་པོ་རྫ་མཁན་མེད་པ་ཅན་ཡིན་ན་ལས་སུ་བྱ་བ་རྫ་བུམ་ཡང་མེད་དགོས་པ་དེའི་ཕྱིར།

@@ -44,12 +44,14 @@ Only the fourth is fully qualified (མཚན་ཉིད་ཚང་བ།).
 - Vaibhashika:
 	- Substantial existents are mutually inclusive with ultimate truths
 	- Imputed existents are mutually inclusive with conventional truths
-- Sautantrika / Cittamatra / Svatantrika: imputed = non-concom + permanent,
+- Sautantrika / Cittamatra / Svatantrika:
 	- Substantial existents: Impermanent included within forms and consciousnesses
 	- Imputed existents: 
 		- Impermanent included within non-concomitant compositional factors
 		- Permanent phenomena
 - Prasangika: All phenomena are imputed existents
+	- Coarse: e.g. the person being designated in dependence upon its aggregates
+	- Subtle: e.g. the person (designated-phenomenon) not being findable upon seeking it within its basis of designation, but still existing through being merely designated by conceptuality
 
 ---
 Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]

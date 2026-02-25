@@ -10,4 +10,4 @@ The subject - the third Bodhisattva ground - there is a reason for referring to 
 
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Madhyamaka#^7b047e\|Madhyamaka]]
