@@ -135,5 +135,14 @@ Fourth ground G59
 
 - [[Madhyamaka/Ninth ground (Gomde)\|Ninth ground (Gomde)]]
 
+**TENTH MIND GENERATION**
+{ #41f463}
+
+- [[Madhyamaka/Tenth ground (Gomde)\|Tenth ground (Gomde)]]
+
+[[Madhyamaka/Unique qualities of the ten grounds (Gomde)\|Unique qualities of the ten grounds (Gomde)]]
+{ #c551f3}
+
+
 **RESULTANT GROUND**
-J410 G247
+J410 G253

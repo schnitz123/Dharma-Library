@@ -38,4 +38,6 @@ The subject - objects of knowledge - you Madhyamikas are not only just nihilists
 
 
 ---
+Response: [[Madhyamaka/Indicating the response that there is no similar fault for us\|Indicating the response that there is no similar fault for us]]
+
 Up a level: [[Madhyamaka/Extrapolating the analysis of the self and the chariot to other things (Gomde)#^cbf16f\|Extrapolating the analysis of the self and the chariot to other things (Gomde)]]

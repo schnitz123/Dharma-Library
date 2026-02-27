@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/madhyamaka/indicating-the-response-that-there-is-no-similar-fault-for-us/"}
 ---
 
+*Objection:* [[Madhyamaka/The objection of similar fault wrt the refutation of cause and effect lacking true establishment\|The objection of similar fault wrt the refutation of cause and effect lacking true establishment]]
+
 ཤེས་བྱ་ཆོས་ཅན། སུན་འབྱིན་གྱིས་སུན་དབྱུང་བྱ་དེ་ཕྲད་ནས་སུན་འབྱིན་ནམ། འོན་ཏེ་མ་ཕྲད་པར་སུན་འབྱིན་ཞེས་བརྟག་ནས་ཕྱོགས་གཉིས་ཀ་ལ་སྐྱོན་བསྟན་པའི་ཐལ་བར་འགྱུར་བ་འདི་ནི་བདག་དབུ་མ་པ་ལ་འཇུག་པ་སྲིད་པ་མ་ཡིན་ཏེ། དབུ་མ་པས་སུན་འབྱིན་བས་སུན་དབྱུང་བྱ་དངོས་སྨྲ་བའི་དམ་བཅའ་དང་ཕྲད་ནས་སུན་འབྱིན་པར་
 བྱེད་དམ། འོན་ཏེ་མ་ཕྲད་པར་སུན་འབྱིན་པ་ཡིན་ཞེས་སྔར་སྨྲས་ཟིན་པའི་ཉེས་པ་ནི་འདིར་རྒལ་བ་གང་ལ་ངེས་པར་ཕྱོགས་ཡོད་པ་སྟེ་རང་བཞིན་གྱིས་གྲུབ་པའི་དོན་དམ་བཅའ་བ་དེ་ལ་སྐྱོན་དུ་འགྱུར་གྱི་བདག་དབུ་མ་པ་ལ་རང་བཞིན་གྱིས་གྲུབ་པའི་དོན་དམ་བཅའ་བའི་ཕྱོགས་འདི་ནི་ཡོད་པ་མ་ཡིན་པ་དེས་ནའི་ཕྱིར།
-The subject - objects of knowledge - the consequence of indicating that when investigating whether or not the refutation refutes its refuted-object through meeting it or not, the fault applies to both positions cannot possibly apply to us Madhyamikas because the previously stated fault (regarding whether the Madhyamika refutation refutes its refuted-object, i.e. the Proponents of Things' assertions, through meeting with that or not) only becomes a fault for the opponent whose position is the assertion of inherently established objects; whereas we Madhyamikas are not a position asserting inherently established objects.
+*Response:* The subject - objects of knowledge - the consequence of indicating that when investigating whether or not the refutation refutes its refuted-object through meeting it or not, the fault applies to both positions cannot possibly apply to us Madhyamikas because the previously stated fault (regarding whether the Madhyamika refutation refutes its refuted-object, i.e. the Proponents of Things' assertions, through meeting with that or not) only becomes a fault for the opponent whose position is the assertion of inherently established objects; whereas we Madhyamikas are not a position asserting inherently established objects.
 
 མདོར་ན། རང་བཞིན་གྱིས་གྲུབ་པ་ཁས་ལེན་པའི་ཕྱོགས་ལ་ཕྲད་མ་ཕྲད་དཔྱད་ནས་གནོད་བྱེད་འཇུག་ལ། 
 དེ་ཁས་མི་ལེན་པའི་ཕྱོགས་ལ་དཔྱད་པ་དེ་མི་འཇུག་པས་མི་མཚུངས་ཞེས་པའོ།
@@ -16,7 +18,7 @@ In short, the fault applies through analysing meeting or not meeting the positio
 The subject - objects of knowledge - an example for the feasibility of the presentation of signs and signifiers wrt things lacking inherent existence because, for example, even according to you, in dependence upon seeing the sun reflecting in water and one's reflection in a mirror, one will see the attributes of the sun in the sky and one's face, such as the sun being eclipsed and one's face being dirty.
 
 གཟུགས་བརྙན་གཉིས་པོ་དེ་ཆོས་ཅན། བརྟགས་དོན་བཙལ་བའི་ཚེ་མེད་ཀྱང་ཐ་སྙད་ཙམ་དུ་ཡོད་དེ། ཉི་མ་དང་བྱད་བཞིན་དང་ནི་དེ་དག་གི་གཟུགས་བརྙན་རྣམ་པར་ཕྲད་པ་དང་མ་ཕྲད་པར་སྐྱེ་ཞེས་བཏགས་དོན་བཙལ་བ་ན་སྐྱེ་བ་མི་རིགས་མོད་ཀྱི། འོན་ཀྱང་། ཉིེ་མ་དང་བྱད་བཞིན་ལ་བརྟེན་ནས་ཐ་སྙད་ཀྱི་དབང་གིས་བཞག་པའི་གཟུགས་བརྙན་ཙམ་ཞིག་འབྱུང་བར་འགྱུར་བ་བསྙོན་དུ་མེད་པའི་ཕྱིར།
-The subject - those two reflections - although they do not exist when the designated-object is sought, they exist merely conventionally because when seeking the designated-object (thinking, "Are the sun, face, and their reflections produced upon meeting or not?") their production is illogical, nevertheless, it is undeniable that mere reflections posited through the force of conventions in dependence upon the sun and the face do arise.
+The subject - those two reflections - although they do not exist when the designated-object is sought, they exist merely conventionally because when seeking the designated-object (thinking, "Are the sun, face, and their reflections produced upon meeting or not?") their production is not feasible, nevertheless, it is undeniable that mere reflections posited through the force of conventions in dependence upon the sun and the face do arise.
 
 ཕྱི་མ་འདི་བདེན་མེད་ལ་སྐྱེད་བྱ་སྐྱེད་བྱེད་འཐད་པའི་དཔེ་ཡིན་ནོ། 
 The latter is the example for the suitability of product and producer among things lacking true existence.

@@ -3,7 +3,7 @@
 ---
 
 གལ་ཏེ་ཕུང་པོ་བདག་ཡིན་ན། །སྐྱེ་དང་འཇིག་པ་ཅན་དུ་འགྱུར། །གལ་ཏེ་ཕུང་པོ་རྣམས་ལས་གཞན། །ཕུང་པོའི་མཚན་ཉིད་མེད་པར་འགྱུར། །
-If the aggregates are the self, then it would possess production and disintegration;
+If the aggregates were the self, then it would possess production and disintegration;
 If it were different from the aggregates, then it would not possess the characteristics of the aggregates. [1]
 *Given to Tsongkhapa in a dream.*
 
