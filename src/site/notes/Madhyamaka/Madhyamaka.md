@@ -145,4 +145,9 @@ Fourth ground G59
 
 
 **RESULTANT GROUND**
-J410 G253
+{ #a858da}
+
+- [[Madhyamaka/Debates on omniscience\|Debates on omniscience]]
+- [[Madhyamaka/Way of attaining Buddhahood (Gomde)\|Way of attaining Buddhahood (Gomde)]]
+- Presentation of the Buddha's Bodies and Qualities 258
+
