@@ -155,7 +155,7 @@ By what means should one guide him
 To the excellent path that pleases you? [25]
 
 རང་བཞིན་བཅོས་མིན་ལྟོས་མེད་དང༌། །རྟེན་འབྲེལ་ལྟོས་དང་བཅོས་མ་གཉིས། །ཇི་ལྟ་བུ་ན་གཞི་གཅིག་ལ། །མི་འགལ་འདུ་བ་ཉིད་དུ་འགྱུར། །
-Intrinsic nature, uncreated and non-contingent, 
+Nature, unfabricated and non-reliant, 
 Dependent origination, contingent and created – 
 How can these two converge  
 Upon a single basis without contradiction? [26]

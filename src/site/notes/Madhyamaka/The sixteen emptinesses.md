@@ -6,7 +6,7 @@
 2. [[Madhyamaka/Emptiness of the outer\|Emptiness of the outer]] ཕྱི་སྟོང་ཉིད།
 3. [[Madhyamaka/Emptiness of the inner and outer\|Emptiness of the inner and outer]] ཕྱི་ནང་སྟོང་ཉིད།
 4. [[Madhyamaka/Emptiness of emptiness\|Emptiness of emptiness]] སྟོང་པ་ཉིད་སྟོང་ཉིད།
-5. [[Madhyamaka/Emptiness of the great\|Emptiness of the great]] ཆེནཔོ་སྟོང་ཉིད།
+5. [[Madhyamaka/Emptiness of the great\|Emptiness of the great]] ཆེན་པོ་སྟོང་ཉིད།
 6. [[Madhyamaka/Emptiness of the ultimate\|Emptiness of the ultimate]] དོན་དམ་པ་སྟོང་ཉིད།
 7. [[Madhyamaka/Emptiness of the compounded\|Emptiness of the compounded]] འདུས་བྱས་སྟོང་ཉིད།
 8. [[Madhyamaka/Emptiness of the uncompounded\|Emptiness of the uncompounded]] འདུས་མ་བྱས་སྟོང་ཉིད།

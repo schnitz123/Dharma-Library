@@ -40,9 +40,13 @@ That follows because sutras indicating those are Mahayana sutras.
 { #56cfae}
 
 
-[[Madhyamaka/The four emptinesses\|The four emptinesses]]
+The four emptinesses:
 { #32cb7f}
 
+1. [[Madhyamaka/Emptiness of things\|Emptiness of things]] 
+2. [[Madhyamaka/Emptiness of non-things\|Emptiness of non-things]] 
+3. [[Madhyamaka/Emptiness of own-nature\|Emptiness of own-nature]]
+4. [[Madhyamaka/Emptiness of other-nature\|Emptiness of other-nature]] 
 
 སྟོང་ཉིེད་ཀྱི་དབྱེ་བ་དང་། སྟོང་ཚུལ་དེ་དག་ནི་ཆོས་ཅན། རང་དགར་བཤད་པ་མ་ཡིན་ཏེ། 
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ཚུལ་ལུགས་སྟོན་པའི་མདོ་ལས་འདིར་བཤད་པ་དེ་སྐད་དུ་རབ་ཏུ་བསྒྲགས་པ་སྟེ་བཤད་པ་ཡིན་པའི་ཕྱིར་རོ།

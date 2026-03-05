@@ -2,6 +2,22 @@
 {"dg-publish":true,"permalink":"/preliminaries/tenets/objects-of-negation/"}
 ---
 
+**Vaibhashika + Sautrantika:**
+
+*Self of persons:*
+- Coarse: Permanent, unitary, independent self རྟག་གཅིག་རང་དབང་ཅན་གྱི་བདག
+- Subtle: Self-sufficient substantially existent self རང་རྐྱ་ཐུབ་པའི་རྫས་ཡོད་ཀྱི་བདག
+
+Self in relation to pot: The pot being the utilised-object of a self-sufficient substantially existent person.
+
+It follows that they assert a *self of phenomena* because: དེས་ཆོས་བདག་ཁས་ལེན་པར་ཐལ། 
+1. They assert forms as truly established དེས་གཟུགས་བདེན་གྲུབ་ཏུ་ཁས་ལེན། 
+2. They assert forms as external objects དེས་གཟུགས་ཕྱི་རོལ་དོན་དུ་ཡང་ཁས་ལེན། 
+3. They assert form to be established by own-character as the conception-basis for the conception apprehending form གཟུགས་གཟུགས་འཛིན་རྟོག་པའི་ཞེན་གཞིར་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་ཡང་ཁས་ལེན་པ་གང་ཞིག 
+
+And no self of phenomena other than these is explained. དེ་དག་ལས་གཞན་པའི་ཆོས་བདག་མ་བཤད་པའི་ཕྱིར།
+
+---
 **Cittamatra:**
 
 གཟུགས་གཟུགས་འཛིན་དབང་ཤེས་དང་རྫས་གཞན་དུ་གྲུབ་པ།
