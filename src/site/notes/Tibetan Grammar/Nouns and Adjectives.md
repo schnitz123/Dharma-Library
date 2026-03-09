@@ -34,7 +34,7 @@ Nouns and adjectives are considered to naturally be in the [[First Case\|First C
 1. Connected with verbs བྱ་ཚིག་དང་འབྲེལ་བའི་མིང་།
 2. Not connected with verbs (proper names) མིང་རྐྱང་སྟེ་བྱ་ཚིག་དང་མ་འབྲེལ་བའི་མིང་།
 
-Illustrations of the first are: thought (*བསམ*་པ།) shop (*ཚོང*་ཁང་།) studies (*སློབ་སྦྱོང་།*) view (*ལྟ*་བ།) meditation (*སྒོམ*་པ།) activities (*སྤྱོད*་པ།)
+Illustrations of the first are: thought (བསམ་པ།) shop (ཚོང་ཁང་།) studies (སློབ་སྦྱོང་།) view (ལྟ་བ།) meditation (སྒོམ་པ།) activities (སྤྱོད་པ།)
 These are formed using verbs.
 
 Illustrations of the second are: good (བཟང་པོ།) root (རྩ་བ།) subtle (ཕྲ་མོ།) teashop (ཇ་ཁང་།) pot (བུམ་པ།)
@@ -42,8 +42,8 @@ These are not formed using verbs and as such are “exclusively” nouns and adj
 
 ---
 **Ways of forming nouns and adjectives:**
-- Using the [[nominalising particles\|nominalising particles]] པ། བ། པོ། བོ། མ། མོ། as a root part of the word
-- Nouns created using the above six plus ཅན། མཁན། ལྡན། (བདག་སྒྲ།)
+- Using the [[Nominalising Particles\|Nominalising Particles]] པ། བ། པོ། བོ། མ། མོ། as a root part of the word
+- Nouns created using the above six plus ཅན། མཁན། ལྡན། ([[Possession Particles\|Possession Particles]])
 - Adjectives created using the particles ཅན། ལྡན། བཅས། ཡོད། མེད།
 
 ---

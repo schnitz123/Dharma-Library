@@ -3,7 +3,7 @@
 ---
 
 ཆོས་དེ་ཁྱད་ཆོས་ལྟ་བུར་སྟོན་པའི་མཉན་བྱ། ཆོས་དེ་ལ་ལྟོས་པའི་ཆོས་བརྗོད་ཀྱི་སྒྲའི་མཚན་ཉིད། 
-**Definition of Adjective:** An object of hearing indicating a phenomenon as an attributes.
+**Definition:** An object of hearing indicating a phenomenon as an attributes.
 
 མཚན་གཞི་ནི། ཆེན་པོ། བཟང་པོ། རྣོན་པོ། རིང་པོ། ཕྲ་མོ། རྒྱས་པོ། བསྡུས་པོ།
 **Illustrations:** Big, good, sharp, long, subtle, vast, succinct
