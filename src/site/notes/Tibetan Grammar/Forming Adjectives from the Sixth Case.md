@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tibetan-grammar/forming-adjectives-from-the-sixth-case/"}
 ---
 
-As opposed to the previous two categories that are postpositional, here the [[Sixth Case\|Sixth Case]] is used to create a prepositional adjective.
+As opposed to the previous two categories that are postpositional, here the [[Tibetan Grammar/The Sixth Case – Connective\|Sixth Case]] is used to create a prepositional adjective.
 
 **Illustrations:**
 - Connecting two nouns: 

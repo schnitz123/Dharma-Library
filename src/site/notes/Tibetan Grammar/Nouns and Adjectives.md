@@ -9,7 +9,7 @@
 1. [[Tibetan Grammar/Adjectives\|Adjectives]] ཆོས་བརྗོད་པའི་མིང་།
 2. [[Tibetan Grammar/Nouns\|Nouns]] ཆོས་ཅན་བརྗོད་པའི་མིང་།
 
-Nouns and adjectives are considered to naturally be in the [[First Case\|First Case]].
+Nouns and adjectives are considered to naturally be in the [[Tibetan Grammar/The First Case – Nominative\|First Case]].
 
 **Their difference:**
 - Adjectives make one understand the meaning wrt which they become an adjective by way of eliminating other attributes

@@ -10,7 +10,7 @@ Common adjectives have three forms: regular, comparative, and superlative.
 
 Superlative works the same as the common adjective.
 
-Comparatives use the [[Fifth Case\|Fifth Case]] (usually the ལས་སྒྲ།) to mark what they are whiter, longer, etc. than. 
+Comparatives use the [[Tibetan Grammar/The Fifth Case – Origin\|Fifth Case]] (usually the ལས་སྒྲ།) to mark what they are whiter, longer, etc. than. 
 
 **Illustrations:**
 - Bigger than that house ཁང་པ་དེ་ལས་ཆེ་བ།

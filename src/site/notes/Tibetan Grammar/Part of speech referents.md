@@ -31,10 +31,10 @@ In order to refer to specific parts of a sentence, these referents are formed in
 	- *Where an agent never appears*
 	  e.g. Rain fell (ཆར་པ་བབས།) and the sun rose (ཉི་མ་ཤར།) can have no rainer (བབས་པ་པོ།) or riser (ཤར་བ་པོ།)
 	- *Where a separate agent does not appear / Verbs of motion*
-	  e.g. Tashi went to the east (བཀྲ་ཤིས་ཤར་ཕྱོགས་སུ་འགྲོ།): Tashi is considered both the agent of going (འགྲོ་བ་པོ།) and the object / that which goes (འགྲོ་བྱ།), but is more strongly considered to be the latter (therefore, not being marked with a [[Third Case\|Third Case]])
+	  e.g. Tashi went to the east (བཀྲ་ཤིས་ཤར་ཕྱོགས་སུ་འགྲོ།): Tashi is considered both the agent of going (འགྲོ་བ་པོ།) and the object / that which goes (འགྲོ་བྱ།), but is more strongly considered to be the latter (therefore, not being marked with a [[Tibetan Grammar/The Third Case – Agentive\|Third Case]])
 - Verbs [[Tibetan Grammar/Connected with an agent\|connected with an agent]]:
 	- *Where the acted-upon object remains unaffected*
-	  e.g. Tashi looked at the flower (བཀྲ་ཤིས་ཀྱིས་མེ་ཏོག་ལ་བལྟས།): the flower is considered both the object to be looked at (བལྟ་བྱ།) and the indirect object of looking (བལྟ་ཡུལ།), but is more strongly considered to be the latter (therefore, being marked with a [[Second Case\|Second Case]])
+	  e.g. Tashi looked at the flower (བཀྲ་ཤིས་ཀྱིས་མེ་ཏོག་ལ་བལྟས།): the flower is considered both the object to be looked at (བལྟ་བྱ།) and the indirect object of looking (བལྟ་ཡུལ།), but is more strongly considered to be the latter (therefore, being marked with a [[Tibetan Grammar/The Second Case – Objective\|Second Case]])
 
 ---
 Up a level: [[Tibetan Grammar/Tibetan Grammar\|Tibetan Grammar]]
