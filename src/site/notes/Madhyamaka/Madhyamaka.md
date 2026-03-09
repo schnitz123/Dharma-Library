@@ -150,5 +150,14 @@ Fourth ground G59
 - [[Madhyamaka/Debates on omniscience\|Debates on omniscience]]
 - [[Madhyamaka/Way of attaining Buddhahood (Gomde)\|Way of attaining Buddhahood (Gomde)]]
 - [[Madhyamaka/Presentation of the Buddha's Bodies (Gomde)\|Presentation of the Buddha's Bodies (Gomde)]]
-- Presentation of the Buddha's Qualities (Gomde) 264
+- [[Madhyamaka/Presentation of the Buddha's Qualities (Gomde)\|Presentation of the Buddha's Qualities (Gomde)]]
+- [[Madhyamaka/Emanation Body (Gomde)\|Emanation Body (Gomde)]]
+- [[Madhyamaka/Establishing one vehicle (Gomde)\|Establishing one vehicle (Gomde)]]
+
+**END MATTER**
+{ #099ab2}
+
+- [[Madhyamaka/Composition of the treatise (Gomde)\|Composition of the treatise (Gomde)]]
+- [[Madhyamaka/Dedication (Gomde)\|Dedication (Gomde)]]
+- [[Madhyamaka/Author and Translator (Gomde)\|Author and Translator (Gomde)]]
 

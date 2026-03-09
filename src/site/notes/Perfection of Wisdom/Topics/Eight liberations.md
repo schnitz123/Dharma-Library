@@ -20,4 +20,6 @@ See: [[Perfection of Wisdom/Topics/Paths of happily abiding in this life\|Paths 
 
 
 ---
+Related: [[Perfection of Wisdom/Topics/Supramundane paths\|Nine serial absorptions]]
+
 Up a level: [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]]
