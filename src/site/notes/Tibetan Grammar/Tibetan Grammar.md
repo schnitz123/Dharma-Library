@@ -11,7 +11,3 @@ Terms / phrases / syllables (མིང་ཚིག་ཡི་གེ་གསུ
 2. Grammar particles and cases ཕྲད་དང་རྣམ་དབྱེའི་ཚོགས།
 3. [[Tibetan Grammar/Verbs\|Verbs]] བྱ་ཚིག་གི་ཚོགས།
 
-
-
-
-[[Tibetan Grammar/Core lexical categories\|Core lexical categories]]
