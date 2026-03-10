@@ -4,7 +4,7 @@
 
 ཚིག་ཕྲད་ཀྱི་གོ་དོན་ནི། ཚོགས་གསུམ་གང་རུང་གི་ཐོག་མཐའ་བར་གསུམ་ཅི་རིགས་ཀྱི་གནས་སུ་སྒྲ་དེ་སྦྱར་ན་དོན་ཞིག་སྟོན་ལ།
 དེ་ལྟར་མ་སྦྱར་བའི་སྒྲ་རྐྱང་པ་དེས་དོན་གསལ་པོ་གང་ཡང་མི་སྟོན་པའོ།
-**Understood meaning:** A term (སྒྲ།) that indicates [some] meaning when affixed to the beginning, middle or end of any of the three collections, but does not indicate any clear meaning by itself when not affixed in such a way.
+**Understood meaning:** A term that indicates [some] meaning when affixed to the beginning, middle or end of any of the three collections, but does not indicate any clear meaning by itself when not affixed in such a way.
 
 ཕྲད། ཚིག་ཕྲད། ཕྲད་ཀྱི་སྒྲ། are mutually inclusive.
 

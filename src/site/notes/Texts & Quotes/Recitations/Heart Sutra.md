@@ -9,6 +9,8 @@ Is unproduced, unceased, the nature of space,
 The object of one's self-aware exalted wisdom:
 I prostrate to the Mother of the Conquerors of the three times!
 
+(Composed by the Buddha's son Rāhula སྒྲ་གཅན་འཛིན།)
+
 ---
 འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། 
 Thus did I hear at one time,

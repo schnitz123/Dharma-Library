@@ -31,14 +31,14 @@ Nouns and adjectives are considered to naturally be in the [[Tibetan Grammar/The
 
 ---
 **Another division (for nouns and adjectives as a category):**
-1. Connected with verbs བྱ་ཚིག་དང་འབྲེལ་བའི་མིང་།
-2. Not connected with verbs (proper names) མིང་རྐྱང་སྟེ་བྱ་ཚིག་དང་མ་འབྲེལ་བའི་མིང་།
+1. *Connected with verbs* བྱ་ཚིག་དང་འབྲེལ་བའི་མིང་།
+   e.g. thought (བསམ་པ།) shop (ཚོང་ཁང་།) studies (སློབ་སྦྱོང་།) view (ལྟ་བ།) meditation (སྒོམ་པ།) activities (སྤྱོད་པ།)
+   These are formed using verbs.
+2. *Not connected with verbs (just a name)* མིང་རྐྱང་སྟེ་བྱ་ཚིག་དང་མ་འབྲེལ་བའི་མིང་།
+   e.g. good (བཟང་པོ།) root (རྩ་བ།) subtle (ཕྲ་མོ།) teashop (ཇ་ཁང་།) pot (བུམ་པ།)
+   These are not formed using verbs and as such are “exclusively” nouns and adjectives.
+{ #f8b931}
 
-Illustrations of the first are: thought (བསམ་པ།) shop (ཚོང་ཁང་།) studies (སློབ་སྦྱོང་།) view (ལྟ་བ།) meditation (སྒོམ་པ།) activities (སྤྱོད་པ།)
-These are formed using verbs.
-
-Illustrations of the second are: good (བཟང་པོ།) root (རྩ་བ།) subtle (ཕྲ་མོ།) teashop (ཇ་ཁང་།) pot (བུམ་པ།)
-These are not formed using verbs and as such are “exclusively” nouns and adjectives.
 
 ---
 **Ways of forming nouns and adjectives:**

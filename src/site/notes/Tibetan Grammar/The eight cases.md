@@ -12,6 +12,7 @@ i.e. indicating what is the agent, what is the object, and so forth.
 	- [[Tibetan Grammar/The Second Case – Objective\|The Second Case – Objective]] ལས་སུ་བྱ་བ།
 	- [[Tibetan Grammar/The Fourth Case – Purpose\|The Fourth Case – Purpose]] དགོས་ཆེད།
 	- [[Tibetan Grammar/The Seventh Case – Locative\|The Seventh Case – Locative]] རྟེན་གནས།
+	- [[Tibetan Grammar/The Difference between the Second, Fourth, and Seventh Cases\|The Difference between the Second, Fourth, and Seventh Cases]]
 - The “E” Particles ཨི་ལྡན།
 	- [[Tibetan Grammar/The Third Case – Agentive\|The Third Case – Agentive]] བྱེད་སྒྲ།
 	- [[Tibetan Grammar/The Sixth Case – Connective\|The Sixth Case – Connective]] འབྲེལ་སྒྲ།

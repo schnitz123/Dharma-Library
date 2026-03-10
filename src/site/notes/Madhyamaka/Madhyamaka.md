@@ -114,6 +114,7 @@ Fourth ground G59
 	- [[Madhyamaka/Explanation of the classifications of emptiness (Gomde)\|Explanation of the classifications of emptiness (Gomde)]]
 { #daa280}
 
+		- [[Madhyamaka/The sixteen emptinesses\|The sixteen emptinesses]]
 - [[Madhyamaka/Summary by way of expressing the qualities of the sixth ground (Gomde)\|Summary by way of expressing the qualities of the sixth ground (Gomde)]]
 { #e45646}
 
