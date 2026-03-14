@@ -29,6 +29,10 @@ Nouns and adjectives are considered to naturally be in the [[Tibetan Grammar/The
 དེས་སྒྲ་ཁྱད་ཆོས་དང། མི་རྟག་པ་ཁྱད་གཞིར་བྱས་ནས་བརྗོད་པའི་ཕྱིར་ཏེ། སྒྲ་དེའི་རྗེས་སུ་འབྲང་བའི་རྟོག་པ་དེས་མི་རྟག་པ་སྒྲས་ཁྱད་པར་དུ་བྱས་ནས་གོ་བའི་
 ཕྱིར་ཏེ། བུམ་པའི་གཟུགས་མཛེས་ཞེས་བརྗོད་པའི་སྒྲའི་རྗེས་སུ་འབྲང་བའི་རྟོག་པ་དེས་གཟུགས་མཛེས་པ་བུམ་པས་ཁྱད་པར་དུ་བྱས་ནས་གོ་བའི་ཕྱིར།
 
+**In other words:** Words are not inherently/factually a noun or an adjective; its depends on their usage:
+- "Blue" is an adjective only insofar as it is used to express the attribute of something, e.g. "A blue pot"
+- "Blue" is also a noun when discussing its attributes, e.g. "A vivid blue"
+
 ---
 **Another division (for nouns and adjectives as a category):**
 1. *Connected with verbs* བྱ་ཚིག་དང་འབྲེལ་བའི་མིང་།

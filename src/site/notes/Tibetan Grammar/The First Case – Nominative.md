@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/tibetan-grammar/the-first-case-nominative/"}
 ---
 
-**Nature of the First Case**
+ཁྱད་གཞི་དོན་གྱི་ངོ་བོ་ཙམ་སྟོན་ཞིང་། དེའི་ཁྱད་ཆོས་གང་ཡང་གསལ་བར་མི་བྱེད་པའི་མིང་རྐྱང་ཡིན་པ།
+**Meaning:** The mere name indicating the mere entity of the object that is an attribute-basis and does not clarify any of its attributes.
 
-This is not technically a case or a grammar particle because of not fulfilling the definition; because it has no particle. However, it fulfils the rest of the definition because a word is “marked” in the First Case because that word itself distinguishing the meaning in a particular context without mixing it up with other meanings.
+This is not technically a case or a grammar particle because of not fulfilling [[Tibetan Grammar/Grammar particles\|the definition]]; because it has no particle. However, it fulfils the rest of the definition because a word is “marked” in the First Case because that word itself distinguishing the meaning in a particular context without mixing it up with other meanings.
 
 For example, the word “pot” (བུམ་པ།) is the First Case because the noun “pot” clearly indicates the pot without mixing it up with any other phenomena, such as pillars and so forth.
 

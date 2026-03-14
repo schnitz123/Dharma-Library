@@ -41,15 +41,11 @@ There are six types of tastes: sweet and sour, bitter and astringent, hot and sa
 There are two types of tangible objects: those that are elements and those that arise from the elements.
 
 འབྱུང་བར་གྱུར་པའི་རེག་བྱ་ལ་དབྱེ་ན་བཞི་ཡོད་དེ། ས་ཆུ་མེ་རླུང་བཞི་པོ་དེ་དེ་ཡིན་པའི་ཕྱིར།
-སའི་མཚན་ཉིད་ཡིད་དེ། སྲ་ཞིང་འཐས་པ་དེ་དེ་ཡིན་པའི་ཕྱིར།
-ཆུའི་མཚན་ཉིད་ཡོད་དེ། བརླན་ཞིང་གཤེར་བ་དེ་དེ་ཡིན་པའི་ཕྱིར།
-མེའི་མཚན་ཉིད་ཡོད་དེ། ཚ་ཞིང་སྲེག་པ་དེ་དེ་ཡིན་པའི་ཕྱིར།
-རླུང་གི་མཚན་ཉིད་ཡོད་དེ། ཡང་ཞིང་གཡོ་བ་དེ་དེ་ཡིན་པའི་ཕྱིར།
 There are four tangible objects that are elements: earth, water, fire, and wind.
-**The definition of earth is:** that which is hard and obstructive.
-**The definition of water is:** that which is wet and moistening.
-**The definition of fire is:** that which is hot and burning.
-**The definition of wind is:** that which is light and moving.
+- **The definition of earth is:** that which is hard and obstructive. སའི་མཚན་ཉིད་ཡིད་དེ། སྲ་ཞིང་འཐས་པ་དེ་དེ་ཡིན་པའི་ཕྱིར།
+- **The definition of water is:** that which is wet and moistening. ཆུའི་མཚན་ཉིད་ཡོད་དེ། བརླན་ཞིང་གཤེར་བ་དེ་དེ་ཡིན་པའི་ཕྱིར།
+- **The definition of fire is:** that which is hot and burning. མེའི་མཚན་ཉིད་ཡོད་དེ། ཚ་ཞིང་སྲེག་པ་དེ་དེ་ཡིན་པའི་ཕྱིར།
+- **The definition of wind is:** that which is light and moving. རླུང་གི་མཚན་ཉིད་ཡོད་དེ། ཡང་ཞིང་གཡོ་བ་དེ་དེ་ཡིན་པའི་ཕྱིར།
 
 འབྱུང་འགྱུར་གྱི་རེག་བྱ་ལ་དབྱེ་ན་བདུན་ཡོད་དེ། དེར་གྱུར་པའི་འཇམ་པ་དང་རྩུབ་པ། ལྕི་བ་དང་ཡང་བ། གྲང་བ་དང་བཀྲེས་པ། སྐོམ་པ་དང་བདུན་པོ་དེ་དེ་ཡིན་པའི་ཕྱིར།
 There are seven tangible objects that arise from the elements: those that are soft and rough, heavy and light, cold, hunger and third.
