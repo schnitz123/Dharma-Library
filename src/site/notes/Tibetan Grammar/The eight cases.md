@@ -14,7 +14,7 @@ i.e. indicating what is the agent, what is the object, and so forth.
 	- [[Tibetan Grammar/The Seventh Case – Locative\|The Seventh Case – Locative]] རྟེན་གནས།
 	- [[Tibetan Grammar/The Difference between the Second, Fourth, and Seventh Cases\|The Difference between the Second, Fourth, and Seventh Cases]]
 	- [[Tibetan Grammar/Non-Case Usages\|Non-Case Usages]]
-- The “E” Particles ཨི་ལྡན།
+- [[Tibetan Grammar/The “E” Particles\|The “E” Particles]] ཨི་ལྡན།
 	- [[Tibetan Grammar/The Third Case – Agentive\|The Third Case – Agentive]] བྱེད་སྒྲ།
 	- [[Tibetan Grammar/The Sixth Case – Connective\|The Sixth Case – Connective]] འབྲེལ་སྒྲ།
 - [[Tibetan Grammar/The Fifth Case – Origin\|The Fifth Case – Origin]] འབྱུང་ཁུངས།

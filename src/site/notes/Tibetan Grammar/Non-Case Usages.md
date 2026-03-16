@@ -42,7 +42,7 @@ For example:
 **Summary:**
 - The ན་སྒྲ། non-case usage is to mark the conditional.
 - Contextually, it is used to construct prayers/aspirations, doubts/questions, and other abstract constructions.
-- It is included in the [[Reason Indicators\|Reason Indicators]] (རྒྱུ་མཚན་སྟོན་པའི་སྒྲ།).
+- It is included in the [[Tibetan Grammar/Reason Indicators\|Reason Indicators]] (རྒྱུ་མཚན་སྟོན་པའི་སྒྲ།).
 
 ---
 **The ལ་སྒྲ།**
