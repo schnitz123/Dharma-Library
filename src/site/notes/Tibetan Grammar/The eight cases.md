@@ -18,7 +18,7 @@ i.e. indicating what is the agent, what is the object, and so forth.
 	- [[Tibetan Grammar/The Third Case – Agentive\|The Third Case – Agentive]] བྱེད་སྒྲ།
 	- [[Tibetan Grammar/The Sixth Case – Connective\|The Sixth Case – Connective]] འབྲེལ་སྒྲ།
 - [[Tibetan Grammar/The Fifth Case – Origin\|The Fifth Case – Origin]] འབྱུང་ཁུངས།
-- [[Tibetan Grammar/The Eighth Case – Vocative\|The Eighth Case – Vocative]] འབོད་སྒྲ།
+- [[Tibetan Grammar/The Eighth Case – Vocative\|The Eighth Case – Vocative]] འབོད་སྒྲ། / སྐད་གཏོང་བའི་སྒྲ།
 
 ---
 Up a level: [[Tibetan Grammar/Grammar particles\|Grammar particles]]

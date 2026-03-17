@@ -47,7 +47,7 @@ For example:
 ---
 **The ལ་སྒྲ།**
 
-This is said to have the same meaning as the [[Emphasis-Conjunction Particles\|Emphasis-Conjunction Particles]] (རྒྱན་སྡུད།), i.e. that the sentence or thought is not complete but will continue. It can usually be translated as “and” or “but”.
+This is said to have the same meaning as the [[Tibetan Grammar/Emphasis-Conjunction Particles\|Emphasis-Conjunction Particles]] (རྒྱན་སྡུད།), i.e. that the sentence or thought is not complete but will continue. It can usually be translated as “and” or “but”.
 
 As for the ན་སྒྲ།, the way to recognise this is that it will be affixed directly to a verb without [[Nominalising Particles\|nominalising]] it first.
 
@@ -62,7 +62,7 @@ In practice, the difference between these the case and non-case usages will be m
 - “Get up and prostrate.” ཡར་ལངས་ལ་ཕྱག་འཚོལ་ཅིག
 - “Something that is an object of knowledge but not impermanent.” ཤེས་བྱ་ཡིན་ལ་མི་རྟག་པ་མ་ཡིན་པའི་མུ།
 
-This usage is quite common and will usually connect two sentences or phrases. For example, one sentence ending in a verb – rather than using a [[Terminating Particles\|terminating particle]] to mark it as a separate thought to the next sentence – will affix this ལ་སྒྲ། directly to that verb and in so doing connect it to the next sentence.
+This usage is quite common and will usually connect two sentences or phrases. For example, one sentence ending in a verb – rather than using a [[Tibetan Grammar/Terminating Particles\|terminating particle]] to mark it as a separate thought to the next sentence – will affix this ལ་སྒྲ། directly to that verb and in so doing connect it to the next sentence.
 
 To illustrate this:
 - “Tashi made food. Tashi ate all the food.” བཀྲ་ཤིས་ཀྱིས་ཁ་ལག་བཟོས་སོ། བཀྲ་ཤིས་ཀྱིས་ཁ་ལག་ཆ་ཚང་བཟས་སོ།

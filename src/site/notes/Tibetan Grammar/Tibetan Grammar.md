@@ -9,6 +9,8 @@ Terms / phrases / syllables (མིང་ཚིག་ཡི་གེ་གསུ
 	- [[Tibetan Grammar/Part of speech referents\|Part of speech referents]]
 	- [[Tibetan Grammar/Types of Agent\|Types of Agent]]
 2. [[Tibetan Grammar/Grammar particles\|Grammar Particles and Cases]] ཕྲད་དང་རྣམ་དབྱེའི་ཚོགས།
-	- [[Tibetan Grammar/The eight cases\|The eight cases]]
+	- [[Tibetan Grammar/The eight cases\|The eight cases]] རྣམ་དབྱེ་བརྒྱད།
+	- [[Tibetan Grammar/Fourteen grammar particles\|Fourteen grammar particles]]
 3. [[Tibetan Grammar/Verbs\|Verbs]] བྱ་ཚིག་གི་ཚོགས།
 
+[[Tibetan Grammar/The Thirty\|The Thirty]] སུམ་ཅུ་པ།

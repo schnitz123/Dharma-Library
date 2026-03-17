@@ -6,7 +6,7 @@
 གང་ནས་དབྱེ་མཚམས་འཛིན་ཞིང་སྡུད་པ་བཅས་ཉེ་བར་སྟོན་པའི་རྐྱེན།
 **Meaning:** A particle differentiating the source of origin and originated phenomenon; indicating the place of origin, the thing being distinguished from, and from where boundaries are established and included.
 
-The Fifth Case has two particles: ནས་སྒྲ། and ལས་སྒྲ།. 
+**The Fifth Case has two particles:** ནས་སྒྲ། and ལས་སྒྲ།. 
 These are not suffix dependent (despite being in that section of the list of fourteen).
 
 The main usage is to mark the origin or source, i.e. when one phenomenon (འབྱུང་གཞི།) gives rise to or is the source for another (འབྱུང་ཆོས།). Most commonly translated as “from”. 
@@ -113,6 +113,8 @@ This same usage will also sometimes be indicated by the བས། and པས། 
 There seems to be no difference in meaning, but should not be mistaken for a Third Case.
 
 **Connective** (མཚམས་སྦྱོར་ལྷག་བཅས།)
+{ #3101e1}
+
 
 This usage is the *only* time the Fifth Case (*only* the ནས་སྒྲ།) will be affixed directly to a verb. In other cases, as with the Ladons and so forth, verbs need to be [[Nominalising Particles\|nominalised]]. This continuative is used to indicate either a sequence or simultaneity of events, i.e. of the actions indicated by the verbs in the sentence.
 
@@ -128,7 +130,7 @@ This is not to say that that will always be the difference between the sequentia
 
 However, also in this latter example the first clause could be said to be an adverbial construction of sorts, thereby creating the simultaneity. Otherwise, it will usually be the context that allows you to distinguish between the two.
 
-The verb the ནས་སྒྲ། is affixed to must be in the past tense and one should be able to substitute the ནས་སྒྲ། for a [[Continuative Particles\|Continuative Particle]] (ལྷག་བཅས།) without any discernible change in meaning, for example: 
+The verb the ནས་སྒྲ། is affixed to must be in the past tense and one should be able to substitute the ནས་སྒྲ། for a [[Tibetan Grammar/Continuative Particles\|Continuative Particle]] (ལྷག་བཅས།) without any discernible change in meaning, for example: 
 - སློབ་སྦྱོང་བྱས་ཏེ་ཁྲོམ་ལ་འགྲོ།.
 
 

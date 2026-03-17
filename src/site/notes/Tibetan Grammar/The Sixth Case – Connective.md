@@ -11,7 +11,7 @@ In general, the Sixth Case is used to connect nouns and is most commonly transla
 - “The rays *of* the sun.” ཉི་མའི་འོད་ཟེར།
 - “Ripples *of* water.” ཆུའི་གཉེར་མ།
 
-In fact, it is *impossible* to have two nouns in the [[Tibetan Grammar/The First Case – Nominative\|First Case]] (i.e. unmarked by any grammar particle) next to each other in a sentence without either connecting them with a Sixth Case or some other grammar particle. If two nouns are seen as such, then there is an implicit appositional [[Continuative Particles\|Continuative Particle]].
+In fact, it is *impossible* to have two nouns in the [[Tibetan Grammar/The First Case – Nominative\|First Case]] (i.e. unmarked by any grammar particle) next to each other in a sentence without either connecting them with a Sixth Case or some other grammar particle. If two nouns are seen as such, then there is an implicit appositional [[Tibetan Grammar/Continuative Particles\|Continuative Particle]].
 
 In this way, the main use of the Sixth Case is to connect two nouns as:
 - Support and supported (རྟེན་དང་བརྟེན་པ།)
@@ -48,7 +48,9 @@ Like the Ladons and Third Case, also the Sixth Case cannot be affixed directly t
 - “Striving awareness” དོན་གཉེར་གྱི་བློ། = “The awareness striving for the goal” དོན་དུ་གཉེར་བའི་བློ།
 - “Non-conceptual consciousness” རྟོག་མེད་ཀྱི་ཤེས་པ། = “A consciousness lacking conceptuality” རྟོག་པ་མེད་པའི་ཤེས་པ།
 
-The subdivision mentioned in the meaning of the Sixth Case refers to the particle being affixed directly to a verb, where it becomes similar in meaning to the [[Emphasis-Conjunction Particles\|Contrasting Emphasis]] Emphasis-Conjunction Particles (རྒྱན་སྡུད།) and can usually be translated as a “but”. In fact, many will explain that this is a non-case usage of the particle rather than being included in the sixth case.
+The subdivision mentioned in the meaning of the Sixth Case refers to the particle being affixed directly to a verb, where it becomes similar in meaning to the [[Tibetan Grammar/Emphasis-Conjunction Particles\|Contrasting Emphasis Emphasis-Conjunction Particles]] (རྒྱན་སྡུད།) and can usually be translated as a “but”. In fact, many will explain that this is a non-case usage of the particle rather than being included in the sixth case.
+{ #c3afd4}
+
 
 For example:
 - “The Gelongs wear red and yellow, *but* do not wear black and white.”

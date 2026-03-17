@@ -18,9 +18,8 @@ Regarding the last of these, the ས། will “replace” an འ། suffix or b
 ---
 The [[Tibetan Grammar/The Sixth Case – Connective\|Sixth Case]] particle is suffix dependent and is affixed as follows:
 
-|                 |             |
-| --------------- | ----------- |
 | Suffix          | Marker      |
+| --------------- | ----------- |
 | ད། བ། ས།        | ཀྱི།        |
 | ག ང་།           | གི།         |
 | ན། མ། ར། ལ།     | གྱི།        |

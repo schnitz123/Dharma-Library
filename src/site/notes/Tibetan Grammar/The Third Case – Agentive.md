@@ -19,7 +19,7 @@ It is possible to have multiple བྱེད་སྒྲ། marking different th
 
 The བྱེད་སྒྲ། is never affixed directly to a verb, it must be [[Nominalising Particles\|nominalised]] first. As such, it should not to be confused with the imperative form of the verb བགྱིད་པ། (i.e. གྱིས།), which will sometimes be affixed to verbs.
 
-There are instances where the བྱེད་སྒྲ། is directly affixed to a verb and as such, like the Ladons and འབྲེལ་སྒྲ།, will be used to indicate the meaning of the [[Emphasis-Conjunction Particles\|Emphasis-Conjunction Particles]] (རྒྱན་སྡུད།), but this is an incorrect usage of the བྱེད་སྒྲ།.
+There are instances where the བྱེད་སྒྲ། is directly affixed to a verb and as such, like the Ladons and འབྲེལ་སྒྲ།, will be used to indicate the meaning of the [[Tibetan Grammar/Emphasis-Conjunction Particles\|Emphasis-Conjunction Particles]] (རྒྱན་སྡུད།), but this is an incorrect usage of the བྱེད་སྒྲ།.
 
 The two Agentive Third Cases are usually affixed to nouns, whereas the Reason Third Case is never affixed to nouns. Moreover, when the Reason Third Case is affixed to verbs, auxiliaries, particles, or adjectives they must be nominalised (as in the above example). As a result, ཀྱིས། གིས། གྱིས། are never used as the Reason Third Case marker.
 

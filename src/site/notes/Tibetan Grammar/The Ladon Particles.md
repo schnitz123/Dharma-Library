@@ -50,7 +50,9 @@ The Second and Seventh Case Ladons should *never* be affixed directly to verbs; 
 - དེ་དག་སྒྲོལ་བའི་ཁུར་འཁྱེར་ལ་བློ་སྦྱང་བའོ། ✗
 - དེ་དག་སྒྲོལ་བའི་ཁུར་འཁྱེར་བ་ལ་བློ་སྦྱང་བའོ། ✓
 
-If the verb is not nominalised, it becomes a non-case usage of the ན་སྒྲ། (to make an “if” statement) and ལ་སྒྲ། (used as an “and/but”).
+If the verb is not nominalised, it becomes a non-case usage of the ན་སྒྲ། (to make an “if” statement) and ལ་སྒྲ། (used as a [[Tibetan Grammar/Continuative Particles\|continuative particle]] “and/but”).
+{ #a1b851}
+
 
 On the other hand, the Fourth Case Ladons should *always* be affixed directly to verbs. However, they will sometimes be affixed to nouns or will use other particles that clarify the Fourth Case usage; see [[Tibetan Grammar/The Fourth Case – Purpose\|Fourth Case]].
 
