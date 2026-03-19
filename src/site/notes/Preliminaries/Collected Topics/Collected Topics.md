@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/preliminaries/collected-topics/collected-topics/"}
 ---
 
-[[Preliminaries/Collected Topics/Form or Matter\|Form or Matter]]
+The six sources: སྐྱེ་མཆེད་དྲུག
+- [[Preliminaries/Collected Topics/Form\|Form]] (5)
+- Phenomenon source
 
 [[Preliminaries/Collected Topics/Established Base\|Established Base]]
 - [[Preliminaries/Collected Topics/Contaminated and uncontaminated\|Contaminated and uncontaminated]]

@@ -11,9 +11,9 @@
 
 **Divisions:**
 1. Faculty of pleasant physical feelings ལུས་ཚོར་བདེ་བའི་དབང་པོ།
-   Definition: That which is 1) a feeling in the retinue of the sense consciousness it is concomitant with and 2) an experience of well-being. 
+   *Definition:* That which is 1) a feeling in the retinue of the sense consciousness it is concomitant with and 2) an experience of well-being. 
    རང་དང་མཚུངས་ལྡན་གྱི་དབང་པོའི་རྣམ་པར་ཤེས་པའི་འཁོར་དུ་བྱུང་བའི་ཚོར་བ་གང་ཞིག །སིམ་པར་མྱོང་བ། དང་པོའི་མཚན་ཉིད།
-   Divisions: that in the retinue of an eye-consciousness and so forth (5)
+   *Divisions:* that in the retinue of an eye-consciousness and so forth (5)
 2. Faculty of pleasant mental feelings སེམས་ཚོར་བདེ་བའི་དབང་པོ།
 
 ---

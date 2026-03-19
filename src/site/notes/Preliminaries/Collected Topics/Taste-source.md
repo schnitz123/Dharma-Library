@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/taste-source/"}
+---
+
+རོའི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད་ཡོད་དེ། ལྕེ་ཤེས་ཀྱི་མྱོང་བྱ་དེ་དེ་ཡིན་པའི་ཕྱིར།
+**Definition:** the experienced-object of the tongue-consciousness.
+
+**Divisions (6):** རོལ་དབྱེ་ན་དྲུག་ཡོད་དེ།   
+- Sweet and sour མངར་བ་དང་སྐྱུར་བ།
+- Bitter and astringent ཁ་བ་དང་བསྐ་བ།
+- Hot and salty ཚ་བ་དང་ལན་ཚ་བ་དེ་དྲུག་ཡོད་པའི་ཕྱིར།
+
+---
+Up a level: [[Preliminaries/Collected Topics/Form\|Form]]

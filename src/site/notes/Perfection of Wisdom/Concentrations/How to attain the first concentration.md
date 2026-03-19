@@ -12,7 +12,7 @@
 | [[Perfection of Wisdom/Concentrations/Attention of joy and withdrawal\|Attention of joy and withdrawal]]                | [[Perfection of Wisdom/Concentrations/special insight\|special insight]]              | 3 uninterrupted paths + 3 liberated paths for three rounds of middling afflictions                |
 | [[Perfection of Wisdom/Concentrations/Attention of analysis\|Attention of analysis]]                          | [[Perfection of Wisdom/Concentrations/special insight\|special insight]]              | Analysis to see that desire realm afflictions still exist in continuum despite not being manifest |
 | [[Perfection of Wisdom/Concentrations/Attention of final application\|Attention of final application]]                 | [[Perfection of Wisdom/Concentrations/special insight\|special insight]]              | 3 uninterrupted paths + 2 liberated paths for three rounds of great afflictions                   |
-| Attention that is the result of final application  | actual first concentration       | liberated path for the small of the small afflictions                                             |
+| Attention that is the result of final application  | actual [[Perfection of Wisdom/Concentrations/First concentration\|first concentration]]   | liberated path for the small of the small afflictions                                             |
 
 
 

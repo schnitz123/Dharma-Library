@@ -8,8 +8,10 @@
 - [[Perfection of Wisdom/Concentrations/How to attain the first concentration\|How to attain the first concentration]]
 
 [[Perfection of Wisdom/Concentrations/The result attained (actual meditative absorption)\|The result attained (actual meditative absorption)]] དངོས་གཞི།
-- [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the concentrations\|Concentrations]]
-- [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the Formless Realm\|Formless Absorptions]]
+- [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the concentrations\|Concentrations]] (4)
+- [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the Formless Realm\|Formless Absorptions]] (4)
+- [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|Absorption of cessation]]
+- [[Perfection of Wisdom/Concentrations/Progression through definite emergence (GJG)\|Progression through definite emergence (GJG)]]
 - [[Perfection of Wisdom/Topics/samsara chart\|samsara chart]]
 - [[Perfection of Wisdom/Concentrations/Persons who attain those\|Persons who attain those]]
 

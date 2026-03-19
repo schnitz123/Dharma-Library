@@ -15,7 +15,7 @@ In The Thirty (སུམ་ཅུ་པ།), the classical presentation of fourt
 - The Six Freestanding Particles ཕྲད་རང་དབང་ཅན་དྲུག
 	1. [[Tibetan Grammar/The Ni Particle\|The Ni Particle]] ནི་སྒྲ།
 	2. [[Tibetan Grammar/The Dang Particle\|The Dang Particle]] དང་སྒྲ།
-	3. The This and That Particles དེ་སྒྲ།
+	3. [[Tibetan Grammar/The Demonstrative Pronouns\|The Demonstrative Pronouns]] དེ་སྒྲ།
 	4. The Gang Particles གང་སྒྲ།
 	5. Possession Particles བདག་སྒྲ།
 	6. Negation Particles དགག་སྒྲ། (and Existence Particles སྒྲུབ་སྒྲ།)

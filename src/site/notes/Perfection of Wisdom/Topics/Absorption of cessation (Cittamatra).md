@@ -21,7 +21,7 @@
 **Definition of absorption of no discrimination:** That observed as being a non-concomitant compositional factor that is a meditative absorption in an ordinary being's continuum that ceases the six coarse consciousnesses on the basis of the alaya.
 
 The absorption of non-discrimination possesses these qualities: འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག་དེ་ཁྱད་ཆོས་དུ་མ་དང་ལྡན་ཏེ། 
-- Separated from the attachment of Vast Virtue དགེ་རྒྱས་ཀྱི་འདོད་ཆགས་དང་བྲལ་ལ།
+- Separated from the attachment of Vast Virtue [i.e. third concentration] དགེ་རྒྱས་ཀྱི་འདོད་ཆགས་དང་བྲལ་ལ།
 - Not separated from the attachment of the fourth concentration བསམ་གཏན་བཞི་པའི་འདོད་ཆགས་དང་མ་བྲལ་བ་དང༌།
 - Absorbed through a motivation wishing to definitely emerge from samsara
   འཁོར་བ་ལས་ངེས་པར་འབྱུང་འདོད་ཀྱི་ཀུན་སློང་གིས་སྙོམས་པར་ཞུགས་པ།
