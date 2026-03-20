@@ -34,7 +34,7 @@ In that case, since it is necessary to assert that the eye-consciousness apprehe
 
 ཡེ་ཤེས་དེ་གང་ལ་རིག་ཤེས་ཚད་མར་སོང་བའི་གཞལ་བྱ་ཆོས་ཉིད་དེ་དགག་བྱ་བདེན་གྲུབ་བཅད་ཙམ་གྱི་མེད་དགག་ཁོ་ན་མ་ཡིན་པར་མ་ཡིན་དགག་ཏུ་ཐལ། 
 བདེན་གྲུབ་བཅད་ཙམ་དེ་དངོས་ཡུལ་དུ་བྱས་པའི་ཤུགས་ཀྱིས་བསྒྲུབ་ཆོས་ཡེ་ཤེས་དེ་བློ་ཡུལ་དུ་འཕངས་འདུག་པའི་ཕྱིར་རོ།
-*Answer:* It follows that the cognised-object (i.e. dharmata) wrt which that exalted wisdom has become a valid reasoning consciousness is not just a non-affirming negation that is the mere negation of its object of negation (i.e. true establishment) but would be an affirming negation because implicit to taking the mere negation of true establishment as its explicit object, it conveys a positively-qualified phenomenon (i.e. the exalted wisdom) as an object of awareness.
+*Answer:* It follows that the cognised-object (i.e. dharmata) wrt which that exalted wisdom has become a valid reasoning consciousness is not just a non-implicative negation that is the mere negation of its object of negation (i.e. true establishment) but would be an implicative negation because implicit to taking the mere negation of true establishment as its explicit object, it conveys a positive phenomenon (i.e. the exalted wisdom) as an object of awareness.
 { #1b3691}
 
 
@@ -45,7 +45,7 @@ It follows that also the terms expressing "lack of true existence" would implici
 དེའི་ཕྱིར་དགག་བྱ་བཅད་ཙམ་མིན་པའི་ཆོས་གཞན་ཤུགས་ལ་འཕངས་པའང་མ་ཡིན་དགག་ཡིན་པས་མེད་དགག་ཡིན་པ་ཉམས་སོ། ཞེས་གསུངས་པ་དྲན་པར་བྱོས་ཤིག
 Therefore, think about the statements in the *Ocean of Reasoning* saying:
 - If someone says: However, it is necessary to hold that the existence of the lack of inherent existence is realised implicitly and also that it is established by the reasoning consciousness.
-- In that case, the terms "lack of inherent existence of sprout" would necessarily implicitly indicate the existence of the lack of inherent existence because the awareness following those terms implicitly realises the existence of that. Due to that, since it implicitly conveys another phenomenon and not merely negating its object of negation, i.e. is an affirming negation, it would not be a non-affirming negation.
+- In that case, the terms "lack of inherent existence of sprout" would necessarily implicitly indicate the existence of the lack of inherent existence because the awareness following those terms implicitly realises the existence of that. Due to that, since it implicitly conveys another phenomenon and not merely negating its object of negation, i.e. is an implicative negation, it would not be a non-implicative negation.
 
 རང་བཞིན་མེད་པར་རྟོགས་པའི་རིག་ཤེས་དེས་རང་བཞིན་མེད་པར་དངོས་སུ་རྟོགས་པའི་ཤུགས་ཀྱིས་ཡུལ་ཅན་གྱི་ཡེ་ཤེས་དེ་ཡོད་པའང་འགྲུབ་ན་
 རང་བཞིན་མེད་པ་ཡོད་པ་ཤུགས་ལ་རྟོགས་པ་ལྟ་ཅི་སྨོས།
@@ -84,7 +84,7 @@ Therefore, although the eye-consciousness apprehending blue establishes the eye-
 Similarly, although the eye-consciousness apprehending blue cognises blue, the eye-consciousness apprehending blue is not a valid cognition wrt cognising that very apprehension of blue by the eye-consciousness apprehending blue; the consciousness remembering the apprehension of blue by the eye-consciousness apprehending blue itself is a valid cognition wrt that.
 
 འཕགས་པ་སློབ་པའི་ཇི་ལྟ་བ་མཁྱེན་པའི་མཉམ་གཞག་ཡེ་ཤེས་ཀྱིས་བདེན་པར་གྲུབ་པ་རྣམ་པར་བཅད་ཙམ་གྱི་མེད་དགག་དེ་ཉིད་ཆུ་ལ་ཆུ་བཞག་གི་ཚུལ་གྱིས་གཞལ་གྱི། བདེན་མེད་ཡོད་པ་དང་ཡེ་ཤེས་རང་ཉིད་ཡོད་པ་གཉིས་གང་ཡང་གཞལ་བ་མ་ཡིན་ལ།
-The learner arya's exalted wisdom of meditative equipoise knowing the modes cognises just the non-affirming negation that is the mere negation of true establishment by way of water being poured into water; it does not cognise either the existence of the lack of inherent existence nor the existence of the exalted wisdom itself.
+The learner arya's exalted wisdom of meditative equipoise knowing the modes cognises just the non-implicative negation that is the mere negation of true establishment by way of water being poured into water; it does not cognise either the existence of the lack of inherent existence nor the existence of the exalted wisdom itself.
 
 འོན་ཀྱང་ཡེ་ཤེས་དེས་ཆོས་ཉིད་རྟོགས་པ་དྲན་པའི་རྗེས་ཀྱི་དྲན་ཤེས་ཀྱིས་ཡེ་ཤེས་དེས་ཆོས་ཉིད་གཞལ་བ་གྲུབ་པས་ཡེ་ཤེས་དེ་ཡང་གྲུབ་པ་ཡིན་ལ། དེའི་ཕྱིར་
 རིག་ཤེས་དེ་ལ་ལྟོས་ནས་རིག་ཤེས་དེ་ཡོད་པ་དང་ཆོས་ཉིད་ཡོད་པ་གཉིས་ཀ་གྲུབ་པ་ཡིན་ཀྱང་རིག་ཤེས་དེ་ཡོད་པ་དང་ཆོས་ཉིད་ཡོད་པ་རིག་ཤེས་ཀྱིས་གྲུབ་པ་མིན་ནོ།

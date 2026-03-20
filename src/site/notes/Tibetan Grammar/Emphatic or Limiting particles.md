@@ -45,3 +45,6 @@
 
 རྣམ་གཅོད་ཀྱི་སྒྲའམ་ཚིག་ཕྲད་དེ་བྱ་བ་སྲིད་པའི་འོག་དེ་མ་ཐག་པར་སྦྱར་ནས་རྗོད་པར་བྱེད་པའོ།
 **Usage:** This particle is affixed immediately after the possible object.
+
+---
+Up a level:

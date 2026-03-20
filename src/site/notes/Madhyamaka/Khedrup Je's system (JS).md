@@ -18,12 +18,12 @@ That follows because 1) it is not realised either implicitly or explicitly and 2
 དང་པོ་གྲུབ་སྟེ། རང་ཉིད་དངོས་སུ་རྟོགས་ན་གཉིས་སྣང་ཅན་དང་ཤུགས་ལ་རྟོགས་ན་ཡུལ་དེ་ཉིད་མ་ཡིན་དགག་ཏུ་འགྱུར་བའི་ཕྱིར། 
 The first is established because:
 - If it explicitly realised itself, it would possess dualistic appearances; and
-- If it implicitly realised itself, it's object would become an affirming negation.
+- If it implicitly realised itself, it's object would become an implicative negation.
 
 རྩ་ཤེའི་ཊཱིཀ་ཆེན་ལས། དེའི་ཕྱིར་དགག་བྱ་བཅད་ཙམ་མ་ཡིན་པའི་ཆོས་གཞན་ཤུགས་ལ་འཕངས་པའང་མ་ཡིན་དགག་ཡིན་པས་མེད་དགག་ཡིན་པ་ཉམས་སོ། 
 ཞེས་གསུངས་པའི་ཕྱིར།
 This is because *Ocean of Reasoning* says: 
-Due to that, since it implicitly conveys another phenomenon and not merely negating its object of negation, i.e. is an affirming negation, it would not be a non-affirming negation.
+Due to that, since it implicitly conveys another phenomenon and not merely negating its object of negation, i.e. is an implicative negation, it would not be a non-implicative negation.
 
 གཉིས་པ་གྲུབ་སྟེ། དཔེར་ན་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་ཚུལ་གསུམ་ཚད་མས་ངེས་པ་ན་རྗེས་ཁྱབ་ངེས་པའི་ཚད་མས་སྒྲ་མི་རྟག་པ་དངོས་ཤུགས་གང་ལ་ཡང་མ་ངེས་ཀྱང་
 རྗེས་ཁྱབ་རྟོགས་པའི་ཚད་མའི་སྟོབས་ཤུགས་ཀྱིས་ངེས་པ་བཞིན་དུ་མཉམ་བཞག་མི་རྟོག་པའི་ཡེ་ཤེས་དང་བདེན་མེད་རྟོགས་པའི་རྗེས་དཔག་གཉིས་ཀྱིས་ཀྱང་

@@ -10,5 +10,8 @@
 - Bitter and astringent ཁ་བ་དང་བསྐ་བ།
 - Hot and salty ཚ་བ་དང་ལན་ཚ་བ་དེ་དྲུག་ཡོད་པའི་ཕྱིར།
 
+
+
 ---
+See: [[Tibetan Grammar/Taste-source\|Taste-source]] (Abhidharma)
 Up a level: [[Preliminaries/Collected Topics/Form\|Form]]

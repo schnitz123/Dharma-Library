@@ -20,7 +20,7 @@ In that case, since "everything always being produced from everything" (in accor
 It follows that the opposite meaning of the assertion of the literal reading is: "production" and not a mere negation of things being produced causelessly being the correct probandum of the correct sign in the proof that things are not produced causelessly, because 1) it is necessary to use the opposite of the assertion of the literal reading and 2) "things being produced causelessly" is not suitable as the opposite meaning of the assertion of the literal reading.
 
 འདོད་མི་ནུས་ཏེ། འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་དེའི་བསྒྲུབ་བྱ་མེད་དགག་ཏུ་བཤད་པ་དང་འགལ་བའི་ཕྱིར་རོ།
-This cannot be accepted because it contradicts Arya Nagarjuna's explanation that the probandum in that is a non-affirming negation.
+This cannot be accepted because it contradicts Arya Nagarjuna's explanation that the probandum in that is a non-implicative negation.
 
 ---
 འགྲེལ་ངག་དེས་དངོས་པོ་རྣམས་རྒྱུ་མེད་ལས་མི་སྐྱེ་བར་སྒྲུབ་པའི་གཏན་ཚིགས་དང་དཔེ་ཡང་དག་མ་བརྗོད་པའི་ཆ་ནས་སངས་རྒྱས་བསྐྱངས་ལ་སྐྱོན་ཡོད་པ་མ་ཡིན་ཏེ། རྒྱུ་མེད་ལས་སྐྱེ་བ་འགོག་པ་ལ་གཏན་ཚིགས་དང་དཔེ་ཡང་དག་ངེས་པར་བརྗོད་མི་དགོས་ཤིང་། 

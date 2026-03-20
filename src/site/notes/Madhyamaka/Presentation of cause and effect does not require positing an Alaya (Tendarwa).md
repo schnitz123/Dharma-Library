@@ -17,7 +17,7 @@ In the system of actions not inherently ceasing, it is suitable to assert disint
 	  མྱུ་གུ་ཞིག་པ་དེའི་ཚེ་ན། མྱུ་གུའི་ཆ་ཤས་ཀྱི་དངོས་པོ་ཐམས་ཅད་ལོག
 	- Also, the disintegrated sprout does not obtain some other thing as its entity, such as a pillar or a pot and so forth; མྱུ་གུ་ཞིག་པ་དེ་ཀ་བ་དང༌། བུམ་པ་ལ་སོགས་པའི་དངོས་པོ་གཞན་གྱི་ངོ་བོ་མ་ཐོབ་པས།
 	- Therefore, just the disintegratedness of the sprout in the moment after its existence is asserted as the illustration of past-sprout; མྱུ་གུ་རང་གྲུབ་དུས་ཀྱི་སྐད་ཅིག་གཉིས་པའི་དུས་སུ་ཞིག་པ་ཙམ་ཞིག །མྱུ་གུ་འདས་པའི་མཚན་གཞིར་ཁས་བླངས།
-	- In dependence upon that, the past-sprout is asserted as permanent and a non-affirming negation.
+	- In dependence upon that, the past-sprout is asserted as permanent and a non-implicative negation.
 	  དེ་ལ་བརྟེན་ནས་མྱུ་གུའི་འདས་པ་དེ་རྟག་པ་དང་མེད་དགག་ཏུ་ཁས་བླངས།
 - In the system that posits an uninvestigated and unanalysed disintegratedness of sprout:
   མྱུ་གུའི་ཞིག་པ་མ་བརྟགས་མ་དཔྱད་པར་འཇོག་པའི་ལུགས་ལ།

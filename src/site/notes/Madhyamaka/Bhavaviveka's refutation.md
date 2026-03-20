@@ -19,14 +19,14 @@ Bhavaviveka thinks that [Buddhapalita] is indicating the consequence "The subjec
 	- P2 explicitly indicates that things are produced (property of the position)
 	- Production is limited to either self-production or other-production
 	- P2 explicitly negates that things are self-produced
-- *Due to that:* "not self-produced" (in P2) would become an affirming negation because of implying P3.
-	- This would contradict Nagarjuna who posits it as a non-affirming negation.
+- *Due to that:* "not self-produced" (in P2) would become an implicative negation because of implying P3.
+	- This would contradict Nagarjuna who posits it as a non-implicative negation.
 - *Alternatively, P2 implies P3 because:*
 	- In going from P1 → P2, the opposite reason is used, therefore the opposite probandum should also;
 	- "Things are produced from self" would not be a correct opposite probandum;
 	- Therefore, the opposite of "not self-produced" does not convey "self-produced"
 	- Rather, a different opposite is implied: "produced from other"
-	- Therefore, "not self-produced" is an affirming negation.
+	- Therefore, "not self-produced" is an implicative negation.
 
 
 ---
@@ -54,7 +54,7 @@ Since the property proving that probandum is clearly the opposite meaning of the
 
 བསྒྲུབ་པར་བྱ་བ་བཟློག་པའི་དོན་མངོན་པས་དངོས་པོ་རྣམས་བདག་ལས་སྐྱེ་བ་མེད་ཅེས་པའི་དམ་བཅའི་ཚིག་གིས་དངོས་པོ་རྣམས་གཞན་ལས་སྐྱེ་བ་ཤུགས་ལ་
 འཕངས་པའི་སྒོ་ནས་མ་ཡིན་དགག་སྐབས་འདིའི་བསྒྲུབ་བྱར་འགྱུར་བས་མགོན་པོ་ཀླུ་སྒྲུབ་ཀྱི་གྲུབ་མཐའ་དང་འགལ་བའི་ཕྱིར།
-And since it is clearly the opposite meaning of the thesis, the words of the assertion "Things are not produced from self" would implicitly convey that things are produced from other and the probandum in this context would become an affirming negation; thereby, contradicting the Protector Nagarjuna's tenets.
+And since it is clearly the opposite meaning of the thesis, the words of the assertion "Things are not produced from self" would implicitly convey that things are produced from other and the probandum in this context would become an implicative negation; thereby, contradicting the Protector Nagarjuna's tenets.
 
 (Because the correct sign implies production, i.e. from a cause, but self-production is negated in the probandum)
 
@@ -89,7 +89,7 @@ If accepted: It follows that that which is not a mere negation of things' self-p
 If accepted: It follows that the words of the assertion "things are not produced from self" implicitly conveys  that things are produced from other by way of implying that production that is not a mere negation of things' self-production is the probandum proving that things are not produced from self.
 
 འདོད་ན། འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་དངོས་པོ་རྣམས་བདག་ལས་སྐྱེ་བ་མེད་པར་སྒྲུབ་པའི་བསྒྲུབ་བྱ་མེད་དགག་ཏུ་བཤད་པ་དང་འགལ་ལོ།
-If accepted: It follows that this contradicts Arya Nagarjuna's explanation that the probandum in the proof that things are not produced from self is a non-affirming negation.
+If accepted: It follows that this contradicts Arya Nagarjuna's explanation that the probandum in the proof that things are not produced from self is a non-implicative negation.
 
 ---
 དངོས་པོ་རྣམས་གཞན་ལས་སྐྱེ་བ་དངོས་པོ་རྣམས་བདག་ལས་མི་སྐྱེ་བར་སྒྲུབ་པའི་བསྒྲུབ་བྱ་ཡང་དག་ཡིན་པར་ཐལ།

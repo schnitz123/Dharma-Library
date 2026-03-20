@@ -26,7 +26,7 @@ Paramārthasamudgata, it is like this: Just as, for example, space is distinguis
 
 ཡོངས་གྲུབ་ནམ་མཁའི་དཔེས་སྟོན་པའི་རྒྱུ་མཚན་ཡོད་དེ། ནམ་མཁའ་དེ་ཐོགས་རེག་བཀག་ཙམ་གྱི་མེད་དགག་དང་། ཕྱོགས་ཐམས་ཅད་ལ་ཁྱབ་པ་བཞིན་དུ། 
 ཆོས་ཀྱི་བདག་མེད་ཀྱི་ཡོངས་གྲུབ་དེ་ཡང་ཆོས་བདག་བཀག་ཙམ་གྱི་མེད་དགག་དང་ཆོས་ཐམས་ཅད་ལ་ཁྱབ་པའི་ཕྱིར།
-*There is a reason for indicating thoroughly-established natures with the example of space:* Just as space is a non-affirming negation that is the mere negation of obstructive contact and pervades all directions, the thoroughly-established nature that is the selflessness of phenomena is a non-affirming negation that is a mere negation of the self of phenomena and pervades all phenomena.
+*There is a reason for indicating thoroughly-established natures with the example of space:* Just as space is a non-implicative negation that is the mere negation of obstructive contact and pervades all directions, the thoroughly-established nature that is the selflessness of phenomena is a non-implicative negation that is a mere negation of the self of phenomena and pervades all phenomena.
 
 ---
 Up a level: [[Perfection of Wisdom/IntDef/The Chapter of Paramārthasamudgata’s question and answer\|The Chapter of Paramārthasamudgata’s question and answer]]

@@ -15,10 +15,10 @@
 2. The appearance of its meaning-generality does not depend upon the appearance of its past meaning generality or the appearance of its future meaning-generality.
 
 All three are functioning things but:
-- Past and future are affirming negations
-- Present is a positively-qualified phenomenon
+- Past and future are implicative negations
+- Present is a positive phenomenon
 
-Disintegratedness is a functioning thing and an affirming negation:
+Disintegratedness is a functioning thing and an implicative negation:
 - Object of negation: sprout
 - Conveyed-object (implicit): the production of the disintegrated sprout / that the disintegrated sprout has arisen in dependence upon the sprout
 
@@ -28,7 +28,7 @@ Disintegratedness is a functioning thing and an affirming negation:
 
 མྱུ་གུའི་ཞིག་པ་ལྟ་བུ་མྱུ་གུའི་ངོ་བོ་སྔར་ཡོད་ལོག་ཙམ་གྱི་མེད་དགག་མ་ཡིན་པར་མེད་དགག་དེ་ཉིད་གདགས་གཞིར་བྱས་ནས་མྱུ་གུའི་ཞིག་པ་ཞེས་པའི་དངོས་པོ་ཅིག་
 མིང་གི་ཕར་བཏགས་ནས་འཇོག་པ་དང༌། དངོས་པོ་དེ་དག་ཀྱང་མྱུ་གུའི་འཇིག་རྒྱུར་གང་སོང་བའི་རྒྱུ་རྐྱེན་གྱིས་བསྐྱེད་པའི་དངོས་པོར་གྲུབ་པའི་ཕྱིར།
-**Panchen:** For example, the disintegratedness of the sprout is not a non-affirming negation that is the mere negation of the previously existent sprout; rather, that non-affirming negation is taken as a basis of designation and it is posited as a functioning thing through designating it with the name "disintegratedness of sprout". Such functioning things are established as functioning things that are produced by the causes and conditions that are the sprout's cause of disintegration.
+**Panchen:** For example, the disintegratedness of the sprout is not a non-implicative negation that is the mere negation of the previously existent sprout; rather, that non-implicative negation is taken as a basis of designation and it is posited as a functioning thing through designating it with the name "disintegratedness of sprout". Such functioning things are established as functioning things that are produced by the causes and conditions that are the sprout's cause of disintegration.
 
 ---
 [[Madhyamaka/Presentation of the three times - Lower Schools (Tendarwa)\|Presentation of the three times - Lower Schools (Tendarwa)]]

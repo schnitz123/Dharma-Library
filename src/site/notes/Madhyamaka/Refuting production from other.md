@@ -44,7 +44,7 @@ What is the opposite meaning of the probandum of the literal reading?
 It follows that the opposite meaning of the probandum of the literal reading is that: production that is not a mere negation of things not being ultimately other-produced by way of that commentarial section implicitly conveying that things are ultimately produced from either self, both, or causelessly is the correct probandum in the proof that things are ultimately not produced from other because 1) it is necessary to use the opposite probandum of the literal reading and 2) "things being ultimately produced from other" is not suitable as the opposite meaning of the probandum of the literal reading in the proof that things are not produced from other.
 
 འདོད་མི་ནུས་ཏེ། ཕྱོགས་གོང་མ་ཀླུ་སྒྲུབ་ཀྱིས་དེའི་བསྒྲུབ་བྱ་མེད་དགག་ཏུ་བཤད་པའི་གྲུབ་མཐའ་དང་འགལ་ལོ།
-This cannot be accepted because it contradicts Nagarjuna's tenets explaining that the probandum in that is a non-affirming negation.
+This cannot be accepted because it contradicts Nagarjuna's tenets explaining that the probandum in that is a non-implicative negation.
 
 ---
 སློབ་དཔོན་སངས་རྒྱས་བསྐྱངས་ཀྱི་འགྲེལ་ངག་དེས་དངོས་པོ་རྣམས་དོན་དམ་པར་གཞན་ལས་མི་སྐྱེ་བར་སྒྲུབ་པའི་གཏན་ཚིགས་དང་དཔེ་ཡང་དག་མ་བརྗོད་པའི་

@@ -6,22 +6,22 @@
 **Definition:** That which appears as possessing the aspect of eliminating that which is not that when its aspect appears to a factually concordant awareness.
 
 གཞན་སེལ་དང་དགག་པ་དོན་གཅིག
-Other-exclusion and [[Preliminaries/Collected Topics/Positively-qualified and Negatively-qualified phenomena\|negatively-qualified phenomenon (negation)]] are mutually inclusive.
+Other-exclusion and [[Preliminaries/Collected Topics/Positive phenomena and Negations\|negation]] are mutually inclusive.
 
 བློ་དོན་མཐུན་ལ་རང་གི་རྣམ་པ་འཆར་བའི་ཚེ། དགག་པའི་རྣམ་པ་ཅན་དུ་འཆར་བ། དགག་པའི་མཚན་ཉིད།
-**Definition of negatively-qualified phenomenon (Pramana):** That which appears as possessing the aspect of a negation when its aspect appears to a factually concordant awareness.
+**Definition of negation (Pramana):** That which appears as possessing the aspect of a negation when its aspect appears to a factually concordant awareness.
 
 ---
 **Divisions:**
-1. [[Preliminaries/Collected Topics/Other-exclusions that are non-affirming negations\|Other-exclusions that are non-affirming negations]] མེད་དགག་གི་གཞན་སེལ།
-   Mutually inclusive with: [[Preliminaries/Collected Topics/Non-affirming negation\|Non-affirming negation]]
-2. [[Preliminaries/Collected Topics/Other-exclusions that are affirming negations\|Other-exclusions that are affirming negations]] མ་ཡིན་དགག་གི་གཞན་སེལ།
-   Mutually inclusive with: [[Preliminaries/Collected Topics/Affirming negation\|Affirming negation]]
+1. [[Preliminaries/Collected Topics/Other-exclusions that are non-implicative negations\|Other-exclusions that are non-implicative negations]] མེད་དགག་གི་གཞན་སེལ།
+   Mutually inclusive with: [[Preliminaries/Collected Topics/Non-implicative negation\|Non-implicative negation]]
+2. [[Preliminaries/Collected Topics/Other-exclusions that are implicative negations\|Other-exclusions that are implicative negations]] མ་ཡིན་དགག་གི་གཞན་སེལ།
+   Mutually inclusive with: [[Preliminaries/Collected Topics/Implicative negation\|Implicative negation]]
 
 **Division into three:**
 1. [[Preliminaries/Collected Topics/Specifically characterised object other-exclusion\|Specifically characterised object other-exclusion]] དོན་རང་མཚན་གྱི་གཞན་སེལ།
 2. [[Preliminaries/Collected Topics/Awareness other-exclusion\|Awareness other-exclusion]] བློའི་གཞན་སེལ།
-3. [[Preliminaries/Collected Topics/Other-exclusions that are non-affirming negations\|Other-exclusions that are non-affirming negations]] མེད་དགག་གི་གཞན་སེལ།
+3. [[Preliminaries/Collected Topics/Other-exclusions that are non-implicative negations\|Other-exclusions that are non-implicative negations]] མེད་དགག་གི་གཞན་སེལ།
 
 ---
-Up a level: [[Preliminaries/Collected Topics/Collected Topics\|Collected Topics]] / [[Preliminaries/Collected Topics/Positively-qualified and Negatively-qualified phenomena\|Positively-qualified and Negatively-qualified phenomena]]
+Up a level: [[Preliminaries/Collected Topics/Collected Topics\|Collected Topics]] / [[Preliminaries/Collected Topics/Positive phenomena and Negations\|Positive phenomena and Negations]]

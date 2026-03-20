@@ -8,7 +8,7 @@
 - [[Madhyamaka/LTK's Illumination on consciousness realising itself (Jetsunpa)\|LTK's Illumination on consciousness realising itself (Jetsunpa)]]
 - [[Madhyamaka/Khedrup Je's system (JS)\|Khedrup Je's system (JS)]]
 - Possible response from Jetsunpa (specifically to the [[Madhyamaka/Khedrup Je's Thousand Doses on consciousness not realising itself#^1b3691\|main consequence]] by Khedrup Je):
-	- Despite the exalted wisdom of meditative equipoise implicitly realising itself upon explicitly realising its cognised-object (i.e. emptiness), emptiness would not become an [[Preliminaries/Collected Topics/Affirming negation\|../Preliminaries/Collected Topics/Affirming negation]] because of not fulfilling the definition of affirming negation; because its conveyed-object is not a [[Preliminaries/Collected Topics/Positively-qualified and Negatively-qualified phenomena#^275cf1\|positively-qualified phenomenon]]; because the exalted wisdom directly realising emptiness is an affirming negation.
+	- Despite the exalted wisdom of meditative equipoise implicitly realising itself upon explicitly realising its cognised-object (i.e. emptiness), emptiness would not become an [[Preliminaries/Collected Topics/Implicative negation\|../Preliminaries/Collected Topics/Implicative negation]] because of not fulfilling the definition of implicative negation; because its conveyed-object is not a [[Preliminaries/Collected Topics/Positive phenomena and Negations#^275cf1\|positive phenomenon]]; because the exalted wisdom directly realising emptiness is an implicative negation.
 
 ---
 **Summary:** 
@@ -28,7 +28,7 @@
 - The eye-consciousness apprehending blue does not realise (explicitly or implicitly) the eye-consciousness apprehending blue because:
 	- If non-conceptual exalted wisdom of meditative equipoise realises itself, then:
 		- If it explicitly realised itself, it would possess dualistic appearances; and
-		- If it implicitly realised itself, it's object would become an affirming negation.
+		- If it implicitly realised itself, it's object would become an implicative negation.
 - Therefore, since the first above passage says "will be established" (future tense), it does not mean that it implicitly realises itself but rather that it will be realised through the force of that, meaning:
 	- Despite the aspect of that object not dawning to that awareness and superimpositions wrt that have not been eliminated at the time of that awareness, it eliminates superimpositions wrt that subsequently to it without relying upon another valid cognition.
 

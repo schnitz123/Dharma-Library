@@ -10,5 +10,7 @@
 2. Manufactured smells སྦྱར་བྱུང་གི་དྲི་གཉིས་ཡོད་པའི་ཕྱིར།
 
 
+
 ---
+See: [[Abhidharma/Smell-source\|Smell-source]] (Abhidharma)
 Up a level: [[Preliminaries/Collected Topics/Form\|Form]]

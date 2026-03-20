@@ -32,6 +32,6 @@ Polygons have four sides, round refers to circles or spheres, and level refers t
 - shadow and sunlight གྲིབ་མ་དང་ཉི་མའི་འོད་ཟེར་གྱི་ཁ་དོག་དང་བརྒྱད་ཡོད་པའི་ཕྱིར།
 
 
-
 ---
+See: [[Abhidharma/Form-source\|Form-source]] (Abhidharma)
 Up a level: [[Preliminaries/Collected Topics/Form\|Form]]

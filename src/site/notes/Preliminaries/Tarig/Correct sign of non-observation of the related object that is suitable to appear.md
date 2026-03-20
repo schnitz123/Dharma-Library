@@ -7,13 +7,13 @@
 **Definition:**
 That which is a common locus of:
 1. being a correct sign of non-observation of that suitable to appear in the proof of that
-2. being a [[Preliminaries/Collected Topics/Non-affirming negation\|Non-affirming negation]].
+2. being a [[Preliminaries/Collected Topics/Non-implicative negation\|Non-implicative negation]].
 
 དེ་སྒྲུབ་ཀྱི་མ་དམིགས་པའི་ཚུལ་གསུམ་གང་ཞིག །དེ་སྒྲུབ་ཀྱི་དགག་བྱའི་ཆོས་ཀྱི་འབྲེལ་ཡུལ་བཀག་པའི་མེད་དགག་རྟགས་སུ་སྦྱར་བ། 
 དེ་སྒྲུབ་ཀྱི་འབྲེལ་ཟླ་མ་དམིགས་པའི་རྟགས་ཡང་དག་གི་མཚན་ཉིད།
 **(Pramanavartika:) Definition:** That which is
 1. The three modes of non-observation in the proof of that; and
-2. A non-affirming negation that is applied as a sign negating a related-object of the property of the negandum in the proof of that.
+2. A non-implicative negation that is applied as a sign negating a related-object of the property of the negandum in the proof of that.
 
 **Divisions:**
 1. *Correct sign of non-observation of a cause that is suitable to appear* རྒྱུ།

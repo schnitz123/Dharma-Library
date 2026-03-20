@@ -5,7 +5,7 @@
 
 **Divisions:** (22) དབང་པོ་ལ་དབྱེ་ན་ཉེར་གཉིས་སུ་ཡོད་དེ།
 - **Fourteen of the thoroughly afflicted class** ཀུན་ནས་ཉོན་མོངས་ཕྱོགས་ཀྱི་དབང་པོ་བཅུ་བཞི།
-	- [[Perfection of Wisdom/Topics/Six sense-powers\|Six sense-powers]] of eyes and so forth མིག་སོགས་དབང་པོ་དྲུག
+	- [[Perfection of Wisdom/Topics/Six Faculties\|Six Faculties]] of eyes and so forth མིག་སོགས་དབང་པོ་དྲུག
 	- Two [[Perfection of Wisdom/Topics/Faculties of men and women\|Faculties of men and women]] ཕོ་མོའི་དབང་པོ་གཉིས།
 	- [[Perfection of Wisdom/Topics/Life faculty\|Life faculty]] སྲོག་གི་དབང་པོ།
 	- Faculties of pleasant feeling, mental happiness, suffering, mental unhappiness, and equanimity

@@ -23,11 +23,11 @@ There are four possibilities:
 	- 1 due to expressing the generality
 	- 2 due to expressing a mass composed of the right substance-particles རྡུལ་རྫས་བརྒྱད་འདུས་ཀྱི་གོང་བུ།
 - **Only 1:** Sound expressing "object of knowledge" 
-	- 1 due to object of knowledge not being a [[Preliminaries/Collected Topics/Collection-generality\|collection-generality]]
+	- 1 due to object of knowledge not being a [[Preliminaries/Collected Topics/Collection-category\|collection-generality]]
 	- Not 2 due to object of knowledge not being matter; because of not being a functioning thing.
 - **Only 2:** Sound expressing "the two - pot and pillar"
-	- Not 1 due to the pair not being a [[Preliminaries/Collected Topics/Type-generality\|type-generality]]; because of not being a generality; because an instance of that does not exist.
-	- 2 due to the pair being a [[Preliminaries/Collected Topics/Collection-generality\|collection-generality]].
+	- Not 1 due to the pair not being a [[Preliminaries/Collected Topics/Type-category\|type-generality]]; because of not being a generality; because an instance of that does not exist.
+	- 2 due to the pair being a [[Preliminaries/Collected Topics/Collection-category\|collection-generality]].
 - **Neither:** Sound expressing "the two - permanent and impermanent"
 	- Due to the pair being neither type of generality.
 

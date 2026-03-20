@@ -37,7 +37,7 @@ Due to memory not being other, that which is experienced by an experience is not
 འདོད་ན། དེའི་གཞལ་བྱར་གྱུར་པའི་སྟོང་ཉིད་ཆོས་ཅན། ཁྱོད་མ་ཡིན་དགག་ཡིན་པར་ཐལ། དགག་པ་གང་ཞིག ཁྱོད་དངོས་སུ་རྟོགས་པའི་ཐེག་ཆེན་གྱི་མཐོང་ལམ་
 བར་ཆད་མེད་ལམ་དེས། ཁྱོད་དངོས་སུ་རྟོགས་པའི་ཤུགས་ལ་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་རྟོགས་པའི་ཕྱིར་ཟེར་ན།
 *Someone says:* It follows that the uninterrupted path of the Mahayana path of seeing implicitly realises itself upon explicitly realising emptiness because it realises itself.
-If accepted: The subject - emptiness that is its cognised-object - it follows that it is an affirming negation because 1) it is a negation and 2) the uninterrupted path of the Mahayana path of seeing that explicitly realises it implicitly realises the uninterrupted path of the Mahayana path of seeing upon explicitly realising it.
+If accepted: The subject - emptiness that is its cognised-object - it follows that it is an implicative negation because 1) it is a negation and 2) the uninterrupted path of the Mahayana path of seeing that explicitly realises it implicitly realises the uninterrupted path of the Mahayana path of seeing upon explicitly realising it.
 
 མ་ཁྱབ། ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་ཆོས་ཅན། ཁྱོད་ཀྱིས་སྟོང་ཉིད་དངོས་སུ་རྟོགས་པའི་ཤུགས་ལ་རང་ཉིད་རྟོགས་པར་ཐལ། 
 ཁྱོད་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་སློབ་པའི་ཡེ་ཤེས་ཡིན་པའི་ཕྱིར།

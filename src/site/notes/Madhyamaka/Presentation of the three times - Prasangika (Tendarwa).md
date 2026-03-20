@@ -25,7 +25,7 @@ Prasangika asserts that past and future are not principal; the present is princi
 
 མྱུ་གུ་ལྟ་བུ་ལ་མཚོན་ན་སྤྱིར་མྱུ་གུ་སྐྱེ་བའི་རྒྱུ་ཡོད་ཀྱང༌། 
 དགུན་དུས་ཀྱི་ཞིང་ལྟ་བུ་རེ་ཞིག་རྐྱེན་མ་ཚང་བའི་དབང་གིས་ཡུལ་དུས་དེར་མྱུ་གུ་མ་སྐྱེས་པའི་མ་ཡིན་དགག་གི་ཆ། མྱུ་གུའི་མ་འོངས་པ་དང༌།
-**Illustration of future of sprout:** The factor (affirming negation) of the non-production of sprout in a particular time and place (such as a field in winter), despite the existence of the cause for the production of sprout in general, due to the force of temporarily incomplete conditions.
+**Illustration of future of sprout:** The factor (implicative negation) of the non-production of sprout in a particular time and place (such as a field in winter), despite the existence of the cause for the production of sprout in general, due to the force of temporarily incomplete conditions.
 
 མྱུ་གུའི་ངོ་བོར་སྐྱེས་པའི་དངོས་པོ། དེའི་ད་ལྟ་བ་དང༌།
 **Illustration of the present of sprout:** A thing that has been produced in the entity of a sprout.
@@ -83,13 +83,13 @@ That follows because sprouts and so forth do not disintegrate without depending 
 Therefore, in the system that asserts that the disintegratedness of sprout and the disintegration of that are equally produced by causes, it is easier to establish compounded phenomena as being momentary because similarly to the explanation in dependence upon the reasoning related with "Through the condition of birth, ageing and death." that indicates that dead sentient beings are produced by the condition of the birth that is their cause and are not produced by a cause other than that, then also the disintegratedness of sprout is explained as produced by the cause of the disintegration that is its cause; therefore, it is easier to establish those as momentary.
 
 ---
-**Disintegratedness is a functioning thing and affirming negation**
+**Disintegratedness is a functioning thing and implicative negation**
 
 མྱུ་གུའི་ཞིག་པ་དེ་དངོས་པོ་ཡིན་ཀྱང་དེ་དགག་པ་ནི་ཡིན་ཏེ། རང་ཉིད་རྟོགས་པའི་བློས་རང་གི་དགག་བྱ་དངོས་སུ་བཅད་ནས་རྟོགས་དགོས་པའི་ཆོས་ཡིན་པའི་ཕྱིར། 
-Although the disintegratedness of sprout is a thing, it is a [[Preliminaries/Collected Topics/Positively-qualified and Negatively-qualified phenomena\|negation]] because of being a phenomenon that is necessarily realised by the awareness realising it through explicitly negating its object of negation.
+Although the disintegratedness of sprout is a thing, it is a [[Preliminaries/Collected Topics/Positive phenomena and Negations\|negation]] because of being a phenomenon that is necessarily realised by the awareness realising it through explicitly negating its object of negation.
 
 དེ་མ་ཡིན་དགག་ཡིན་ཏེ། དེ་དགག་པ་གང་ཞིག །མེད་དགག་མ་ཡིན་པའི་ཕྱིར། 
-It is an affirming negation because 1) it is a negation and 2) it is not a non-affirming negation.
+It is an implicative negation because 1) it is a negation and 2) it is not a non-implicative negation.
 
 དགེ་བའི་ལས་ཞིག་པ་དེ་དགེ་བ་དང༌། མི་དགེ་བའི་ལས་ཞིག་པ་དེ་མི་དགེ་བ་ཡིན་ཏེ། དེ་གཉིས་རིམ་པ་བཞིན་དུ་རང་གི་རྣམ་སྨིན་གྱི་འབྲས་བུ་ཡིད་འོང་དང་
 ཡིད་མི་འོང་འབྱིན་པ་ནི་གང་ཞིག །དགེ་བ་དང་ལྡན་མིན་འདུ་བྱེད་ཀྱི་གཞི་མཐུན་ཡང་ཡོད། མི་དགེ་བ་དང་ལྡན་མིན་འདུ་བྱེད་ཀྱི་གཞི་མཐུན་ཡང་ཡོད་པའི་ཕྱིར། 

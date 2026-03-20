@@ -6,10 +6,9 @@
 **Definition:** the heard-object of the ear-consciousness.
 
 **Divisions:** སྒྲ་ལ་དབྱེ་ན་གཉིས་ཡོད་དེ།
-1. Those arisen from elements connected with [awareness] ཟིན་པའི་འབྱུང་བ་ལས་གྱུར་པའི་སྒྲ་དང་།
-2. Those arisen from elements not connected with [awareness] མ་ཟིན་པའི་འབྱུང་བ་ལས་གྱུར་པའི་སྒྲ་གཉིས་ཡོད་པའི་ཕྱིར།
-
-
+1. Those arisen from conjoined elements ཟིན་པའི་འབྱུང་བ་ལས་གྱུར་པའི་སྒྲ་དང་།
+2. Those arisen from non-conjoined elements མ་ཟིན་པའི་འབྱུང་བ་ལས་གྱུར་པའི་སྒྲ་གཉིས་ཡོད་པའི་ཕྱིར།
 
 ---
+See: [[Abhidharma/Sound-source\|Sound-source]] (Abhidharma)
 Up a level: [[Preliminaries/Collected Topics/Form\|Form]]

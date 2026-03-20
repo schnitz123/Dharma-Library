@@ -32,7 +32,7 @@ If accepted: It follows that upon directly realising emptiness, it implicitly re
 
 འདོད་ན། དེའི་ཡུལ་དུ་གྱུར་པའི་སྟོང་ཉིད་ཆོས་ཅན། མ་ཡིན་དགག་ཡིན་པར་ཐལ། 
 དགག་པ་གང་ཞིག ཁྱོད་མངོན་སུམ་དུ་རྟོགས་པའི་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་དེས་དེ་ཤུགས་ལ་རྟོགས་པའི་ཕྱིར། རྟགས་ཁས།
-If accepted: The subject - the emptiness that is its object - it follows that it is an affirming negation because 1) it is a negation and 2) that uninterrupted path of the Mahayana path of seeing that directly realises it implicitly realises [itself]. You asserted the reason.
+If accepted: The subject - the emptiness that is its object - it follows that it is an implicative negation because 1) it is a negation and 2) that uninterrupted path of the Mahayana path of seeing that directly realises it implicitly realises [itself]. You asserted the reason.
 
 འདོད་མི་ནུས་ཏེ། སྟོང་ཉིད་ཡིན་པའི་ཕྱིར།
 You cannot accept because it is emptiness.
@@ -46,7 +46,7 @@ If accepted: It follows that it realises the existence of a non-truly-existent s
 
 འདོད་ན། མྱུ་གུ་བདེན་མེད་ཆོས་ཅན། ཁྱོད་མ་ཡིན་དགག་ཡིན་པར་ཐལ།
 ཁྱོད་དགག་པ་གང་ཞིག །ཁྱོད་དངོས་སུ་རྟོགས་པའི་རྗེས་དཔག་དེས་མྱུ་གུ་བདེན་མེད་དུ་ཡོད་པ་དེ་རྟོགས་པའི་ཕྱིར།
-If accepted: The subject - a non-truly-existent sprout - it follows that it is a non-affirming negation because 1) it is a negation and 2) the inference explicitly realising it realises the existence of a non-truly-existent sprout.
+If accepted: The subject - a non-truly-existent sprout - it follows that it is a non-implicative negation because 1) it is a negation and 2) the inference explicitly realising it realises the existence of a non-truly-existent sprout.
 
 ---
 ཚུར་མཐོང་གི་རྒྱུད་ཀྱི་སྔོ་སྣང་དབང་ཤེས་ཆོས་ཅན། 

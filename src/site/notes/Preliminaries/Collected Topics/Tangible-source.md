@@ -23,4 +23,5 @@
 - Cold, hunger and thirst གྲང་བ་དང་བཀྲེས་པ། སྐོམ་པ་དང་བདུན་པོ་དེ་དེ་ཡིན་པའི་ཕྱིར།
 
 ---
+See: [[Abhidharma/Tangible-source\|Tangible-source]] (Abhidharma)
 Up a level: [[Preliminaries/Collected Topics/Form\|Form]]

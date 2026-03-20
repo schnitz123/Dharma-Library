@@ -17,18 +17,20 @@ Putting this information together, in terms of what is principally being definit
 
 This leads to progression being made by way of definitively emerging the respective principal Feeling or Discrimination:
 
-| Level                   | Principal Feeling to be definitively emerged from | Principal Discrimination to be definitively emerged from |
-| ----------------------- | ------------------------------------------------- | -------------------------------------------------------- |
-| Desire Realm            | Mental unhappiness                                |                                                          |
-| First Concentration     | Physical unhappiness                              |                                                          |
-| Second Concentration    | Mental happiness                                  |                                                          |
-| Third Concentration     | Physical unhappiness                              |                                                          |
-| Fourth Concentration    | Neutral feeling                                   |                                                          |
-| Limitless Space         |                                                   | Limitless Space                                          |
-| Limitless Consciousness |                                                   | Limitless Consciousness                                  |
-| Nothingness             |                                                   | Nothingness                                              |
-| Peak of Existence       |                                                   | Peak of Existence                                        |
-| Absorption of Cessation | All of the above                                  | All of the above                                         |
+| Level                   | Principal Feeling to be definitively emerged from   | Principal Discrimination to be definitively emerged from              |
+| ----------------------- | --------------------------------------------------- | --------------------------------------------------------------------- |
+| Desire Realm            | Mental unhappiness                                  |                                                                       |
+| First Concentration     | Physical unhappiness                                |                                                                       |
+| Second Concentration    | Mental happiness                                    |                                                                       |
+| Third Concentration     | Physical happiness                                  |                                                                       |
+| Fourth Concentration    | (Principal feeling: Neutral feeling. Not abandoned) | Limitless Space                                                       |
+| Limitless Space         |                                                     | Limitless Consciousness                                               |
+| Limitless Consciousness |                                                     | Nothingness                                                           |
+| Nothingness             |                                                     | Peak of Existence                                                     |
+| Peak of Existence       |                                                     | Without coarse discrimination; <br>Not without subtle discrimination. |
+| Absorption of Cessation |                                                     |                                                                       |
+
+See also: [[Perfection of Wisdom/Topics/Faculties of the five feelings\|Faculties of the five feelings]]
 
 ---
 Up a level: [[Perfection of Wisdom/Concentrations/Concentrations\|Concentrations]]

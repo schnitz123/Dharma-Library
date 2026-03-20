@@ -7,7 +7,7 @@
 **Definition:**
 That which is the common locus of x being:
 1. the correct sign of non-observation of the non-appearing in the proof of that;
-2. a non-affirming negation.
+2. a non-implicative negation.
 
 **Divisions:**
 1. Correct sign of non-observation of a non-appearing cause རྒྱུ།

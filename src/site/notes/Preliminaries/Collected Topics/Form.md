@@ -15,6 +15,7 @@ Form and matter are mutually inclusive.
 4. [[Preliminaries/Collected Topics/Taste-source\|Taste-source]] རོའི་སྐྱེ་མཆེད།
 5. [[Preliminaries/Collected Topics/Tangible-source\|Tangible-source]] རེག་བའི་སྐྱེ་མཆེད།
 
+See also: [[Abhidharma/The five objects\|The five objects]] (Abhidharma)
 
 ---
 
