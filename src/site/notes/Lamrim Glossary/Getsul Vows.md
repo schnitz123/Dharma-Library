@@ -2,6 +2,25 @@
 {"dg-publish":true,"permalink":"/lamrim-glossary/getsul-vows/"}
 ---
 
+རྩ་བ་བཞི་ཡན་ལག་དྲུག་སྟེ། བཅུ་ཇི་སྲིད་འཚོའི་བར་དུ་སྤོང་བར་མནོས་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་རབ་བྱུང་གི་སྡོམ་པར་དམིགས་པ། 
+དགེ་ཚུལ་གྱི་སྡོམ་པའི་མཚན་ཉིད།
+**Definition:** That observed as an ordained vow distinguished by abiding in the class of committing to abandon the ten - the four roots and six branches - for as long as one lives.
+
+**The ten:**
+- Four roots: རྩ་ལྟུང་བཞི།
+	- Abandoning killing
+	- Abandoning stealing
+	- Abandoning lying 
+	- Abandoning impure conduct 
+- Six branches: ཡན་ལག་དྲུག
+	- Abandoning drinking alcohol ཆང་འཐུང་བ།
+	- Abandoning dancing and so forth གར་སོགས།
+	- Abandoning garlands and so forth ཕྲེང་སོགས།
+	- Abandoning large and high seats མལ་སྟན་ཆེ་མཐོ།
+	- Abandoning eating at improper times དུས་མ་ཡིན་པའི་ཁ་ཟས་ཟ་བ།
+	- Abandoning handling gold and silver གསེར་དངུལ་ལེན་པ་རྣམས་སོ།
+
+**Extensively divided (36):**
 1. Abandoning killing a human མི་གསོད་པ་སྤོང་བ།
 2. Abandoning killing animals དུད་འགྲོ་གསོད་པ་སྤོང་བ།
 3. Abandoning harming animals དུད་འགྲོ་འདེབས་པ་སྤོང་བ།
@@ -39,21 +58,6 @@
 35. Upholding and not abandoning the signs of the ordained རབ་བྱུང་གི་རྟགས་བླངས་པ་མི་སྤོང་བ།
 36. Not falling short of the abbot's requests མཁན་པོར་གསོལ་བ་བཏབ་པ་ལས་མ་ཉམས་པ།
 
----
-
-**Subsumed into the ten:**
-- Four roots: རྩ་ལྟུང་བཞི།
-	- Abandoning killing
-	- Abandoning stealing
-	- Abandoning lying 
-	- Abandoning impure conduct 
-- Six branches: ཡན་ལག་དྲུག
-	- Abandoning drinking alcohol ཆང་འཐུང་བ།
-	- Abandoning dancing and so forth གར་སོགས།
-	- Abandoning garlands and so forth ཕྲེང་སོགས།
-	- Abandoning large and high seats མལ་སྟན་ཆེ་མཐོ།
-	- Abandoning eating at improper times དུས་མ་ཡིན་པའི་ཁ་ཟས་ཟ་བ།
-	- Abandoning handling gold and silver གསེར་དངུལ་ལེན་པ་རྣམས་སོ།
 
 ---
-Up a level: [[Lamrim Glossary/Individual liberation vows\|Individual liberation vows]]
+Up a level: [[Lamrim Glossary/Individual liberation vows\|Individual liberation vows]] (Lamrim) / [[Abhidharma/Individual liberation vows\|Individual liberation vows]] (Abhidharma)

@@ -23,16 +23,16 @@
 4. Completion མཐར་ཐུག
 
 **The Ten Non-Virtues:** མི་དགེ་བའི་བཅུ། 
-1. Three Paths of Action through *Body* ལུས་ཀྱི་ལས་ཀྱི་ལམ་གསུམ།
+1. Three pathways of actions through *Body* ལུས་ཀྱི་ལས་ཀྱི་ལམ་གསུམ།
 	1. Killing སྲོག་གཅོད་པ།
 	2. Stealing (Taking what is not given) མ་བྱིན་པ་ལེན་པ།
 	3. Sexual Misconduct ལོག་གཡེམ།
-2. Four Paths of Actions through *Speech* ངག་གི་ལས་ཀྱི་ལམ་བཞི།
+2. Four pathways of actions through *Speech* ངག་གི་ལས་ཀྱི་ལམ་བཞི།
 	1. Lying བརྫུན།
 	2. Divisive Speech ཕྲ་མ།
 	3. Harsh Speech ཚིག་རྩུབ།
 	4. Senseless Speech ངག་ཁྱལ།
-3. Three Paths of Actions through *Mind* ཡིད་ཀྱི་ལས་ཀྱི་ལམ་གསུམ།
+3. Three pathways of actions through *Mind* ཡིད་ཀྱི་ལས་ཀྱི་ལམ་གསུམ།
 	1. Covetousness བརྣབ་སེམས།
 	2. Harmful intent གནོད་སེམས།
 	3. Wrong Views ལོག་ལྟ།

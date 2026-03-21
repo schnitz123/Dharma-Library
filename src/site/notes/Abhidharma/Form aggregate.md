@@ -11,7 +11,7 @@ In general, the definition of form is: That suitable as form.
 **Divisions (11):** དབྱེ་ན། བཅུ་གཅིག་ཡོད། (Exhaustive division)
 - [[Abhidharma/The five objects\|The five objects]]: forms and so forth གཟུགས་སོགས་དོན་ལྔ། 
 - [[Abhidharma/The five faculties\|The five faculties]]: eye- and so forth མིག་སོགས་དབང་པོ་ལྔ། 
-- [[Abhidharma/Non-informative form\|Non-informative form]] རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་གཟུགས།
+- [[Abhidharma/Non-revealing forms\|Non-revealing forms]] རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་གཟུགས།
 
 གཟུགས་གཟུགས་ཅན་གཟུགས་ཕུང་བེམ་པོ་རྣམས་དོན་གཅིག 
 **The following are mutually inclusive:**

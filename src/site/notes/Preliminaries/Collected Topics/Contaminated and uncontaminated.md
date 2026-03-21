@@ -13,6 +13,8 @@
    དམིགས་པའམ་མཚུངས་ལྡན་གང་རུང་གི་སྒོ་ནས་ཀྱང་ཟག་པ་རྒྱས་སུ་མི་རུང་བའི་ཆོས། ཟག་མེད་ཀྱི་མཚན་ཉིད།
    *Illustration:* true paths and cessations, uncompounded space
 
+See also: [[Abhidharma/Contaminated and uncontaminated\|Contaminated and uncontaminated]] (Abhidharma)
+
 ---
 **Abhidharmasamuccaya**: [[Preliminaries/Collected Topics/Six doors of contamination\|Six doors of contamination]]
 
@@ -38,4 +40,4 @@ Others say contaminated / uncontaminated are:
 
 
 ---
-Up a level: [[Preliminaries/Collected Topics/Established Base\|Established Base]]
+Up a level: [[Preliminaries/Collected Topics/Established Base\|Established Base]] / [[Preliminaries/Collected Topics/Collected Topics\|Collected Topics]]
