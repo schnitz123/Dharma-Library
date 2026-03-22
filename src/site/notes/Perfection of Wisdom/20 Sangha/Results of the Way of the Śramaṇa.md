@@ -25,7 +25,7 @@ It is called as such because arya persons who abide in it are referred to as ult
 
 Same for the eighty-nine true cessations.
 
-See: [[Texts & Quotes/Abhidharmakosha/Chapter 6#^d702df\|Abhidharmakosha]]
+See: [[Abhidharma/Abhidharmakosha/Chapter 6#^d702df\|Abhidharmakosha]]
 
 ---
 In this context, there are **Four Results** because there are three sets of main obstacles to liberation
@@ -51,7 +51,7 @@ In this context, there are **Four Results** because there are three sets of main
 5. Attaining the exalted wisdom realising the sixteen aspects, impermanence and so forth
    མི་རྟག་སོགས་བཅུ་དྲུག་རྟོགས་པའི་ཡེ་ཤེས་ཐོབ་པ་ཡིན་པའི་ཕྱིར།
 
-See: [[Texts & Quotes/Abhidharmakosha/Chapter 6#^17c67c\|Abhidharmakosha]]
+See: [[Abhidharma/Abhidharmakosha/Chapter 6#^17c67c\|Abhidharmakosha]]
 
 ---
 **The way of attaining the results:**

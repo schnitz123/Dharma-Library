@@ -16,8 +16,9 @@
 **Chapter 4 - Presentation of karma** གནས་བཞི་པ། ལས་བསྟན་པ།
 - [[Abhidharma/Karma - Intro\|Karma - Intro]]
 - [[Abhidharma/Karma\|Karma]]
-- 
+- [[Abhidharma/Vows\|Vows]]
+- [[Abhidharma/Three Jewels\|Three Jewels]] / [[Abhidharma/Going for refuge\|Going for refuge]]
 
+**Chapter 6 - Presentation of paths and persons** གནས་དྲུག་པ། ལམ་དང་གང་ཟག་བསྟན་པ།
 
-
-
+[[Abhidharma/Abhidharmakosha/Chapter 6\|Root text - Chapter 6]]

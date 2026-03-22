@@ -4,7 +4,7 @@
 
 [[Texts & Quotes/Treasury of Knowledge + Autocommentary\|Treasury of Knowledge + Autocommentary]]
 - Treasury of Knowledge ཆོས་མངོན་པ་མཛོད། Abhidharmakośa
-	- [[Texts & Quotes/Abhidharmakosha/Chapter 6\|Chapter 6]]
+	- [[Abhidharma/Abhidharmakosha/Chapter 6\|Chapter 6]]
 - Autocommentary ཆོས་མངོན་པ་མཛོད་ཀྱི་བཤད་པ། Abhidharmakośa-bhāṣyā
 
 **Sutra Commentaries:**

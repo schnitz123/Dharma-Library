@@ -69,7 +69,7 @@ For a bodhisattva of definite Mahayana lineage from the start, the exalted wisdo
 <br>
 5. *Division of small, middling and great* ཆུང་འབྲིང་ཆེན་པོའི་དབྱེ་བ། - because it is correct to divide the supreme dharma level of the Mahayana path of preparation into small, middling, and great (not so for Hinayana)
    ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་ཆོས་མཆོག་ལ་ཆུང་འབྲིང་ཆེན་པོའི་དབྱེ་བ་འཐད། 
-   See: [[Perfection of Wisdom/Salam/Ordinary Hearer grounds#^d14ce2\|Ordinary Hearer grounds]] / [[Texts & Quotes/Abhidharmakosha/Chapter 6#^db2c73\|Abhidharmakosha (ch6)]]
+   See: [[Perfection of Wisdom/Salam/Ordinary Hearer grounds#^d14ce2\|Ordinary Hearer grounds]] / [[Abhidharma/Abhidharmakosha/Chapter 6#^db2c73\|Abhidharmakosha (ch6)]]
 
 ---
 **Etymology:**
