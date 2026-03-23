@@ -8,6 +8,7 @@ body {
     Inter, Ubuntu, sans-serif;
   --font-editor: var(--font-editor-override), var(--font-text-override),
     var(--font-editor-theme);
+}
 
 .content {
     margin: auto;
@@ -100,7 +101,7 @@ display: none;
    .navbar-mobile {
         display:none;
    }
-}
+
 
 /* End Mobile Setting */
 
