@@ -6,7 +6,7 @@ The six sources: སྐྱེ་མཆེད་དྲུག
 - [[Preliminaries/Collected Topics/Form\|Form]] (5)
 - [[Abhidharma/Phenomenon-source\|Phenomenon-source]] (Abhidharma)
 
-[[Preliminaries/Collected Topics/Established Base\|Established Base]]
+[[Preliminaries/Collected Topics/Established-basis\|Established-basis]]
 - [[Preliminaries/Collected Topics/Contaminated and uncontaminated\|Contaminated and uncontaminated]]
 - [[Madhyamaka/Substantial and imputed existents\|Substantial and imputed existents]]
 - [[Preliminaries/Collected Topics/Specifically and generally characterised phenomena\|Specifically and generally characterised phenomena]]

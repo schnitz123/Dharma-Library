@@ -32,7 +32,7 @@ Pot, cloth, and so forth, are direct and manifest [phenomena]; those are mutuall
 
 བློ་དེ་ལ་མངོན་གྱུར་ཡིན་ན་མངོན་གྱུར་ཡིན་མི་དགོས་པའི་ཕྱིར། 
 དཔེར་ན། སྟོང་ཉིད་དེ་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་ལ་མངོན་གྱུར་ཡིན་ཀྱང་། དེ་ལྐོག་གྱུར་ཡིན་པ་བཞིན་ནོ།
-If it is manifest to that mind, then it is not necessarily a manifest phenomenon; for example, although emptiness is manifest to the uninterrupted path of the Mahayana path of seeing, it is a hidden phenomenon.
+If it is manifest to that mind, then it is not necessarily a manifest phenomenon; for example, although emptiness is manifest to the uninterrupted path of the Mahayana path of seeing, it is an obscure phenomenon.
 
 [[Madhyamaka/All consciousnesses are direct valid cognition wrt their appearance (Khedrub Je)\|All consciousnesses are direct valid cognition wrt their appearance (Khedrub Je)]]
 

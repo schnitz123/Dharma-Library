@@ -13,13 +13,19 @@ Therefore, if it is a property of the probandum, it is not necessarily a phenome
 
 **Divisions**:
 1. Explicit property of the probandum  དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས།
+   Definition: That held to be the explicit property of the probandum in the proof of that
+   དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་སུ་བཟུང་བ།
 2. Implicit property of the probandum  དེ་སྒྲུབ་ཀྱི་ཤུགས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས།
+   Definition: That held to be the implicit property of the probandum in the proof of that
+   དེ་སྒྲུབ་ཀྱི་ཤུགས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་སུ་བཟུང་བ།
 
 e.g. impermanent and opposite from non-impermanent མི་རྟག་པ་དང་མི་རྟག་པ་མ་ཡིན་པ་ལས་ལོག་པ་ལྟ་བུ།
 
-For example, "momentary":
-- is the explicit property of the probandum in the proof that sound is impermanent using the sign "product"; but
-- is not the explicit property of the probandum in the proof that sound is impermanent because of being a correct sign in the proof of that.
+**For example:**
+- The subject - impermanent - it is the explicit property of the probandum in the proof that sound is impermanent because of being that definition.
+  མི་རྟག་པ་ཆོས་ཅན། ཁྱོད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་ཡིན་ཏེ། མཚན་ཉིད་དེའི་ཕྱིར་རོ།
+- The subject - momentary - it is not the explicit property of the probandum in the proof that sound is impermanent because of being a correct sign in the proof of that.
+  སྐད་ཅིག་མ་ཆོས་ཅན། སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་མ་ཡིན་ཏེ། དེ་སྒྲུབ་ཀྱི་རྟགས་ཡང་དག་ཡིན་པའི་ཕྱིར།
 
 ---
 Up a level: [[Preliminaries/Tarig/Parts of the Syllogism\|Parts of the Syllogism]]

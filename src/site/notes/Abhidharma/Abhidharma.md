@@ -8,8 +8,8 @@
 - [[Abhidharma/Contaminated and uncontaminated\|Contaminated and uncontaminated]] ཟག་བཅས་ཟག་མེད།
 - [[Abhidharma/Compounded phenomena\|Compounded]] and [[Abhidharma/three uncompounded phenomena\|uncompounded]] phenomena འདུ་བྱས་དང་འདུ་མ་བྱས།
 	- [[Abhidharma/The Aggregates, Sources, and Constituents\|The Aggregates, Sources, and Constituents]] ཕུང་ཁམས་སྐྱེ་མཆེད་གསུམ།
-		- [[Abhidharma/Phenomenon-source\|Phenomenon-source]]
-		- [[Abhidharma/Non-revealing forms\|Non-revealing forms]]
+		- [[Abhidharma/Phenomenon-source\|Phenomenon-source]] ཆོས་ཀྱི་སྐྱེ་མཆེད།
+		- [[Abhidharma/Non-revealing forms\|Non-revealing forms]] རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་གཟུགས།
 		- [[Abhidharma/The Six Constituents\|The Six Constituents]] ཁམས་དྲུག
   
 

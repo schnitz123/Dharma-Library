@@ -40,4 +40,4 @@ Others say contaminated / uncontaminated are:
 
 
 ---
-Up a level: [[Preliminaries/Collected Topics/Established Base\|Established Base]] / [[Preliminaries/Collected Topics/Collected Topics\|Collected Topics]]
+Up a level: [[Preliminaries/Collected Topics/Established-basis\|Established-basis]] / [[Preliminaries/Collected Topics/Collected Topics\|Collected Topics]]

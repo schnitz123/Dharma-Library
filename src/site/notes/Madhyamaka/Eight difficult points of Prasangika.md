@@ -50,7 +50,7 @@
 
 [[Madhyamaka/Khedrup Tendarwa Eight plus Twelve Difficult Points\|Khedrup Tendarwa Eight plus Twelve Difficult Points]]
 
-Many others, e.g. Manifest phenomenon and hidden phenomenon are mutually inclusive 
+Many others: e.g. Manifest phenomenon and obscure phenomenon are mutually inclusive 
 མངོན་གྱུར་དང་ལྐོག་གྱུར་གཉིས་དོན་གཅིག
 
 ---

@@ -15,7 +15,7 @@ In this context, pra is taken to mean main, therefore the **definition of valid 
 ---
 གཞལ་བྱ་ལ་མངོན་གྱུར་དང་ལྐོག་གྱུར་གཉིས་སུ་གྲངས་ངེས་པའི་རྟགས་ལས། 
 ཚད་མ་ལ་མངོན་སུམ་གྱི་ཚད་མ་དང༌། རྗེས་སུ་དཔག་པའི་ཚད་མ་གཉིས་སུ་གྲངས་ངེས་པ་ཡང་གྲུབ་བོ།
-**(Panchen:)** Using the sign that cognised-objects are definite in number as two - manifest and hidden - it is established that valid cognisers are also definite in number as the two: direct valid cognition and inferential valid cognition.
+**(Panchen:)** Using the sign that cognised-objects are definite in number as two - manifest and obscure - it is established that valid cognisers are also definite in number as the two: direct valid cognition and inferential valid cognition.
 
 **Divisions:** དབྱེ་ན།
 1. [[Madhyamaka/Direct valid cognition\|Direct valid cognition]] མངོན་སུམ་ཚད་མ་དང་།

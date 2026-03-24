@@ -4,11 +4,11 @@
 
 རང་གི་རྟེན་རྟགས་ཡང་དག་ལ་བརྟེན་ནས་དངོས་སུ་སྐྱེས་ཤིང་། རང་ལ་ལྐོག་ཏུ་གྱུར་པའི་གཞལ་བྱ་ལ་མི་སླུ་བའི་རིག་པ། རྗེས་དཔག་གི་མཚན་ཉིད།
 **Definition:** A knower that is:
-1. Non-deceptive wrt a cognised-object that is hidden to it; and
+1. Non-deceptive wrt a cognised-object that is obscure to it; and
 2. Directly produced in dependence upon a correct sign (its support).
 
 རང་གི་རྟེན་དུ་གྱུར་པའི་རྟགས་ཡང་དག་ལ་བརྟེན་ནས་རང་ཡུལ་གྱི་གཙོ་བོར་གྱུར་པའི་ལྐོག་གྱུར་ལ་མི་སླུ་བའི་ཞེན་རིག རྗེས་སུ་དཔག་པའི་ཚད་མའི་མཚན་ཉིད།
-**(Panchen) Definition:** A determinative knower that is non-deceptive with respect to the hidden phenomenon that is its main object and depends upon the correct sign that is its support.
+**(Panchen) Definition:** A determinative knower that is non-deceptive with respect to the obscure phenomenon that is its main object and depends upon the correct sign that is its support.
 
 ---
 རྗེས་སུ་དཔག་པའི་ཚད་མ་ཡིན་ན་རང་གི་རྟེན་གཏན་ཚིགས་ཡང་དག་ལ་བརྟེན་པས་ཁྱབ། 

@@ -28,4 +28,4 @@ An awareness that apprehends times as mixed apprehends the thing in the morning 
 Although a pot is a specifically characterised [phenomenon] and not a generally characterised [phenomenon], it is that with a common concomitance of place and time because pot pervades both the eastern and western sides of a pot and pot exists both in the morning and evening.
 
 ---
-Up a level: [[Preliminaries/Collected Topics/Established Base\|Established Base]]
+Up a level: [[Preliminaries/Collected Topics/Established-basis\|Established-basis]]

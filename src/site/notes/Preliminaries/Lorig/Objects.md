@@ -16,7 +16,7 @@
 An awareness's appearing object and apprehended object are mutually inclusive.
 
 གཞི་གྲུབ་ན་སྣང་ཡུལ་ཡིན་པས་ཁྱབ་སྟེ།<br>དངོས་པོ་ཡིན་ན་མངོན་སུམ་གྱི་སྣང་ཡུལ་ཡིན་པས་ཁྱབ་པ་གང་ཞིག རྟག་པ་ཡིན་ན། རྟོག་པའི་སྣང་ཡུལ་ཡིན་པས་ཁྱབ་པའི་ཕྱིར།
-If it is an [[Preliminaries/Collected Topics/Established Base\|../Collected Topics/Established Base]], it is pervaded by being an appearing object because:
+If it is an [[Preliminaries/Collected Topics/Established-basis\|established-basis]], it is pervaded by being an appearing object because:
 1. If it is a functioning thing, it is pervaded by being the appearing object of [[Preliminaries/Lorig/Direct perceivers\|Direct perceivers]]
    དང་པོ་གྲུབ་སྟེ། མངོན་སུམ་གྱི་སྣང་ཡུལ། གཟུང་ཡུལ། དངོས་པོ་རྣམས་དོན་གཅིག་ཡིན་པའི་ཕྱིར།
 2. If it is permanent, it is pervaded by being the appearing object of [[Preliminaries/Lorig/Conceptual consciousness taking a meaning generality as its apprehended object\|conceptual consciousness]]

@@ -3,7 +3,7 @@
 ---
 
 ཚིག་གསལ་ལས། གལ་ཏེ་མཚན་གཞིའམ། རང་གི་མཚན་ཉིད་དམ། སྤྱིའི་མཚན་ཉིད་ཀྱང་རུང་སྟེ། འཇིག་རྟེན་ན་ཡོད་ན་ནི་ཐམས་ཅད་མངོན་སུམ་དུ་དམིགས་པར་བྱ་བ་ཡིན་པའི་ཕྱིར་ལྐོག་ཏུ་མ་གྱུར་པ་ཡིན་ཏེ། དེའི་ཕྱིར་དེའི་ཡུལ་ཅན་གྱི་རྣམ་པར་ཤེས་པ་དང་ལྷན་ཅིག་ཏུ་མངོན་སུམ་ཉིད་དུ་རྣམ་པར་བཞག་གོ །ཞེས་གསུངས།
-*Clear Words* says: "If either the characterised or the specifically or generally characterised exist in the world, then they would all be directly observed; due to that, they are not hidden. Due to that, they are posited as just direct, together with the consciousnesses that possess them as objects."
+*Clear Words* says: "If either the characterised or the specifically or generally characterised exist in the world, then they would all be directly observed; due to that, they are not obscure. Due to that, they are posited as just direct, together with the consciousnesses that possess them as objects."
 
 དེའི་དོན་ནི། དངོས་སྨྲ་བས་རང་སྤྱི་གང་དུ་ཁས་བླངས་པའི་ཆོས་ཡིན་ཀྱང་ཆོས་དེ་དངོས་ཡུལ་དུ་བྱེད་པའི་གཉིས་སྣང་ཅན་གྱི་ཤེས་པ་ཡིན་ན་
 ཤེས་པ་དེ་ལ་ཡུལ་དེའི་སྣང་བ་འཆར་བས་ཁྱབ་ཅིང་ཤེས་པ་གང་ལ་ཡུལ་གང་གི་སྣང་བ་ཤར་བའི་སྣང་བ་དེའི་ཤེས་པ་དེའི་ཡུལ་མངོན་སུམ་པ་ཡིན་པས་ཁྱབ་ལ། 

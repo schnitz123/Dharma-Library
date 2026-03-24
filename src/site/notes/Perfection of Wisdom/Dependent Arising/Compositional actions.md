@@ -36,7 +36,7 @@ And their virtuous opposites.
 3. **Actions that are neither** དེ་གཉིས་གང་རུང་མ་ཡིན་པའི་ལས།
    e.g. actions that are the entity of non-conceptual exalted wisdom of meditative equipoise.
 
-See: [[Preliminaries/Collected Topics/Established Base#^81a032\|Established Base]]
+See: [[Preliminaries/Collected Topics/Established-basis#^81a032\|Established Base]]
 
 **Divisions of contaminated actions:**
 - **By way of function:**

@@ -9,9 +9,9 @@
 4. Actions done do not vanish / perish ལས་བྱས་པ་ཆུད་མི་ཟ་བ།
 
 **Three types of objects and their valid cognisers:** ཡུལ་གསུམ་དང་དེ་དག་གི་འཛིན་པའི་ཚད་མ།
-1. Manifest object – [[Preliminaries/Lorig/Direct perceivers\|direct perceivers]] མངོན་གྱུར། མངོན་སུམ།
-2. Hidden phenomena – [[Preliminaries/Lorig/Inferential valid cognisers\|inferential cognisers]] ལྐོག་གྱུར། རྗེས་དཔག
-3. Very Hidden phenomena – [[Preliminaries/Lorig/Inferential valid cognisers#^569308\|inferential cogniser of belief]] ཤིན་ཏུ་ལྐོག་གྱུར། ཡིད་ཆེས་ཀྱི་རྗེས་དཔག
+1. Manifest object – [[Preliminaries/Lorig/Direct perceivers\|direct perceivers]] མངོན་གྱུར། (Prasangika: also མངོན་སུམ།)
+2. Obscure phenomena – [[Preliminaries/Lorig/Inferential valid cognisers\|inferential cognisers]] ལྐོག་གྱུར། རྗེས་དཔག
+3. Very obscure phenomena – [[Preliminaries/Lorig/Inferential valid cognisers#^569308\|inferential cogniser of belief]] ཤིན་ཏུ་ལྐོག་གྱུར། ཡིད་ཆེས་ཀྱི་རྗེས་དཔག
 
 **The aspect of every action:** ལས་རེ་རེ་ལ།
 1. Basis གཞི།

@@ -14,7 +14,7 @@ Who are powerless like a revolving water-mill. [1.3]
 
 དཔལ་ལྡན་ཟླ་གྲགས་ཆོས་ཅན། སེམས་ཅན་ལ་དམིགས་པའི་སྙིང་རྗེ་ལ་ཕྱག་འཚལ་བ་ཡིན་ཏེ། 
 ངར་འཛིན་པའི་འཇིག་ལྟས་དང་པོར་ང་ཞེས་བདག་ལ་བདེན་པར་ཞེན་པར་གྱུར་ཅིང་། 
-དེ་ནས་ང་ཡི་བར་འཛིན་པའིེ་འཇིག་ལྟས་བདག་གི་འདིེའོ་ཞེས་མིག་རྣ་སོགས་ཀྱི་དངོས་པོ་ལ་བདེན་པར་ཆགས་པ་སྟེ་བདག་འཛིན་བསྐྱེད་པའི་
+དེ་ནས་ང་ཡི་བར་འཛིན་པའི་འཇིག་ལྟས་བདག་གི་འདིའོ་ཞེས་མིག་རྣ་སོགས་ཀྱི་དངོས་པོ་ལ་བདེན་པར་ཆགས་པ་སྟེ་བདག་འཛིན་བསྐྱེད་པའི་
 ཟོ་ཆུན་གྱི་འཕྲུལ་འཁོར་འཕྱན་པ་ལྟར་རང་དབང་མེད་པར་འཁོར་བར་འཁོར་བ་ཡི་འགྲོ་བ་ལ་དམིགས་ནས་སྙིང་རྗེར་གྱུར་པ་གང་ཡིན་པ་དེ་ལ་འདུད་པའི་ཕྱིར།
 The subject - the Glorious Candrakirti - he prostrates to [[Madhyamaka/Compassion observing sentient beings\|Compassion observing sentient beings]] because the view of the transitory collection apprehending "I" initially adheres to the self, the "I", as truly existent; then, the view of the transitory collection apprehending "Mine" is attached to the true existence of things, such as eyes, ears, and so forth, that are "Mine"; he prostrates to compassion observing such migrators who have generated such apprehension of self and are powerlessly cycling in samsara like a revolving water-mill.
 
@@ -24,7 +24,7 @@ Moreover:
 - The third line [fourth in English] indicates the way of cycling in samsara by way of an example
   རྐང་པ་གསུམ་པས་དཔེའི་སྒོ་ནས་འཁོར་བར་འཁོར་ཚུལ་དེ་བསྟན།
 - The fourth line [third in English] indicates the way of praising the compassion that has been identified as the object of praise
-  རྐང་པ་བཞིེ་པས་བསྟོད་ཡུལ་གྱི་སྙིང་རྗེ་ངོས་བཟུང་ནས་དེ་ལ་བསྟོད་ཚུལ་དེ་བསྟན་ནོ།
+  རྐང་པ་བཞི་པས་བསྟོད་ཡུལ་གྱི་སྙིང་རྗེ་ངོས་བཟུང་ནས་དེ་ལ་བསྟོད་ཚུལ་དེ་བསྟན་ནོ།
 
 ---
 །འགྲོ་བ་གཡོ་བའི་ཆུ་ཡི་ནང་གི་ཟླ་བ་ལྟར། །གཡོ་དང་རང་བཞིན་ཉིད་ཀྱིས་སྟོང་པར་མཐོང་བ་ཡི། 
@@ -35,7 +35,7 @@ Are seen as wavering and empty of inherent existence. [1.4ab]
 སྐད་ཅིག་གིས་འཇིག་པར་མཐོང་ནས་འགྲོ་བ་ལ་དམིགས་ནས་སྡུག་བསྔལ་དང་བྲལ་བར་འདོད་པའི་སྙིང་རྗེ་ལ་འདུད་པའི་ཕྱིར།
 That subject, he prostrates to [[Madhyamaka/Compassion observing phenomena\|Compassion observing phenomena]] because migrators, like the reflection of the moon in water made to waver by wind, are seen as wavering, i.e. momentarily disintegrating; he prostrates to the compassion observing such migrators and wishing they were free from suffering.
 
-དེ་ཆོས་ཅན། དམིགས་མེད་ལ་དམིགས་པའི་སྙིང་རྗེ་ལ་ཕྱག་འཚལ་བ་ཡིན་ཏེ། ཆུ་ཡི་ནང་གི་ཟླ་བའི་གཟུགས་བརྙན་ལྟར་རང་བཞིེན་གྱིས་གྲུབ་པར་སྣང་ཡང་
+དེ་ཆོས་ཅན། དམིགས་མེད་ལ་དམིགས་པའི་སྙིང་རྗེ་ལ་ཕྱག་འཚལ་བ་ཡིན་ཏེ། ཆུ་ཡི་ནང་གི་ཟླ་བའི་གཟུགས་བརྙན་ལྟར་རང་བཞིན་གྱིས་གྲུབ་པར་སྣང་ཡང་
 རང་བཞིན་ཉིད་ཀྱིས་སྟོང་པར་མཐོང་ནས་འགྲོ་བ་ལ་དམིགས་ནས་སྡུག་བསྔལ་དང་བྲལ་བར་འདོད་པའི་སྙིང་རྗེ་ལ་འདུད་པའི་ཕྱིར།
 That subject, he prostrates to [[Madhyamaka/Compassion observing the non-observed\|Compassion observing the non-observed]] because like the reflection of the moon in water, despite appearing inherently established they are empty of that inherent existence; he prostrates to compassion observing such migrators and wishing they were free from suffering.
 
