@@ -49,7 +49,7 @@ In this sense, they used as an “and”.
 Moreover, authors will sometimes use the different “and” words (དང་།, ཅིང་ཞིང་ཤིང་།, ལ་སྒྲ།, and so forth) to create different levels of conjunction.
 
 For example:
-- “It is said that [the number of those] dying and migrating from the lower realms and taking rebirth there are like the atoms of the great earth and [the number of those] taking rebirth in the higher realms from there are like the atoms picked up by the tip of a nail; [the number of those] dying and migrating from the higher realms and taking rebirth in the lower realms are like the atoms of the great earth and [the number of those] taking rebirth in the higher realms from there are like the atoms picked up by the tip of a nail.”
+- “It is said that [the number of those] dying and migrating from the lower realms and taking rebirth there are like the atoms of the great earth and [the number of those] taking rebirth in the higher realms from there are like the atoms picked up by the tip of a nail; *and* [the number of those] dying and migrating from the higher realms and taking rebirth in the lower realms are like the atoms of the great earth and [the number of those] taking rebirth in the higher realms from there are like the atoms picked up by the tip of a nail.”
   ངན་འགྲོ་ནས་ཤི་འཕོས་ཏེ་དེར་སྐྱེ་བ་ནི་ས་ཆེན་པོའི་རྡུལ་དང་། དེ་ནས་བདེ་འགྲོར་སྐྱེ་བ་ནི་སོར་མོའི་རྩེ་མོས་བླངས་པའི་རྡུལ་དང་འདྲ་*ཞིང་།*
   བདེ་འགྲོ་གཉིས་ནས་ཤི་འཕོས་ཏེ་ངན་འགྲོར་སྐྱེ་བ་ནི་ས་ཆེན་པོའི་རྡུལ་དང་། དེ་ནས་བདེ་འགྲོར་སྐྱེ་བ་ནི་ཕྱག་སོར་གྱི་རྩེ་མོས་བཞེས་པའི་རྡུལ་དང་འདྲ་བར་གསུངས།
 

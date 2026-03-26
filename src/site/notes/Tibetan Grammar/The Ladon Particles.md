@@ -46,7 +46,7 @@ Moreover, the ན་སྒྲ། will rarely, if ever, be used to mark living be
 - ང་ལ་སྨྱུ་གུ་ཡོད། ✓
 - ང་ན་སྨྱུ་གུ་ཡོད། ✗
 
-The Second and Seventh Case Ladons should *never* be affixed directly to verbs; verbs must be [[Nominalising Particles\|nominalised]] in order to apply these cases to them. For example (“Training the mind to take the responsibility for liberated them”):
+The Second and Seventh Case Ladons should *never* be affixed directly to verbs; verbs must be [[Tibetan Grammar/Nominalising Particles\|nominalised]] in order to apply these cases to them. For example (“Training the mind to take the responsibility for liberated them”):
 - དེ་དག་སྒྲོལ་བའི་ཁུར་འཁྱེར་ལ་བློ་སྦྱང་བའོ། ✗
 - དེ་དག་སྒྲོལ་བའི་ཁུར་འཁྱེར་བ་ལ་བློ་སྦྱང་བའོ། ✓
 

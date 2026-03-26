@@ -24,7 +24,7 @@ Things get complicated since in certain contexts:
 
 For clarity, I will use the two terms བྱེད་པ་པོ། and བྱེད་པ་ཙམ།, consider them equivalent to བྱེད་པ་པོ་གཙོ་བོ། and བྱེད་པ་པོ་ཕལ་པ།, respectively, and accept the divisions as presented above. However, the debate around these will be discussed below.
 
-These two terms are also grammatically accurate, since བྱེད། means “to do”, this is [[Nominalising Particles\|nominalised]] as བྱེད་པ།, making it the “doing” or “doer” (but not necessarily a person), then adding the [[Possession Particles\|possession particle]] (བདག་སྒྲ།) to make བྱེད་པ་པོ། also marks the owner of the doing and explicitly as a living being.
+These two terms are also grammatically accurate, since བྱེད། means “to do”, this is [[Tibetan Grammar/Nominalising Particles\|nominalised]] as བྱེད་པ།, making it the “doing” or “doer” (but not necessarily a person), then adding the [[Tibetan Grammar/Possession Particles\|possession particle]] (བདག་སྒྲ།) to make བྱེད་པ་པོ། also marks the owner of the doing and explicitly as a living being.
 
 For example: Tashi writes a letter with a pen བཀྲ་ཤིས་ཀྱིས་ཡི་གེ་སྨྱུ་གུས་འབྲི།
 Here, Tashi is the Primary Agent (བྱེད་པ་པོ།) while the pen is the Secondary Agent (བྱེད་པ་ཙམ།).
@@ -42,7 +42,7 @@ The latter is asserted either:
 The first and second objections are closely related and are based on using the terms བྱེད་པ་པོ་གཙོ་བོ། and  
 བྱེད་པ་པོ་ཕལ་པ། for the two types of agent.
 
-The issue is that both of these types of agent are referred to as བྱེད་པ་པོ།, which contradicts the grammar rules for the [[Possession Particles\|Possession Particles]] (i.e. that they necessarily refer to persons) and negates the above person / non-person distinction, saying that both could be either. 
+The issue is that both of these types of agent are referred to as བྱེད་པ་པོ།, which contradicts the grammar rules for the [[Tibetan Grammar/Possession Particles\|Possession Particles]] (i.e. that they necessarily refer to persons) and negates the above person / non-person distinction, saying that both could be either. 
 This shifts the distinction between the two types of agent to the terms གཙོ་བོ། and ཕལ་པ།, making them hierarchical such that the Primary is necessary while the Secondary is not (that sense is carried over into the English). The result is that if there is only one agent in the sentence, it will be the Primary Agent (བྱེད་པ་པོ་གཙོ་བོ།) and since verbs [[Tibetan Grammar/Where agent and object are different\|where agent and object are different]] (ཐ་དད་པ།) must have at least one agent, that “first” one will be the Primary Agent.
 
 I don’t mean to imply that it is wrong to base one’s understanding of the types of agent on the terms  

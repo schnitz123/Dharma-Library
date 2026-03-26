@@ -23,7 +23,7 @@ However, since grammar particles and cases have a མུ་གསུམ། relat
 This has many non-Ladon usages (a list of seven types is sometimes given) that are mainly different usages of the conditional “if”.
 
 **How to tell the difference?**
-Since the ན་སྒྲ། is rarely, if ever, used as the Fourth Case marker (see: [[Tibetan Grammar/The Ladon Particles#^a61850\|here]]), it should never appear affixed directly to verbs unless they are [[Nominalising Particles\|nominalised]]. Therefore, if it is affixed directly to a verb, then it is not a Ladon.
+Since the ན་སྒྲ། is rarely, if ever, used as the Fourth Case marker (see: [[Tibetan Grammar/The Ladon Particles#^a61850\|here]]), it should never appear affixed directly to verbs unless they are [[Tibetan Grammar/Nominalising Particles\|nominalised]]. Therefore, if it is affixed directly to a verb, then it is not a Ladon.
 
 For example:
 - “When [I] go to the market…” ཁྲོམ་ལ་འགྲོ་བ་ན་་་། 
@@ -49,7 +49,7 @@ For example:
 
 This is said to have the same meaning as the [[Tibetan Grammar/Emphasis-Conjunction Particles\|Emphasis-Conjunction Particles]] (རྒྱན་སྡུད།), i.e. that the sentence or thought is not complete but will continue. It can usually be translated as “and” or “but”.
 
-As for the ན་སྒྲ།, the way to recognise this is that it will be affixed directly to a verb without [[Nominalising Particles\|nominalising]] it first.
+As for the ན་སྒྲ།, the way to recognise this is that it will be affixed directly to a verb without [[Tibetan Grammar/Nominalising Particles\|nominalising]] it first.
 
 **Hypothetical example:**
 - “Generating wisdom *and* the method of engagement.” ཤེས་རབ་བསྐྱེད་ལ་འཇུག་པའི་ཐབས།

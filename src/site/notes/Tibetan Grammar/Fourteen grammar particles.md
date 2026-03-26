@@ -16,11 +16,14 @@ In The Thirty (སུམ་ཅུ་པ།), the classical presentation of fourt
 	1. [[Tibetan Grammar/The Ni Particle\|The Ni Particle]] ནི་སྒྲ།
 	2. [[Tibetan Grammar/The Dang Particle\|The Dang Particle]] དང་སྒྲ།
 	3. [[Tibetan Grammar/The Demonstrative Pronouns\|The Demonstrative Pronouns]] དེ་སྒྲ།
-	4. The Gang Particles གང་སྒྲ།
-	5. Possession Particles བདག་སྒྲ།
-	6. Negation Particles དགག་སྒྲ། (and Existence Particles སྒྲུབ་སྒྲ།)
+	4. [[Tibetan Grammar/The Relative Pronouns\|The Relative Pronouns]] གང་སྒྲ།
+	5. [[Tibetan Grammar/Possession Particles\|Possession Particles]] བདག་སྒྲ། (and [[Tibetan Grammar/Nominalising Particles\|Nominalising Particles]])
+	6. [[Tibetan Grammar/Negation and Existence Particles\|Negation and Existence Particles]] དགག་སྒྲ། སྒྲུབ་སྒྲ།
 
-
+Others:
+- [[Tibetan Grammar/Reason Indicators\|Reason Indicators]]
+- Speech Marks
+- Indefinite Articles
 
 
 ---

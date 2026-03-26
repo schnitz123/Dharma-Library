@@ -46,8 +46,8 @@ Nouns and adjectives are considered to naturally be in the [[Tibetan Grammar/The
 
 ---
 **Ways of forming nouns and adjectives:**
-- Using the [[Nominalising Particles\|Nominalising Particles]] པ། བ། པོ། བོ། མ། མོ། as a root part of the word
-- Nouns created using the above six plus ཅན། མཁན། ལྡན། ([[Possession Particles\|Possession Particles]])
+- Using the [[Tibetan Grammar/Nominalising Particles\|Nominalising Particles]] པ། བ། པོ། བོ། མ། མོ། as a root part of the word
+- Nouns created using the above six plus ཅན། མཁན། ལྡན། ([[Tibetan Grammar/Possession Particles\|Possession Particles]])
 - Adjectives created using the particles ཅན། ལྡན། བཅས། ཡོད། མེད།
 
 ---

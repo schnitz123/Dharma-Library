@@ -17,7 +17,7 @@ It is possible to have multiple བྱེད་སྒྲ། marking different th
 - “Since he didn't have a pen, Tashi wrote the letter with a pencil.” 
   སྨྱུ་གུ་མེད་པས་བཀྲ་ཤིས་ཀྱིས་ཡི་གེ་ཤ་སྨྱུག་གིས་འབྲི།
 
-The བྱེད་སྒྲ། is never affixed directly to a verb, it must be [[Nominalising Particles\|nominalised]] first. As such, it should not to be confused with the imperative form of the verb བགྱིད་པ། (i.e. གྱིས།), which will sometimes be affixed to verbs.
+The བྱེད་སྒྲ། is never affixed directly to a verb, it must be [[Tibetan Grammar/Nominalising Particles\|nominalised]] first. As such, it should not to be confused with the imperative form of the verb བགྱིད་པ། (i.e. གྱིས།), which will sometimes be affixed to verbs.
 
 There are instances where the བྱེད་སྒྲ། is directly affixed to a verb and as such, like the Ladons and འབྲེལ་སྒྲ།, will be used to indicate the meaning of the [[Tibetan Grammar/Emphasis-Conjunction Particles\|Emphasis-Conjunction Particles]] (རྒྱན་སྡུད།), but this is an incorrect usage of the བྱེད་སྒྲ།.
 

@@ -8,7 +8,7 @@ For example:
 - “Thus did I hear at one time…” འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།
 - “[I] studied when young.” ཚེ་སྟོད་དུ་སློབ་སྦྱོང་བྱས།
 
-The Time Marker is *always* affixed to some term expressing a time, occasion or number. It is never affixed directly to verbs unless they are [[Nominalising Particles\|nominalised]] and, even then, there is an implicit time phrase involved.
+The Time Marker is *always* affixed to some term expressing a time, occasion or number. It is never affixed directly to verbs unless they are [[Tibetan Grammar/Nominalising Particles\|nominalised]] and, even then, there is an implicit time phrase involved.
 
 For example:
 - “We must get up when the sun rises.” ཉི་མ་ཤར་བ་ན་ཡར་ལང་དགོས།

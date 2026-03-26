@@ -20,7 +20,7 @@ For example:
 
 The Locative marks the support or place of activity of verbs, e.g. བསྡད་ས། བརྟེན་ས། བསྟན་ས།. (See: [[Tibetan Grammar/Two types of place of activity\|Two types of place of activity]])
 
-The Locative usually marks nouns but can also mark verbs (only if [[Nominalising Particles\|nominalised]]).
+The Locative usually marks nouns but can also mark verbs (only if [[Tibetan Grammar/Nominalising Particles\|nominalised]]).
 
 
 ---

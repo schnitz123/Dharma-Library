@@ -116,7 +116,7 @@ There seems to be no difference in meaning, but should not be mistaken for a Thi
 { #3101e1}
 
 
-This usage is the *only* time the Fifth Case (*only* the ནས་སྒྲ།) will be affixed directly to a verb. In other cases, as with the Ladons and so forth, verbs need to be [[Nominalising Particles\|nominalised]]. This continuative is used to indicate either a sequence or simultaneity of events, i.e. of the actions indicated by the verbs in the sentence.
+This usage is the *only* time the Fifth Case (*only* the ནས་སྒྲ།) will be affixed directly to a verb. In other cases, as with the Ladons and so forth, verbs need to be [[Tibetan Grammar/Nominalising Particles\|nominalised]]. This continuative is used to indicate either a sequence or simultaneity of events, i.e. of the actions indicated by the verbs in the sentence.
 
 For example:
 - “[I] will study and then go to the market.” Lit. “Having studied, I will go to the market.”

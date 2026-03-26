@@ -8,12 +8,12 @@
 The Fourth Case marks the purpose (ཆེད་དུ་བྱ་བ།) or objective (བྱ་བའི་དོན་གྱི་ཡུལ།) for doing some verb or what is being benefitted by the verb.
 
 For example: 
-- "Going to cut wood" ཤིང་གཅོད་དུ་འགྲོ།
+- “Going to cut wood” ཤིང་གཅོད་དུ་འགྲོ།
   The action of going is being done in order to cut the wood.
 
 In general, the Fourth Case should *always* be affixed to a verb. This is because we always do things for verbs, never for nouns etc. We don't earn money in order to house, but in order to _buy_ a house; we may say we plant a seed for the fruit, but really it's in order to _grow_ the fruit and later _eat_ the fruit; and so forth.
 
-As such, it should usually be clear when the Fourth Case is being used, since *it is the only Ladon affixed directly to verbs* (i.e. without [[Nominalising Particles\|nominalising]] them).
+As such, it should usually be clear when the Fourth Case is being used, since *it is the only Ladon affixed directly to verbs* (i.e. without [[Tibetan Grammar/Nominalising Particles\|nominalising]] them).
 
 When it is affixed to a noun, then there is some implicit verb associated with it.
 For example: ཞིང་ལ་ཆུ་འདྲེན།

@@ -10,7 +10,7 @@ That which is the common locus of x being:
 2. either an implicative negation or a positive phenomenon.
 
 **Illustration:**
-Taking the subject - in the space in front - a factually concordant subsequent cogniser ascertaining a meat-eater (there) does not exist in the continuum of a person for whom a meat-eater is a [[Preliminaries/Tarig/Suprasensory object\|suprasensory object]] because of existence.
+Taking the subject - in the space in front - a factually concordant subsequent cogniser ascertaining a meat-eater (there) does not exist in the continuum of a person for whom a meat-eater is a [[Preliminaries/Tarig/Suprasensory object\|suprasensory object]] because it is existent.
 མདུན་གྱི་གཞི་འདིར་ཆོས་ཅན། ཤ་ཟ་བསྐལ་དོན་དུ་སོང་བའི་གང་ཟག་གིས་རྒྱུད་ལ་ཤ་ཟ་ངེས་བྱེད་ཀྱི་དཔྱད་ཤེས་དོན་མཐུན་མེད་དེ། ཡོད་པ་ཡིན་པའི་ཕྱིར།
 
 ---

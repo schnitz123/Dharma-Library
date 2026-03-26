@@ -13,7 +13,7 @@ These and would often be equivalent to an adjectival construction using the Sixt
 - Powerful དབང་ལྡན།
 
 
-See also: [[Nominalising Particles\|Nominalising Particles]]
+See also: [[Tibetan Grammar/Nominalising Particles\|Nominalising Particles]]
 
 
 

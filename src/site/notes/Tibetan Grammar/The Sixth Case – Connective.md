@@ -25,7 +25,7 @@ For example, “My hand.” (ངའི་ལག་པ།):
 - My hand relates to me
 - There are many hands in the world, but I am talking about a particular one that is mine.
 
-These constructions can also utilise [[Nominalising Particles\|nominalised]] verbs:
+These constructions can also utilise [[Tibetan Grammar/Nominalising Particles\|nominalised]] verbs:
 - “The path leading to Buddhahood.” སངས་རྒྱས་སུ་བགྲོད་པའི་ལམ།
 - “The responsibility of liberating all sentient beings.” སེམས་ཅན་ཐམས་ཅད་སྒྲོལ་བའི་ཁུར།
 
@@ -44,7 +44,7 @@ On the other hand, there is no need for a Sixth Case to directly connect a noun 
 - “A long [piece of] iron” ལྕགས་རིང་པོ།
 - “A small diamond” ཕ་ལམ་ཆུང་ངུ་།
 
-Like the Ladons and Third Case, also the Sixth Case cannot be affixed directly to verbs, the verbs must be [[Nominalising Particles\|nominalised]] first. Abbreviations of certain phrases are considered to be nouns and as such seem to circumvent this rule, for example:
+Like the Ladons and Third Case, also the Sixth Case cannot be affixed directly to verbs, the verbs must be [[Tibetan Grammar/Nominalising Particles\|nominalised]] first. Abbreviations of certain phrases are considered to be nouns and as such seem to circumvent this rule, for example:
 - “Striving awareness” དོན་གཉེར་གྱི་བློ། = “The awareness striving for the goal” དོན་དུ་གཉེར་བའི་བློ།
 - “Non-conceptual consciousness” རྟོག་མེད་ཀྱི་ཤེས་པ། = “A consciousness lacking conceptuality” རྟོག་པ་མེད་པའི་ཤེས་པ།
 
