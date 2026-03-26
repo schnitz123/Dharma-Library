@@ -18,7 +18,8 @@ Note: They are not limited to "what" but also encompass "who", "why", etc.
 - “The links that project and the links of how they project.” [Lit. “The links that are _what_ project and the links of their projecting in _what_ way.”] གང་གིས་འཕེན་པའི་ཡན་ལག་དང་ཇི་ལྟར་འཕེན་པའི་ཡན་ལག
 - “Oh monks, *whoever* sees dependent-arising sees the Dharma.”
   དགེ་སློང་དག་སུས་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་མཐོང་བ་དེས་ཆོས་མཐོང་ངོ་།
-- “*Whoever* wishes to quickly protect both self and others should practice the holy secret of exchanging self and others.” །གང་ཞིག་བདག་དང་གཞན་རྣམས་ནི། །མྱུར་དུ་བསྐྱབ་པར་འདོད་པ་དེས། །བདག་དང་གཞན་དུ་བརྗེ་བྱ་བར། །གསང་བའི་དམ་པ་སྤྱད་པར་བྱ།
+- “*Whoever* wishes to quickly protect both self and others...” [Lit. “Those *who* wish...”]
+  གང་ཞིག་བདག་དང་གཞན་རྣམས་ནི། མྱུར་དུ་བསྐྱབ་པར་འདོད་པ་དེས།
 - “*Whose* intelligence is pure and clear like the sun free from the clouds of the two obscurations...” 
   གང་གི་བློ་གྲོས་སྒྲིབ་གཉིས་སྤྲིན་བྲལ་ཉི་ལྟར་རྣམ་དག་རབ་གསལ་བས།
 
@@ -31,7 +32,7 @@ These particles also form various companion structures with [[Tibetan Grammar/Th
 - ཅི་ཕྱིར། དེ་ཕྱིར། “Why…? Because…”
 - ཅི་ཙམ། དེ་ཙམ།  “Just how much…? Just that much…”
 
-But these will also appear individually or even mismatched. These constructions will sometimes have a [[Tibetan Grammar/The Ladon Particles\|Ladon]] (usually a དུ་སྒྲ།) or an [[Indefinite Article\|Indefinite Article]] (ཞིག ཅིག ཤིག) attached to them.
+But these will also appear individually or even mismatched. These constructions will sometimes have a [[Tibetan Grammar/The Ladon Particles\|Ladon]] (usually a དུ་སྒྲ།) or an [[Tibetan Grammar/Indefinite Articles and Imperative Markers\|Indefinite Article]] (ཞིག ཅིག ཤིག) attached to them.
 
 **For example:**
 - “*For as long as* space remains, *for as long as* sentient beings remain, may I too remain to clear away the suffering of sentient beings.” [Lit. how long, that long]

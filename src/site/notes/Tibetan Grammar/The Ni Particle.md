@@ -11,7 +11,7 @@ The first two are its main usages and thus it is better to think of the ནི�
 
 **1. Isolation** (དགར་བ།)
 
-This is the most common usage. Usually clarifying a sentence clause in relation to an [[Existence and Negation Particles\|Existence Particle]] (སྒྲུབ་སྒྲ།) such as ཡིན།. Since ཡིན། takes two things in the [[Tibetan Grammar/The First Case – Nominative\|First Case]] to form the “A is B” construction, it can sometimes be unclear what A and B are (especially as sentences get longer and more complex); the ནི་སྒྲ། is then used to isolate the two.
+This is the most common usage. Usually clarifying a sentence clause in relation to an [[Tibetan Grammar/Negation and Existence Particles\|Existence Particle]] (སྒྲུབ་སྒྲ།) such as ཡིན།. Since ཡིན། takes two things in the [[Tibetan Grammar/The First Case – Nominative\|First Case]] to form the “A is B” construction, it can sometimes be unclear what A and B are (especially as sentences get longer and more complex); the ནི་སྒྲ། is then used to isolate the two.
 
 For example:
 - “Pot is impermanent.” བུམ་པ་ནི་མི་རྟག་པ་ཡིན།

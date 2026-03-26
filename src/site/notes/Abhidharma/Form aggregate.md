@@ -32,7 +32,7 @@ i.e.: If it is form, then it is not pervaded by being the apprehended-object of 
 ---
 དབང་པོ་ལྔ་ཞེས་སྨོས་པས་ཡིད་དབང་གཅོད། དོན་ལྔ་ཞེས་སྨོས་པས་ཆོས་ཁམས་གཅོད། 
 ཉིད་ཅེས་ངེས་གཟུང་གི་ཚིག་གིས་འདི་རྣམས་གང་རུང་མ་ཡིན་ན་གཟུགས་མ་ཡིན་དགོས་ཞེས་པའོ།
-Saying "five faculties" negates the mental-faculty and saying "five objects" negates the phenomena constituent; the [[Tibetan Grammar/Emphatic or Limiting particles\|limiting particle]] "just" expresses that if it is not one of these, then it is necessarily not form.
+Saying "five faculties" negates the mental-faculty and saying "five objects" negates the phenomena constituent; the [[Tibetan Grammar/Focusing adverbs\|limiting particle]] "just" expresses that if it is not one of these, then it is necessarily not form.
 
 
 ---

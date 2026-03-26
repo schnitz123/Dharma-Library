@@ -2,18 +2,7 @@
 {"dg-publish":true,"permalink":"/tibetan-grammar/reason-indicators/"}
 ---
 
-Another way to mark a reason is to use the ཕྱིར། particle:
-- “The pot is impermanent because of being a product.” 
-  བུམ་པ་ནི་མི་རྟག་པ་ཡིན་ཏེ། བྱས་པ་ཡིན་པའི་ཕྱིར། = བུམ་པ་ནི་བྱས་པ་ཡིན་པས་མི་རྟག་པ་ཡིན་ནོ།
-
-This requires rearranging the sentence somewhat: using the Third Case means the reason comes first in the sentence, whereas using the ཕྱིར། particle means it comes last, but the meaning ends up being the same.
-
-
-
-For more on this, see the section on རྒྱུ་མཚན་སྟོན་པའི་སྒྲ། below.
-
----
-This category includes the following particles:
+**This category includes the following particles:**
 - Third Case particle -ས། (See: [[Tibetan Grammar/The Reason\|here]])
 - Fifth Case particle ལས། (See: [[Tibetan Grammar/The Fifth Case – Origin#^cc5c38\|here]])
 - The དང་སྒྲ།
@@ -31,7 +20,7 @@ In this way, the reason something happened can be (respectively):
 - On account of something else happening, or
 - If something else happens (conditionally or hypothetically).
 
-However, there are also reasons based on the nature of phenomena rather than their causation. In these cases, neither the reason nor its conclusion have to be verbs and are usually affixed to an [[Existence and Negation Particles\|Existence and Negation Particle]] (སྒྲུབ་སྒྲ། དགག་སྒྲ།), e.g. ཡིན། མིན། ཡོད། མེད།; this is very common in debate. Since these are not sequential they will not use the ནས་སྒྲ། or the དང་སྒྲ།.
+However, there are also reasons based on the nature of phenomena rather than their causation. In these cases, neither the reason nor its conclusion have to be verbs and are usually affixed to an [[Tibetan Grammar/Negation and Existence Particles\|Negation or Existence Particle]] (དགག་སྒྲ། སྒྲུབ་སྒྲ།), e.g. ཡིན། མིན། ཡོད། མེད།; this is very common in debate. Since these are not sequential they will not use the ནས་སྒྲ། or the དང་སྒྲ།.
 
 As such, reason statements can have many constructions, for example:
 - [[Preliminaries/Tarig/Correct nature sign\|Reason of nature]]:
@@ -61,5 +50,9 @@ The ཕྱིར་སྒྲ། should not be confused with the [[Tibetan Gramma
 However, it would remain a Reason Indicator even if restructured as:
 - “Due to being a product, pot is impermanent.” བྱས་པ་ཡིན་པའི་ཕྱིར་བུམ་པ་ནི་མི་རྟག་པ་ཡིན།
 
-Moreover, the Reason Indicator will usually link up with a [[Tibetan Grammar/Continuative Particles\|Continuative Particle]] (ལྷག་བཅས།) particle to clearly mark what it is a reason for:
+Moreover, the Reason Indicator ཕྱིར་སྒྲ། will usually link up with a [[Tibetan Grammar/Continuative Particles\|Continuative Particle]] (ལྷག་བཅས།) particle to clearly mark what it is a reason for:
 - As in the above: ཡིན་ཏེ། ་་་པའི་ཕྱིར།
+
+
+---
+Up a level: [[Tibetan Grammar/Grammar particles\|Grammar particles]]

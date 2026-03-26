@@ -11,6 +11,11 @@
 **Divisions:**
 - [[Tibetan Grammar/The eight cases\|The eight cases]] རྣམ་དབྱེ་བརྒྱད།
 - [[Tibetan Grammar/Fourteen grammar particles\|Fourteen grammar particles]] ཚིག་ཕྲད་བཅུ་བཞི།
+- Other:
+	- [[Tibetan Grammar/Reason Indicators\|Reason Indicators]]
+	- [[Tibetan Grammar/Speech Marks\|Speech Marks]]
+	- [[Tibetan Grammar/Indefinite Articles and Imperative Markers\|Indefinite Articles and Imperative Markers]]
+	- [[Tibetan Grammar/Focusing adverbs\|Focusing adverbs]]
 
 Three possibilities between a grammar particle and a case:
 - If it is a case, then it is necessarily a grammar particle

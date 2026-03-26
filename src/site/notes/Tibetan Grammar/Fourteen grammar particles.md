@@ -20,11 +20,6 @@ In The Thirty (སུམ་ཅུ་པ།), the classical presentation of fourt
 	5. [[Tibetan Grammar/Possession Particles\|Possession Particles]] བདག་སྒྲ། (and [[Tibetan Grammar/Nominalising Particles\|Nominalising Particles]])
 	6. [[Tibetan Grammar/Negation and Existence Particles\|Negation and Existence Particles]] དགག་སྒྲ། སྒྲུབ་སྒྲ།
 
-Others:
-- [[Tibetan Grammar/Reason Indicators\|Reason Indicators]]
-- Speech Marks
-- Indefinite Articles
-
 
 ---
 Up a level: [[Tibetan Grammar/Grammar particles\|Grammar particles]]
