@@ -32,7 +32,7 @@ It is necessary to assert a functioning thing that is its basis of designation o
 རྣམ་འགྲེལ་ལས། རང་གི་མཚན་ཉིད་གཅིག་གཞལ་བྱ། །ཡོད་མེད་གཉིས་སུ་དཔྱོད་རྣམས་ཀྱི། །དོན་བྱ་དེ་ལས་གྲུབ་པའི་ཕྱིར། །ཞེས་གསུངས་པའི་ཕྱིར།
 This is because [Dharmakīrti’s] Pramanavartika says:
 A specifically characterised phenomenon: analysed  
-As to whether or not the object of comprehension exists;  
+As to whether or not the cognised-object exists;  
 Its performance of a function is from that. Therefore,
 
 འོ་ན། འདུས་མ་བྱས་ཀྱི་ནམ་མཁའི་གདགས་གཞིར་གྱུར་པའི་དངོས་པོ་དེ་གང་ཞེ་ན། 

@@ -4,7 +4,7 @@
 
 གནོད་བྱེད་ནི། བུམ་པ་དང་བུམ་པ་བདེན་སྟོང་གཅིག་ཡིན་ན།
 **If the vase and the vase’s emptiness of true existence were one:**
-1. Taking the subject – the vase’s emptiness of true existence – it follows it is the object of comprehension of ordinary beings’ direct perception, because of being one with vase.
+1. Taking the subject – the vase’s emptiness of true existence – it follows it is the cognised-object of ordinary beings’ direct perception, because of being one with vase.
    བུམ་པ་བདེན་སྟོང་ཆོས་ཅན། སོ་སོ་སྐྱེ་བོའི་མངོན་སུམ་གྱི་གཞལ་བྱ་ཡིན་པར་ཐལ། བུམ་པ་དང་གཅིག་ཡིན་པའི་ཕྱིར།
 2. Taking that subject, it follows there is the arising of afflictions, attachment and so forth, due to observing it, because it is one with vase.
    དེ་ཆོས་ཅན། ཁྱོད་ལ་དམིགས་པས་ཆགས་སོགས་ཉོན་མོངས་སྐྱེ་བ་ཡོད་པར་ཐལ། ཁྱོད་བུམ་པ་དང་གཅིག་ཡིན་པའི་ཕྱིར།

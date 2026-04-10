@@ -4,7 +4,7 @@
 
 སངས་རྒྱས་རྣམས་འཇིག་རྟེན་དུ་འབྱུང་བའམ་མ་བྱུང་ཡང་རུང་དངོས་སུ་ན་སྟེ་དངོས་པོ་ཀུན་གྱི་རང་བཞིན་སྟོང་པ་ཉིད་ནི་ཆོས་ཅན། 
 གཞན་གྱི་དངོས་པོ་སྟེ་ངོ་བོར་རབ་ཏུ་བསྒྲགས་པ་ལ་རྒྱུ་མཚན་ཡོད་དེ།
-The subject - the emptiness of the nature of all things, i.e. in actuality, regardless of whether or not the Buddhas arise in the world - there is a reason for proclaiming "other things" or "other-nature" because:
+The subject - the emptiness of the nature of all things in actuality, i.e. regardless of whether or not the Buddhas arise in the world - there is a reason for proclaiming "other things" or "other-nature" because:
 1. It is referred to as such due to being the supreme [thing] that is other than the conventional; and
    ཀུན་རྫོབ་ལས་གཞན་མཆོག་ཏུ་གྱུར་པའི་རྒྱུ་མཚན་གྱིས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར་དང་།
 2. It is referred to as such due to being directly realised by supramundane exalted wisdom, which is other than worldly knowledge.
@@ -21,7 +21,7 @@ In this context, "in actuality" should be understood as nature because Nagtso tr
 Regarding that, there are three referents for the term "other":
 1. Suchness that is the supreme other than the conventional
    ཀུན་རྫོབ་ལས་གཞན་མཆོག་ཏུ་གྱུར་པ་དེ་བཞིན་ཉིད་དང་།
-2. Non-conceptual exalted wisdom that is other than worldly knowledge
+2. Non-conceptual exalted wisdom that is other than mundane consciousness
    འཇིག་རྟེན་པའི་ཤེས་པ་ལས་གཞན་དུ་གྱུར་པ་རྣམ་པར་མི་རྟོག་པའི་ཡེ་ཤེས་དང་།
 3. Nirvana that is on the other side to samsara
    འཁོར་བ་ལས་གཞན་ཕ་རོལ་ཏུ་གྱུར་པ་མྱང་འདས་གསུམ་ལ་འཇུག་པའི་ཕྱིར།

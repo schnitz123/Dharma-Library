@@ -19,7 +19,7 @@
 		   སྙོམས་པར་ཞུགས་རུང་མ་ཞུགས་རུང་དུས་ཐམས་ཅད་དུ་ཐུགས་མཉམ་པར་མ་བཞག་པ་མི་མངའ་བ།
 		3. Without discrimination of the difference of samsara and nirvana (or existence and peace) being apprehended as ultimately discordant or pacified
 		   འཁོར་འདས་སམ་སྲིད་ཞི་ལ་དོན་དམ་པར་མི་མཐུན་པ་དང་ཞི་བར་འཛིན་པ་ཉིད་ཀྱི་ཐ་དད་པའི་འདུ་ཤེས་མི་མངའ་བ།
-		4. Without indifference discarding, without individually investigating, the time to tame sentient beings སེམས་ཅན་འདུལ་བའི་དུས་ལ་སོགས་པ་སོ་སོར་མ་བརྟགས་པར་འདོར་བའི་བཏང་སྙོམས་མི་མངའ་བ།
+		4. Without indifference that discards, without individually investigating, the time and so forth to tame sentient beings སེམས་ཅན་འདུལ་བའི་དུས་ལ་སོགས་པ་སོ་སོར་མ་བརྟགས་པར་འདོར་བའི་བཏང་སྙོམས་མི་མངའ་བ།
 - *Six included in realisation* རྟོགས་པས་བསྡུས་པ་དྲུག
 	1. Without degeneration of the aspiration giving rise to Tathagatas' wish to always enact the welfare of sentient beings and for qualities such as love and compassion to be uninterrupted
 	   དེ་བཞིན་གཤེགས་པ་དུས་ཐམས་ཅད་དུ་སེམས་ཅན་གྱི་དོན་མཛད་པ་དང༌། 
@@ -43,7 +43,7 @@
 	   ཡེ་ཤེས་སྔར་བྱུང་གི་རྒྱུ་ལས་བྱུང་བས་ཡེ་ཤེས་སྔོན་དུ་འགྲོ་ཞིང༌། ཡེ་ཤེས་དང་ལྷན་ཅིག་ཏུ་རྒྱུ་བས་ཡེ་ཤེས་ཀྱི་རྗེས་སུ་འབྲང་བ།
 - *Three included in exalted wisdom* ཡེ་ཤེས་ཀྱིས་བསྡུས་པ་གསུམ།
   འདས་པ་དང་མ་འོངས་པ་དང་ད་ལྟར་གྱུར་པའི་ཆོས་ཐམས་ཅད་ལ་བཞེད་པ་ཙམ་གྱིས་མཁྱེན་པས་མ་ཆགས་ཤིང༌། ཐམས་ཅད་མཁྱེན་པས་མ་ཐོགས་པའི་ཡེ་ཤེས།
-  Exalted wisdom unobstructed due to knowing by mere assertion and due to omniscience wrt to all phenomena that are: 
+  Exalted wisdom unobstructed due to knowing by merely wishing to and due to omniscience wrt to all phenomena that are: 
 	1. Past
 	2. Future
 	3. Present

@@ -11,7 +11,7 @@
 2. **Contradictory reason** རྒྱུ་མཚན་དང་འགལ་བའི་ཡིད་དཔྱོད།
    e.g. Awareness apprehending sound as impermanent through the sign of being empty of the ability to perform a function<br>དོན་བྱེད་ནུས་སྟོང་གི་རྟགས་ལས་སྒྲ་མི་རྟག་པར་འཛིན་པའི་བློ།
 3. **Indefinite reason** རྒྱུ་མཚན་མ་ངེས་པའི་ཡིད་དཔྱོད།
-   e.g. Awareness apprehending sound as impermanent through the sign of being an object of comprehension (indefinite sign in the proof of that, i.e. no pervasion)<br>གཞལ་བྱའི་རྟགས་ལས་སྒྲ་མི་རྟག་པར་འཛིན་པའི་བློ།
+   e.g. Awareness apprehending sound as impermanent through the sign of being a cognised-object (indefinite sign in the proof of that, i.e. no pervasion)<br>གཞལ་བྱའི་རྟགས་ལས་སྒྲ་མི་རྟག་པར་འཛིན་པའི་བློ།
 4. **Non-established reason** རྒྱུ་མཚན་མ་གྲུབ་པའི་ཡིད་དཔྱོད།
    e.g. Awareness apprehending sound as impermanent through the sign of being that apprehended by an eye consciousness (non-established sign in the proof of that, i.e. reason not established)<br>མིག་ཤེས་ཀྱི་གཟུང་བྱའི་རྟགས་ལས་སྒྲ་མི་རྟག་པར་འཛིན་པའི་བློ།
 5. **Having a reason but not having understood it** རྒྱུ་མཚན་ཡོད་ཀྱང་གཏན་ལ་མ་ཕེབས་པའི་ཡིད་དཔྱོད།

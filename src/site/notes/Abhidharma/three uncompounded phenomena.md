@@ -10,4 +10,4 @@
 
 
 ---
-Up a level: [[]]
+Up a level: [[Abhidharma/Abhidharma\|Abhidharma]]

@@ -106,29 +106,48 @@ Cittamatra assert:
 Therefore, they assert that:
 - Imputational natures are empty by way of their own-character; whereas
 - Other-powered and thoroughly established natures are established by way of their own-character.
-- The truly-established emptiness of apprehendeds and apprehenders being empty of being different substances is the object of comprehension of an Arya's meditative equipoise.
+- The truly-established emptiness of apprehendeds and apprehenders being empty of being different substances is the cognised-object of an Arya's meditative equipoise.
 
 **Madhyamaka**
 
 དབུ་མ་པས་ནི། ཆོས་ཐམས་ཅད་བདེན་པས་སྟོང་པའི་སྟོང་ཉིད་འཕགས་པའི་མཉམ་གཞག་གི་གཞལ་བྱར་འདོད།
-Madhyamikas assert that the emptiness that is all phenomena being empty of true existence is the object of comprehension of an Arya's meditative equipoise.
+Madhyamikas assert that the emptiness that is all phenomena being empty of true existence is the cognised-object of an Arya's meditative equipoise.
 
-དེ་སྒྲུབ་པའི་རྟགས་སློབ་དཔོན་གྱིས་རང་བཞིན་གྱི་རྟགས་འགོད་པར་བཞེད་ལ། དེའི་ཚུལ་ནི་གང་ཤེས་པ་ཡིན་ན། བདེན་པས་སྟོང་པའི་རང་ཡུལ་ལ་དམིགས་པས་ཁྱབ། དཔེར་ན། རྨི་ལམ་དུ་རྟ་གླང་སྣང་བའི་ཤེས་པ་བཞིན། རྣམ་པར་མི་རྟོག་པའི་ཡེ་ཤེས་འདི་ཡང་ཤེས་པ་ཡིན་ནོ། 
+དེ་སྒྲུབ་པའི་རྟགས་སློབ་དཔོན་གྱིས་རང་བཞིན་གྱི་རྟགས་འགོད་པར་བཞེད་ལ། དེའི་ཚུལ་ནི་གང་ཤེས་པ་ཡིན་ན། བདེན་པས་སྟོང་པའི་རང་ཡུལ་ལ་དམིགས་པས་ཁྱབ། དཔེར་ན། རྨི་ལམ་དུ་རྟ་གླང་སྣང་བའི་ཤེས་པ་བཞིན། རྣམ་པར་མི་རྟོག་པའི་ཡེ་ཤེས་འདི་ཡང་ཤེས་པ་ཡིན་ནོ།
+The sign proving that is asserted by the Acarya to be a nature sign: If it is any consciousness, then it is pervaded by observing its object that is empty of true existence. For example, like the consciousness to which horses and elephants appear in a dream; the non-conceptual exalted wisdom is also a consciousness.
 
 ཕྱོགས་ཆོས་གྲུབ་སྟེ། དེ་ཤེས་པ་མ་ཡིན་ན་དེས་མཐོང་བའི་དོན་མེད་དགོས་པ་ལས་དེ་ཡོད་པའི་ཕྱིར།
+The property of the position is established because if it is not a consciousness, then the object perceived by it would necessarily not exist, whereas it exists.
 
+སེམས་ཙམ་པ་ན་རེ། བདེན་སྟོང་ཆོས་ཅན། བདེན་པར་མེད་པར་ཐལ། དམིགས་པ་ཡིན་པའི་ཕྱིར། འདོད་ན། བདེན་གྲུབ་ཡོད་པར་ཐལ། འདོད་པའི་ཕྱིར་ན།
+*The Cittamatrins say:* The subject - emptiness of true existence - it follows that it lacks true existence because of being observed. If accepted: It follows that true establishment exists because the above was accepted.
 
-སེམས་ཙམ་པ་ན་རེ། བདེན་སྟོང་ཆོས་ཅན། བདེན་པར་མེད་པར་ཐལ། དམིགས་པ་ཡིན་པའི་ཕྱིར། འདོད་ན། བདེན་གྲུབ་ཡོད་པར་ཐལ། འདོད་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། 
-ལྷས་བྱིན་གསོད་མཁན་གྱིས་མཆོད་སྦྱིན་བསད་པའི་འོག་ཏུ་གསད་བྱ་ལྷས་བྱིན་སླར་མི་ལྡོག་པ་བཞིན་དུ། བདེན་མེད་བདེན་གྲུབ་བཀག་པས་བདེན་གྲུབ་སླར་མི་ལྡོག་པའི་ཕྱིར། དེ་ལྟར་མ་ཡིན་ན་མོ་གཤམ་གྱི་བུ་སྐྱེས་པར་ཐལ། མོ་གཤམ་གྱི་བུ་སྐྱེས་པ་དེ་མ་སྐྱེས་པ་ཡིན་པའི་ཕྱིར། ཁྱབ་པ་ཁས།
+མ་ཁྱབ་སྟེ། ལྷས་བྱིན་གསོད་མཁན་གྱིས་མཆོད་སྦྱིན་བསད་པའི་འོག་ཏུ་གསད་བྱ་ལྷས་བྱིན་སླར་མི་ལྡོག་པ་བཞིན་དུ། 
+བདེན་མེད་བདེན་གྲུབ་བཀག་པས་བདེན་གྲུབ་སླར་མི་ལྡོག་པའི་ཕྱིར།
+*Response:* No pervasion because just like Devadatta (the victim) cannot be revived after having been killed by Yajñadatta (his killer), by negating the true establishment of the lack of true establishment one does not get back to true establishment again.
 
+དེ་ལྟར་མ་ཡིན་ན་མོ་གཤམ་གྱི་བུ་སྐྱེས་པར་ཐལ། མོ་གཤམ་གྱི་བུ་སྐྱེས་པ་དེ་མ་སྐྱེས་པ་ཡིན་པའི་ཕྱིར། ཁྱབ་པ་ཁས།
+Otherwise, it follows that a barren woman's son is born because the birth of the barren woman's son is unborn [i.e. non-produced]. You asserted the pervasion.
 
-གཞན་དབང་དང་གཉིས་སྟོང་གི་དེ་ཁོ་ན་ཉིད་ཆོས་ཅན། གཞན་དབང་ཡིན་པར་ཐལ། བདེན་གྲུབ་གང་ཞིག །ཡོངས་གྲུབ་མ་ཡིན་པའི་ཕྱིར། 
-འདོད་ན། རྫས་སུ་གྲུབ་པར་ཐལ་ལོ། འདོད་ན། དེ་གཉིས་རྫས་གཅིག་ཏུ་ཐལ་ལོ། འདོད་ན། གཉིས་སྟོང་གི་དེ་ཁོ་ན་ཉིད་རྫས་སུ་གྲུབ་པར་ཐལ་ལོ། 
+གཞན་དབང་དང་གཉིས་སྟོང་གི་དེ་ཁོ་ན་ཉིད་ཆོས་ཅན། གཞན་དབང་ཡིན་པར་ཐལ། བདེན་གྲུབ་གང་ཞིག །ཡོངས་གྲུབ་མ་ཡིན་པའི་ཕྱིར།
+The subject - other-powered natures and the suchness of non-duality - it follows that they are other-powered natures because 1) they are truly established and 2) they are not thoroughly-established natures.
+
+འདོད་ན། རྫས་སུ་གྲུབ་པར་ཐལ་ལོ། འདོད་ན། དེ་གཉིས་རྫས་གཅིག་ཏུ་ཐལ་ལོ། འདོད་ན། གཉིས་སྟོང་གི་དེ་ཁོ་ན་ཉིད་རྫས་སུ་གྲུབ་པར་ཐལ་ལོ།
+If accepted: It follows they are substantially established!
+If accepted: It follows that those two are the same substance!
+If accepted: It follows that the suchness of non-duality is substantially established!
+
 འདོད་ན། དེ་རྣམ་པར་མི་རྟོག་པའི་ཡེ་ཤེས་ཀྱི་དམིགས་པ་མ་ཡིན་པར་ཐལ། དེ་གཞན་དབང་ཡིན་པའི་ཕྱིར། 
-རྫས་ཐ་དད་ཡིན་ན། དེ་གཉིས་འབྲེལ་མེད་དོན་གཞན་དུ་ཐལ། དེ་གཉིས་རྫས་གཞན་གང་ཞིག །དེ་གཉིས་རྒྱུ་འབྲས་མ་ཡིན་པའི་ཕྱིར། 
-འདོད་ན། གཉིས་སྟོང་གི་དེ་ཁོ་ན་ཉིད་གཞན་དབང་གི་གནས་ལུགས་མ་ཡིན་པར་ཐལ་ལོ། 
-འདོད་ན། དེ་ལ་དམིགས་ཏེ་སྒོམ་པས་གཞན་དབང་ལ་སྒྲོ་སྐུར་ཅུང་ཟད་ཀྱང་སྤོང་མི་ནུས་པར་ཐལ་ལོ།
+If accepted: It follows that they are not the observed-objects of non-conceptual exalted wisdom because of being other-powered natures.
 
+རྫས་ཐ་དད་ཡིན་ན། དེ་གཉིས་འབྲེལ་མེད་དོན་གཞན་དུ་ཐལ། དེ་གཉིས་རྫས་གཞན་གང་ཞིག །དེ་གཉིས་རྒྱུ་འབྲས་མ་ཡིན་པའི་ཕྱིར།
+It follows that if they are substantially different, then those two would be unrelated different objects because 1) they are different substances and 2) those two are not cause and effect.
+
+འདོད་ན། གཉིས་སྟོང་གི་དེ་ཁོ་ན་ཉིད་གཞན་དབང་གི་གནས་ལུགས་མ་ཡིན་པར་ཐལ་ལོ། 
+If accepted: It follows that the suchness of non-duality is not the final mode of abiding of other-powered natures!
+
+འདོད་ན། དེ་ལ་དམིགས་ཏེ་སྒོམ་པས་གཞན་དབང་ལ་སྒྲོ་སྐུར་ཅུང་ཟད་ཀྱང་སྤོང་མི་ནུས་པར་ཐལ་ལོ།
+If accepted: It follows that by observing and cultivating that, one is not able to abandon even the slightest superimpositions and depredations wrt other-powered natures!
 
 ---
 Up a level: [[Perfection of Wisdom/Topics/Practice of the collections\|Practice of the collections]] /  [[Perfection of Wisdom/Perfection of Wisdom\|Perfection of Wisdom]]

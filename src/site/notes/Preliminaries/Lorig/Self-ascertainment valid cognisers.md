@@ -4,7 +4,7 @@
 
 ཚད་མ་གང་ཞིག རང་གི་གཞལ་བྱའི་བདག་ཉིད་ཡུལ་སྟེང་དུ་གནས་པ་མེད་ན། རང་ཉིད་མི་འབྱུང་བ་ལ་རང་སྟོབས་ཀྱིས་ངེས་པ་འདྲེན་ནུས་པ། 
 རང་ལས་ངེས་ཀྱི་ཚད་མའི་མཚན་ཉིད།
-**Definition:** That which is 1) a valid cogniser and 2) able to induce ascertainment through its own power that it would not have arisen if the nature of its object of comprehension did not exist on the basis of the object.
+**Definition:** That which is 1) a valid cogniser and 2) able to induce ascertainment through its own power that it would not have arisen if the nature of its cognised-object did not exist on the basis of the object.
 
 **Divisions:**
 1. [[Preliminaries/Lorig/Sense direct valid cognisers\|Sense direct valid cognisers]] to which the ability to perform a function appears<br>དོན་བྱེད་སྣང་ཅན་གྱི་དབང་མངོན་གྱི་ཚད་མ།

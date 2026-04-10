@@ -11,7 +11,7 @@
 2. [[Preliminaries/Lorig/Subsequent cognisers\|Subsequent cognisers]] དཔྱད་ཤེས།
 
 རྣལ་འབྱོར་མངོན་སུམ་དུ་གྱུར་པའི་སྣང་ལ་མ་ངེས་པའི་བློ་ནི་མེད་དེ། རྣལ་འབྱོར་མངོན་སུམ་ཡིན་ན་རང་གི་གཞལ་བྱ་ངེས་པས་ཁྱབ་པའི་ཕྱིར།
-There are no yogic direct perceivers that are [[Preliminaries/Lorig/Appearance without ascertainment\|appearance without ascertainment]] because if it is a yogic direct perceiver, it is pervaded by ascertaining its object of comprehension.
+There are no yogic direct perceivers that are [[Preliminaries/Lorig/Appearance without ascertainment\|appearance without ascertainment]] because if it is a yogic direct perceiver, it is pervaded by ascertaining its cognised-object.
 
 རྣལ་འབྱོར་མངོན་སུམ་དུ་གྱུར་པའི་དཔྱད་ཤེས་ཡོད་ཀྱང་། ཀུན་མཁྱེན་ཡེ་ཤེས་སྐད་ཅིག་གཉིས་པ་ལྟ་བུ་ནི་དཔྱད་ཤེས་མ་ཡིན་ཏེ།
 ཀུན་མཁྱེན་ཡེ་ཤེས་ཡིན་ན། ཚད་མ་ཡིན་པས་ཁྱབ་པའི་ཕྱིར།

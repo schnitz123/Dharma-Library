@@ -6,7 +6,7 @@
 **Definition (Purbuchok):** That observed as the common locus of being:
 1. A negation; and
 2. There does not exist a common locus of:
-	1. That which is implicitly conveyed as an object of comprehension to its apprehending conception upon the sound expressing it negating its object of negation; and
+	1. That which is implicitly conveyed as a cognised-object to its apprehending conception upon the sound expressing it negating its object of negation; and
 	2. Being a positive phenomenon.
 
 མཚན་གཞི་ནི། བུམ་པ་དང་བུམ་པ་མ་ཡིན་པའི་གཞི་མཐུན་པས་སྟོང་པ་ལྟ་བུ།

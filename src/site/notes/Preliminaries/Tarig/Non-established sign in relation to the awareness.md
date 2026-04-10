@@ -4,7 +4,7 @@
 
 1. **Non-established sign due to doubting the entity of the sign** 
    རྟགས་ཀྱི་ངོ་བོ་ལ་ཐེ་ཚོམ་ཟོས་ནས་མ་གྲུབ་པའི་གཏན་ཚིགས།
-   For a person for whom a meat-eater is a suprasensory object: The subject - sound - it is impermanent because meat-eaters are an object of comprehension of valid cognition.
+   For a person for whom a meat-eater is a suprasensory object: The subject - sound - it is impermanent because meat-eaters are a cognised-object of valid cognition.
    ཤ་ཟ་བསྐལ་དོན་དུ་སོང་བའི་གང་ཟག་གི་ངོར། སྒྲ་ཆོས་ཅན། མི་རྟག་སྟེ། ཤ་ཟ་ཚད་མའི་གཞལ་བྱ་ཡིན་པའི་ཕྱིར།
 <br>
 

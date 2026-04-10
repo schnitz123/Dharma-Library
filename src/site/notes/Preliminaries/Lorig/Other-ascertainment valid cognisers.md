@@ -4,15 +4,18 @@
 
 ཚད་མ་གང་ཞིག རང་གི་གཞལ་བྱའི་བདག་ཉིད་ཡུལ་སྟེང་དུ་གནས་པ་མེད་ན། རང་ཉིད་མི་འབྱུང་བ་ལ་གཞན་སྟོབས་ཀྱིས་ངེས་པ་འདྲེན་དགོས་པ་དེ།
 གཞན་ལས་དེས་ཀྱི་ཚད་མའི་མཚན་ཉིད།
-**Definition:** That which 1) is a valid cogniser and 2) requires the power of another [valid cogniser] to induce ascertainment that it would not have arisen if the nature of its object of comprehension did not exist on the basis of the object.
+**Definition:** That which 1) is a valid cogniser and 2) requires the power of another [valid cogniser] to induce ascertainment that it would not have arisen if the nature of its cognised-object did not exist on the basis of the object.
 
 **Terminological division:**
 1. **Initial direct perceivers** མངོན་སུམ་དང་པོ་པ།
-   e.g. Sense direct perceiver apprehending the colour of an Utpala in the continuum of a person who has never seen an Utpala before. སྔར་ཨུཏྤ་ལ་མཐོང་མ་མྱོང་བའི་གང་ཟག་གི་རྒྱུད་ཀྱི་ཨུཏྤ་ལའི་ཁ་དོག་འཛིན་པའི་དབང་མངོན།
+   e.g. Sense direct perceiver apprehending the colour of an Utpala in the continuum of a person who has never seen an Utpala before. 
+   སྔར་ཨུཏྤ་ལ་མཐོང་མ་མྱོང་བའི་གང་ཟག་གི་རྒྱུད་ཀྱི་ཨུཏྤ་ལའི་ཁ་དོག་འཛིན་པའི་དབང་མངོན།
 2. **Inattentive direct perceivers** མངོན་སུམ་ཡིད་མ་གཏད།
-   e.g. Sense direct perceiver apprehending sound in the continuum of a person whose mind is very attracted to a beautiful form. ཡིད་གཟུགས་མཛེས་པ་ལ་ལྷག་པར་ཆགས་བཞིན་པའི་སྐྱེས་བུའི་རྒྱུད་ཀྱི་སྒྲ་འཛིན་དབང་མངོན།
+   e.g. Sense direct perceiver apprehending sound in the continuum of a person whose mind is very attracted to a beautiful form. 
+   ཡིད་གཟུགས་མཛེས་པ་ལ་ལྷག་པར་ཆགས་བཞིན་པའི་སྐྱེས་བུའི་རྒྱུད་ཀྱི་སྒྲ་འཛིན་དབང་མངོན།
 3. **Direct perceivers possessing a cause of error** མངོན་སུམ་འཁྲུལ་རྒྱུ་ཅན། ([[Preliminaries/Lorig/Four Causes of Error\|Four Causes of Error]])
-   e.g. Sense direct perceiver apprehending the colour of a mirage that acts to directly produce superimpositions apprehending the mirage as being water. སྨིག་རྒྱུ་ལ་ཆུར་འཛིན་པའི་སྒྲོ་འདོགས་དངོས་སུ་སྐྱེད་པར་བྱེད་པའི་སྨིག་རྒྱུའི་ཁ་དོག་འཛིན་པའི་དབང་མངོན།
+   e.g. Sense direct perceiver apprehending the colour of a mirage that acts to directly produce superimpositions apprehending the mirage as being water. 
+   སྨིག་རྒྱུ་ལ་ཆུར་འཛིན་པའི་སྒྲོ་འདོགས་དངོས་སུ་སྐྱེད་པར་བྱེད་པའི་སྨིག་རྒྱུའི་ཁ་དོག་འཛིན་པའི་དབང་མངོན།
 
 **Terminological division:**
 1. **Valid cognisers that are self-ascertainment wrt appearance and other-ascertainment wrt truth**<br>སྣང་བ་རང་ལས་ངེས་ཤིང་། བདེན་པ་གཞན་ལས་ངེས་ཀྱི་ཚད་མ།
@@ -20,7 +23,8 @@
 2. **Valid cognisers that are self-ascertainment wrt the generality and other-ascertainment wrt the particularity** སྤྱི་རང་ལས་ངེས་ཤིང་། ཁྱད་པར་གཞན་ལས་ངེས་ཀྱི་ཚད་མ།
    e.g. Sense direct perceiver apprehending a tree possessing branches and leaves when doubting whether that is an Ashoka or not; when in actuality, it is an Ashoka.<br>དོན་ལ་ཤ་བ་ཡིན་ཞིང་། ཤ་བ་ཡིན་མིན་ཐེ་ཚོམ་ཟ་དུས་ཀྱི་ཡལ་ག་ལོ་འདབ་དང་བཅས་པའི་ཤིང་འཛིན་དབང་མངོན།
 3. **Those that have become other-ascertainment even wrt appearance** སྣང་བ་ཉིད་ཀྱང་གཞན་ལས་ངེས་ཀྱི་ཚད་མར་སོང་བ།
-   e.g. Sense direct perceiver apprehending blue that induces a doubt thinking "Did I see blue or not?" ཁོ་བོས་སྔོན་པོ་མཐོང་ངམ་མ་མཐོང་སྙམ་པའི་ཐེ་ཚོམ་འདྲེན་པར་བྱེད་པའི་སྔོན་འཛིན་དབང་མངོན།
+   e.g. Sense direct perceiver apprehending blue that induces a doubt thinking "Did I see blue or not?" 
+   ཁོ་བོས་སྔོན་པོ་མཐོང་ངམ་མ་མཐོང་སྙམ་པའི་ཐེ་ཚོམ་འདྲེན་པར་བྱེད་པའི་སྔོན་འཛིན་དབང་མངོན།
 
 1+2 are actual other-ascertainment valid cognisers, 3 is imputed.
 1: It is a self-ascertainment wrt to the flickering red colour, but an other-ascertainment wrt to that being the colour of fire.
