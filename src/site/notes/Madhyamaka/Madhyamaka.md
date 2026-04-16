@@ -11,13 +11,14 @@
 	- [[Madhyamaka/Verse 1 (Gomde)\|Verse 1 (Gomde)]]
 	- [[Madhyamaka/Verse 2 (Gomde)\|Verse 2 (Gomde)]]
 - [[Madhyamaka/Homage to compassion while differentiating it (Gomde)\|Homage to compassion while differentiating it (Gomde)]] སོ་སོར་ཕྱེ་ནས་ཕྱག་འཚལ་བའོ།
-	- [[Madhyamaka/Three compassions\|Three compassions]]: སྙིང་རྗེ་གསུམ།
+	- [[Madhyamaka/Three compassions (Jetsunpa)\|Three compassions (Jetsunpa)]]: སྙིང་རྗེ་གསུམ།
 		1. [[Madhyamaka/Compassion observing sentient beings\|Compassion observing sentient beings]] སེམས་ཅན་ལ་དམིགས་པའི་སྙིང་རྗེ།
 		2. [[Madhyamaka/Compassion observing phenomena\|Compassion observing phenomena]] ཆོས་ལ་དམིགས་པའི་སྙིང་རྗེ།
 		3. [[Madhyamaka/Compassion observing the non-observed\|Compassion observing the non-observed]] དམིགས་མེད་ལ་དམིགས་པའི་སྙིང་རྗེ།
 	- [[Madhyamaka/Boundaries of the three compassions\|Boundaries of the three compassions]]
 - [[Madhyamaka/Presentations of Arya Bodhisattva grounds\|Presentations of Arya Bodhisattva grounds]]
 	- [[Madhyamaka/Discussion about their observed-objects and aspects\|Discussion about their observed-objects and aspects]]
+	- [[Madhyamaka/Ten Great Prayers of Bodhisattvas (JS)\|Ten Great Prayers of Bodhisattvas (JS)]]
 	- [[Madhyamaka/Progressing with different views\|Progressing with different views]]
 	- [[Madhyamaka/Substantial and imputed existents\|Substantial and imputed existents]]
 - [[Madhyamaka/Outshining Hearers and Solitary Realisers\|Outshining Hearers and Solitary Realisers]]
@@ -129,7 +130,7 @@ Fourth ground G59
 
 - [[Madhyamaka/Surpassing prayers and arising from cessation (Gomde)\|Surpassing prayers and arising from cessation (Gomde)]]
 - [[Madhyamaka/Indicating that all afflictions have been exhausted (Gomde)\|Indicating that all afflictions have been exhausted (Gomde)]]
-- [[Madhyamaka/Attainment of the ten powers (Gomde)\|Attainment of the ten powers (Gomde)]]
+- [[Madhyamaka/Attainment of the ten masteries (Gomde)\|Attainment of the ten masteries (Gomde)]]
 
 **NINTH MIND GENERATION**
 { #b057b2}

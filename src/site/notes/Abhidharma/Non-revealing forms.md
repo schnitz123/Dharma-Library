@@ -33,6 +33,19 @@
 5. In order for it to be understood that they are merely expressed as such by Acarya Vasubhandu
    དེ་ལྟར་དུ་སློབ་དཔོན་དབྱིག་གཉེན་གྱིས་བརྗོད་པར་བྱ་བ་ཙམ་ཡིན་པར་རྟོགས་པར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར།
 
+---
+རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་གཟུགས་ཆོས་ཅན། 
+**(Gendun Drub:)** The subject - non-revealing forms - 
+- They are not conjoined because of being unobstructive མ་ཟིན་པ་ཡིན་ཏེ། ཐོགས་མེད་ཡིན་པའི་ཕྱིར། 
+- They are arisen from concordant-causes because apart from the initial moment of an arya, they arise from their [[Preliminaries/Collected Topics/Six Causes Five Results#^c7f9d0\|homogenous causes]] རྒྱུ་མཐུན་ལས་བྱུང་བ་ཡིན་ཏེ། དང་པོ་འཕགས་པ་མ་གཏོགས་སྐལ་མཉམ་གྱི་རྒྱུ་ལས་བྱུང་བའི་ཕྱིར། 
+- They are not arisen from fruition because of being definitely either virtue or non-virtue
+  རྣམ་སྨིན་ལས་མ་བྱུང་སྟེ། དགེ་མི་དགེ་གང་རུང་དུ་ངེས་པའི་ཕྱིར། 
+- They are not arisen from development because of not being a physical thing remaining upon aggregation
+  རྒྱས་བྱུང་མ་ཡིན་ཏེ། བསགས་པར་གནས་པའི་གཟུགས་ཅན་མ་ཡིན་པའི་ཕྱིར། 
+- They are indicative of sentient beings because of being included within the continuum
+  སེམས་ཅན་དུ་སྟོན་པ་ཡིན་ཏེ། རྒྱུད་ཀྱིས་བསྡུས་པའི་ཕྱིར།
+
+---
 **Division (3):** Non-revealing forms that are རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་གཟུགས་གསུམ་ཡོད་དེ།
 1. [[Abhidharma/Vows\|Vows]] སྡོམ་པ།
 2. [[Abhidharma/Non-vows\|Non-vows]] སྡོམ་མིན།

@@ -22,4 +22,4 @@ Moreover, wishing they meet with happiness is love and wishing they be free from
 
 
 ---
-Up a level: [[Madhyamaka/Three compassions\|Three compassions]]
+Up a level: [[Madhyamaka/Three compassions (Jetsunpa)\|Three compassions (Jetsunpa)]]

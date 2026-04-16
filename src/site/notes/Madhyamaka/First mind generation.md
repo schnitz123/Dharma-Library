@@ -19,6 +19,8 @@ The mind of this Child of the Conquerors
 Under the power of compassion to liberate migrators, and [1.4cd]
 Thoroughly dedicating through Samantabhadra aspirations;
 Thoroughly abiding in joy is called the first. [1.5ab]
+{ #582323}
+
 
 །དེ་ནས་བཟུང་སྟེ་དེ་ནི་དེ་ཐོབ་གྱུར་པ་ཡིས། །བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའི་སྒྲ་ཉིད་ཀྱིས་བསྙད་དོ།
 Starting from then, they who have attained

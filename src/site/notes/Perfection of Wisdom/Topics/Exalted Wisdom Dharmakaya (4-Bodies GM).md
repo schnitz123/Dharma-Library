@@ -57,7 +57,7 @@ Twenty-one sets of uncontaminated exalted wisdom: ཟག་མེད་ཀྱི
 				- In terms of being unmixed with lower qualities: [[Perfection of Wisdom/Topics/Eighteen unmixed qualities of Buddhas\|Eighteen unmixed qualities of Buddhas]] ཡོན་ཏན་འོག་མ་རྣམས་དང་མ་འདྲེས་པའི་ཆ་ནས་མ་འདྲེས་པ་བཅོ་བརྒྱད།
 			- Three in terms of qualities: ཡོན་ཏན་གྱི་དབང་དུ་བྱས་ནས་སྡེ་ཚན་གསུམ།
 				- In terms of the qualities of realisation not being affected by others: [[Perfection of Wisdom/Topics/Four fearlessnesses\|Four fearlessnesses]] རྟོགས་པའི་ཡོན་ཏན་ལ་གཞན་གྱིས་བརྫིར་མི་ནུས་པའི་ཆ་ནས་མི་འཇིགས་པ་བཞི།
-				- In terms of actualising one's result as one wishes: [[Perfection of Wisdom/Topics/Ten powers\|Ten powers]] and [[Perfection of Wisdom/Topics/Four complete purities\|Four complete purities]] རང་གི་འབྲས་བུ་ཇི་ལྟར་འདོད་པ་བཞིན་མངོན་དུ་བྱེད་པའི་ཆ་ནས་དབང་བཅུ་དང་དག་པ་བཞི། 
+				- In terms of actualising one's result as one wishes: [[Perfection of Wisdom/Topics/Ten masteries\|Ten masteries]] and [[Perfection of Wisdom/Topics/Four complete purities\|Four complete purities]] རང་གི་འབྲས་བུ་ཇི་ལྟར་འདོད་པ་བཞིན་མངོན་དུ་བྱེད་པའི་ཆ་ནས་དབང་བཅུ་དང་དག་པ་བཞི། 
 		- Two in terms of one's own final abandonments རང་དོན་སྤངས་པ་མཐར་ཐུག་གི་དབང་དུ་བྱས་ནས་སྡེ་ཚན་གཉིས།
 			- In terms of its entity: [[Perfection of Wisdom/Topics/Abandonment of the seeds of the two obscurations (the imprints of the three doors)\|Complete destruction of imprints]]
 			  དེའི་ངོ་བོའི་དབང་དུ་བྱས་ནས། བག་ཆགས་ཡང་དག་བཅོམ་པ།

@@ -60,7 +60,7 @@ Moreover, by way of such cultivation being conjoined with the thirteen topics:
    མཉམ་བཞག་ཏུ་ཤེར་ཕྱིན་བསྒོམ་པའི་རྗེས་ཐོབ་ཏུ་དགེ་བ་རྫོགས་བྱང་དུ་བསྒྱུར་པའི་ཐབས་མཁས།
 2. Power: Wisdom that outshines its discordant class མི་མཐུན་ཕྱོགས་ཟིལ་གྱིས་གནོན་པའི་ཤེས་རབ་སྟོབས།
 3. Prayer: Wisdom accomplishing the objectives of one's prayers ཇི་ལྟར་སྨོན་པའི་གནས་འགྲུབ་པའི་ཤེས་རབ་སྨོན་ལམ།
-4. Exalted wisdom: Wisdom differentiating limitless doors of phenomena
+4. Exalted wisdom: Wisdom differentiating limitless doors of dharma
    ཆོས་སྒོ་མཐའ་ཡས་པ་འབྱེད་པའི་ཤེས་རབ་ཡེ་ཤེས།
 
 བཞིར་འདུ་བ་རྒྱན་སྣང་ལྟར་དང་། ཚིག་གསལ་ཡང་ཕལ་ཆེར་འདྲའོ།

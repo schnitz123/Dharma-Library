@@ -20,4 +20,4 @@
 
 
 ---
-Up a level: [[Abhidharma/Virtue Non-virtue Unspecified\|Virtue Non-virtue Unspecified]]
+Up a level: [[Abhidharma/Karma\|Karma]]

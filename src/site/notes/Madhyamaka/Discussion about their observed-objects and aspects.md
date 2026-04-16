@@ -37,7 +37,7 @@ The first ground liberated path directly realises the Buddha's Dharmakaya becaus
 
 སེམས་ཅན་ཐམས་ཅད་ཀྱི་ཆོས་ཉིད་མངོན་སུམ་དུ་རྟོགས་ན་སེམས་ཅན་ཐམས་ཅད་མངོན་སུམ་དུ་རྟོགས་པའི་ངེས་པ་མེད་དེ། དཔེར་ན། 
 སངས་རྒྱས་མ་ཐོབ་པའི་འཕགས་པ་རྣམས་ཀྱིས་ཟག་པ་མེད་པའི་ཡེ་ཤེས་སྡེ་ཚན་ཉེར་གཅིག་མངོན་སུམ་དུ་མ་རྟོགས་ཀྱང་། དེའི་ཆོས་ཉིད་མངོན་སུམ་དུ་རྟོགས་པ་བཞིན་ནོ།
-[Gyaltsab Je's Uttaratantra:] If one has directly realised the dharmata of all sentient beings, there is no certainty wrt directly realising all sentient beings; for example, Aryas who have not attained Buddhahood do not directly realise the [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|twenty-one sets of uncontaminated exalted wisdom]] but do directly realise the dharmata of those.
+**(Gyaltsab Je's Uttaratantra:)** If one has directly realised the dharmata of all sentient beings, there is no certainty wrt directly realising all sentient beings; for example, Aryas who have not attained Buddhahood do not directly realise the [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|twenty-one sets of uncontaminated exalted wisdom]] but do directly realise the dharmata of those.
 
 ---
 Up a level: [[Madhyamaka/Presentations of Arya Bodhisattva grounds\|Presentations of Arya Bodhisattva grounds]]

@@ -23,4 +23,4 @@ The latter two compassions exist from before entering the path and up to Buddha-
 ![Pasted image 20250210151054.png](/img/user/Madhyamaka/Pasted%20image%2020250210151054.png)
 
 ---
-Up a level: [[Madhyamaka/Three compassions\|Three compassions]]
+Up a level: [[Madhyamaka/Three compassions (Jetsunpa)\|Three compassions (Jetsunpa)]]

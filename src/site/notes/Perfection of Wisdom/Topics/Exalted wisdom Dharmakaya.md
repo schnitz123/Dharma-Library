@@ -25,7 +25,7 @@ This and a consciousness of the Buddha-ground are mutually inclusive.
 10. [[Perfection of Wisdom/Topics/Four individual correct knowledges\|Four individual correct knowledges]] སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི།
 11. [[Perfection of Wisdom/Topics/Four complete purities\|Four complete purities]] (body, object, exalted mind, exalted wisdom)
     ལུས་དག་པ་དམིགས་པ་དག་པ་ཐུགས་དག་པ་ཡེ་ཤེས་ཡོངས་སུ་དག་པ་སྟེ་ཡོངས་སུ་དག་པ་བཞི།
-12. [[Perfection of Wisdom/Topics/Ten powers\|Ten powers]] (over: time, minds, necessities, results, birth, inclinations, aspirations, magical emanations, exalted wisdom, dharma) ཚེ། སེམས། ཡོ་བྱད། འབྲས་བུ། སྐྱེ་བ། མོས་པ། སྨོན་ལམ། རྫུ་འཕྲུལ། ཡེ་ཤེས། ཆོས་ལ་དབང་བ་སྟེ་དབང་བཅུ་དང་།
+12. [[Perfection of Wisdom/Topics/Ten masteries\|Ten masteries]] (over: time, minds, necessities, results, birth, inclinations, aspirations, magical emanations, exalted wisdom, dharma) ཚེ། སེམས། ཡོ་བྱད། འབྲས་བུ། སྐྱེ་བ། མོས་པ། སྨོན་ལམ། རྫུ་འཕྲུལ། ཡེ་ཤེས། ཆོས་ལ་དབང་བ་སྟེ་དབང་བཅུ་དང་།
 13. [[Perfection of Wisdom/Topics/Ten strengths\|Ten strengths]] སྔར་བཤད་པའི་སྟོབས་བཅུ་དང་།
 14. [[Perfection of Wisdom/Topics/Four fearlessnesses\|Four fearlessnesses]] མི་འཇིགས་པ་བཞི་དང་།
 15. [[Perfection of Wisdom/Topics/Three non-guardings\|Three non-guardings]] (due to completely pure body, speech and mind)

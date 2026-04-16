@@ -13,7 +13,9 @@ The Sutra on the Ten Grounds indicates that even if seventh grounders and below 
 
 ས་བརྒྱད་པ་འདི་ཆོས་ཅན། སྨོན་ལམ་གྱི་ཕར་ཕྱིན་ལྷག་པར་ཐོབ་པ་ཡིན་ཏེ། 
 ས་དང་པོ་ཐོབ་པ་ནས་སྨོན་ལམ་འབུམ་ཕྲག་གྲངས་མེད་པ་བཅུ་བཏབ་པ་དེ་དག་ཤིན་ཏུ་དག་པར་འགྱུར་བ་ཐོབ་པའི་ཕྱིར།
-The subject - the eighth grounder - they have attained the surpassing perfection of prayer because the ten numberless prayers made from the first ground attain complete purity.
+The subject - the eighth grounder - they have attained the surpassing perfection of prayer because the ten numberless hundred-thousands of prayers made from the first ground attain complete purity.
+
+See: [[Madhyamaka/Ten Great Prayers of Bodhisattvas (JS)\|Ten Great Prayers of Bodhisattvas (JS)]]
 
 བྱང་སེམས་དེ་ཆོས་ཅན། རྒྱལ་བ་རྣམས་ཀྱིས་འགོག་པ་ལས་སློང་བར་མཛད་པའི་རྒྱུ་མཚན་ཡོད་དེ། 
 དེ་འབའ་ཞིག་ལ་མཉམ་པར་བཞག་ན་ཆད་མཐའ་འམ་ཞིེ་མཐར་ལྷུང་ཤིང་དེར་ལྷུང་ན་གཞན་དོན་རྒྱུན་ཆད་པར་འགྱུར་བས། 

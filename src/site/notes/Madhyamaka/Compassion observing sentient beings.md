@@ -17,4 +17,4 @@
 
 
 ---
-Up a level: [[Madhyamaka/Three compassions\|Three compassions]]
+Up a level: [[Madhyamaka/Three compassions (Jetsunpa)\|Three compassions (Jetsunpa)]]

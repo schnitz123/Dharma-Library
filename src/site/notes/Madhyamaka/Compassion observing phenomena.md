@@ -20,4 +20,4 @@
 2. When sentient beings are ascertained to be impermanent, then one is able to ascertain the non-existence of permanent, unitary, independent sentient beings; when that is ascertained, then by way of ascertaining the non-existence of sentient beings that are a different entity from the aggregates in dependence upon that, one is able to understand that sentient beings are designated in dependence upon mere phenomena (the aggregates and so forth).
 
 ---
-Up a level: [[Madhyamaka/Three compassions\|Three compassions]]
+Up a level: [[Madhyamaka/Three compassions (Jetsunpa)\|Three compassions (Jetsunpa)]]

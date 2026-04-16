@@ -18,4 +18,4 @@
    ལུས་སེམས་ཀྱིས་ཀུན་ནས་བསླང་བའི་ལུས་ངག་གི་ལས་ལྟ་བུའོ།
 
 ---
-Up a level: [[Abhidharma/Virtue Non-virtue Unspecified\|Virtue Non-virtue Unspecified]]
+Up a level: [[Abhidharma/Karma\|Karma]]

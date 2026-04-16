@@ -18,4 +18,4 @@
    e.g. karma motivated by those དེ་དག་གིས་ཀུན་ནས་བསླངས་པའི་ལས་ལྟ་བུ།
 
 ---
-Up a level: [[Abhidharma/Virtue Non-virtue Unspecified\|Virtue Non-virtue Unspecified]]
+Up a level: [[Abhidharma/Karma\|Karma]]

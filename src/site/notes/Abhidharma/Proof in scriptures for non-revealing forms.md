@@ -22,14 +22,15 @@ Statements that the seven merits arisen from substance and the seven merits not 
 སྲོག་གཅོད་སོགས་རང་གིས་མ་བྱས་ཀྱང་གཞན་ལ་བཅོལ་བས་ལས་ལམ་གྱི་དངོས་གཞི་འབྱུང་བར་གསུངས་པ་ཡང་འདི་ལ་དགོངས་ནས་གསུངས་པའི་ཕྱིར།
 Statements that despite not personally engaging in killing and so forth, making someone else do it gives rise to an actual karmic pathway are also referring to these.
 
-སོགས་པས་མཐོང་ལམ་ལ་མཉམ་པར་བཞག་པའི་འཕགས་ལམ་ཡན་ལག་བརྒྱད་ཡོད་པར་གསུངས་པ་དང༌། དགེ་སློང་ཡིད་གཞན་དུ་གཡེང་བའི་ཚེ། དགེ་སློང་གི་སྡོམ་པ་དང་ལྡན་པར་གསུངས་པ། སོ་ཐར་གྱི་སྡོམ་པ་ཆུ་ལོན་ལྟར་གསུངས་པ། ཆོས་ཀྱི་སྐྱེ་མཆེད་ཀྱི་གཟུགས་གསུངས་པ་རྣམས་འདི་ལ་དགོངས་ནས་གསུངས་པའི་ཕྱིར།
-The "and so forth" includes: 
+སོགས་པས་་་་་་ འདི་ལ་དགོངས་ནས་གསུངས་པའི་ཕྱིར།
+The "and so forth" includes these statements referring to these: 
 - Statements that the eight branches of arya paths of one in meditative equipoise on the path of seeing exist
+  མཐོང་ལམ་ལ་མཉམ་པར་བཞག་པའི་འཕགས་ལམ་ཡན་ལག་བརྒྱད་ཡོད་པར་གསུངས་པ་དང༌།
 - Statements that when the Gelong's mind is distracted elsewhere, they possess the Gelong vows
+  དགེ་སློང་ཡིད་གཞན་དུ་གཡེང་བའི་ཚེ། དགེ་སློང་གི་སྡོམ་པ་དང་ལྡན་པར་གསུངས་པ།
 - Statements that the individual liberation vows are like a damn
-- Statements about forms that are phenomenon-sources
-
-That are a also referring to these.
+  སོ་ཐར་གྱི་སྡོམ་པ་ཆུ་ལོན་ལྟར་གསུངས་པ། 
+- Statements about forms that are phenomenon-sources ཆོས་ཀྱི་སྐྱེ་མཆེད་ཀྱི་གཟུགས་གསུངས་པ་རྣམས་
 
 ---
 རྫས་ལས་བྱུང་བའི་བསོད་ནམས་བདུན་ནི། སྐུལ་བྱེད་ཀྱི་མདོ་ལས། ཀུན་དགའ་ར་བ་གཙུག་ལག་ཁང༌། །མལ་སྟན་འཚོ་བ་ནར་མ་དང༌། 
