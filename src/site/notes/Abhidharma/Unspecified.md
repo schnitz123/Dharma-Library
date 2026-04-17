@@ -13,7 +13,7 @@
 3. Concomitant unspecified མཚུངས་ལྡན་གྱི་ལུང་མ་བསྟན།
    e.g. afflictions included within the levels of the Upper Realms together with their concomitants
    ཁམས་གོང་མའི་སས་བསྡུས་ཀྱི་ཉོན་མོངས་པ་མཚུངས་ལྡན་དང་བཅས་པ་ལྟ་བུ།
-4. Motivational unspecified ཀུན་སློང་གི་ལུང་མ་བསྟན།
+4. Motivated unspecified ཀུན་སློང་གི་ལུང་མ་བསྟན།
    e.g. bodily and verbal karma motivated by a body-consciousness
    ལུས་སེམས་ཀྱིས་ཀུན་ནས་བསླང་བའི་ལུས་ངག་གི་ལས་ལྟ་བུའོ།
 

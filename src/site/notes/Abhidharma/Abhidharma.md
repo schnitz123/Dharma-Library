@@ -19,7 +19,8 @@
 **Chapter 4 - Presentation of karma**
 - [[Abhidharma/Karma - Intro\|Karma - Intro]]
 - [[Abhidharma/Karma\|Karma]]
-- [[Abhidharma/Vows\|Vows]]
+	- [[Abhidharma/Non-revealing forms\|Non-revealing forms]]
+	- [[Abhidharma/Vows\|Vows]]
 - [[Abhidharma/Three Jewels\|Three Jewels]] / [[Abhidharma/Going for refuge\|Going for refuge]]
 
 **Chapter 5 - Presentation of the subtle-increasers**

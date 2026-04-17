@@ -46,7 +46,7 @@ See: [[Abhidharma/Non-revealing forms\|Non-revealing forms]]
 - [[Abhidharma/That created is not lost\|That created is not lost]] བྱས་པ་ཆུད་མི་ཟ་བ། 
 - [[Abhidharma/The way karma induce their fruitional results\|The way karma induce their fruitional results]] ལས་ཀྱི་རྣམ་སྨིན་གྱི་འབྲས་བུ་འབྱིན་ཚུལ་ལོ། 
 
-
+[[Abhidharma/Motivation (Gendun Drub)\|Motivation (Gendun Drub)]]
 
 ---
 Up a level: [[Abhidharma/Abhidharma\|Abhidharma]]
