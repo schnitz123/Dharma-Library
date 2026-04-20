@@ -15,6 +15,7 @@ Having shown that a self not included in the appropriated does not exist,
 If the appropriated were the self, then your self is non-existent. [27.5]
 
 ཉེ་བར་ལེན་ཉིད་བདག་མ་ཡིན། །དེ་འབྱུང་བ་དང་འཇིག་པ་ཡིན། །ཉེ་བར་བླང་བ་ཇི་ལྟ་བུར། །ཉེ་བར་ལེན་པོ་ཡིན་པར་འགྱུར། །
+The appropriated are not the self, those arise and disintegrate. How could the appropriated become the appropriator? [27.6]
 
 བདག་ནི་ཉེ་བར་ལེན་པ་ལས། །གཞན་དུ་འཐད་པ་ཉིད་མ་ཡིན། །གལ་ཏེ་གཞན་ན་ལེན་མེད་པར། །གཟུང་ཡོད་རིགས་ན་གཟུང་དུ་མེད། །
 The self is not feasible to be other than the appropriated.
@@ -57,7 +58,7 @@ If it were other, then without the appropriated it would be suitable to be appre
 གལ་ཏེ་ཕྱོགས་གཅིག་མཐའ་ཡོད་ལ། །ཕྱོགས་གཅིག་མཐའ་ནི་མེད་འགྱུར་ན། །འཇིག་རྟེན་མཐའ་ཡོད་མཐའ་མེད་འགྱུར། །དེ་ཡང་རིགས་པ་མ་ཡིན་ནོ། །
 
 ཇི་ལྟ་བུར་ན་ཉེར་ལེན་པོའི། །ཕྱོགས་གཅིག་རྣམ་པར་འཇིག་འགྱུར་ལ། །ཕྱོགས་གཅིག་རྣམ་པར་འཇིག་མི་འགྱུར། །དེ་ལྟར་དེ་ནི་མི་རིགས་སོ། །
-/
+
 ཇི་ལྟ་བུར་ན་ཉེར་བླང་བ། །ཕྱོགས་གཅིག་རྣམ་པར་འཇིག་འགྱུར་ལ། །ཕྱོགས་གཅིག་རྣམ་པར་འཇིག་མི་འགྱུར། །དེ་ལྟར་དེ་ཡང་མི་རིགས་སོ། །
 
 གལ་ཏེ་མཐའ་ཡོད་མཐའ་མེད་པ། །གཉིས་ཀ་གྲུབ་པར་གྱུར་ན་ནི། །མཐའ་ཡོད་མ་ཡིན་མཐའ་མེད་མིན། །འགྲུབ་པར་འགྱུར་བར་འདོད་ལ་རག །

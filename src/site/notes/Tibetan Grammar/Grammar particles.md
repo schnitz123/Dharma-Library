@@ -15,7 +15,7 @@
 	- [[Tibetan Grammar/Reason Indicators\|Reason Indicators]]
 	- [[Tibetan Grammar/Speech Marks\|Speech Marks]]
 	- [[Tibetan Grammar/Indefinite Articles and Imperative Markers\|Indefinite Articles and Imperative Markers]]
-	- [[Tibetan Grammar/Focusing adverbs\|Focusing adverbs]]
+	- [[Tibetan Grammar/Restrictive particles\|Restrictive particles]]
 
 Three possibilities between a grammar particle and a case:
 - If it is a case, then it is necessarily a grammar particle

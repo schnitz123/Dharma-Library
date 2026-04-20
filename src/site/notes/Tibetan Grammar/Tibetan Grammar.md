@@ -15,9 +15,9 @@ Terms / phrases / syllables (མིང་ཚིག་ཡི་གེ་གསུ
 		- [[Tibetan Grammar/Reason Indicators\|Reason Indicators]]
 		- [[Tibetan Grammar/Speech Marks\|Speech Marks]]
 		- [[Tibetan Grammar/Indefinite Articles and Imperative Markers\|Indefinite Articles and Imperative Markers]]
-		- [[Tibetan Grammar/Focusing adverbs\|Focusing adverbs]]
+		- [[Tibetan Grammar/Restrictive particles\|Restrictive particles]]
 3. [[Tibetan Grammar/Verbs\|Verbs]] བྱ་ཚིག་གི་ཚོགས།
 
 [[Tibetan Grammar/The Thirty\|The Thirty]] སུམ་ཅུ་པ།
 
-[[Tibetan Grammar/Focusing adverbs\|Focusing adverbs]]
+[[Tibetan Grammar/Restrictive particles\|Restrictive particles]]

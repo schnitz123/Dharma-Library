@@ -56,7 +56,9 @@ Self-isolate and generality-isolate are mutually inclusive.
 
 ---
 
-See also: [[Preliminaries/Collected Topics/Definition, Definiendum, and Illustration\|Definition, Definiendum, and Illustration]]
+See also:
+- [[Preliminaries/Collected Topics/Definition, Definiendum, and Illustration\|Definition, Definiendum, and Illustration]]
+- [[Preliminaries/Collected Topics/Opposites\|Opposites]]
 
 
 

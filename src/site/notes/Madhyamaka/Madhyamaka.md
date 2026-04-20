@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/madhyamaka/madhyamaka/"}
 ---
 
-[[Madhyamaka/Root Verses\|Root Verses]]
+[[Madhyamaka/Root Verses\|Root Verses]] / [[Texts & Quotes/Root Wisdom of the Middle Way/Root Wisdom of the Middle Way\|Root Wisdom of the Middle Way]]
 *Key:* Unmarked = Jetsunpa. Unmarked sub-links belong to the textbook of their parent unless otherwise stated.
 
 

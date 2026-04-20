@@ -14,6 +14,7 @@ The six sources: སྐྱེ་མཆེད་དྲུག
 [[Preliminaries/Collected Topics/Isolates\|Isolates]]
 [[Preliminaries/Collected Topics/Definition, Definiendum, and Illustration\|Definition, Definiendum, and Illustration]]
 [[Preliminaries/Collected Topics/Illustration statements\|Illustration statements]]
+[[Preliminaries/Collected Topics/Opposites\|Opposites]] ཡིན་ལོག་མིན་ལོག
 
 [[Preliminaries/Collected Topics/Cause and Effect\|Cause and Effect]]
 [[Preliminaries/Collected Topics/Conditions\|Conditions]]
