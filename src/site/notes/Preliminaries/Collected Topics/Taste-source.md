@@ -14,4 +14,4 @@
 
 ---
 See: [[Tibetan Grammar/Taste-source\|Taste-source]] (Abhidharma)
-Up a level: [[Preliminaries/Collected Topics/Form\|Form]]
+Up a level: [[Preliminaries/Collected Topics/External forms\|External forms]]

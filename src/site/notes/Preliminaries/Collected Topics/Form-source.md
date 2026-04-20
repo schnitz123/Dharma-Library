@@ -5,6 +5,12 @@
 གཟུགས་ཀྱི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད་ཡོད་དེ། མིག་ཤེས་ཀྱི་བཟུང་བྱ་དེ་དེ་ཡིན་པའི་ཕྱིར།
 **Definition:** The apprehended-object of the eye-consciousness.
 
+གཟུགས་ཀྱི་སྐྱེ་མཆེད་དང་། གཟུགས་ཀྱི་ཁམས་དང་། བསྟན་ཡོད་ཀྱི་གཟུགས་གསུམ་དོན་གཅིག
+Form-source, form constituent, and demonstrable form are mutually inclusive.
+
+བསྟན་ཡོད་ཀྱི་གཟུགས་ནི། མིག་གི་ཡུལ་དུ་བསྟན་དུ་ཡོད་པ།
+Demonstrable form is that which can be demonstrated as an object of eye-[consciousness].
+
 **Divisions:** གཟུགས་ཀྱི་སྐྱེ་མཆེད་ལ་དབྱེ་ན་གཉིས་ཡོད་དེ།
 - Shapes དབྱིབས་དང།
 - Colours ཁ་དོག་གཉིས་ཡོད་པའི་ཕྱིར།
@@ -34,4 +40,4 @@ Polygons have four sides, round refers to circles or spheres, and level refers t
 
 ---
 See: [[Abhidharma/Form-source\|Form-source]] (Abhidharma)
-Up a level: [[Preliminaries/Collected Topics/Form\|Form]]
+Up a level: [[Preliminaries/Collected Topics/External forms\|External forms]]

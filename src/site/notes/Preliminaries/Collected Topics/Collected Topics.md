@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/preliminaries/collected-topics/collected-topics/"}
 ---
 
-The six sources: སྐྱེ་མཆེད་དྲུག
-- [[Preliminaries/Collected Topics/Form\|Form]] (5)
-- [[Abhidharma/Phenomenon-source\|Phenomenon-source]] (Abhidharma)
+[[Preliminaries/Collected Topics/Form\|Form]]
+[[Abhidharma/Phenomenon-source\|Phenomenon-source]] (Abhidharma)
 
 [[Preliminaries/Collected Topics/Established-basis\|Established-basis]]
 - [[Preliminaries/Collected Topics/Contaminated and uncontaminated\|Contaminated and uncontaminated]]
@@ -29,3 +28,4 @@ The six sources: སྐྱེ་མཆེད་དྲུག
 [[Preliminaries/Collected Topics/Positive phenomena and Negations\|Positive phenomena and Negations]] / [[Preliminaries/Collected Topics/Other-exclusion\|Other-exclusion]]
 [[Preliminaries/Collected Topics/Collective and Eliminative Engagers\|Collective and Eliminative Engagers]]
 [[Preliminaries/Collected Topics/Elimination and determination\|Elimination and determination]]
+[[Preliminaries/Collected Topics/Realising existence and non-existence\|Realising existence and non-existence]] ཡོད་རྟོགས་མེད་རྟོགས།

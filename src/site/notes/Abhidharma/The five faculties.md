@@ -26,7 +26,9 @@ There is a purpose in stating "abiding in the class of": It is in order to inclu
    i.e. The physical faculties in the continuum of a person during deep sleep
    གཉིད་འཐུག་པོ་ལོག་བཞིན་པའི་གང་ཟག་གི་རྒྱུད་ཀྱི་དབང་པོ་གཟུགས་ཅན་རྣམས།
 
+See also:
+- [[Preliminaries/Collected Topics/Internal forms\|Internal forms]] (Collected Topics)
+- [[Perfection of Wisdom/Topics/Six Faculties\|Six Faculties]] (Perfection of Wisdom)
 
 ---
-See also: [[Perfection of Wisdom/Topics/Six Faculties\|Six Faculties]] (Perfection of Wisdom)
 Up a level: [[Abhidharma/Form aggregate\|Form aggregate]]

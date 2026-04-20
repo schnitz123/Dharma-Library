@@ -3,7 +3,7 @@
 ---
 
 རང་གི་བདག་འབྲས་སུ་གྱུར་པའི་མིག་གི་རྣམ་པར་ཤེས་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་ནང་གི་གཟུགས་ཅན་དྭང་བའམ། རང་གི་བདག་འབྲས་སུ་གྱུར་པའི་མིག་གི་རྣམ་པར་ཤེས་པའི་བདག་རྐྱེན་བྱེད་པའི་རྟེན་བཅས་ཀྱི་མིག་དབང་གཟུགས་ཅན་པ་དང་མིག་དབང་གཟུགས་ཅན་པ་གང་རུང་གིས་བསྡུས་པ། མིག་གི་དབང་པོའི་མཚན་ཉིད།
-**Definition of eye-faculty:** A clear inner form that is the empowering condition for the eye-consciousness that is its empowered result
+**Definition of eye-faculty:** A clear inner form that is the empowering condition for the eye-consciousness that is its empowered result.
 **Or:** That included within either:
 - A supporting physical eye-faculty that acts as the empowering condition for the eye-consciousness that is its empowered result; or
 - A physical eye-faculty
@@ -14,6 +14,13 @@
    མིག་གི་རྣམ་པར་ཤེས་པ་གཟུགས་ལ་ལྟ་བཞིན་པའི་མིག་གི་དབང་པོ་ལྟ་བུ།
 2. Concomitant physical eye-faculty དེ་མཚུངས་ཀྱི་མིག་དབང་གཟུགས་ཅན་པ།
    e.g. the eye eye-faculty during deep sleep  གཉིད་འཐུག་པོ་ལོག་བཞིན་པའི་གནས་སྐབས་ཀྱི་མིག་དབང་ལྟ་བུ།
+
+Apply the same for the remaining four physical faculties.
+[[Perfection of Wisdom/Topics/Mental-faculty\|Mental-faculty]]
+
+See also:
+- [[Preliminaries/Collected Topics/Internal forms\|Internal forms]] (Collected Topics)
+- [[Abhidharma/The five faculties\|The five faculties]] (Abhidharma)
 
 ---
 **Mode of Illustration** དབང་པོའི་མཚོན་ཚུལ་ལ།
@@ -55,16 +62,6 @@ Differences:
 **Etymology:** Due to those respectively acting to facilitate the observation of the five objects (forms and so forth).
 
 Apply these similarly to the other four physical sense powers.
-
----
-རང་གི་བདག་འབྲས་སུ་གྱུར་པའི་རྣམ་པར་ཤེས་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་གཙོ་བོའི་རྣམ་རིག་དེ། ཡིད་ཀྱི་དབང་པོའི་མཚན་ཉིད། 
-**Definition of mental-faculty:** A main knower that is the empowering condition of the consciousness that is its empowered result.
-
-ཡིད་ཀྱི་དབང་པོ་དང་ཡིད་ཀྱི་སྐྱེ་མཆེད་དོན་གཅིག
-This and mental-source are mutually inclusive.
-
-ཡིད་ཆོས་ཅན། ཁྱོད་ལ་དབང་པོ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཁྱོད་ཀྱིས་ཆོས་ཐམས་ཅད་ལ་དམིགས་པ་ལ་དབང་བྱེད་པའི་རྒྱུ་མཚན་གྱིས་དེ་ལྟར་བཤད་པའི་ཕྱིར།
-**Etymology:** Due to facilitating observation of all phenomena.
 
 ---
 See also: [[Abhidharma/The Twelve Sources#^13a384\|Order of the six faculties]]
