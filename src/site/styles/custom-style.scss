@@ -135,25 +135,31 @@ hr {
     .desktop-only { display: none; }
     .mobile-only { display: block; }
 
-   /* 1. Style the button and HIDE the "Toggle Navigation" text */
+    /* Hide the top navbar links and plugin defaults on mobile */
+    .navbar, .nav-links, .dg-navbar {
+        display: none !important;
+    }
+
+    /* 1. Style the button and HIDE the "Toggle Navigation" text */
     .menu-toggle {
         display: flex !important;
-        position: fixed;
-        top: 15px;
-        right: 15px;
-        width: 45px;
-        height: 40px;
+        position: fixed !important;
+        top: 15px !important;
+        right: 15px !important;
+        width: 45px !important;
+        height: 40px !important;
         background-color: #333 !important;
-        border: none;
+        border: none !important;
         border-radius: 4px;
-        z-index: 10001;
+        z-index: 10001 !important; /* Must be higher than the sidebar */
         cursor: pointer;
         justify-content: center;
         align-items: center;
         
-        /* THE MAGIC TRICK: Hides the "Toggle Navigation" words */
+        /* Hides the "Toggle Navigation" words */
         font-size: 0 !important;
         color: transparent !important;
+        text-indent: -9999px !important;
     }
 
     /* 2. Create the 3 hamburger lines */
@@ -176,38 +182,42 @@ hr {
     .hamburger-line::before { top: -8px; }
     .hamburger-line::after { top: 8px; }
 
-    /* 3. The Menu logic (Start Hidden) */
-    .custom-sidebar {
-        display: none !important;
+    /* 3. The Menu Logic - HIGH SPECIFICITY RESET */
+    /* This targets the div, the class, AND the ID to crush plugin conflicts */
+    div.custom-sidebar#main-mobile-menu {
+        display: none !important; 
         position: fixed !important;
-        top: 0;
-        left: 0;
-        width: 100vw;
-        height: 100vh;
-        background-color: rgba(0, 0, 0, 0.98);
-        z-index: 10000;
-        padding: 80px 20px;
-        overflow-y: auto;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        background-color: rgba(0, 0, 0, 0.98) !important;
+        z-index: 10000 !important;
+        padding: 100px 20px !important;
+        overflow-y: auto !important;
+        visibility: hidden; /* Extra safety */
     }
 
-    /* 4. When the script adds 'is-open', show it */
-    .custom-sidebar.is-open {
+    /* 4. THE FIX: The "Open" state */
+    /* When the script adds 'is-open', we force visibility */
+    div.custom-sidebar#main-mobile-menu.is-open {
         display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
     }
 
-    /* Hide the top navbar links on mobile */
-    .navbar, .nav-links {
-        display: none !important;
-    }
-
-    .custom-sidebar ul {
-        text-align: left; /* Better for Dharma lists */
+    /* 5. Mobile Menu Links Styling */
+    div.custom-sidebar#main-mobile-menu ul {
+        text-align: left;
         list-style: none;
+        padding: 0;
     }
 
-    .custom-sidebar a {
-        color: white;
-        display: block;
-        padding: 10px 0;
+    div.custom-sidebar#main-mobile-menu a {
+        color: #eac676 !important; /* Using your specific gold color */
+        display: block !important;
+        padding: 15px 0 !important;
+        font-size: 1.4rem !important;
+        text-decoration: none;
     }
 }
