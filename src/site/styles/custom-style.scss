@@ -54,10 +54,15 @@ em, h1 { color: #add8e6; }
 
 /* --- ZONE 4: MOBILE SLEDGEHAMMER (Under 1000px) --- */
 @media screen and (max-width: 999px) {
-    /* Hide desktop nav */
-    .navbar, .nav-links, .dg-navbar { display: none !important; }
+    .desktop-only { display: none !important; }
+    .mobile-only { display: block !important; }
 
-    /* The Button */
+    /* 1. Hide the "Toggle navigation" box & plugin defaults */
+    .navbar, .nav-links, .dg-navbar, .sr-only { 
+        display: none !important; 
+    }
+
+    /* 2. Style the actual Hamburger Button */
     #lib-mobile-btn.menu-toggle {
         display: flex !important;
         position: fixed !important;
@@ -66,16 +71,21 @@ em, h1 { color: #add8e6; }
         width: 45px !important;
         height: 45px !important;
         background: #333 !important;
-        z-index: 99999 !important; /* Above everything */
+        z-index: 99999 !important;
         border: none !important;
         border-radius: 5px;
         justify-content: center;
         align-items: center;
         cursor: pointer;
-        font-size: 0 !important; /* Kill the plugin text */
+
+        /* This "vaporizes" any hidden text like 'Toggle navigation' */
+        font-size: 0 !important;
+        color: transparent !important;
+        text-indent: -9999px !important;
+        overflow: hidden !important;
     }
 
-    /* The Hamburger Lines */
+    /* 3. The Hamburger Lines */
     .hamburger-line {
         display: block; width: 25px; height: 3px; background: white; position: relative;
     }
@@ -85,34 +95,50 @@ em, h1 { color: #add8e6; }
     .hamburger-line::before { top: -8px; }
     .hamburger-line::after { top: 8px; }
 
-    /* THE MENU - FORCED ISOLATION */
+    /* 4. THE MENU CONTAINER */
     #lib-sidebar-menu.custom-sidebar {
-        display: none !important; /* Default hidden */
+        display: none !important;
         position: fixed !important;
         top: 0 !important;
         left: 0 !important;
         width: 100vw !important;
         height: 100vh !important;
-        background: #0f0f0f !important; /* Solid black */
-        z-index: 99998 !important; /* Just below button */
+        background: #0f0f0f !important;
+        z-index: 99998 !important;
         padding: 100px 40px !important;
         overflow-y: auto !important;
     }
 
-    /* THE OPEN STATE - HIGHEST SPECIFICITY */
     #lib-sidebar-menu.custom-sidebar.is-open {
         display: block !important;
-        visibility: visible !important;
-        opacity: 1 !important;
     }
 
-    /* Mobile Link Styling */
-    #lib-sidebar-menu ul { list-style: none; padding: 0; }
+    /* 5. UNIFIED FONT STYLES (Headers vs Links) */
+    #lib-sidebar-menu ul { 
+        list-style: none; 
+        padding: 0; 
+        margin: 0; 
+    }
+
+    /* This targets both the "Preliminaries" text AND the links */
+    #lib-sidebar-menu li, 
     #lib-sidebar-menu a {
         color: #eac676 !important;
-        font-size: 24px;
-        display: block;
-        padding: 15px 0;
-        text-decoration: none;
+        font-size: 24px !important; /* Unified size */
+        line-height: 1.6 !important;
+        text-decoration: none !important;
+        font-weight: normal !important; /* Makes headers look same as links */
+    }
+
+    /* Ensure nested lists look clean */
+    #lib-sidebar-menu ul ul {
+        margin-top: 5px;
+        margin-bottom: 20px;
+        padding-left: 20px; /* Slight indent for sub-items */
+    }
+    
+    #lib-sidebar-menu ul ul li,
+    #lib-sidebar-menu ul ul a {
+        font-size: 22px !important; /* Slightly smaller for sub-items, or keep 24px if preferred */
     }
 }
