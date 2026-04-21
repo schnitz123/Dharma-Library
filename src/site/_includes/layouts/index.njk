@@ -71,29 +71,7 @@
   </div>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const toggleButton = document.querySelector('.menu-toggle');
-  const menuList = document.getElementById('main-mobile-menu');
 
-  if (toggleButton && menuList) {
-    toggleButton.addEventListener('click', (e) => {
-      e.stopPropagation();
-      menuList.classList.toggle('is-open');
-      const expanded = menuList.classList.contains('is-open');
-      toggleButton.setAttribute('aria-expanded', expanded);
-    });
-
-    // Close menu when clicking a link
-    menuList.querySelectorAll('a').forEach(link => {
-      link.addEventListener('click', () => {
-        menuList.classList.remove('is-open');
-        toggleButton.setAttribute('aria-expanded', 'false');
-      });
-    });
-  }
-});
-</script>
 
       <div class="header-meta">
         {% if settings.dgShowTags === true and tags %}
@@ -147,7 +125,29 @@ document.addEventListener('DOMContentLoaded', () => {
     {%include "components/basesScript.njk"%}
     
 
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const toggleButton = document.querySelector('.menu-toggle');
+  const menuList = document.getElementById('main-mobile-menu');
 
+  if (toggleButton && menuList) {
+    toggleButton.addEventListener('click', (e) => {
+      e.stopPropagation();
+      menuList.classList.toggle('is-open');
+      const expanded = menuList.classList.contains('is-open');
+      toggleButton.setAttribute('aria-expanded', expanded);
+    });
+
+    // Close menu when clicking a link
+    menuList.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        menuList.classList.remove('is-open');
+        toggleButton.setAttribute('aria-expanded', 'false');
+      });
+    });
+  }
+});
+</script>
 
 
 
