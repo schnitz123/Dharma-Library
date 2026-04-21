@@ -34,7 +34,7 @@ em, h1 { color: #add8e6; }
     #lib-sidebar-desktop.desktop-sidebar {
         display: block !important;
         position: fixed;
-        top: 80px;
+        top: 60px;
         left: 0;
         width: 260px;
         height: 100vh;
@@ -45,6 +45,12 @@ em, h1 { color: #add8e6; }
         z-index: 5 !important;
     }
 
+#lib-sidebar-desktop a, 
+#lib-sidebar-desktop li {
+    font-size: 18px !important; 
+    line-height: 1.5 !important;
+}
+    
     .content {
         margin-left: 400px;
         margin-top: 10px !important;
