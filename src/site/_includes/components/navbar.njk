@@ -5,14 +5,97 @@
                 {% if meta.siteLogoPath %}
                     <img class="site-logo" src="{{meta.siteLogoPath}}" alt="{{meta.siteName}}">
                 {% else %}
-                    <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+                    <h1 style="margin: 20px !important;">{{meta.siteName}}</h1>
                 {% endif %}
             </a>
+            <ul class="nav-links">
+                <li><a href="/website/about-me/">About me</a></li>
+                <li><a href="/website/written-translations/">Written translations</a></li>
+                <li><a href="/website/offerings/">Make an offering</a></li>
+            </ul>
         </div>
         {% if settings.dgEnableSearch === true%}
             {% include "components/searchButton.njk" %}
         {%endif%}
     </nav>
+
+<nav class="navbar-mobile">
+        <div class="navbar-inner">
+            <a href="/" style="text-decoration: none;">
+                <h3 style="margin: 10px !important;">{{meta.siteName}}</h3>
+            </a>
+            <button class="menu-toggle" aria-controls="main-mobile-menu" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span><br>
+                <span class="icon-bar"></span><br>
+                <span class="icon-bar"></span>
+              </button>
+
+              <ul class="nav-links mobile-menu-list" id="main-mobile-menu">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/website/about-me/">About me</a></li>
+                    <li><a href="/website/written-translations/">Written translations</a></li>
+                    <li><a href="/website/offerings/">Make an offering</a></li>
+                    <li>Notes by Topic:</li>
+
+                    <li class="has-submenu">
+                      <input type="checkbox" id="submenu-toggle-1" class="submenu-checkbox" hidden>
+      
+                      <label for="submenu-toggle-1" class="submenu-label">
+                        Preliminaries
+                        <span class="toggle-arrow"></span> </label>
+      
+                          <ul class="submenu">
+                                  <li><a href="https://dharmalibrary.netlify.app/preliminaries/collected-topics/collected-topics/">Collected Topics</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/preliminaries/lorig/lorig/">Lorig</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/preliminaries/mmf/mmf/">MMF</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/preliminaries/tarig/tarig/">Tarig</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/preliminaries/tenets/tenets/">Tenets</a></li>
+                          </ul>
+                    </li>
+
+                    <li class="has-submenu">
+                      <input type="checkbox" id="submenu-toggle-2" class="submenu-checkbox" hidden>
+                          <label for="submenu-toggle-2" class="submenu-label">
+                          Perfection of Wisdom
+                          <span class="toggle-arrow"></span> </label>
+      
+                            <ul class="submenu">
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/perfection-of-wisdom/">Table of Contents</a>
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/root-verses/root-verses/">Root Verses</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/70-topics/70-topics/">70 Topics</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/salam/salam/">Salam</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/int-def/int-def/">Int&Def Meaning</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/20-sangha/20-sangha/">20 Sangha</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/concentrations/concentrations/">Concentrations</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/dependent-arising/dependent-arising/">Dependent-Arising</a></li>
+                            </ul> 
+                    </li>
+    
+                    <li class="no-bold"><a href="https://dharmalibrary.netlify.app/madhyamaka/madhyamaka/">Madhyamaka</a></li>
+
+                    <li><a href="https://dharmalibrary.netlify.app/abhidharma/abhidharma/">Abhidharma</a></li>
+
+                    <li class="has-submenu">
+                      <input type="checkbox" id="submenu-toggle-3" class="submenu-checkbox" hidden>
+      
+                      <label for="submenu-toggle-3" class="submenu-label">
+                        Misc
+                        <span class="toggle-arrow"></span> </label>
+
+                            <ul class="submenu">
+                                  <li><a href="https://dharmalibrary.netlify.app/lamrim-glossary/lamrim-glossary/">Lamrim Glossary</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/topics/samsara-chart/">Samsara Chart</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/texts-and-quotes/texts-and-quotes/">Texts & Quotes</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/tantra/tantra/">Tantra</a></li>
+                                  <li><a href="https://dharmalibrary.netlify.app/tibetan-grammar/tibetan-grammar/">Tibetan Grammar</a></li>
+                            </ul> 
+                        </li>
+                   
+  </ul>
+        </div>
+</nav>
+
     {%else%}
     <div class="empty-navbar" >
         {% if settings.dgEnableSearch === true%}
