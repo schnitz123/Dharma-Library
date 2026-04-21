@@ -1,13 +1,10 @@
+/* --- 1. GLOBAL SETTINGS & FONTS --- */
 body {
-   /* Font families */
-  --font-text-theme:  'Times New Roman', 'Monlam Uni OuChan2';
-  --font-editor-theme: 'Times New Roman', 'Monlam Uni OuChan2';
-  --font-monospace-theme: 'JetBrains Mono', 'Fira Code', Menlo, SFMono-Regular,
-    Consolas, 'Roboto Mono', monospace;
-  --font-interface-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Inter, Ubuntu, sans-serif;
-  --font-editor: var(--font-editor-override), var(--font-text-override),
-    var(--font-editor-theme);
+    --font-text-theme: 'Times New Roman', 'Monlam Uni OuChan2';
+    --font-editor-theme: 'Times New Roman', 'Monlam Uni OuChan2';
+    --font-monospace-theme: 'JetBrains Mono', 'Fira Code', Menlo, SFMono-Regular, Consolas, 'Roboto Mono', monospace;
+    --font-interface-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Ubuntu, sans-serif;
+    --font-editor: var(--font-editor-override), var(--font-text-override), var(--font-editor-theme);
 }
 
 .content {
@@ -15,328 +12,80 @@ body {
     font-size: 18px;
     font-size-adjust: 0.45;
     position: relative;
-   }
-
-   .desktop-only {
-    display: none;
 }
 
-   .mobile-only {
-    display: block; /* Content is visible by default */
+strong, b {
+    color: rgb(234, 198, 118);
 }
 
-.custom-sidebar {
-display: none;
-   }
-.navbar {
-display: none;
-   }
-.navbar-mobile {
-   display:block;
-   }
+em, h1 {
+    color: rgb(173, 216, 230);
+}
 
+/* --- 2. IMAGE STYLING --- */
 .gyurme-pic {
-    float: none; /* Crucial: stop the floating behavior */
-    display: block; /* Make it a block element to allow margin: auto */
-    margin: 20px auto; /* Center the image horizontally */
-    max-width: 90%; /* Allow it to scale down on small screens, ensuring a bit of padding */
+    float: none;
+    display: block;
+    margin: 20px auto;
+    max-width: 90%;
     width: auto;
 }
 
 .profile-pic {
     float: right;
-    display: block; 
-    margin: 5px auto; 
-    /* max-width: 50%; */ /* Allow it to scale down on small screens, ensuring a bit of padding */
+    display: block;
+    margin: 5px auto;
     width: 125px;
 }
-   
-/* Start mobile settings */
-@media screen and (min-width: 1000px) {
-  .content {
-    max-width: 1200px;
-    margin: auto;
-    font-size: 22px;
-    line-height: 1.5;
-    margin-top: 90px;
-    margin-left: 300px;
-    position: relative;
-   }
-  .desktop-only {
-        display: block; /* or display: flex, display: grid, etc., depending on the content */
-   }
-  .mobile-only {
-        display: none; /* Hides the content on large screens */
-   }
-  .gyurme-pic {
-        float: right;
-        margin: 0 20px 20px 0;
-        width: 400px; /* Fixed width for large screens */
-        height: auto;
-   }
-   .profile-pic {
-        float: right;
-        margin: 20px auto;
-        width: 200px !important; /* Fixed width for large screens */
-        height: auto;
-   }
-   
-  .custom-sidebar {
-        display: block;
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 250px;        /* Adjust width as needed */
-        height: 100%;
-        padding: 20px;
-        overflow-y: auto;
-        box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-        font-size: 18px;
-        line-height: 1.5;
-   }
-   .navbar {
-        display: block;
-        position: fixed;
-        z-index: 1000;
-   }
-   .navbar-mobile {
-        display:none;
-   }
 
-
-/* End Mobile Setting */
-
-
-
-strong, b {
-  color: rgb(234, 198, 118); /* Change the color to whatever you prefer */
-}
-
-em, h1 {
-   color: rgb(173, 216, 230);
-   }
-
-
-
-.nav-links {
-  list-style: none;
-   font-size: 22px;
-  display: flex;
-  margin: 0;
-  padding: 0;
-  margin-left: 50px;  /* Space between the title and the links */
-}
-
-.nav-links li {
-  margin-right: 30px; /* Spacing between individual links */
-}
-
-.nav-links a {
-  text-decoration: none;
-  color: rgb(234, 198, 118);
-}
-
-
+/* --- 3. LISTS & TYPOGRAPHY --- */
 ul, ol {
-  /*  margin-top: -20px; */
     margin-block-start: -20px;
     margin-block-end: 0px;
 }
 
-ul ul, ol ol {
-/*  margin-top: 0;  Reset margin for nested lists */
-   margin-block-start: 0px;
-   margin-top: 0px;
+ul ul, ol ol, ol ul, ul ol {
+    margin-block-start: 0px;
+    margin-top: 0px;
 }
-
-ol ul, {
-   margin-block-start: 0px;
-   margin-top: 0px;
-   }
-ul ol, {
-   margin-block-start: 0px;
-   margin-top: 0px;
-   }
 
 li > p {
     margin-block-start: 0px;
     margin-block-end: 0px;
 }
 
-   
- hr {
-  margin-top: 30px;
-  margin-bottom: -10px;
-} 
-
-/* --- Hamburger Icon Styling (Top-Right) --- */
-.menu-toggle {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  background-color: #333;
-  border: none;
-  cursor: pointer;
-  padding: 8px 10px;
-  z-index: 1000;
-  display: flex;
-  justify-content: normal !important; 
-  /* flex-direction: column; */
-  align-items: center;
-  height: 33px !important; 
-  width: 45px !important;
-  gap: 4px !important;
-
-}
-.icon-bar {
-  display: block;
-  width: 24px !important;
-  height: 3px !important; 
-  margin: 0px auto !important; 
-  background-color: #fff; 
-  transition: all 0.3s ease-in-out;
+hr {
+    margin-top: 30px;
+    margin-bottom: -10px;
 }
 
-/* --- Main Mobile Menu Styling (Hidden by Default) --- */
-.mobile-menu-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: none; /* HIDDEN by default */
-  
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.95);
-  z-index: 999;
-  
-  flex-direction: column;
-  align-items: center;
-  overflow-y: auto; /* Allows scrolling if menu is long */
-}
-/* Class added by JavaScript to show the main menu */
-.mobile-menu-list.is-open {
-  display: flex; 
-}
-.mobile-menu-list > li {
-  width: 90%;
-  text-align: center;
-  padding: 10px 0;
-}
-.mobile-menu-list a {
-  color: white;
-  font-size: 1.5rem;
-  text-decoration: none;
-  display: inline-block;
-}
-.mobile-menu-list .no-bold a {
-   font-weight: normal !important;
-   font-size: 1.4rem !important;
-}
-
-   
-/* --- Submenu (Second Level) Styling and Collapsing --- */
-
-/* 1. Hide the Checkbox */
-.submenu-checkbox {
-    /* Use 'hidden' attribute in HTML, but this ensures it's never visible */
-    display: none; 
-}
-
-/* 2. Style the Label (The parent link area) */
-.submenu-label {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-}
-.submenu-label a {
-    /* Ensure the link text doesn't steal all the click space from the arrow */
-    pointer-events: none; 
-}
-
-/* 3. Collapse the Submenu (Set initial max-height to 0 and hide overflow) */
-.submenu {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-    max-height: 0; /* Key for collapsing */
-    overflow: hidden; /* Hide the content when collapsed */
-    transition: max-height 0.3s ease-out; /* Smooth collapse animation */
-}
-.submenu li a {
-    font-size: 1.1rem;
-    opacity: 0.7;
-    padding: 8px 0;
-}
-
-/* 4. EXPAND the Submenu when the Checkbox is checked */
-.submenu-checkbox:checked + .submenu-label + .submenu {
-    /* Use a large enough value to accommodate all links when expanded */
-    max-height: 500px; 
-}
-
-/* 5. Toggle Arrow Icon (For Visual Feedback) */
-.toggle-arrow:before {
-    content: '▼'; /* Down arrow (closed state) */
-    display: inline-block;
-    color: white;
-    margin-left: 10px;
-    font-size: 0.8em;
-    transition: transform 0.3s;
-}
-
-/* 6. Rotate Arrow when Submenu is open (Checked) */
-.submenu-checkbox:checked + .submenu-label .toggle-arrow:before {
-    content: '▲'; /* Up arrow (open state) */
-}
-
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  border: 0;
-}
-
-/* outer container — keep it fluid but optionally centered */
-  .wrap {
+/* --- 4. GRID & WRAPPERS --- */
+.wrap {
     width: 100%;
-    max-width: 1200px; /* optional: change or remove; doesn't need to be tiny */
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0.5rem;
-  }
+}
 
-  /* GRID: auto-fit with a smaller min width + tighter gap */
-  .grid {
+.grid {
     display: grid;
-    gap: 3rem; /* smaller horizontal gap so more columns fit */
+    gap: 3rem;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    justify-items: stretch; /* make each cell take the full column width */
+    justify-items: stretch;
     align-items: start;
     width: 100%;
-  }
+    grid-auto-rows: 1fr;
+}
 
-  /* make every row equal height so columns in the same row align */
-  /* grid-auto-rows used with cells set to 100% height */
-  .grid { grid-auto-rows: 1fr; }
-
-  .cell {
-    /* stretch to fill the grid row height */
+.cell {
     height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-  }
+}
 
-  /* the anchor fills the cell so caption always sits under image */
-  .cell a {
+.cell a {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -345,30 +94,138 @@ li > p {
     height: 100%;
     width: 100%;
     padding: 0.25rem;
-  }
+}
 
-  /* FIXED thumbnail size for visual consistency */
-  .cell img {
+.cell img {
     width: 600px;
-    height: 100%;       /* fixed thumbnail height keeps rows aligned */
-    object-fit: cover;   /* crops evenly without distortion */
+    height: 100%;
+    object-fit: cover;
     display: block;
     margin-bottom: 0.35rem;
-  }
+}
 
-  .caption {
+.caption {
     font-size: 0.9rem;
-    margin-top: auto; /* push caption to bottom if there is extra vertical space */
-  }
+    margin-top: auto;
+}
 
-  /* accessibility: visible focus for keyboard users */
-  .cell a:focus-visible {
-    outline: 3px solid Highlight;
-    outline-offset: 3px;
-  }
+/* --- 5. DESKTOP SIDEBAR LOGIC (1000px+) --- */
+@media screen and (min-width: 1000px) {
+    .menu-toggle {
+        display: none !important;
+    }
 
-  /* smaller screens: the minmax will automatically reduce columns to 2 or 1 */
-  @media (max-width:360px) {
-    .cell img { height: 120px; }
-  }
+    .custom-sidebar {
+        display: block !important;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        padding: 20px;
+        background-color: var(--background-primary);
+        overflow-y: auto;
+        box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+        font-size: 18px;
+        line-height: 1.5;
+        z-index: 10;
+    }
+
+    .content {
+        max-width: 1200px;
+        margin: auto;
+        font-size: 22px;
+        line-height: 1.5;
+        margin-top: 90px;
+        margin-left: 300px;
+    }
+
+    .gyurme-pic {
+        float: right;
+        margin: 0 20px 20px 0;
+        width: 400px;
+    }
+
+    .profile-pic {
+        width: 200px !important;
+    }
+
+    .desktop-only { display: block; }
+    .mobile-only { display: none; }
+}
+
+/* --- 6. MOBILE MENU LOGIC (Under 1000px) --- */
+@media screen and (max-width: 999px) {
+    .desktop-only { display: none; }
+    .mobile-only { display: block; }
+
+    /* The Hamburger Trigger */
+    .menu-toggle {
+        display: flex !important;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 4px;
+        position: fixed;
+        top: 15px;
+        right: 15px;
+        width: 45px;
+        height: 35px;
+        background-color: #333;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        z-index: 1001;
+    }
+
+    .icon-bar {
+        display: block;
+        width: 24px;
+        height: 3px;
+        background-color: #fff;
+    }
+
+    /* The Menu Overlay (Hidden by default) */
+    .custom-sidebar {
+        display: none; /* This prevents it from being "bare open" */
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.95);
+        z-index: 1000;
+        padding: 80px 20px 20px 20px;
+        overflow-y: auto;
+        color: white;
+    }
+
+    /* State when Open */
+    .custom-sidebar.is-open {
+        display: block !important;
+    }
+
+    .custom-sidebar ul {
+        text-align: center;
+    }
+
+    .custom-sidebar li {
+        padding: 10px 0;
+        font-size: 1.3rem;
+    }
+
+    .custom-sidebar a {
+        color: white;
+    }
+
+    .sr-only {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        border: 0;
+    }
 }
