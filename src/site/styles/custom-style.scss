@@ -57,8 +57,8 @@ em, h1 { color: #add8e6; }
     .desktop-only { display: none !important; }
     .mobile-only { display: block !important; }
 
-    /* 1. Hide the "Toggle navigation" box & plugin defaults */
-    .navbar, .nav-links, .dg-navbar, .sr-only { 
+    /* 1. Hide the phantom black box & plugin defaults */
+    .navbar, .nav-links, .dg-navbar, .sr-only, .navbar-toggler, .dg-nav-icon { 
         display: none !important; 
     }
 
@@ -139,6 +139,6 @@ em, h1 { color: #add8e6; }
     
     #lib-sidebar-menu ul ul li,
     #lib-sidebar-menu ul ul a {
-        font-size: 22px !important; /* Slightly smaller for sub-items, or keep 24px if preferred */
+        font-size: 22px !important; /* Slightly smaller sub-items */
     }
 }
