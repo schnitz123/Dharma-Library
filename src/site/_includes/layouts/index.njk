@@ -26,12 +26,11 @@
         <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
       {% endif %}
 
-<button class="menu-toggle" id="mobile-toggle-btn">
+<button class="menu-toggle">
   <span class="hamburger-line"></span>
 </button>
 
 <div class="custom-sidebar" id="main-mobile-menu">
-  <div class="sidebar-content">
     <br><br><br>
     <ul>
       <li style="color: rgb(234, 198, 118);">Preliminaries
@@ -66,7 +65,6 @@
         </ul>
       </li>
     </ul>
-  </div>
 </div>
 
 
@@ -124,14 +122,15 @@
     
 
 <script>
-document.addEventListener('click', function (event) {
-  // If the user clicks the button OR anything inside the button (like the lines)
-  if (event.target.closest('.menu-toggle')) {
-    const menu = document.getElementById('main-mobile-menu');
-    if (menu) {
-      menu.classList.toggle('is-open');
-      console.log("Menu toggled via global listener");
-    }
+document.addEventListener('DOMContentLoaded', () => {
+  const toggleButton = document.querySelector('.menu-toggle');
+  const menuList = document.getElementById('main-mobile-menu');
+
+  if (toggleButton && menuList) {
+    toggleButton.addEventListener('click', () => {
+      // Toggle the 'is-open' class which we will define in CSS
+      menuList.classList.toggle('is-open');
+    });
   }
 });
 </script>
