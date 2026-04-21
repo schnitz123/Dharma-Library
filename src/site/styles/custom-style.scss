@@ -14,8 +14,19 @@ strong, b { color: #eac676; }
 em, h1 { color: #add8e6; }
 
 /* Images */
-.gyurme-pic { display: block; margin: 20px auto; max-width: 90%; }
-.profile-pic { float: right; width: 125px; margin: 5px; }
+.gyurme-pic { 
+    display: block; 
+    margin: 20px auto; 
+    max-width: 90%; 
+    height: auto;
+    border-radius: 4px;
+}
+.profile-pic { 
+    float: right; 
+    width: 125px; 
+    margin: 5px;
+    border-radius: 8px;
+}
 
 /* --- ZONE 2: NAVIGATION LINKS (TOP BAR - DESKTOP ONLY) --- */
 .nav-links {
@@ -187,6 +198,18 @@ em, h1 { color: #add8e6; }
     .content h1:first-child, 
     .content h2:first-child {
         margin-top: 0 !important;
+    }
+    
+    .profile-pic {
+        float: none !important;      /* Stop wrapping text */
+        display: block !important;
+        margin: 10px auto !important; /* Center it */
+        width: 80% !important;        /* Scale to screen width */
+        max-width: 300px;
+    }
+    .gyurme-pic {
+        width: 100% !important;
+        margin: 10px 0 !important;
     }
 }
 
