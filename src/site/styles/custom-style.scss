@@ -54,6 +54,35 @@ em, h1 { color: #add8e6; }
         margin-left: 350px;
         margin-top: 0px !important;
         max-width: 1000px;
+        font-size: 22px !important; /* Bumped up from 18px for better readability */
+        line-height: 1.65 !important;
+    }
+    /* 2. Scale up the Headings proportionally */
+    .content h1 {
+        font-size: 2.5em !important; 
+        margin-bottom: 20px !important;
+    }
+
+    .content h2 {
+        font-size: 1.8em !important;
+        margin-top: 30px !important;
+    }
+
+    .content h3 {
+        font-size: 1.4em !important;
+    }
+
+    /* 3. Ensure paragraphs and lists inherit the larger size */
+    .content p, 
+    .content li, 
+    .content span {
+        font-size: inherit !important; 
+    }
+    
+    .content h1:first-child, 
+    .content .dg-note-header h1 {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
     }
     .navbar {
         position: fixed;
