@@ -26,42 +26,98 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-<!-- Static Sidebar -->
-    <div class="custom-sidebar">
-<br><br><br>
-      <ul>
-        <li style="color: rgb(234, 198, 118);">Preliminaries
-          <ul> 
-              <li><a href="https://dharmalibrary.netlify.app/preliminaries/collected-topics/collected-topics/">Collected Topics</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/preliminaries/lorig/lorig/">Lorig</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/preliminaries/mmf/mmf/">MMF</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/preliminaries/tarig/tarig/">Tarig</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/preliminaries/tenets/tenets/">Tenets</a></li>
-          </ul></li>
-        <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/perfection-of-wisdom/">Perfection of Wisdom</a>
-          <ul>
-              <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/root-verses/root-verses/">Root Verses</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/70-topics/70-topics/">70 Topics</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/salam/salam/">Salam</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/int-def/int-def/">Int&Def Meaning</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/20-sangha/20-sangha/">20 Sangha</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/concentrations/concentrations/">Concentrations</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/dependent-arising/dependent-arising/">Dependent-Arising</a></li>
-          </ul></li>
-        <li><a href="https://dharmalibrary.netlify.app/madhyamaka/madhyamaka/">Madhyamaka</a>
-        </li>
-        <li><a href="https://dharmalibrary.netlify.app/abhidharma/abhidharma/">Abhidharma</a>
-        </li>
-        <li style="color: rgb(234, 198, 118);">Misc
-          <ul>
-              <li><a href="https://dharmalibrary.netlify.app/lamrim-glossary/lamrim-glossary/">Lamrim Glossary</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/topics/samsara-chart/">Samsara Chart</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/texts-and-quotes/texts-and-quotes/">Texts & Quotes</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/tantra/tantra/">Tantra</a></li>
-              <li><a href="https://dharmalibrary.netlify.app/tibetan-grammar/tibetan-grammar/">Tibetan Grammar</a></li>
-          </ul></li>
-      </ul>
-    </div>
+<button class="menu-toggle" id="lib-mobile-btn" onclick="document.getElementById('lib-sidebar-mobile').classList.toggle('is-open')">
+  <span class="hamburger-line"></span>
+</button>
+
+<div class="custom-sidebar mobile-only-sidebar" id="lib-sidebar-mobile">
+  <div class="sidebar-inner-content">
+    <br><br>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/website/about-me/">About me</a></li>
+      <li><a href="/website/written-translations/">Written translations</a></li>
+      <li><a href="/website/offerings/">Make an offering</a></li>
+      
+      <li class="menu-separator"> </li>
+
+      <li>Preliminaries
+        <ul> 
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/collected-topics/collected-topics/">Collected Topics</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/lorig/lorig/">Lorig</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/mmf/mmf/">MMF</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/tarig/tarig/">Tarig</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/tenets/tenets/">Tenets</a></li>
+        </ul>
+      </li>
+
+      <li>Perfection of Wisdom
+        <ul>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/perfection-of-wisdom/">Table of Contents</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/root-verses/root-verses/">Root Verses</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/70-topics/70-topics/">70 Topics</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/salam/salam/">Salam</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/int-def/int-def/">Int & Def Meaning</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/20-sangha/20-sangha/">20 Sangha</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/concentrations/concentrations/">Concentrations</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/dependent-arising/dependent-arising/">Dependent-Arising</a></li>
+        </ul>
+      </li>
+
+      <li><a href="https://dharmalibrary.netlify.app/madhyamaka/madhyamaka/">Madhyamaka</a></li>
+      <li><a href="https://dharmalibrary.netlify.app/abhidharma/abhidharma/">Abhidharma</a></li>
+
+      <li>Misc
+        <ul>
+          <li><a href="https://dharmalibrary.netlify.app/lamrim-glossary/lamrim-glossary/">Lamrim Glossary</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/topics/samsara-chart/">Samsara Chart</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/texts-and-quotes/texts-and-quotes/">Texts & Quotes</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/tantra/tantra/">Tantra</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/tibetan-grammar/tibetan-grammar/">Tibetan Grammar</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="custom-sidebar desktop-sidebar" id="lib-sidebar-desktop">
+  <div class="sidebar-inner-content">
+    <ul>
+      <li style="color: #eac676;">Preliminaries
+        <ul> 
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/collected-topics/collected-topics/">Collected Topics</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/lorig/lorig/">Lorig</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/mmf/mmf/">MMF</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/tarig/tarig/">Tarig</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/preliminaries/tenets/tenets/">Tenets</a></li>
+        </ul>
+      </li>
+      <li style="margin-top: 15px;">Perfection of Wisdom
+        <ul>
+            <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/perfection-of-wisdom/">Table of Contents</a></li>
+            <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/root-verses/root-verses/">Root Verses</a></li>
+            <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/70-topics/70-topics/">70 Topics</a></li>
+            <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/salam/salam/">Salam</a></li>
+            <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/int-def/int-def/">Int & Def Meaning</a></li>
+            <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/20-sangha/20-sangha/">20 Sangha</a></li>
+            <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/concentrations/concentrations/">Concentrations</a></li>
+            <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/dependent-arising/dependent-arising/">Dependent-Arising</a></li>
+        </ul>
+      </li>
+      <li style="margin-top: 15px;"><a href="https://dharmalibrary.netlify.app/madhyamaka/madhyamaka/">Madhyamaka</a></li>
+      <li><a href="https://dharmalibrary.netlify.app/abhidharma/abhidharma/">Abhidharma</a></li>
+      <li style="color: #eac676; margin-top: 15px;">Misc
+        <ul>
+          <li><a href="https://dharmalibrary.netlify.app/lamrim-glossary/lamrim-glossary/">Lamrim Glossary</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/topics/samsara-chart/">Samsara Chart</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/texts-and-quotes/texts-and-quotes/">Texts & Quotes</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/tantra/tantra/">Tantra</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/tibetan-grammar/tibetan-grammar/">Tibetan Grammar</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
 
     <main class="content cm-s-obsidian print {{contentClasses}}">
@@ -137,27 +193,21 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   
 
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  const toggleButton = document.querySelector('.menu-toggle');
-  const menuList = document.getElementById('main-mobile-menu');
-
-  if (toggleButton && menuList) {
-    toggleButton.addEventListener('click', () => {
-      // Toggles the 'is-open' class on the menu list
-      menuList.classList.toggle('is-open');
+// 1. We listen to the entire document for any click/tap
+document.addEventListener('click', function (event) {
+  
+  // 2. We check if what was clicked is the menu-toggle button OR the lines inside it
+  const isToggleButton = event.target.closest('.menu-toggle');
+  
+  if (isToggleButton) {
+    const menu = document.getElementById('main-mobile-menu');
+    if (menu) {
+      // 3. Manually toggle the class
+      menu.classList.toggle('is-open');
       
-      // Toggles ARIA attributes for accessibility
-      const isExpanded = toggleButton.getAttribute('aria-expanded') === 'true' || false;
-      toggleButton.setAttribute('aria-expanded', !isExpanded);
-    });
-    
-    // Optional: Close the MAIN menu when any link (including sub-links) is clicked
-    menuList.querySelectorAll('a').forEach(link => {
-      link.addEventListener('click', () => {
-        menuList.classList.remove('is-open');
-        toggleButton.setAttribute('aria-expanded', 'false');
-      });
-    });
+      // This helps you debug:
+      console.log("Button clicked! Menu is now:", menu.classList.contains('is-open') ? "Visible" : "Hidden");
+    }
   }
 });
 </script>
