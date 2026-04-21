@@ -63,10 +63,10 @@ em, h1 { color: #add8e6; }
     #lib-mobile-btn.menu-toggle {
         display: flex !important;
         position: fixed !important;
-        top: 15px !important;
+        top: 10px !important;
         right: 15px !important;
-        width: 45px !important;
-        height: 45px !important;
+        width: 40px !important;
+        height: 40px !important;
         background: #333 !important;
         z-index: 99999 !important;
         border: none !important;
@@ -82,10 +82,10 @@ em, h1 { color: #add8e6; }
 
     /* 3. The Hamburger Lines */
     .hamburger-line {
-        display: block; width: 25px; height: 3px; background: white; position: relative;
+        display: block; width: 20px; height: 3px; background: white; position: relative;
     }
     .hamburger-line::before, .hamburger-line::after {
-        content: ""; position: absolute; width: 25px; height: 3px; background: white; left: 0;
+        content: ""; position: absolute; width: 20px; height: 3px; background: white; left: 0;
     }
     .hamburger-line::before { top: -8px; }
     .hamburger-line::after { top: 8px; }
