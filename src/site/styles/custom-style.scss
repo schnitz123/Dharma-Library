@@ -48,19 +48,17 @@ em, h1 { color: #add8e6; }
 #lib-sidebar-desktop a, 
 #lib-sidebar-desktop li {
     font-size: 18px !important; 
-    line-height: 1.5 !important;
 }
     
     .content {
         margin-left: 400px;
         margin-top: 10px !important;
-        max-width: 800px;
+        max-width: 1000px;
     }
     .navbar {
         position: fixed;
         top: 0;
         z-index: 100 !important; /* Higher than sidebar */
-        background-color: var(--background-primary); /* Ensures it's not see-through */
     }
 }
 
