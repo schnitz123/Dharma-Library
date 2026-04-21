@@ -132,15 +132,15 @@ hr {
 
 /* --- 6. MOBILE MENU LOGIC (Under 1000px) --- */
 @media screen and (max-width: 999px) {
-    .desktop-only { display: none; }
-    .mobile-only { display: block; }
+    .desktop-only { display: none !important; }
+    .mobile-only { display: block !important; }
 
-    /* Hide the top navbar links and plugin defaults on mobile */
-    .navbar, .nav-links, .dg-navbar {
+    /* Kill all plugin-default nav elements */
+    .navbar, .nav-links, .dg-navbar, .side-nav {
         display: none !important;
     }
 
-    /* 1. Style the button and HIDE the "Toggle Navigation" text */
+    /* 1. The Toggle Button */
     .menu-toggle {
         display: flex !important;
         position: fixed !important;
@@ -149,75 +149,74 @@ hr {
         width: 45px !important;
         height: 40px !important;
         background-color: #333 !important;
-        border: none !important;
-        border-radius: 4px;
-        z-index: 10001 !important; /* Must be higher than the sidebar */
-        cursor: pointer;
+        z-index: 10001 !important;
         justify-content: center;
         align-items: center;
-        
-        /* Hides the "Toggle Navigation" words */
+        border: none !important;
+        border-radius: 4px;
         font-size: 0 !important;
-        color: transparent !important;
-        text-indent: -9999px !important;
+        cursor: pointer;
     }
 
-    /* 2. Create the 3 hamburger lines */
+    /* 2. The 3 Hamburger Lines */
     .hamburger-line {
-        display: block;
-        width: 25px;
-        height: 3px;
-        background-color: white;
-        position: relative;
+        display: block; width: 25px; height: 3px; background-color: white; position: relative;
     }
-    .hamburger-line::before,
-    .hamburger-line::after {
-        content: "";
-        position: absolute;
-        width: 25px;
-        height: 3px;
-        background-color: white;
-        left: 0;
+    .hamburger-line::before, .hamburger-line::after {
+        content: ""; position: absolute; width: 25px; height: 3px; background-color: white; left: 0;
     }
     .hamburger-line::before { top: -8px; }
     .hamburger-line::after { top: 8px; }
 
-    /* 3. The Menu Logic - HIGH SPECIFICITY RESET */
-    /* This targets the div, the class, AND the ID to crush plugin conflicts */
+    /* 3. THE MENU - FORCE DIMENSIONS */
     div.custom-sidebar#main-mobile-menu {
-        display: none !important; 
+        /* Reset and Force Hidden State */
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        
         position: fixed !important;
         top: 0 !important;
         left: 0 !important;
+        
+        /* Force it to take up the whole screen */
         width: 100vw !important;
         height: 100vh !important;
-        background-color: rgba(0, 0, 0, 0.98) !important;
+        min-width: 100vw !important;
+        min-height: 100vh !important;
+        
+        background-color: rgb(15, 15, 15) !important; /* Deep black */
         z-index: 10000 !important;
-        padding: 100px 20px !important;
+        padding: 100px 30px !important;
         overflow-y: auto !important;
-        visibility: hidden; /* Extra safety */
     }
 
-    /* 4. THE FIX: The "Open" state */
-    /* When the script adds 'is-open', we force visibility */
+    /* 4. THE OPEN STATE - THE SLEDGEHAMMER */
     div.custom-sidebar#main-mobile-menu.is-open {
         display: block !important;
         visibility: visible !important;
         opacity: 1 !important;
+        
+        /* Ensure it's not collapsed */
+        width: 100vw !important;
+        height: 100vh !important;
     }
 
-    /* 5. Mobile Menu Links Styling */
-    div.custom-sidebar#main-mobile-menu ul {
-        text-align: left;
-        list-style: none;
-        padding: 0;
+    /* 5. Style the links so they are actually visible on black */
+    div.custom-sidebar#main-mobile-menu.is-open ul {
+        list-style: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
     }
 
-    div.custom-sidebar#main-mobile-menu a {
-        color: #eac676 !important; /* Using your specific gold color */
+    div.custom-sidebar#main-mobile-menu.is-open li {
+        margin-bottom: 20px !important;
+    }
+
+    div.custom-sidebar#main-mobile-menu.is-open a {
+        color: #eac676 !important; /* Gold */
+        font-size: 22px !important;
+        text-decoration: none !important;
         display: block !important;
-        padding: 15px 0 !important;
-        font-size: 1.4rem !important;
-        text-decoration: none;
     }
 }
