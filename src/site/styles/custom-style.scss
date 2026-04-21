@@ -135,6 +135,9 @@ hr {
     .desktop-only { display: none; }
     .mobile-only { display: block; }
 
+    .navbar, .nav-links, .dg-navbar { 
+    display: none !important; 
+}
     .menu-toggle {
         display: flex !important;
         flex-direction: column;
