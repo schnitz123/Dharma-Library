@@ -26,14 +26,15 @@
         <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
       {% endif %}
 
-<button class="menu-toggle">
+<button class="menu-toggle" id="lib-mobile-btn" onclick="document.getElementById('lib-sidebar-menu').classList.toggle('is-open')">
   <span class="hamburger-line"></span>
 </button>
 
-<div class="custom-sidebar" id="main-mobile-menu">
-    <br><br><br>
+<div class="custom-sidebar" id="lib-sidebar-menu">
+  <div class="sidebar-inner-content">
+    <br>
     <ul>
-      <li style="color: rgb(234, 198, 118);">Preliminaries
+      <li style="color: #eac676; font-weight: bold; margin-bottom: 10px;">Preliminaries
         <ul> 
           <li><a href="https://dharmalibrary.netlify.app/preliminaries/collected-topics/collected-topics/">Collected Topics</a></li>
           <li><a href="https://dharmalibrary.netlify.app/preliminaries/lorig/lorig/">Lorig</a></li>
@@ -42,20 +43,20 @@
           <li><a href="https://dharmalibrary.netlify.app/preliminaries/tenets/tenets/">Tenets</a></li>
         </ul>
       </li>
-      <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/perfection-of-wisdom/">Perfection of Wisdom</a>
+      <li style="margin-top: 20px;"><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/perfection-of-wisdom/">Perfection of Wisdom</a>
         <ul>
           <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/root-verses/root-verses/">Root Verses</a></li>
           <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/70-topics/70-topics/">70 Topics</a></li>
           <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/salam/salam/">Salam</a></li>
-          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/int-def/int-def/">Int&Def Meaning</a></li>
+          <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/int-def/int-def/">Int & Def Meaning</a></li>
           <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/20-sangha/20-sangha/">20 Sangha</a></li>
           <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/concentrations/concentrations/">Concentrations</a></li>
           <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/dependent-arising/dependent-arising/">Dependent-Arising</a></li>
         </ul>
       </li>
-      <li><a href="https://dharmalibrary.netlify.app/madhyamaka/madhyamaka/">Madhyamaka</a></li>
+      <li style="margin-top: 20px;"><a href="https://dharmalibrary.netlify.app/madhyamaka/madhyamaka/">Madhyamaka</a></li>
       <li><a href="https://dharmalibrary.netlify.app/abhidharma/abhidharma/">Abhidharma</a></li>
-      <li style="color: rgb(234, 198, 118);">Misc
+      <li style="color: #eac676; font-weight: bold; margin-top: 20px;">Misc
         <ul>
           <li><a href="https://dharmalibrary.netlify.app/lamrim-glossary/lamrim-glossary/">Lamrim Glossary</a></li>
           <li><a href="https://dharmalibrary.netlify.app/perfection-of-wisdom/topics/samsara-chart/">Samsara Chart</a></li>
@@ -65,6 +66,7 @@
         </ul>
       </li>
     </ul>
+  </div>
 </div>
 
 
