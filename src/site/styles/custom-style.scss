@@ -22,7 +22,27 @@ em, h1 {
     color: rgb(173, 216, 230);
 }
 
-/* --- 2. IMAGE STYLING --- */
+/* --- 2. NAVBAR (TOP LINKS) FIX --- */
+.nav-links {
+    list-style: none;
+    display: flex; /* Makes links side-by-side */
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    gap: 30px; /* Space between links */
+}
+
+.nav-links li {
+    margin: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: rgb(234, 198, 118);
+    font-size: 20px;
+}
+
+/* --- 3. IMAGE STYLING --- */
 .gyurme-pic {
     float: none;
     display: block;
@@ -38,7 +58,7 @@ em, h1 {
     width: 125px;
 }
 
-/* --- 3. LISTS & TYPOGRAPHY --- */
+/* --- 4. LISTS & TYPOGRAPHY --- */
 ul, ol {
     margin-block-start: -20px;
     margin-block-end: 0px;
@@ -59,57 +79,7 @@ hr {
     margin-bottom: -10px;
 }
 
-/* --- 4. GRID & WRAPPERS --- */
-.wrap {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0.5rem;
-}
-
-.grid {
-    display: grid;
-    gap: 3rem;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    justify-items: stretch;
-    align-items: start;
-    width: 100%;
-    grid-auto-rows: 1fr;
-}
-
-.cell {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-}
-
-.cell a {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-decoration: none;
-    color: inherit;
-    height: 100%;
-    width: 100%;
-    padding: 0.25rem;
-}
-
-.cell img {
-    width: 600px;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-    margin-bottom: 0.35rem;
-}
-
-.caption {
-    font-size: 0.9rem;
-    margin-top: auto;
-}
-
-/* --- 5. DESKTOP SIDEBAR LOGIC (1000px+) --- */
+/* --- 5. DESKTOP VIEW (1000px+) --- */
 @media screen and (min-width: 1000px) {
     .menu-toggle {
         display: none !important;
@@ -118,36 +88,42 @@ hr {
     .custom-sidebar {
         display: block !important;
         position: fixed;
-        top: 0;
+        top: 80px; /* Moves it DOWN so it doesn't cover the top navbar/title */
         left: 0;
-        width: 250px;
-        height: 100%;
+        width: 280px;
+        height: calc(100% - 80px);
         padding: 20px;
         background-color: var(--background-primary);
         overflow-y: auto;
-        box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-        font-size: 18px;
-        line-height: 1.5;
+        border-right: 1px solid var(--background-modifier-border);
         z-index: 10;
     }
 
     .content {
-        max-width: 1200px;
-        margin: auto;
+        max-width: 1000px;
+        margin-left: 320px; /* Pushes content right of the sidebar */
+        margin-top: 40px; /* Brings the content back UP */
         font-size: 22px;
         line-height: 1.5;
-        margin-top: 90px;
-        margin-left: 300px;
+    }
+
+    .navbar {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 70px;
+        background: var(--background-primary);
+        z-index: 100;
+        padding: 0 20px;
+        border-bottom: 1px solid var(--background-modifier-border);
     }
 
     .gyurme-pic {
         float: right;
         margin: 0 20px 20px 0;
         width: 400px;
-    }
-
-    .profile-pic {
-        width: 200px !important;
     }
 
     .desktop-only { display: block; }
@@ -159,7 +135,6 @@ hr {
     .desktop-only { display: none; }
     .mobile-only { display: block; }
 
-    /* The Hamburger Trigger */
     .menu-toggle {
         display: flex !important;
         flex-direction: column;
@@ -185,9 +160,8 @@ hr {
         background-color: #fff;
     }
 
-    /* The Menu Overlay (Hidden by default) */
     .custom-sidebar {
-        display: none; /* This prevents it from being "bare open" */
+        display: none; 
         position: fixed;
         top: 0;
         left: 0;
@@ -195,37 +169,23 @@ hr {
         height: 100%;
         background-color: rgba(0, 0, 0, 0.95);
         z-index: 1000;
-        padding: 80px 20px 20px 20px;
+        padding: 80px 20px;
         overflow-y: auto;
         color: white;
     }
 
-    /* State when Open */
     .custom-sidebar.is-open {
         display: block !important;
     }
 
     .custom-sidebar ul {
-        text-align: center;
-    }
-
-    .custom-sidebar li {
-        padding: 10px 0;
-        font-size: 1.3rem;
+        text-align: left; /* Better for Dharma lists */
+        list-style: none;
     }
 
     .custom-sidebar a {
         color: white;
-    }
-
-    .sr-only {
-        position: absolute;
-        width: 1px;
-        height: 1px;
-        padding: 0;
-        margin: -1px;
-        overflow: hidden;
-        clip: rect(0, 0, 0, 0);
-        border: 0;
+        display: block;
+        padding: 10px 0;
     }
 }
