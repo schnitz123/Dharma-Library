@@ -135,48 +135,28 @@ hr {
     .desktop-only { display: none; }
     .mobile-only { display: block; }
 
-    /* 1. Hide the "Ghost" text that keeps appearing */
+   /* 1. Style the button and HIDE the "Toggle Navigation" text */
     .menu-toggle {
-        font-size: 0 !important;
-        color: transparent !important;
-        text-indent: -9999px !important; /* Pushes text way off screen */
-        overflow: hidden !important;
-    }
-
-    /* 2. Force your button to the absolute front */
-    #mobile-toggle-btn.menu-toggle {
         display: flex !important;
-        position: fixed !important;
-        top: 15px !important;
-        right: 15px !important;
-        z-index: 99999 !important; /* Extra high to beat the plugin */
+        position: fixed;
+        top: 15px;
+        right: 15px;
         width: 45px;
         height: 40px;
-        background: #333 !important;
+        background-color: #333 !important;
         border: none;
+        border-radius: 4px;
+        z-index: 10001;
         cursor: pointer;
-        padding: 0;
         justify-content: center;
         align-items: center;
+        
+        /* THE MAGIC TRICK: Hides the "Toggle Navigation" words */
+        font-size: 0 !important;
+        color: transparent !important;
     }
 
-    /* 3. Ensure the menu is also on a very high layer */
-    .custom-sidebar {
-        display: none !important;
-        position: fixed !important;
-        top: 0;
-        left: 0;
-        width: 100vw;
-        height: 100vh;
-        z-index: 99998 !important; /* Just below the button */
-        background: rgba(0,0,0,0.98) !important;
-    }
-
-    .custom-sidebar.is-open {
-        display: block !important;
-    }
-
-    /* 4. The Hamburger Lines */
+    /* 2. Create the 3 hamburger lines */
     .hamburger-line {
         display: block;
         width: 25px;
@@ -184,7 +164,8 @@ hr {
         background-color: white;
         position: relative;
     }
-    .hamburger-line::before, .hamburger-line::after {
+    .hamburger-line::before,
+    .hamburger-line::after {
         content: "";
         position: absolute;
         width: 25px;
@@ -194,10 +175,30 @@ hr {
     }
     .hamburger-line::before { top: -8px; }
     .hamburger-line::after { top: 8px; }
-    
-.navbar, .nav-links, .dg-navbar { 
-    display: none !important; 
-}
+
+    /* 3. The Menu logic (Start Hidden) */
+    .custom-sidebar {
+        display: none !important;
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: rgba(0, 0, 0, 0.98);
+        z-index: 10000;
+        padding: 80px 20px;
+        overflow-y: auto;
+    }
+
+    /* 4. When the script adds 'is-open', show it */
+    .custom-sidebar.is-open {
+        display: block !important;
+    }
+
+    /* Hide the top navbar links on mobile */
+    .navbar, .nav-links {
+        display: none !important;
+    }
 
     .custom-sidebar ul {
         text-align: left; /* Better for Dharma lists */
