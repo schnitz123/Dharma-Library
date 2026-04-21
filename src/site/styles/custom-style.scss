@@ -1,6 +1,6 @@
 /* --- ZONE 1: GLOBAL STYLES --- */
 body {
-    --font-text-theme: 'Times New Roman', 'Monlam Uni OuChan2';
+    --font-text-theme: 'Times New Roman', 'Monlam Uni OuChan2' !important;
     background-color: var(--background-primary);
 }
 
@@ -69,6 +69,7 @@ em, h1 { color: #add8e6; }
         max-width: 1000px;
         font-size: 24px !important; /* Bumped up from 18px for better readability */
         line-height: 1.65 !important;
+        font-family: 'Times New Roman', 'Monlam Uni OuChan2' !important;
     }
     /* 2. Scale up the Headings proportionally */
     .content h1 {
@@ -97,6 +98,10 @@ em, h1 { color: #add8e6; }
         margin-top: 0 !important;
         padding-top: 0 !important;
     }
+    .content p, .content li, .content h1, .content h2, .content h3 {
+        font-family: 'Times New Roman', 'Monlam Uni OuChan2' !important;
+    }
+    
     .navbar {
         position: fixed;
         top: 0;
