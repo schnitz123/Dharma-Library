@@ -124,16 +124,14 @@
     
 
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  const btn = document.getElementById('mobile-toggle-btn');
-  const menu = document.getElementById('main-mobile-menu');
-
-  if (btn && menu) {
-    btn.onclick = (e) => {
-      e.preventDefault();
+document.addEventListener('click', function (event) {
+  // If the user clicks the button OR anything inside the button (like the lines)
+  if (event.target.closest('.menu-toggle')) {
+    const menu = document.getElementById('main-mobile-menu');
+    if (menu) {
       menu.classList.toggle('is-open');
-      console.log("Menu state toggled");
-    };
+      console.log("Menu toggled via global listener");
+    }
   }
 });
 </script>
