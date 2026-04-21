@@ -127,24 +127,24 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
+  // We use querySelector to be more flexible with classes
   const toggleButton = document.querySelector('.menu-toggle');
-  const menuList = document.getElementById('main-mobile-menu');
+  const menuList = document.querySelector('.custom-sidebar');
 
   if (toggleButton && menuList) {
     toggleButton.addEventListener('click', (e) => {
+      e.preventDefault();
       e.stopPropagation();
+      
+      // Force the toggle
       menuList.classList.toggle('is-open');
-      const expanded = menuList.classList.contains('is-open');
-      toggleButton.setAttribute('aria-expanded', expanded);
+      
+      // Debugging: This will show in your browser console (F12) 
+      // so you can see if the click is actually registering
+      console.log("Menu is now open:", menuList.classList.contains('is-open'));
     });
-
-    // Close menu when clicking a link
-    menuList.querySelectorAll('a').forEach(link => {
-      link.addEventListener('click', () => {
-        menuList.classList.remove('is-open');
-        toggleButton.setAttribute('aria-expanded', 'false');
-      });
-    });
+  } else {
+    console.log("Could not find button or menu. Check classes!");
   }
 });
 </script>
