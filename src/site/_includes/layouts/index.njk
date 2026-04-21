@@ -122,15 +122,21 @@
     
 
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  const toggleButton = document.querySelector('.menu-toggle');
-  const menuList = document.getElementById('main-mobile-menu');
-
-  if (toggleButton && menuList) {
-    toggleButton.addEventListener('click', () => {
-      // Toggle the 'is-open' class which we will define in CSS
-      menuList.classList.toggle('is-open');
-    });
+// 1. We listen to the entire document for any click/tap
+document.addEventListener('click', function (event) {
+  
+  // 2. We check if what was clicked is the menu-toggle button OR the lines inside it
+  const isToggleButton = event.target.closest('.menu-toggle');
+  
+  if (isToggleButton) {
+    const menu = document.getElementById('main-mobile-menu');
+    if (menu) {
+      // 3. Manually toggle the class
+      menu.classList.toggle('is-open');
+      
+      // This helps you debug:
+      console.log("Button clicked! Menu is now:", menu.classList.contains('is-open') ? "Visible" : "Hidden");
+    }
   }
 });
 </script>
