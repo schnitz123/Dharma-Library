@@ -47,7 +47,7 @@ em, h1 { color: #add8e6; }
 
     .content {
         margin-left: 300px;
-        margin-top: 40px;
+        margin-top: 10px; !important;
         max-width: 900px;
     }
 }
@@ -137,4 +137,16 @@ em, h1 { color: #add8e6; }
     #lib-sidebar-mobile ul ul a {
         font-size: 22px !important;
     }
+  
+    .content {
+        margin-top: 0 !important; /* Pulls content to the very top */
+        padding-top: 10px !important; 
+    }
+
+    /* This removes the extra space specifically above your main heading */
+    .content h1:first-child, 
+    .content h2:first-child {
+        margin-top: 0 !important;
+    }
 }
+
