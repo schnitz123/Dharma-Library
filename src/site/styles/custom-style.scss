@@ -1,6 +1,11 @@
 /* --- ZONE 1: GLOBAL STYLES --- */
+* {
+    /* This ensures every element on the site tries to use your fonts first */
+    font-family: 'Times New Roman', 'Monlam Uni OuChan2', serif !important;
+}
+
 body {
-    --font-text-theme: 'Times New Roman', 'Monlam Uni OuChan2' !important;
+    --font-text-theme: 'Times New Roman', 'Monlam Uni OuChan2';
     background-color: var(--background-primary);
 }
 
