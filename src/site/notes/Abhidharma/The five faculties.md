@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-five-faculties/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-five-faculties/","dg-note-properties":{}}
 ---
 
 དབང་ཤེས་ཀྱི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་ནང་གི་གཟུགས་ཅན་དང་བར་དམིགས་པ། 

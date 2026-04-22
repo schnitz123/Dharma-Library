@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentations-of-arya-bodhisattva-grounds/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentations-of-arya-bodhisattva-grounds/","dg-note-properties":{}}
 ---
 
 སྙིང་རྗེ་ཆེན་པོ་དང་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་བྱང་འཕགས་ཀྱི་མངོན་རྟོགས། བྱང་འཕགས་ཀྱི་སའི་མཚན་ཉིད།

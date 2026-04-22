@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/ten-great-prayers-of-bodhisattvas-js/"}
+{"dg-publish":true,"permalink":"/madhyamaka/ten-great-prayers-of-bodhisattvas-js/","dg-note-properties":{}}
 ---
 
 འདིར་ཀུན་ཏུ་བཟང་པོའི་བསྔོ་བ་སྨོས་པའི་རྒྱུ་མཚན་ཡོད་དེ། ས་བཅུ་པ་ལས། སྨོན་ལམ་ཆེན་པོ་བཅུ་ལ་སོགས་པའི་སྨོན་ལམ་འབུམ་ཕྲག་གྲངས་མེད་པ་བཅུ་ས་དང་པོ་བས་འདེབས་པར་གསུངས་པ་དེ་རྣམས་རྒྱལ་སྲས་ཀུན་བཟང་གི་སྨོན་ལམ་བཟང་སྤྱོད་དུ་འདུ་བར་ཤེས་ཆེད་ཡིན་པའི་ཕྱིར།

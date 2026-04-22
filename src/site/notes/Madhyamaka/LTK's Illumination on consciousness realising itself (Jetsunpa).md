@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/ltk-s-illumination-on-consciousness-realising-itself-jetsunpa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/ltk-s-illumination-on-consciousness-realising-itself-jetsunpa/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག སྔོ་འཛིན་དབང་མངོན་གྱིས་ཁོ་རང་གྲུབ་ཅེས་པའི་དོན། ཁོ་རང་གིས་ཁོ་རང་འགྲུབ་པའི་དོན་ཡིན་གྱི། རང་གིས་རང་རྟོགས་པའི་དོན་མ་ཡིན་ཏེ། 

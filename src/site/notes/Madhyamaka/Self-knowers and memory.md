@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/self-knowers-and-memory/"}
+{"dg-publish":true,"permalink":"/madhyamaka/self-knowers-and-memory/","dg-note-properties":{}}
 ---
 
 རང་རིག་མེད་པར་དྲན་པ་སྐྱེ་ཚུལ་གྱི་ལུགས་ཆེན་པོ་གཉིས་ཡོད་དེ།

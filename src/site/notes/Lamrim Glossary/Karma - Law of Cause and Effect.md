@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/karma-law-of-cause-and-effect/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/karma-law-of-cause-and-effect/","dg-note-properties":{}}
 ---
 
 **The General Characteristics of Karma** ལས་འབྲས་སྤྱིར་བསམ་པ།

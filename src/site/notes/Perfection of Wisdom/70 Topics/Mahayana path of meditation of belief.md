@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/mahayana-path-of-meditation-of-belief/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/mahayana-path-of-meditation-of-belief/","dg-note-properties":{}}
 ---
 
 ཡུམ་དོན་གསུམ་གྱི་འབྱུང་གནས་སུ་ཡིད་ཆེས་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས་དེ། ཐེག་ཆེན་གྱི་མོས་པ་སྒོམ་ལམ་གྱི་མཚན་ཉིད།

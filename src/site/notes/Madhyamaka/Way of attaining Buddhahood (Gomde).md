@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/way-of-attaining-buddhahood-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/way-of-attaining-buddhahood-gomde/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཆོས་ཅན། གནས་འོག་མིན་དུ་ནི་གང་གི་དོན་དུ་འབད་པ་བརྩོམ་པར་གྱུར་པའིེ་གོ་འཕང་མཆོག་ཏུ་ཞི་བ་བླ་ན་མེད་པ་དྲན་པ་ཉེར་བཞག་ལ་སོགས་པའི་ཡོན་ཏན་མཐའ་དག་གི་མཐར་ཐུག་འདི་དང་འདྲ་བ་མེད་པས་མཚུངས་པ་མེད་པའི་ཡེ་ཤེས་དེ་ཁྱོད་ཀྱིས་བརྙེད་དེ། གང་གི་ཕྱིར་དཔེར་ན། 

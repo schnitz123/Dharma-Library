@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/non-returners-pacifying-in-the-present-life/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/non-returners-pacifying-in-the-present-life/","dg-note-properties":{}}
 ---
 
 མཐོང་ལམ་ཐོབ་པའི་ཚེ་དེ་ལ་མྱང་འདས་མངོན་དུ་བྱེད་པའི་ཕྱིར་མི་འོང་དེ། ཕྱིར་མི་འོང་མཐོང་ཆོས་ཞིའི་མཚན་ཉིད་ཡིན།

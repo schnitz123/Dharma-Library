@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-stream-enterer-who-is-a-dull-faculty-follower-of-faith/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-stream-enterer-who-is-a-dull-faculty-follower-of-faith/","dg-note-properties":{}}
 ---
 
 རྒྱུན་ཞུགས་ཞུགས་པ་དབང་རྟུལ་དད་པའི་རྗེས་འབྲང།

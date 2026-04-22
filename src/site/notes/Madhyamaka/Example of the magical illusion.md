@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/example-of-the-magical-illusion/"}
+{"dg-publish":true,"permalink":"/madhyamaka/example-of-the-magical-illusion/","dg-note-properties":{}}
 ---
 
 སྒྱུ་མ་མཁན་གྱིས་རྡེའུ་ཤིང་རྟ་གླང་དུ་སྤྲུལ་པའི་ཚེ། སྒྱུ་མ་མཁན་དང་སྒྱུ་མའི་སྔགས་རྫས་ཀྱིས་མིག་བསླད་པའི་ལྟད་མོ་བ་དང་།

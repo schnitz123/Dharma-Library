@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/yogic-direct-perception/"}
+{"dg-publish":true,"permalink":"/madhyamaka/yogic-direct-perception/","dg-note-properties":{}}
 ---
 
 མངོན་སུམ་གྱི་ཚད་མ་གང་ཞིག རང་གི་བདག་རྐྱེན་ཞི་ལྷག་ཟུང་འབྲེལ་གྱི་ཏིང་ངེ་འཛིན་ལས་སྐྱེས་ཤིང་། རང་ཡུལ་དུ་གྱུར་པའི་བདེན་པའི་རྣམ་པའམ། 

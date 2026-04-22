@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-again-the-way-consciousness-exists-without-external-objects-summary/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-again-the-way-consciousness-exists-without-external-objects-summary/","dg-note-properties":{}}
 ---
 
 **The Cittamatra say:** སེམས་ཅམ་པ་ན་རེ། 

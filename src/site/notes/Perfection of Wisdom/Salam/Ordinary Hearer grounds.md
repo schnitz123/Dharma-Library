@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/ordinary-hearer-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/ordinary-hearer-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་གཞི་རྟེན་བྱེད་པའི་ཉན་ཐོས་ཀྱི་མངོན་རྟོགས་གང་ཞིག<br>ཉན་ཐོས་སོ་སྐྱེའི་རྒྱུད་ཀྱིས་བསྡུས་པའི་མངོན་པར་རྟོགས་པ། ཉན་ཐོས་སོ་སྐྱེའི་སའི་མཚན་ཉིད།

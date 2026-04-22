@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/translations/commentary-on-recognising-my-mother/"}
+{"dg-publish":true,"permalink":"/website/translations/commentary-on-recognising-my-mother/","dg-note-properties":{}}
 ---
 
 <img src="/pdf/mother_icon.png" class="gyurme-pic">Kunkhyen Jigme Wangpo's Commentary on Jangkya Rolpe Dorje's Recognising My Mother (Tib-Eng) - version 0.9 uploaded 14/08/25

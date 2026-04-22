@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-27-investigation-of-views/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-27-investigation-of-views/","dg-note-properties":{}}
 ---
 
 འདས་དུས་བྱུང་མ་བྱུང་ཞེས་དང༌། །འཇིག་རྟེན་རྟག་པ་ལ་སོགས་པར། །ལྟ་བ་གང་ཡིན་དེ་དག་ནི། །མངོན་གྱི་མཐའ་ལ་བརྟེན་པ་ཡིན། །

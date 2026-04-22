@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/therefore-it-is-reasonable-to-follow-only-nagarjuna/"}
+{"dg-publish":true,"permalink":"/madhyamaka/therefore-it-is-reasonable-to-follow-only-nagarjuna/","dg-note-properties":{}}
 ---
 
 སློབ་དཔོན་ཀླུ་སྒྲུབ་ཞབས་ཀྱིས་སྲོལ་ཕྱེ་བའི་ལམ་ལས་ནི་ཕྱི་རོལ་དུ་གྱུར་པའི་གྲུབ་མཐའ་སྨྲ་བ་དེ་དག་ཆོས་ཅན། ཁྱོད་ལ་ཞི་བ་མྱང་འདས་ཐོབ་པའི་ཐབས་ཀྱི་གཅོ་བོ་མེད་དེ། 

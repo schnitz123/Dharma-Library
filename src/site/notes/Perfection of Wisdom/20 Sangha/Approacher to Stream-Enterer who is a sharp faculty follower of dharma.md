@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-stream-enterer-who-is-a-sharp-faculty-follower-of-dharma/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-stream-enterer-who-is-a-sharp-faculty-follower-of-dharma/","dg-note-properties":{}}
 ---
 
 རྒྱུན་ཞུགས་ཞུགས་པ་དབང་རྣོན་ཆོས་ཀྱི་རྗེས་འབྲང་།

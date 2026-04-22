@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-intention-wrt-thoroughly-established-natures/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-intention-wrt-thoroughly-established-natures/","dg-note-properties":{}}
 ---
 
 ཡང་དོན་དམ་པ་ངོ་བོ་ཉིད་མེད་པ་ཉིད་ཆོས་བདག་མེད་པས་རབ་ཏུ་ཕྱེ་བ་ལ་དགོངས་ནས་ངས་ཆོས་ཐམས་ཅད་མ་སྐྱེས་པ་མ་འགགས་པ་གཟོད་མ་ནས་ཞི་བ་རང་བཞིན་གྱིས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའོ་ཞེས་བསྟན་ཏོ།

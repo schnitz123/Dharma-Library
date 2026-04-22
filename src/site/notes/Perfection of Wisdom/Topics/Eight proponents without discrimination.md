@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-proponents-without-discrimination/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-proponents-without-discrimination/","dg-note-properties":{}}
 ---
 
 བདག་གཟུགས་ཅན་ཡིན་པར་འདུ་ཤེས་མེད། ཅེས་པ་ནས་བདག་མཐའ་དང་ལྡན་མི་ལྡན་གཉིས་ཀ་མ་ཡིན་པར་འདུ་ཤེས་མེད་པའི་བར་བརྒྱད་དོ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/established-meaning-of-the-refutation-of-production-from-the-four-extremes-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/established-meaning-of-the-refutation-of-production-from-the-four-extremes-gomde/","dg-note-properties":{}}
 ---
 
 མཐའ་བཞིའི་སྐྱེ་བ་བཀག་པའི་དགོས་པ་ནི། ཕྱི་ནང་གི་དངོས་པོ་རྣམས་ཆོས་ཅན། རང་བཞིན་གྱིས་སྐྱེ་བ་དང་བྲལ་ཏེ། 

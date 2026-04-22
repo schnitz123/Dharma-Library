@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/twelve-deeds-4-bodies-gm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/twelve-deeds-4-bodies-gm/","dg-note-properties":{}}
 ---
 
 མཆོག་གི་སྤྲུལ་སྐུ་རྣམས་ཀྱིས་མཛད་པ་བཅུ་གཉིས་ཀྱི་མཛད་པ་སྟོན་ཚུལ་ཡོད་དེ། དེ་ཡང་སྔར་བཤད་པའི་ལོངས་སྐུ་དེ་ཉིད་གནས་ངེས་པ་འོག་མིན་དུ་བཞུགས་ནས། 

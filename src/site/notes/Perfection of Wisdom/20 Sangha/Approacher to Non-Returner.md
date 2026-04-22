@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-non-returner/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-non-returner/","dg-note-properties":{}}
 ---
 
 ཞུགས་པ་བཞིའི་ནང་ཚན་གང་ཞིག ཐ་མའི་ཆ་མཐུན་ལྔ་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ཐོབ་པའི་ཕྱིར་དུ་བརྩོན་བཞིན་པའི་

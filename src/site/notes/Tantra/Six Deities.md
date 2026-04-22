@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/six-deities/"}
+{"dg-publish":true,"permalink":"/tantra/six-deities/","dg-note-properties":{}}
 ---
 
 1. **Empty deity** སྟོང་པའི་ལྷ།

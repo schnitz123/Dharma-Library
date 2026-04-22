@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/cultivation-of-alternating-concentrations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/cultivation-of-alternating-concentrations/","dg-note-properties":{}}
 ---
 
 **Persons who are the support and engagers in cultivating alternations**

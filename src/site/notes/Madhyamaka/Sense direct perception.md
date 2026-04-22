@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/sense-direct-perception/"}
+{"dg-publish":true,"permalink":"/madhyamaka/sense-direct-perception/","dg-note-properties":{}}
 ---
 
 མངོན་སུམ་གྱི་ཚད་མ་གང་ཞིག རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དབང་པོ་གཟུགས་ཅན་པ་ལ་དངོས་སུ་བརྟེན་པའི་སྒོ་ནས་རང་ཡུལ་དུ་གྱུར་པའི་

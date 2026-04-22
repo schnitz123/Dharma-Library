@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-production-from-both-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-production-from-both-gomde/","dg-note-properties":{}}
 ---
 
 གཅེར་བུ་བ་རྣམས་ན་རེ། རྫ་བུམ་ནི་འཇིམ་པ་ལ་ལྟོས་ཏེ་བདག་སྐྱེ་དང་། རྫ་མཁན་དང་འཁོར་ལོ་སོགས་ལ་ལྟོས་ཏེ་གཞན་སྐྱེ་ཡིན་ལ། དེ་བཞིན་དུ་ནང་གི་ཆོས་ལའང་སྐྱེས་བུ་ནི་ཚེ་སྔ་མའི་སྲོག་ལ་ལྟོས་ཏེ་བདག་སྐྱེ་དང་། །ཕ་མ་སོགས་ལ་ལྟོས་ཏེ་གཞན་སྐྱེ་ཡིན་པས། བདག་གཞན་རེ་རེ་བ་ལ་བརྗོད་པའིེ་ཉེས་པ་དེ་རྣམས་ངེད་ལ་མེད་དོ་ཞེ་ན།

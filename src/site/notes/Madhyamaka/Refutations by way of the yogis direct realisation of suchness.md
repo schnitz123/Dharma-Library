@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutations-by-way-of-the-yogis-direct-realisation-of-suchness/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutations-by-way-of-the-yogis-direct-realisation-of-suchness/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། མང་བཀུར་བ་ཁྱོད་ཀྱི་ལུགས་ལ་རྣལ་འབྱོར་པས་བདག་མེད་མངོན་སུམ་དུ་མཐོང་བ་དེའེ་ཚེ་དེས་ངེས་པར་ཕུང་པོའེ་དངོས་པོ་རྣམས་

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/going-for-refuge/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/going-for-refuge/","dg-note-properties":{}}
 ---
 
 **The Two Causes for Refuge:** སྐྱབས་སུ་འགྲོ་བའི་རྒྱུ་ལ།

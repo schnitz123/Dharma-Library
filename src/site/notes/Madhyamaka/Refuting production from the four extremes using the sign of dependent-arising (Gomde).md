@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-production-from-the-four-extremes-using-the-sign-of-dependent-arising-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-production-from-the-four-extremes-using-the-sign-of-dependent-arising-gomde/","dg-note-properties":{}}
 ---
 
 དངོས་པོ་རྣམས་ཆོས་ཅན། རང་གི་རྒྱུ་རྐྱེན་དང་ཆ་ཤས་ལ་བརྟེན་ནས་རབ་ཏུ་སྐྱེ་བར་འགྱུར་ཏེ། རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་རྒྱུ་མེད་པ་དང་། དབང་ཕྱུག་གི་རྒྱུ་དང་

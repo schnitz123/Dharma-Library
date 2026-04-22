@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-own-character/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-own-character/","dg-note-properties":{}}
 ---
 
 Note: Character/istics is the same word as definition (མཚན་ཉིད།)

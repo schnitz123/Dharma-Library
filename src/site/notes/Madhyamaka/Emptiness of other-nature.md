@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-other-nature/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-other-nature/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་རྣམས་འཇིག་རྟེན་དུ་འབྱུང་བའམ་མ་བྱུང་ཡང་རུང་དངོས་སུ་ན་སྟེ་དངོས་པོ་ཀུན་གྱི་རང་བཞིན་སྟོང་པ་ཉིད་ནི་ཆོས་ཅན། 

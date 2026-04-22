@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/unconnected-with-an-agent/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/unconnected-with-an-agent/","dg-note-properties":{}}
 ---
 
 བྱེད་པ་པོ་གཞན་དང་དངོས་སུ་མ་འབྲེལ་བའི་བྱ་བ་སྟོན་བྱེད་ཀྱི་སྒྲ། བྱེད་མེད་ལས་ཚིག་གི་མཚན་ཉིད།

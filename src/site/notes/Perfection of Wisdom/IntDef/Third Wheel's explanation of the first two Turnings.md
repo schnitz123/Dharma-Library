@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/third-wheel-s-explanation-of-the-first-two-turnings/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/third-wheel-s-explanation-of-the-first-two-turnings/","dg-note-properties":{}}
 ---
 
 འཁོར་ལོ་ཐ་མའི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱ་ལ་ཐེག་པ་ཐམས་ཅད་ལ་ཡང་དག་པར་ཞུགས་པ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། 

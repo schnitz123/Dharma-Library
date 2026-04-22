@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-self-production-gomde-uma/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-self-production-gomde-uma/","dg-note-properties":{}}
 ---
 
 **Refuting production from a cause it is one nature with** རང་དང་ངོ་བོ་གཅིག་པའི་རྒྱུ་ལས་སྐྱེ་བ་དགག་པ།

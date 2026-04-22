@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/objection-of-the-fallacy-of-its-knower/"}
+{"dg-publish":true,"permalink":"/madhyamaka/objection-of-the-fallacy-of-its-knower/","dg-note-properties":{}}
 ---
 
 གཞན་ཡང་། ཁྱོད་ཀྱི་ལུགས་ལྟར་ན་གདུལ་བྱ་གཞན་དག་ལ་དེ་ཁོ་ན་ཉིད་ནི་འདི་ལྟ་བུའོ། །ཞེས་སུ་ཞིག་གིས་སྟོན་པར་བྱེད་པ་མི་རིགས་པར་ཐལ། 

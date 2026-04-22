@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/svatantrika/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/svatantrika/","dg-note-properties":{}}
 ---
 
 རང་རྒྱུད་ཀྱི་རྟགས་ཞལ་གྱིས་བཞེས་པའི་སྒོ་ནས་བདེན་དངོས་ཐ་སྙད་དུའང་མི་འདོད་པའི་དབུ་མ་པ་དེ། རང་རྒྱུད་པའི་མཚན་ཉིད། 

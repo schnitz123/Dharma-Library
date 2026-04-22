@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/forms-that-are-phenomena-sources/"}
+{"dg-publish":true,"permalink":"/madhyamaka/forms-that-are-phenomena-sources/","dg-note-properties":{}}
 ---
 
 དབང་ཤེས་དང་ཡིད་ཤེས་གཉིས་ཀྱི་ནང་ནས་གཙོ་བོར་ཡིད་ཀྱི་ཤེས་པ་ལ་གཟུགས་སུ་སྣང་བའི་གཟུགས་སྣང་དེ། ཆོས་ཀྱི་སྐྱེ་མཆེད་པའི་གཟུགས་ཀྱི་མཚན་ཉིད། 

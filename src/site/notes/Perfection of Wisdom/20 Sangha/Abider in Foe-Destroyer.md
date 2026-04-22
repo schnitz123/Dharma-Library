@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/abider-in-foe-destroyer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/abider-in-foe-destroyer/","dg-note-properties":{}}
 ---
 
 འབྲས་གནས་བཞིའི་ནང་ཚན་གང་ཞིག །གོང་མའི་ཆ་མཐུན་ལྔ་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ལ་གནས་པ།

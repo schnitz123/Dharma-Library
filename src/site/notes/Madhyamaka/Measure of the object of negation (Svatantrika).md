@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/measure-of-the-object-of-negation-svatantrika/"}
+{"dg-publish":true,"permalink":"/madhyamaka/measure-of-the-object-of-negation-svatantrika/","dg-note-properties":{}}
 ---
 
 བློ་གནོད་མེད་ལ་སྣང་བའི་དབང་གིས་བཞག་པའི་ཡོད་པ་ཙམ་དེ། ཀུན་རྫོབ་ཏུ་ཡོད་པའི་དོན་ཡིན། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/applications-of-a-knower-of-paths-in-the-continuum-of-a-bodhisattva/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/applications-of-a-knower-of-paths-in-the-continuum-of-a-bodhisattva/","dg-note-properties":{}}
 ---
 
 སྟོང་ཉིད་མཚན་མེད་སོགས་ལམ་ཤེས་ཀྱི་རྣམ་པ་གང་ཡང་རུང་བ་ལ་དམིགས་པའི་སེམས་དཔའི་རྣལ་འབྱོར། ལམ་ཤེས་སྦྱོར་བའི་མཚན་ཉིད།

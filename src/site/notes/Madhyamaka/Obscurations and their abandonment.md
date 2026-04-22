@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/obscurations-and-their-abandonment/"}
+{"dg-publish":true,"permalink":"/madhyamaka/obscurations-and-their-abandonment/","dg-note-properties":{}}
 ---
 
 **Divisions of obscurations:** སྒྲིབ་པ་ལ་དབྱེ་ན་གཉིས་ཡོད།

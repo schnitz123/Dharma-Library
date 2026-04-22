@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-1-investigation-of-conditions/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-1-investigation-of-conditions/","dg-note-properties":{}}
 ---
 
 བདག་ལས་མ་ཡིན་གཞན་ལས་མིན། །གཉིས་ལས་མ་ཡིན་རྒྱུ་མེད་མིན། །དངོས་པོ་གང་དག་གང་ན་ཡང༌། །སྐྱེ་བ་ནམ་ཡང་ཡོད་མ་ཡིན། །

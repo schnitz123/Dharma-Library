@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/definite-number-of-the-six-perfections/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/definite-number-of-the-six-perfections/","dg-note-properties":{}}
 ---
 
 མངོན་མཐོ་དང་ངེས་ལེགས་ལ་ལྟོས་ཏེ་སྦྱིན་སོགས་དྲུག་ཏུ་གྲངས་ངེས་པ་ཡིན་ཏེ། 

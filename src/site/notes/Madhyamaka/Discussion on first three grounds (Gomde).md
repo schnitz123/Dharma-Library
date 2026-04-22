@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/discussion-on-first-three-grounds-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/discussion-on-first-three-grounds-gomde/","dg-note-properties":{}}
 ---
 
 སྦྱིན་སོགས་ཀྱི་ཆོས་ཕར་ཕྱིན་དང་པོ་གསུམ་པོ་དེ་དག་ཆོས་ཅན། 

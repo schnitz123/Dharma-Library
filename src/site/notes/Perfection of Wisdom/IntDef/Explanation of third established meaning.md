@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-third-established-meaning/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-third-established-meaning/","dg-note-properties":{}}
 ---
 
 འཁོར་ལོ་ཐ་མ་ཆོས་ཅན། ཁྱོད་ཀྱི་བརྗོད་བྱ་ཡོད་དེ། 

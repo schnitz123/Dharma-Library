@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-a-self-that-is-a-different-entity-from-the-aggregates-imputed-by-non-buddhists/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-a-self-that-is-a-different-entity-from-the-aggregates-imputed-by-non-buddhists/","dg-note-properties":{}}
 ---
 
 མུ་སྟེགས་གྲངས་ཅན་པ་རྣམས་ཀྱིས་ནི། ཕུང་པོ་ལས་དོན་གཞན་པའི་གང་ཟག་རྫས་ཡོད་བདག་གི་ངོ་བོ་དེ་ལྟ་བུའི་བདག་དེ་ཁྱད་ཆོས་ལྔ་ལྡན་དུ་ཁས་ལེན་པ་ཡིན་ཏེ། 

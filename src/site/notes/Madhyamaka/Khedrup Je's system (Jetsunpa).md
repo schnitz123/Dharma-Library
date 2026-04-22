@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/khedrup-je-s-system-jetsunpa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/khedrup-je-s-system-jetsunpa/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག །སྔོ་འཛིན་དབང་མངོན་གྱིས་ཁོ་རང་རྟོགས་ཟེར་ན།

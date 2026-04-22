@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/gradualist-approachers-to-once-returner/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/gradualist-approachers-to-once-returner/","dg-note-properties":{}}
 ---
 
 ཕྱིར་འོང་ཞུགས་པ་གང་ཞིག །རྒྱུན་ཞུགས་ཀྱི་རྟོགས་པ་སྔོན་དུ་སོང་བ། འབྲས་བུ་རིམ་གྱིས་པའི་ཕྱིར་འོང་ཞུགས་པའི་མཚན་ཉིད།

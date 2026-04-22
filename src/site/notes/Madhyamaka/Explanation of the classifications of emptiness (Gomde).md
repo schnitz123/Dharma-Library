@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/explanation-of-the-classifications-of-emptiness-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/explanation-of-the-classifications-of-emptiness-gomde/","dg-note-properties":{}}
 ---
 
 རང་བཞིན་གྱིས་སྟོང་པའི་བདག་མེད་འདི་ནི་ཆོས་ཅན། མདོར་བསྡུ་ན་རྣམ་པ་གཉིས་སུ་ཡོད་དེ། 

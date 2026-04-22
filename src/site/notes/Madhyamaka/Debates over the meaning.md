@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/debates-over-the-meaning/"}
+{"dg-publish":true,"permalink":"/madhyamaka/debates-over-the-meaning/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག ཁོང་ཁྲོས་རང་གི་གཞོམ་བྱའི་དགེ་རྩའི་རྣམ་སྨིན་གྱི་འབྲས་བུ་མྱུར་དུ་འབྱིན་པའི་ནུས་པ་བཅོམ་ནས་འབྲས་བུ་ཐག་སྲིང་བ་འབྱིན་པ་ཡིན་གྱི། 

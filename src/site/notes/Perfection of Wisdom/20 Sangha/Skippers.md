@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/skippers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/skippers/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་གོང་འཕོ་འོག་མིན་མཐར་ཐུག་འགྲོ་གང་ཞིག །ཚངས་རིས་དང་འོག་མིན་ཏེ་གཟུགས་ཀྱི་སྐྱེ་སྲིད་གཉིས་ཁོ་ན་བླངས་ནས་འོག་མིན་གྱི་

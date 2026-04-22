@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-self-knowers-as-the-proof-of-other-powered-natures/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-self-knowers-as-the-proof-of-other-powered-natures/","dg-note-properties":{}}
 ---
 
 གཞན་དབང་གི་སྒྲུབ་བྱེད་དྲིས་ནས་དེ་མི་འཐད་པར་བསྟན་པ། 

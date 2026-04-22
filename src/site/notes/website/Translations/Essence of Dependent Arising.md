@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/translations/essence-of-dependent-arising/"}
+{"dg-publish":true,"permalink":"/website/translations/essence-of-dependent-arising/","dg-note-properties":{}}
 ---
 
 <img src="/pdf/depar_icon.png" class="gyurme-pic">Arya Nagarjuna's Essence of Dependent-Arising (Tib-Eng) - version 1.1 uploaded 07/06/25

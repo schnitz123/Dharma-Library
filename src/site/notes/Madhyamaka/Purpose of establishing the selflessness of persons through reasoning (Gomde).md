@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/purpose-of-establishing-the-selflessness-of-persons-through-reasoning-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/purpose-of-establishing-the-selflessness-of-persons-through-reasoning-gomde/","dg-note-properties":{}}
 ---
 
 ཐར་པ་དོན་གཉེར་གྱི་རྣལ་འབྱོར་པ་དེ་ཡིས་ཆོས་ཅན། ཐོག་མར་བདག་རང་བཞིན་གྱིས་གྲུབ་པ་དེ་ནི་འགོག་པར་བྱེད་པའི་རྒྱུ་མཚན་ཡོད་དེ། 

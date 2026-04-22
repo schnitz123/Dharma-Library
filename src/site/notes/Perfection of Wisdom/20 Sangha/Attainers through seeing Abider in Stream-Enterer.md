@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/attainers-through-seeing-abider-in-stream-enterer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/attainers-through-seeing-abider-in-stream-enterer/","dg-note-properties":{}}
 ---
 
 རྒྱུན་ཞུགས་འབྲས་གནས་གང་ཞིག །རྒྱུན་ཞུགས་ཞུགས་པ་ཆོས་ཀྱི་རྗེས་འབྲང་གི་རྟོགས་པ་སྔོན་དུ་སོང་བ། རྒྱུན་ཞུགས་འབྲས་གནས་མཐོང་ཐོབ་པའི་མཚན་ཉིད་ཡིན།

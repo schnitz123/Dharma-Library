@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-objection-of-similar-fault-wrt-the-refutation-of-cause-and-effect-lacking-true-establishment/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-objection-of-similar-fault-wrt-the-refutation-of-cause-and-effect-lacking-true-establishment/","dg-note-properties":{}}
 ---
 
 ཁོ་ན་རེ། རྒྱུ་འབྲས་ཕྲད་མ་ཕྲད་ལ་བརྟག་པའི་སྒོ་ནས་རྒྱུས་འབྲས་བུ་རང་བཞིན་གྱིས་སྐྱེད་པ་འགོག་པའི་ཚུལ་དེ་ནི། ཁྱོད་དབུ་མ་པའི་སུན་འབྱིན་གྱིས་རྒྱུ་འབྲས་

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-once-returner/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-once-returner/","dg-note-properties":{}}
 ---
 
 ཞུགས་པ་བཞིའི་ནང་ཚན་གང་ཞིག ཕལ་ཆེར་ལ་འདོད་ཆགས་དང་བྲལ་བས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ཐོབ་ཕྱིར་དུ་བརྩོན་བཞིན་པའི་སྦྱོར་བ་རྒྱུན་ཆགས་ལ་གནས་པས་རབ་ཏུ་ཕྱེ་བ། ཕྱིར་འོང་ཞུགས་པའི་མཚན་ཉིད།

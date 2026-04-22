@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-self-knowers-in-other-texts-shantideva/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-self-knowers-in-other-texts-shantideva/","dg-note-properties":{}}
 ---
 
 དཔེར་ན་དགུན་གྱི་དུས་སུ་བྱི་བས་ལུས་ལ་རྨུགས་པ་ན་བྱི་དུག་ཞུགས་ཡོད་ཀྱང་རྨུགས་པ་མྱོང་གི་དུག་མ་མྱོང་ངོ་། 

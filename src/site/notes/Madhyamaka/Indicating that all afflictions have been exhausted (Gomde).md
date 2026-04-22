@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-all-afflictions-have-been-exhausted-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-all-afflictions-have-been-exhausted-gomde/","dg-note-properties":{}}
 ---
 
 ས་བརྒྱད་པ་ལ་གནས་པའིེ་བྱང་སེམས་དེ་ཆོས་ཅན། ཉོན་མོངས་པའི་དྲི་མ་དེ་དག་རྩ་བ་སྟེ་ས་བོན་དང་བཅས་པ་ཉེ་བར་ཞི་བ་ཐོབ་པ་ཡིན་ཏེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-buddha-s-qualities-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-buddha-s-qualities-gomde/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་སྟོབས་ཀྱི་ཡོན་ཏན་ཆོས་ཅན། དབྱེ་ན་བཅུ་པོ་འདི་དག་ཏུ་ཡོད་དེ།

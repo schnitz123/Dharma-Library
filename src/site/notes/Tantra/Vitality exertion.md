@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/vitality-exertion/"}
+{"dg-publish":true,"permalink":"/tantra/vitality-exertion/","dg-note-properties":{}}
 ---
 
 རྒྱུད་སྡེ་འོག་མ་ནས་བཤད་པའི་སྲོག་རྩོལ་གྱི་དོན་ཡོད་དེ། དབང་པོའི་སྒོ་སོགས་དང་སྐྲ་དང་སྤུའི་བུ་ག་ནས་འབྱུང་འཇུག་བྱེད་པའི་རླུང་ནི་སྲོག་ཡིན་ལ། 

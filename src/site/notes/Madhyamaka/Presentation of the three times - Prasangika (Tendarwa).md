@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-three-times-prasangika-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-three-times-prasangika-tendarwa/","dg-note-properties":{}}
 ---
 
 རང་ཉིད་དུས་གང་དུ་འཇོག་པའི་དངོས་པོ་གང་གི་རང་དུས་ལ་བལྟོས་ནས་བཞག་དགོས་པའི་བལྟོས་སར་གྱུར་པའི་དངོས་པ་དེ་རང་དུས་སུ་མ་སླེབས་པ། 

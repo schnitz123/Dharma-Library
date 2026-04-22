@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/indicating-the-qualities-of-such-a-presentation-to-easily-abandon-conceptions-holding-to-extremes/"}
+{"dg-publish":true,"permalink":"/madhyamaka/indicating-the-qualities-of-such-a-presentation-to-easily-abandon-conceptions-holding-to-extremes/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། དབུ་མ་པའི་སྐབས་འདིར་ཤིང་རྟ་དེའི་གྲུབ་ཚུལ་ནི་མ་བརྟགས་མ་དཔྱད་པའི་སྒོ་ནས་འཇོག་པ་དེ་བཞིན་དུ་འདོད་པར་བྱ་སྟེ།

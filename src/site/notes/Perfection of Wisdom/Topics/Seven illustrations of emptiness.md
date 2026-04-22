@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/seven-illustrations-of-emptiness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/seven-illustrations-of-emptiness/","dg-note-properties":{}}
 ---
 
 སྣང་བ་རྣམ་བདུན་ཤེས་བྱེད་དོ། །ཞེས་པའི་དོན་ནི། ཆོས་ཐམས་ཅད་ཆོས་ཅན། བདེན་པར་མེད་དེ། རྟེན་འབྲེལ་ཡིན་པའི་ཕྱིར། དཔེར་ན།

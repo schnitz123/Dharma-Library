@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-other-production-wrt-simultaneous-cause-and-effect/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-other-production-wrt-simultaneous-cause-and-effect/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག་ན་རེ། རྒྱུ་འབྲས་ཀྱང་དུས་མཉམ་དུ་གྲུབ་སྟེ། 

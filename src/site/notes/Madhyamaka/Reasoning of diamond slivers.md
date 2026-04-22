@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/reasoning-of-diamond-slivers/"}
+{"dg-publish":true,"permalink":"/madhyamaka/reasoning-of-diamond-slivers/","dg-note-properties":{}}
 ---
 
 This has four:

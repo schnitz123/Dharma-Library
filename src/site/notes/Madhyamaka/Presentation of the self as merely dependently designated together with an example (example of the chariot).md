@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-self-as-merely-dependently-designated-together-with-an-example-example-of-the-chariot/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-self-as-merely-dependently-designated-together-with-an-example-example-of-the-chariot/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། ངར་འཛིན་ལྷན་སྐྱེས་ཀྱི་རྟེན་ཏེ་དམིགས་ཡུལ་དུ་གྱུར་པའི་བདག་དེ་ནི་དངོས་པོ་སྟེ་རང་བཞིན་གྱིས་གྲུབ་པ་མིན་ཏེ། 

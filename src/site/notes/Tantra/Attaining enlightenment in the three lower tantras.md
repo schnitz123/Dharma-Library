@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/attaining-enlightenment-in-the-three-lower-tantras/"}
+{"dg-publish":true,"permalink":"/tantra/attaining-enlightenment-in-the-three-lower-tantras/","dg-note-properties":{}}
 ---
 
 ཕར་ཕྱིན་ཐེག་པ་དང་རྒྱུད་སྡེ་འོག་མ་གསུམ་གྱི་ལམ་གྱིས་གསར་དུ་འཚང་རྒྱ་བའི་རྟེན་ཡིན་ན་འོག་མིན་གྱི་རྟེན་ཡིན་པས་ཁྱབ།

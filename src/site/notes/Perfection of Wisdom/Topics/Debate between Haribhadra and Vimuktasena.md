@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/debate-between-haribhadra-and-vimuktasena/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/debate-between-haribhadra-and-vimuktasena/","dg-note-properties":{}}
 ---
 
 འཕགས་པ་གྲོལ་སྡེ་དང་དེའི་རྗེས་འབྲང་རྣམས་ཀྱི་ལུགས་ལ། ཐུབ་པའི་ངོ་བོ་ཉིད་སྐུ་ནི། །ཞེས་སོགས་ཀྱིས། ངོ་བོ་ཉིད་སྐུ་མདོར་བསྟན། 

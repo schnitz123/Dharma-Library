@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/aspect-of-self-arising/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/aspect-of-self-arising/","dg-note-properties":{}}
 ---
 
 ཆོས་འཁོར་མ་ལུས་པར་སྐོར་བ་ལ་དབང་བསྒྱུར་བ་ཐོབ་པས་རབ་ཏུ་ཕྱེ་བའི་མཐར་ཐུག་པའི་ཡེ་ཤེས། རྣམ་མཁྱེན་གྱི་ཤེས་རྣམ་དུ་གྱུར་པའི་རང་བྱུང་གི་རྣམ་པའི་མཚན་ཉིད།

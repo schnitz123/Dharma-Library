@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/correct-assumptions/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/correct-assumptions/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ལ་ཞེན་པས་སླུ་བའི་ཞེན་རིག་དོན་མཐུན། ཡིད་དཔྱོད་ཀྱི་མཚན་ཉིད།

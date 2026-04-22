@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-three-times-disintegratedness-jetsunpa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-three-times-disintegratedness-jetsunpa/","dg-note-properties":{}}
 ---
 
 དངོས་པོ་གཞན་ཞིག་སྐྱེས་ཟིན་ཞིག་པའི་ཆ། འདས་པའི་མཚན་ཉིད།

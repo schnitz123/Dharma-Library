@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/translations/notes-on-the-eight-difficult-points/"}
+{"dg-publish":true,"permalink":"/website/translations/notes-on-the-eight-difficult-points/","dg-note-properties":{}}
 ---
 
 <img src="/pdf/8diff_icon.png" class="gyurme-pic"> Je Tsongkhapa's Notes on the Eight Difficult Points - Version 1.1 (22/12/2025)

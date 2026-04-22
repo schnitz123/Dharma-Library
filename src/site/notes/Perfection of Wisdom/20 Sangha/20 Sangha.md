@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/20-sangha/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/20-sangha/","dg-note-properties":{}}
 ---
 
 **Example Sangha:** མཚོན་བྱེད་དཔེའི་དགེ་འདུན།

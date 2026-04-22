@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/sixth-mind-generation/"}
+{"dg-publish":true,"permalink":"/madhyamaka/sixth-mind-generation/","dg-note-properties":{}}
 ---
 
 མངོན་དུ་ཕྱོགས་པར་མཉམ་བཞག་སེམས་གནས་ཏེ། །རྫོགས་པའི་སངས་རྒྱས་ཆོས་ལ་མངོན་ཕྱོགས་ཤིང༌། །

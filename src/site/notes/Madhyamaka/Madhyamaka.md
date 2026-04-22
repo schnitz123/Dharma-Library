@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/madhyamaka/"}
+{"dg-publish":true,"permalink":"/madhyamaka/madhyamaka/","dg-note-properties":{}}
 ---
 
 [[Madhyamaka/Root Verses\|Root Verses]] / [[Texts & Quotes/Root Wisdom of the Middle Way/Root Wisdom of the Middle Way\|Root Wisdom of the Middle Way]]
@@ -50,11 +50,22 @@
 { #cc82dc}
 
 
-Fourth ground G59
+**FOURTH MIND GENERATION**
+{ #93eec7}
+
+- [[Madhyamaka/Surpassing joyous effort on the fourth ground (Gomde)\|Surpassing joyous effort on the fourth ground (Gomde)]]
+- [[Madhyamaka/Etymology for the fourth ground (Gomde)\|Etymology for the fourth ground (Gomde)]]
+- [[Madhyamaka/Qualities of abandonment on the fourth ground (Gomde)\|Qualities of abandonment on the fourth ground (Gomde)]]
+
+**FIFTH MIND GENERATION**
+{ #531181}
+
+- [[Madhyamaka/Etymology and surpassing concentration on the fifth ground (Gomde)\|Etymology and surpassing concentration on the fifth ground (Gomde)]]
 
 **SIXTH MIND GENERATION**
 { #d08963}
 
+- [[Madhyamaka/Etymology and surpassing wisdom on the sixth ground (Gomde)\|Etymology and surpassing wisdom on the sixth ground (Gomde)]]
 - [[Madhyamaka/Ten equalities\|Ten equalities]] 
 - [[Madhyamaka/Absorption of cessation\|Absorption of cessation]]
 - [[Madhyamaka/Object of negation\|Object of negation]]

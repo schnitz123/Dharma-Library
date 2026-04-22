@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/haribhadra/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/haribhadra/","dg-note-properties":{}}
 ---
 
 Twenty-five sutra sections indicating twenty-five: five of which are bases of divisions.

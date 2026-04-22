@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-mere-collection-of-parts-is-not-the-chariot/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-mere-collection-of-parts-is-not-the-chariot/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་ཁོ་ན་རེ། འདུས་པ་ཙམ་ཤིང་རྟ་མིན་ཞེས་པ་རྟགས་མ་གྲུབ་སྟེ། འཁོར་ལོ་དང་གཟེར་བུ་ལ་སོགས་པའི་ཡན་ལག་གི་ཚོགས་པ་ཤིང་རྟ་ཡིན་པའི་ཕྱིར་ཞེ་ན། 

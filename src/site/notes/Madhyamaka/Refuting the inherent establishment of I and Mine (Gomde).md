@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-inherent-establishment-of-i-and-mine-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-inherent-establishment-of-i-and-mine-gomde/","dg-note-properties":{}}
 ---
 
 གཞན་སྡེས་བཏགས་པའི་ཕུང་པོ་ལས་ངོ་བོ་ཐ་དད་པའི་བདག་དགག་པ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-ladon-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-ladon-particles/","dg-note-properties":{}}
 ---
 
 There are seven Ladon particles: ལ། ན། དུ། ཏུ། སུ། རུ། -ར།

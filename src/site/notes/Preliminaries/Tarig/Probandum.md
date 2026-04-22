@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/probandum/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/probandum/","dg-note-properties":{}}
 ---
 
 i.e. "that to be proven" བསྒྲུབ་བྱ།

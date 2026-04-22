@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/abider-in-once-returner/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/abider-in-once-returner/","dg-note-properties":{}}
 ---
 
 འབྲས་གནས་བཞིའི་ནང་ཚན་གང་ཞིག །ཕལ་ཆེར་ལ་འདོད་ཆགས་དང་བྲལ་བས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ལ་གནས་པ།

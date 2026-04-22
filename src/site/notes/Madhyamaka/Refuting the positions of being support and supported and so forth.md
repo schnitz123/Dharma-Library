@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-positions-of-being-support-and-supported-and-so-forth/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-positions-of-being-support-and-supported-and-so-forth/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། བདག་དང་ཕུང་པོ་ངོ་བོ་ཉིད་ཀྱིས་རྟེན་དང་བརྟེན་པར་འདོད་པ་འདི་ཕྱིན་ཅི་ལོག་གི་རྟོག་པས་བཞག་པ་ཙམ་ཡིན་ཏེ། 

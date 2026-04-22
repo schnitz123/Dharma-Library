@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/precious-human-rebirth/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/precious-human-rebirth/","dg-note-properties":{}}
 ---
 
 **The Eight Non-Freedoms:** མི་ཁོམ་པ་བརྒྱད་ནི།

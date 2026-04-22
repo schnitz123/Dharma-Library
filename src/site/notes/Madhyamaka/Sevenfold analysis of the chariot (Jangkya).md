@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/sevenfold-analysis-of-the-chariot-jangkya/"}
+{"dg-publish":true,"permalink":"/madhyamaka/sevenfold-analysis-of-the-chariot-jangkya/","dg-note-properties":{}}
 ---
 
 ཤིང་རྟ་ཆོས་ཅན། རང་གི་ཡན་ལག་སྲོག་ཤིང་དང་འཁོར་ལོ་དང་གཟེར་བུ་སོགས་དང་རང་བཞིན་གཅིག་མ་ཡིན་ཏེ། 

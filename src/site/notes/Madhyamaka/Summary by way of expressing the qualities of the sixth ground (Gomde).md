@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/summary-by-way-of-expressing-the-qualities-of-the-sixth-ground-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/summary-by-way-of-expressing-the-qualities-of-the-sixth-ground-gomde/","dg-note-properties":{}}
 ---
 
 སྔར་བཤད་པ་དེ་ལྟར་རྣམ་པར་དཔྱད་པའི་བློ་གྲོས་ཀྱི་འོད་ཟེར་གྱིས་དེ་ཁོ་ན་ཉིད་ཀྱི་སྣང་བ་གསལ་བར་བྱས་པའི་བྱང་སེམས་ས་དྲུག་པ་དེ་ནི་ཆོས་ཅན། 

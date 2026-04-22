@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/seeds-of-the-knowledge-obscurations/"}
+{"dg-publish":true,"permalink":"/madhyamaka/seeds-of-the-knowledge-obscurations/","dg-note-properties":{}}
 ---
 
 རང་གི་རྒྱུར་གྱུར་པའི་བདེན་འཛིན་གྱིས་ཐུན་མོང་མ་ཡིན་པའི་ལག་རྗེས་བཞག་པ་ལས་བྱུང་ཞིང་། རང་གི་འབྲས་བུར་གྱུར་པའི་གཉིས་སྣང་འཁྲུལ་བའི་ཉེར་ལེན་གང་ཞིག

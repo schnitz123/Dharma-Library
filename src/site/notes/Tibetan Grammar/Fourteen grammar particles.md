@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/fourteen-grammar-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/fourteen-grammar-particles/","dg-note-properties":{}}
 ---
 
 In The Thirty (སུམ་ཅུ་པ།), the classical presentation of fourteen grammar particles are:

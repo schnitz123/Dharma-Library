@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/five-partial-concordances-with-the-lower/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/five-partial-concordances-with-the-lower/","dg-note-properties":{}}
 ---
 
 ཐ་མའི་ཆ་མཐུན་ལྔ་པོ་དེ་ཕྱིར་མི་འོང་གི་འབྲས་བུ་ཐོབ་པ་ལ་གེགས་བྱེད་པའི་གཙོ་བོ་ཡིན།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/surpassing-patience-on-the-third-ground-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/surpassing-patience-on-the-third-ground-gomde/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། ས་གསུམ་པར་སྙིང་རྗེའི་སྒོ་ནས་བཟོད་པའི་ཕར་ཕྱིན་ལྷག་པ་ཡིན་ཏེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/abider-in-stream-enterer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/abider-in-stream-enterer/","dg-note-properties":{}}
 ---
 
 འབྲས་གནས་བཞིའི་ནང་ཚན་གང་ཞིག མཐོང་སྤང་ཀུན་སྦྱོར་གསུམ་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་

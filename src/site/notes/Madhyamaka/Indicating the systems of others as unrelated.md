@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/indicating-the-systems-of-others-as-unrelated/"}
+{"dg-publish":true,"permalink":"/madhyamaka/indicating-the-systems-of-others-as-unrelated/","dg-note-properties":{}}
 ---
 
 ཕུང་པོ་རང་བཞིན་གྱིས་གྲུབ་པའི་ང་ཡི་བར་འདོད་པ་རྣམས་ལྟར་ན། ང་ཡི་བ་རང་བཞིན་གྱིས་གྲུབ་པར་འཛིན་པ་ནི་འཇིག་ལྟ་ལྷན་སྐྱེས་ཡིན་པས་

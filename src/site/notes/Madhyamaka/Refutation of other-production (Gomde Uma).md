@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-other-production-gomde-uma/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-other-production-gomde-uma/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་རང་གི་ངོ་བོས་གྲུབ་པའི་རྒྱུ་གཞན་ལ་བརྟེན་ནས་རང་གི་ངོ་བོས་གྱུབ་པའི་འབྲས་བུ་གཞན་ཞིག་འབྱུང་བར་འགྱུར་ན་ནི། 

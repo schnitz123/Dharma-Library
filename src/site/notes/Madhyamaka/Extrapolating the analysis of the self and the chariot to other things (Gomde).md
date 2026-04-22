@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/extrapolating-the-analysis-of-the-self-and-the-chariot-to-other-things-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/extrapolating-the-analysis-of-the-self-and-the-chariot-to-other-things-gomde/","dg-note-properties":{}}
 ---
 
 བུམ་སྣམ་སོགས་ཀྱི་དངོས་པོ་ལ་བསྒྲེ་བ། 

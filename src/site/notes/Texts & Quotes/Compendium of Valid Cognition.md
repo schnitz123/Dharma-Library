@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/compendium-of-valid-cognition/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/compendium-of-valid-cognition/","dg-note-properties":{}}
 ---
 
 **From Compendium of Valid Cognition:** ཚད་མ་ཀུན་བཏུས་ལས།

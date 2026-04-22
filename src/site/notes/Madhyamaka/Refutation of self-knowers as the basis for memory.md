@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-self-knowers-as-the-basis-for-memory/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-self-knowers-as-the-basis-for-memory/","dg-note-properties":{}}
 ---
 
 འོ་ན། དྲན་པ་རང་བཞིན་གྱིས་གྲུབ་པ་རྟགས་སུ་འགོད་དམ། ཐ་སྙད་ཙམ་དུ་གྲུབ་པའི་དྲན་པ་རྟགས་སུ་འགོད།

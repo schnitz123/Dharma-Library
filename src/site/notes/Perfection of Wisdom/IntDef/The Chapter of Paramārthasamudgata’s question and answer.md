@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-chapter-of-paramarthasamudgata-s-question-and-answer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-chapter-of-paramarthasamudgata-s-question-and-answer/","dg-note-properties":{}}
 ---
 
 **Sections:**

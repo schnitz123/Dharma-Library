@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/three-uncompounded-phenomena/"}
+{"dg-publish":true,"permalink":"/abhidharma/three-uncompounded-phenomena/","dg-note-properties":{}}
 ---
 
 1. [[Abhidharma/Analytical cessations\|Analytical cessations]] སོ་སོར་བརྟགས་འགོག

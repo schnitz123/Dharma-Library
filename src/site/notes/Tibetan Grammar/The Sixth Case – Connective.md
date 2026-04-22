@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-sixth-case-connective/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-sixth-case-connective/","dg-note-properties":{}}
 ---
 
 གང་དང་འབྲེལ་བའི་ཡུལ་དང་འབྲེལ་ཆོས་སམ། རྟེན་དང་བརྟེན་པའམ། ཡན་ལག་ཅན་དང་ཡན་ལག་རྣམས་སོ་སོར་འབྱེད་ཅིང་། 

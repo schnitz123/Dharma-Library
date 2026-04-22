@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/stream-enterer-taking-seven-existences/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/stream-enterer-taking-seven-existences/","dg-note-properties":{}}
 ---
 
 འདོད་ཉོན་དང་པོ་ཙམ་མ་སྤངས་པའི་རྒྱུན་ཞུགས་ཀྱི་འབྲས་བུ་གསར་དུ་ཐོབ་པའི་རྒྱུན་ཞུགས་འབྲས་གནས་ཙམ་པོ་བ་གང་ཞིག སྔོན་སོ་སོ་སྐྱེ་བོའི་གནས་སྐབས་སུ་འཕགས་པའི་ལམ་ཐོབ་ནས་ཀྱང་། འདོད་པར་ལས་ཉོན་གྱིས་སྐྱེ་སྲིད་བཅུ་བཞི་དང་བར་སྲིད་བཅུ་བཞི་སྟེ་ཉེར་བརྒྱད་ལེན་པའི་ལས་བསགས་པའི་རིགས་ཅན། 

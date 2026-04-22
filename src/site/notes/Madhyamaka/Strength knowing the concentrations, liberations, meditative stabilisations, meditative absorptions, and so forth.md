@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-the-concentrations-liberations-meditative-stabilisations-meditative-absorptions-and-so-forth/"}
+{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-the-concentrations-liberations-meditative-stabilisations-meditative-absorptions-and-so-forth/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་དེ་ནི་ཆོས་ཅན། ཀུན་ནས་ཉོན་མོངས་པ་དང་རྣམ་པར་བྱང་བ་མཁྱེན་པའི་སྟོབས་སུ་བཤད་དེ། 

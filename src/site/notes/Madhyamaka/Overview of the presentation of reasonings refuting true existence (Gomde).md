@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/overview-of-the-presentation-of-reasonings-refuting-true-existence-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/overview-of-the-presentation-of-reasonings-refuting-true-existence-gomde/","dg-note-properties":{}}
 ---
 
 **Outlines:**

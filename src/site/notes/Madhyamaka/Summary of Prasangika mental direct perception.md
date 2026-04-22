@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/summary-of-prasangika-mental-direct-perception/"}
+{"dg-publish":true,"permalink":"/madhyamaka/summary-of-prasangika-mental-direct-perception/","dg-note-properties":{}}
 ---
 
 How does mental direct perception know forms?

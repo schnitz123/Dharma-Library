@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/dharma-eye/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/dharma-eye/","dg-note-properties":{}}
 ---
 
 སྤྱན་ལྔའི་ནང་ཚན་གང་ཞིག འཕགས་པའི་གང་ཟག་གི་དབང་པོ་རྣོན་རྟུལ་གྱི་རིམ་པ་ཇི་ལྟ་བ་བཞིན་དུ་རྟོགས་པའི་མཁྱེན་པ། ཆོས་ཀྱི་སྤྱན་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-time-marker/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-time-marker/","dg-note-properties":{}}
 ---
 
 The Time Marker marks time and occasions in relation to the verb or otherwise.

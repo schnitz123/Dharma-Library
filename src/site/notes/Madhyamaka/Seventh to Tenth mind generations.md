@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/seventh-to-tenth-mind-generations/"}
+{"dg-publish":true,"permalink":"/madhyamaka/seventh-to-tenth-mind-generations/","dg-note-properties":{}}
 ---
 
 རིང་དུ་སོང་འདིར་འདི་ནི་སྐད་ཅིག་དང༌། །སྐད་ཅིག་ལ་ནི་འགོག་པར་འཇུག་འབྱུང་ཞིང༌། །

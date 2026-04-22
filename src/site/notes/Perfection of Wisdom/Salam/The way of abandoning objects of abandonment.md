@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/the-way-of-abandoning-objects-of-abandonment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/the-way-of-abandoning-objects-of-abandonment/","dg-note-properties":{}}
 ---
 
 **On the path of seeing:**

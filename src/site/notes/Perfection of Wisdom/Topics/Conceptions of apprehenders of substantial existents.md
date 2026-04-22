@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-of-substantial-existents/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-of-substantial-existents/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་རྫས་འཛིན་ལ་དམིགས་ནས་ལོངས་སྤྱོད་བྱེད་དུ་བདེན་པར་ཞེན་པའི་ཞེན་རིག །ཤེས་སྒྲིབ་རྫས་འཛིན་རྟོག་པའི་མཚན་ཉིད། 

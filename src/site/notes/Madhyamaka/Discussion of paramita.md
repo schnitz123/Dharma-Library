@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/discussion-of-paramita/"}
+{"dg-publish":true,"permalink":"/madhyamaka/discussion-of-paramita/","dg-note-properties":{}}
 ---
 
 སློབ་ལམ་ན་ཤེར་ཕྱིན་ཡོད་དེ། དེ་ན་སྦྱིན་པའི་ཕར་ཕྱིན་ཡོད་པ་གང་ཞིག །རྒྱུ་མཚན་མཚུངས་པའི་ཕྱིར། 

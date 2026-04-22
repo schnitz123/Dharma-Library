@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/chapter-5/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/chapter-5/","dg-note-properties":{}}
 ---
 
 ལེའུ་ལྔ་པ་ཤེས་བཞིན་བསྲུང་བ།

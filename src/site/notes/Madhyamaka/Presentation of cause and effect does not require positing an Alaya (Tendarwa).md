@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-cause-and-effect-does-not-require-positing-an-alaya-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-cause-and-effect-does-not-require-positing-an-alaya-tendarwa/","dg-note-properties":{}}
 ---
 
 ལས་རང་བཞིན་གྱིས་མི་འགགས་པ་དེ། ལས་འབྲས་ཀྱི་རྟེན་དུ་གྱུར་པའི་ཀུན་གཞི་ཁས་ལེན་མི་དགོས་པའི་རྒྱུ་མཚན་དུ་འགྲོ་ཚུལ་ཡོད་དེ།

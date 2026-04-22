@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/non-conceptual-non-mistaken-consciousness-taking-a-specifically-characterised-phenomenon-as-its-apprehended-object/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/non-conceptual-non-mistaken-consciousness-taking-a-specifically-characterised-phenomenon-as-its-apprehended-object/","dg-note-properties":{}}
 ---
 
 རང་གི་སྣང་ཡུལ་ལ་མ་འཁྲུལ་བའི་གསལ་སྣང་ཅན་གྱི་རིག་པ།nརང་ཉིད་རྟོག་མེད་མ་འཁྲུལ་བའི་ཤེས་པ་ཡིན་པའི་མཚན་ཉིད།

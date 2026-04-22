@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-faults-in-bhavaviveka-s-position/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-faults-in-bhavaviveka-s-position/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་བསྐྱངས་ཀྱིས་བདག་སྐྱེ་འགོག་པའི་འགྲེལ་ངག་ལ་སྐྱོན་མེད་པར་མ་ཟད། ལེགས་ལྡན་འབྱེད་རང་ཉིད་ཀྱི་བདག་སྐྱེ་འགོག་པའི་འགྲེལ་ངག་ལ་སྐྱོན་ཡོད་དེ།

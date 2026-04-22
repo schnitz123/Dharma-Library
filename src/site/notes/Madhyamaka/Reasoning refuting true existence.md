@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/reasoning-refuting-true-existence/"}
+{"dg-publish":true,"permalink":"/madhyamaka/reasoning-refuting-true-existence/","dg-note-properties":{}}
 ---
 
 See: [[Madhyamaka/Overview of the presentation of reasonings refuting true existence (Gomde)\|Overview of the presentation of reasonings refuting true existence (Gomde)]]
@@ -43,4 +43,4 @@ See also (Perfection of Wisdom): [[Perfection of Wisdom/Topics/Reasoning refutin
 Among those, the Arya [Nagarjuna] and his Spiritual Children mainly settled the lack of true existence by way of the reasoning of diamond slivers. [[Texts & Quotes/Root Wisdom of the Middle Way/Chapter 1 - Investigation of conditions#^e02300\|Nagarjuna quote]].
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Madhyamaka#^d08963\|Madhyamaka]]

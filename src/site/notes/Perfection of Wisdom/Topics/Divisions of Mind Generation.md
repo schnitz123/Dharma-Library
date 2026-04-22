@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divisions-of-mind-generation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divisions-of-mind-generation/","dg-note-properties":{}}
 ---
 
 1. **By way of examples** དཔེའི་སྒོ་ནས། ([[Perfection of Wisdom/Topics/Twenty-two Bodhicittas\|Twenty-two Bodhicittas]])

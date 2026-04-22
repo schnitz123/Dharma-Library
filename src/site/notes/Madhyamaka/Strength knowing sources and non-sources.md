@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-sources-and-non-sources/"}
+{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-sources-and-non-sources/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་དེ་ནི་ཆོས་ཅན། གནས་དང་གནས་མ་ཡིན་པ་མཁྱེན་པའི་སྟོབས་སུ་བཤད་པ་ཡིན་ཏེ། རྒྱུ་དགེ་བ་གང་ཞིག་ལས་འབྲས་བུ་བདེ་བ་གང་ཞིག་ངེས་པར་སྐྱེ་བར་འགྱུར་བའི་དགེ་བ་དེ་ནི་བདེ་བ་དེ་སྐྱེ་བའི་གནས་སུ་དེ་ལྟར་མཁྱེན་པའི་སངས་རྒྱས་རྣམས་ཀྱིས་གསུངས།

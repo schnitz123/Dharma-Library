@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/suffering-of-samsara/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/suffering-of-samsara/","dg-note-properties":{}}
 ---
 
 **The Eight Types of Suffering:** སྡུག་བསྔལ་བརྒྱད་བསམ་པ།

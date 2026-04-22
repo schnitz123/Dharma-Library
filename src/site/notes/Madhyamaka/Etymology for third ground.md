@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/etymology-for-third-ground/"}
+{"dg-publish":true,"permalink":"/madhyamaka/etymology-for-third-ground/","dg-note-properties":{}}
 ---
 
 བྱང་སེམས་ཀྱི་ས་གསུམ་པ་ཆོས་ཅན། ཁྱོད་ལ་འོད་བྱེད་པ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། མཉམ་གཞག་ཏུ་ཡེ་ཤེས་ཀྱི་སྣང་བ་ཁྱད་པར་ཅན་དང་། 

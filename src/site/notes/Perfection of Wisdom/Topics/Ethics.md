@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ethics/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ethics/","dg-note-properties":{}}
 ---
 
 སྤོང་བའི་སེམས་པ། ཚུལ་ཁྲིམས་ཀྱི་ངོ་བོ། 

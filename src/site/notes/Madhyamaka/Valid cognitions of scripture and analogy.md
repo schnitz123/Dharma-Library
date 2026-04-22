@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/valid-cognitions-of-scripture-and-analogy/"}
+{"dg-publish":true,"permalink":"/madhyamaka/valid-cognitions-of-scripture-and-analogy/","dg-note-properties":{}}
 ---
 
 འདིའི་དབྱེ་བར་གྱུར་པའི་ལུང་གི་ཚད་མ་ནི། དཔྱད་གསུམ་གྱིས་དག་པའི་ལུང་གི་རྟགས་ལས། 

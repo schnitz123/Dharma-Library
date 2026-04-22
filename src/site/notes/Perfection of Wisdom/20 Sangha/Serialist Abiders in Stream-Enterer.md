@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/serialist-abiders-in-stream-enterer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/serialist-abiders-in-stream-enterer/","dg-note-properties":{}}
 ---
 
 རྒྱུན་ཞུགས་འབྲས་གནས་གང་ཞིག ཁམས་གསུམ་གྱི་སྒོམ་སྤང་ཉོན་མོངས་ཆུང་ངུའི་ཆུང་ངུ་དགུ་རིམ་བཞིན་དུ་སྤོང་བའི་རིགས་ཅན།

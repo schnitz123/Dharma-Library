@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-cause-and-effect-does-not-require-positing-an-alaya-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-cause-and-effect-does-not-require-positing-an-alaya-gomde/","dg-note-properties":{}}
 ---
 
 ལས་རང་བཞིན་གྱིས་མེད་པར་འདོད་པའི་ལུགས་ལ་ཆོས་ཅན། ཀུན་གཞི་སོགས་ཁས་བླངས་པ་མེད་ཀྱང་། 

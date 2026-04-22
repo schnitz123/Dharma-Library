@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/summary-of-four-refutations-by-candrakirti-js/"}
+{"dg-publish":true,"permalink":"/madhyamaka/summary-of-four-refutations-by-candrakirti-js/","dg-note-properties":{}}
 ---
 
 ཟླ་བས་རང་རིག་ལུང་རིགས་གཉིས་ཀྱིས་བཀག་སྟེ། ལུང་ལང་གཤེགས་དང་གཙུག་རིན་གྱི་མདོས་བཀག་ཅིང་། རིགས་པ་བཞི་སོགས་ཀྱིས་བཀག་པའི་ཕྱིར། 

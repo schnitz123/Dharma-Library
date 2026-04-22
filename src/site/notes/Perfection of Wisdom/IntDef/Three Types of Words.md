@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/three-types-of-words/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/three-types-of-words/","dg-note-properties":{}}
 ---
 
 1. **Words directly spoken** - e.g. summary sections.

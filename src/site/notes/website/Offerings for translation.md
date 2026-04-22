@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/offerings-for-translation/"}
+{"dg-publish":true,"permalink":"/website/offerings-for-translation/","dg-note-properties":{}}
 ---
 
 <img src="/img/user/website/tenzingyurme.png" alt="Profile" class="gyurme-pic">Opening the Door to Liberation: Clear Explanation of the Presentation of the Sixteen Aspects of the Four Truths

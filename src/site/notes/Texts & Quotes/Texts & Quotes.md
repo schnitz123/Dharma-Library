@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/texts-and-quotes/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/texts-and-quotes/","dg-note-properties":{}}
 ---
 
 

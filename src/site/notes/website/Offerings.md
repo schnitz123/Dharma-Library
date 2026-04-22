@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/offerings/"}
+{"dg-publish":true,"permalink":"/website/offerings/","dg-note-properties":{}}
 ---
 
 All the resources and translations in the Dharma Library are for free distribution because the Dharma should be free and available to as many people as possible. If you agree and would like to support the Dharma Library in making more resources available and producing more translations, then please consider making an offering:

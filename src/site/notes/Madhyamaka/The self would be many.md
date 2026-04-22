@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-self-would-be-many/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-self-would-be-many/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། གལ་ཏེ་རང་རྒྱུད་ཀྱི་ཕུང་པོ་ལྔ་བདག་ཡིན་པའི་ཕྱོགས་ལྟར་ན་གང་ཟག་གཅིག་གི་རྒྱུད་ལ་ཕུང་པོར་མ་ཟད་བདག་དེ་དག་ཀྱང་མང་པོར་འགྱུར་བར་ཐལ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-self-would-be-substantially-existent/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-self-would-be-substantially-existent/","dg-note-properties":{}}
 ---
 
 བདག་དེ་ནི་ཆོས་ཅན། རྫས་ཡོད་དུ་འགྱུར་བར་ཐལ། ཕུང་པོ་རྫས་ཡོད་གང་ཞིག ཁྱོད་ཕུང་པོ་དང་གཅིག་ཡིན་པའི་ཕྱིར།

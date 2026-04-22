@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/pramanavartika/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/pramanavartika/","dg-note-properties":{}}
 ---
 
 **From Dharmakirti's Pramanavartika:** ཚད་མ་རྣམ་འགྲེལ་ལས། རྣམ་འགྲེལ་ལས།

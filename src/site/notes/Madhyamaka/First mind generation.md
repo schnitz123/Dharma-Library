@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/first-mind-generation/"}
+{"dg-publish":true,"permalink":"/madhyamaka/first-mind-generation/","dg-note-properties":{}}
 ---
 
 །དང་པོར་ང་ཞེས་བདག་ལ་ཞེན་གྱུར་ཅིང་། །བདག་གི་འདི་ཞེས་དངོས་ལ་ཆགས་བསྐྱེད་པ། 

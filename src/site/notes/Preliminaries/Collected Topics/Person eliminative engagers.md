@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/person-eliminative-engagers/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/person-eliminative-engagers/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ལ་ཆ་ཤས་སུ་ཕྱེ་ནས་འཇུག་པའི་སྐྱེས་བུ། སེལ་འཇུག་གི་གང་ཟག་གི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/twenty-views-of-the-transitory-collection-alt/"}
+{"dg-publish":true,"permalink":"/madhyamaka/twenty-views-of-the-transitory-collection-alt/","dg-note-properties":{}}
 ---
 
 1. The self is form, like an owner བདག་གཟུགས་ཡིན་ཏེ་བདག་པོ་དང་འདྲ།

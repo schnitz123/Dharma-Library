@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/five-partial-concordances-with-the-upper/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/five-partial-concordances-with-the-upper/","dg-note-properties":{}}
 ---
 
 The are five partial concordances with the upper: གོང་མའི་ཆ་མཐུན་ལྔ་ཡོད་དེ།

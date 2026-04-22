@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/sutra-unravelling-the-thought/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/sutra-unravelling-the-thought/","dg-note-properties":{}}
 ---
 
 There are ten chapters: མདོ་སྡེ་དགོངས་འགྲེལ་ལ་ལེའུ་བཅུ་ཡོད་དེ། 

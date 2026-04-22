@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-refuting-other-powered-natures-and-worldly-conventions-is-not-the-same/"}
+{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-refuting-other-powered-natures-and-worldly-conventions-is-not-the-same/","dg-note-properties":{}}
 ---
 
 དབུ་མ་པ་ཁྱོད་ཀྱིས་གཞན་དབང་རང་བཞིན་གྱིས་གྲུབ་པ་འགོག་ན་འཇིག་རྟེན་གྱི་ཐ་སྙད་ཀྱང་འགོག་པར་མཚུངས་སོ་ཞེ་ན།

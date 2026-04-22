@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-mere-shape-of-the-parts-is-also-not-the-chariot/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-mere-shape-of-the-parts-is-also-not-the-chariot/","dg-note-properties":{}}
 ---
 
 ཡན་ལག་སོ་སོའི་དབིབས་ཤིང་རྟ་ཡིན་པར་འདོད་ན། 

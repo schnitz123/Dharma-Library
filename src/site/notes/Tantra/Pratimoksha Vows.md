@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/pratimoksha-vows/"}
+{"dg-publish":true,"permalink":"/tantra/pratimoksha-vows/","dg-note-properties":{}}
 ---
 
 Seven sets: སོར་སྡོམ་གྱི་རྟེན་ནི་རིས་བདུན་ཏེ།

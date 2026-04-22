@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/knowledge-obscurations/"}
+{"dg-publish":true,"permalink":"/madhyamaka/knowledge-obscurations/","dg-note-properties":{}}
 ---
 
 སྒྲིབ་པ་གང་ཞིག གཙོ་བོར་ཐམས་ཅད་མཁྱེན་པ་ཐོབ་པ་ལ་བར་དུ་གཅོད་བྱེད་དེ། ཤེས་སྒྲིབ་ཀྱི་མཚན་ཉིད།

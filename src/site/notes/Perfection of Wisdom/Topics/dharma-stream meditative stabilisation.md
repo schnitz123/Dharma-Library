@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/dharma-stream-meditative-stabilisation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/dharma-stream-meditative-stabilisation/","dg-note-properties":{}}
 ---
 
 ལམ་འོག་མ་རྣམས་ཀྱིས་སངས་རྒྱས་དངོས་སུ་མཐོང་བ་དང་། དེ་ལ་ཆོས་ཐོས་པའི་སྒྲིབ་བྱེད་རགས་པ་ཕལ་ཆེར་སྦྱངས་ནས་མཆོག་གི་སྤྲུལ་སྐུ་ལས་གདམས་ངག་དངོས་སུ་ཉན་པའི་ནུས་པ་ཁྱད་པར་ཅན་སྐྱེས་པའི་ཞི་ལྷག་ཟུང་འབྲེལ་གྱི་ཏིང་ངེ་འཛིན་ནི། ཆོས་རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་གྱི་མཚན་ཉིད།

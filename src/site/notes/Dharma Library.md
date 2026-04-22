@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dharma-library/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/dharma-library/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 <br><img src="/img/user/website/rabbit.png" alt="Profile" class="gyurme-pic">Hi! Welcome to my Dharma Library! 

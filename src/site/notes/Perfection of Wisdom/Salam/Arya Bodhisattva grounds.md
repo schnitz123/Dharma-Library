@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/arya-bodhisattva-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/arya-bodhisattva-grounds/","dg-note-properties":{}}
 ---
 
 སྙིང་རྗེ་ཆེན་པོ་དང་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་བྱང་སེམས་འཕགས་པའི་མངོན་རྟོགས་དེ།<br>བྱང་སེམས་འཕགས་པའི་སའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-external-objects-and-inner-minds-are-equally-existent-or-non-existent/"}
+{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-external-objects-and-inner-minds-are-equally-existent-or-non-existent/","dg-note-properties":{}}
 ---
 
 དོན་སེམས་གཉིས་ཐ་སྙད་དང་དོན་དམ་གང་དུ་ཡང་ཡོད་མེད་མཚུངས་པར་ཐལ། 

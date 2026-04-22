@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-self-knowers-are-unfeasible-also-using-other-reasonings/"}
+{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-self-knowers-are-unfeasible-also-using-other-reasonings/","dg-note-properties":{}}
 ---
 
 སེམས་ཙམ་པ་ཆོས་ཅན། ཁྱོད་ཀྱི་གཞན་དབང་གི་ཤེས་པ་རང་བཞིན་གྱིས་གྲུབ་པ་ཚད་མ་གང་གིས་འཛིན་པར་འགྱུར་ཏེ་མི་འགྱུར་པར་ཐལ། 

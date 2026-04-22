@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-7-investigation-of-production-abiding-and-disintegration/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-7-investigation-of-production-abiding-and-disintegration/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་སྐྱེ་བ་འདུས་བྱས་ན། །དེ་ལ་མཚན་ཉིད་གསུམ་ལྡན་འགྱུར། །ཅི་སྟེ་སྐྱེ་བ་འདུས་མ་བྱས། །ཇི་ལྟར་འདུས་བྱས་མཚན་ཉིད་ཡིན། །

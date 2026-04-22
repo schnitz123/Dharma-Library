@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-inner-and-outer/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-inner-and-outer/","dg-note-properties":{}}
 ---
 
 དབང་རྟེན་ཁོག་པ་ཆོས་ཅན། ཁྱོད་ལ་ཕྱི་ནང་གཉིས་ཅར་ཞེས་བྱ་སྟེ། ཤེས་རྒྱུད་གྱིས་བསྡུས་པས་ནང་དང་དབང་པོས་མ་བསྡུས་པས་ཕྱི་ཡིན་པའི་ཕྱིར། 

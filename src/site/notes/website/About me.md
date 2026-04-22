@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/about-me/"}
+{"dg-publish":true,"permalink":"/website/about-me/","dg-note-properties":{}}
 ---
 
 <img src="/img/user/website/profile.jpg" alt="Profile" class="profile-pic">Hi! My name is Shahar Tene - born in Israel but grew up in London, UK.

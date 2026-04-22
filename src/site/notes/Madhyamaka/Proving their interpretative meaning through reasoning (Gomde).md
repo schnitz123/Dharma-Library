@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/proving-their-interpretative-meaning-through-reasoning-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/proving-their-interpretative-meaning-through-reasoning-gomde/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། སངས་རྒྱས་རྣམས་ཀྱིས་དང་པོར་ཤེས་བྱ་ཕྱི་རོལ་དགག་པར་མཛད་པ་ཡིན་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཤེས་བྱ་མེད་ན་སྟེ་ཕྱི་རོལ་བདག་མེད་པར་མཐོང་ན་དེའི་རིགས་པས་ཤེས་པ་བཀག་པ་སྟེ་དེའི་བདག་མེད་པ་ཡང་བདེ་བླག་ཏུ་གྲུབ་པའི་ཕྱིར་ཏུ་ཤེས་བྱ་ཕྱི་རོལ་མེད་པར་བསྟན་ནས། དེའི་འོག་ཏུ་ཤེས་པ་བདེན་གྲུབ་བསལ་བ་ན་བདེ་བླག་ཏུ་རྙེད་ཅེས་སངས་རྒྱས་རྣམས་ཀྱིས་གསུངས་པའིེ་ཕྱིར།

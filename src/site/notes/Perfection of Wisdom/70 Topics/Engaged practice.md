@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/engaged-practice/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/engaged-practice/","dg-note-properties":{}}
 ---
 
 ཐེག་པ་ཆེན་པོའི་རྒྱུ་འབྲས་ཀྱི་ཆོས་ཅི་རིགས་པ་སྦྱོར་བ་བརྩོན་འགྲུས་གཙོ་བོར་གྱུར་པའི་སྒོ་ནས་ཉམས་སུ་ལེན་པའི་སེམས་དཔའི་རྣལ་འབྱོར་དེ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/faithful-abider-in-stream-enterer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/faithful-abider-in-stream-enterer/","dg-note-properties":{}}
 ---
 
 རྒྱུན་ཞུགས་འབྲས་གནས་གང་ཞིག །རྒྱུན་ཞུགས་ཞུགས་པ་དད་པའི་རྗེས་འབྲང་གི་རྟོགས་པ་སྔོན་དུ་སོང་བ། རྒྱུན་ཞུགས་འབྲས་གནས་དད་མོས་པའི་མཚན་ཉིད། 

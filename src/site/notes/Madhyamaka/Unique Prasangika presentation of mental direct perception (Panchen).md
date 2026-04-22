@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/unique-prasangika-presentation-of-mental-direct-perception-panchen/"}
+{"dg-publish":true,"permalink":"/madhyamaka/unique-prasangika-presentation-of-mental-direct-perception-panchen/","dg-note-properties":{}}
 ---
 
 This way of positing mental direct perception is different from the Pramana system because in the continua of ordinary beings: ཡིད་ཀྱི་མངོན་སུམ་གྱི་འཇོག་ཚུལ་ཚད་མ་པ་དང་མི་འདྲ་སྟེ།

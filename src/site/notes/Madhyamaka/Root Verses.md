@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/root-verses/"}
+{"dg-publish":true,"permalink":"/madhyamaka/root-verses/","dg-note-properties":{}}
 ---
 
 །ཉན་ཐོས་སངས་རྒྱས་འབྲིང་རྣམས་ཐུབ་དབང་སྐྱེས། །སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་ལས་འཁྲུངས་ཤིང་། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-death-migration-and-birth/"}
+{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-death-migration-and-birth/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་དེ་ནི་ཆོས་ཅན། མཐའ་ཡས་པའི་སེམས་ཅན་འཆི་འཕོ་བ་དང་སྐྱེ་བ་མཁྱེན་པའི་སྟོབས་སུ་འདོད་དེ། 

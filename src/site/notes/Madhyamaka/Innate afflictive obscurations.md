@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/innate-afflictive-obscurations/"}
+{"dg-publish":true,"permalink":"/madhyamaka/innate-afflictive-obscurations/","dg-note-properties":{}}
 ---
 
 རང་རྒྱུད་ཐོག་མ་མེད་པའི་བག་ཆགས་ཀྱི་དབང་གིས་བྱུང་བའི་ཉོན་མོངས་པ་མཚུངས་ལྡན་དང་བཅས་པའམ། དེས་སྐྱེད་པའི་ས་བོན་གང་རུང་གིས་བསྡུས་པ།

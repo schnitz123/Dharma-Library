@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-stream-enterer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-stream-enterer/","dg-note-properties":{}}
 ---
 
 ཞུགས་པ་བཞིའི་ནང་ཚན་གང་ཞིག མཐོང་སྤང་ཀུན་སྦྱོར་གསུམ་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ཐོབ་པའི་ཕྱིར་དུ་

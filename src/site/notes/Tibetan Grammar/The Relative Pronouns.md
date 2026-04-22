@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-relative-pronouns/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-relative-pronouns/","dg-note-properties":{}}
 ---
 
 The Thirty singles out the གང་སྒྲ། in this category, but later grammar texts also include: ཅི་སྒྲ། ཇི་སྒྲ། སུ་སྒྲ།

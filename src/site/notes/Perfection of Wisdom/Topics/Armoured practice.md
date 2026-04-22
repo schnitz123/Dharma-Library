@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/armoured-practice/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/armoured-practice/","dg-note-properties":{}}
 ---
 
 སྦྱིན་སོགས་ཕར་ཕྱིན་རེ་རེའི་ནང་དུ་ཕར་ཕྱིན་དྲུག་དྲུག་ཚང་བར་བསྡུས་ནས་ཉམས་སུ་ལེན་པར་འདོད་པའི་བསམ་པའི་བྱ་བ་རྒྱ་ཆེན་པོས་ཟིན་པའི་

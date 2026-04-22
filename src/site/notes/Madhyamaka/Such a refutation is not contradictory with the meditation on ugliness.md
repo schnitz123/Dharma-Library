@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/such-a-refutation-is-not-contradictory-with-the-meditation-on-ugliness/"}
+{"dg-publish":true,"permalink":"/madhyamaka/such-a-refutation-is-not-contradictory-with-the-meditation-on-ugliness/","dg-note-properties":{}}
 ---
 
 ཁོ་ན་རེ། ཕྱི་དོན་མེད་པར་ཤེས་པ་རང་བཞིན་གྱིས་གྲུབ་པ་མེད་ན། 

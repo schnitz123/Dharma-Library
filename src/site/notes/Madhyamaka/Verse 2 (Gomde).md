@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/verse-2-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/verse-2-gomde/","dg-note-properties":{}}
 ---
 
 །གང་ཕྱིར་བརྩེ་ཉིད་རྒྱལ་བའི་ལོ་ཐོག་ཕུན་ཚོགས་འདིའི། །ས་བོན་དང་ནི་སྤེལ་ལ་ཆུར་འདྲ་ཡུན་རིང་དུ། 

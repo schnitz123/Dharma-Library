@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/obscurations-in-hinayana/"}
+{"dg-publish":true,"permalink":"/madhyamaka/obscurations-in-hinayana/","dg-note-properties":{}}
 ---
 
 བྱེ་མདོ་གཉིས་ཀྱི་ལུགས་ལ། སྒྲིབ་པའམ་མི་ཤེས་པ་ལ་གཉིས་ཡོད་དེ།

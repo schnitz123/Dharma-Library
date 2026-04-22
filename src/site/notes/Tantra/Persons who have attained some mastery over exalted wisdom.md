@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/persons-who-have-attained-some-mastery-over-exalted-wisdom/"}
+{"dg-publish":true,"permalink":"/tantra/persons-who-have-attained-some-mastery-over-exalted-wisdom/","dg-note-properties":{}}
 ---
 
 རགས་པར་མ་ཟད་སྐྱེ་མཆེད་ཀྱི་ལྷ་ཕྲ་བ་རྣམས་ཀྱང་ཡན་ལག་ཉིང་ལག་ཐམས་ཅད་དུས་གཅིག་ཏུ་གསལ་ཞིང་བརྟན་པར་འཆར་ཐུབ་པ་ནས་

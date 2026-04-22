@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-mental-continuum-of-sentient-beings-is-individual-panchen/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-mental-continuum-of-sentient-beings-is-individual-panchen/","dg-note-properties":{}}
 ---
 
 མདོ་ལས། སེམས་ཅན་རྣམས་རྣམ་པར་ཤེས་པ'ི་རྒྱུད་རེ་རེ་བའོ།

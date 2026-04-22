@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/realisation-of-the-two-selflessnesses/"}
+{"dg-publish":true,"permalink":"/madhyamaka/realisation-of-the-two-selflessnesses/","dg-note-properties":{}}
 ---
 
 གང་ཟག་གི་བདག་མེད་དང་ཆོས་ཀྱི་བདག་མེད་ལ་རྟོགས་དཀའ་སླའི་ཁྱད་པར་ཡོད་དེ། 

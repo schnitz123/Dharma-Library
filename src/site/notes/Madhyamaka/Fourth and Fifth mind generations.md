@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/fourth-and-fifth-mind-generations/"}
+{"dg-publish":true,"permalink":"/madhyamaka/fourth-and-fifth-mind-generations/","dg-note-properties":{}}
 ---
 
 །ཡོན་ཏན་མ་ལུས་བརྩོན་འགྲུས་རྗེས་འགྲོ་ཞིང་། །བསོད་ནམས་བློ་གྲོས་ཚོགས་ནི་གཉིས་ཀྱི་རྒྱུ། 

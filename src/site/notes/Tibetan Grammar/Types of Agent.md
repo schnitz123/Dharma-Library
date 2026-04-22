@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/types-of-agent/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/types-of-agent/","dg-note-properties":{}}
 ---
 
 When Agent (བྱེད་པ།) is divided, there are two:

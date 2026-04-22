@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-the-exhaustion-of-all-contamination/"}
+{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-the-exhaustion-of-all-contamination/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་དེ་ནི་ཆོས་ཅན། མཐའ་ཡས་པའི་ཟག་པ་ཟད་པའི་མཁྱེན་པའི་སྟོབས་སུ་འདོད་དེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/manifest-knowledge-obscurations/"}
+{"dg-publish":true,"permalink":"/madhyamaka/manifest-knowledge-obscurations/","dg-note-properties":{}}
 ---
 
 བདེན་འཛིན་མ་ལུས་པར་སྤངས་པའི་འཕགས་པ་སློབ་པའི་རྒྱུད་ལ་འབྱུང་བའི་སྒྲིབ་པའི་རིགས་སུ་གནས་པ་གང་ཞིག 

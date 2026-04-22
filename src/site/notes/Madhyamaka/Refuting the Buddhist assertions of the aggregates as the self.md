@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-buddhist-assertions-of-the-aggregates-as-the-self/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-buddhist-assertions-of-the-aggregates-as-the-self/","dg-note-properties":{}}
 ---
 
 རང་སྡེ་མང་བཀུར་བ་དག་ན་རེ། ཕུང་པོ་ཁོ་ན་བདག་ཏུ་ལྟ་བ་སྟེ། འཇིག་པའི་འཇིག་ལྟའི་དམིགས་ཡུལ་བདག་ཡིན་ཏེ། 

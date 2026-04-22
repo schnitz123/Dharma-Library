@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/inferential-valid-cognition/"}
+{"dg-publish":true,"permalink":"/madhyamaka/inferential-valid-cognition/","dg-note-properties":{}}
 ---
 
 རང་གི་རྟེན་རྟགས་ཡང་དག་ལ་བརྟེན་ནས་དངོས་སུ་སྐྱེས་ཤིང་། རང་ལ་ལྐོག་ཏུ་གྱུར་པའི་གཞལ་བྱ་ལ་མི་སླུ་བའི་རིག་པ། རྗེས་དཔག་གི་མཚན་ཉིད།

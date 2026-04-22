@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/interpretative-and-definitive-meaning-wrt-the-alaya-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/interpretative-and-definitive-meaning-wrt-the-alaya-tendarwa/","dg-note-properties":{}}
 ---
 
 ལས་འབྲས་ཀྱི་རྟེན་དུ་གྱུར་པའི་ཀུན་གཞི་མེད་པ་དེ་མི་འཐད་པར་ཐལ། དགོངས་འགྲེལ་ལས། ལེན་པའི་རྣམ་པར་ཤེས་པ་ཟབ་ཅིང་ཕྲ། 

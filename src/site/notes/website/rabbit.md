@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/rabbit/"}
+{"dg-publish":true,"permalink":"/website/rabbit/","dg-note-properties":{}}
 ---
 
 

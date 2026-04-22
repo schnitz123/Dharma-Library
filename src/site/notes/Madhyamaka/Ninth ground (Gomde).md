@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/ninth-ground-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/ninth-ground-gomde/","dg-note-properties":{}}
 ---
 
 ས་དགུ་པ་ལ་གནས་པའི་བྱང་སེམས་དེ་ནི་ཆོས་ཅན། སྟོབས་ཀྱི་ཕར་ཕྱིན་ལྟ་ཞིག་མཐའ་དག་ཡོངས་སུ་རྫོགས་པར་དག་པ་ཐོབ་པར་འགྱུར་བ་ཡིན་ཏེ། 

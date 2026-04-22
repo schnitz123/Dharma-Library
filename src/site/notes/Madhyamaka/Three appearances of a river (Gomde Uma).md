@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/three-appearances-of-a-river-gomde-uma/"}
+{"dg-publish":true,"permalink":"/madhyamaka/three-appearances-of-a-river-gomde-uma/","dg-note-properties":{}}
 ---
 
 འོ་ན། ཆུ་ཀླུང་རྣག་ཁྲག་ཏུ་སྣང་བའི་ཡི་དྭགས་ཀྱི་མིག་ཤེས་ཚད་མར་འཇོག་ཚུལ་ཇི་ལྟར་ཡིན་ཞེ་ན།

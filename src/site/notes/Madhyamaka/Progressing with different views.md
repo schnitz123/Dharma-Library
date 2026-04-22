@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/progressing-with-different-views/"}
+{"dg-publish":true,"permalink":"/madhyamaka/progressing-with-different-views/","dg-note-properties":{}}
 ---
 
 དེ་ཁོ་ན་ཉིད་ཀྱི་ལྟ་བ་མ་རྙེད་ཀྱང་མངོན་པ་གཉིས་ནས་བཤད་པའི་མི་རྟག་སོགས་བཅུ་དྲུག་ཚད་མས་གཏལ་ལ་འབེབས་པ་དང་། 

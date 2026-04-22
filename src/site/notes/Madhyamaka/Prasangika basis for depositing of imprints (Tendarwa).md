@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/prasangika-basis-for-depositing-of-imprints-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/prasangika-basis-for-depositing-of-imprints-tendarwa/","dg-note-properties":{}}
 ---
 
 ངའོ་སྙམ་པའི་བློ་ལྷན་སྐྱེས་དེས་གང་ལ་དམིགས་པའི་ཕུང་པོ་ལྔ་ལ་བཏགས་པའི་ང་ཙམ་བག་ཆགས་བསྒོ་གཞི་ཡིན་ཏེ། བག་ཆགས་བསྒོ་གཞི་ཡོད་པ་གང་ཞིག 

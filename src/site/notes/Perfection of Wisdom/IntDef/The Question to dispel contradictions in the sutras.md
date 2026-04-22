@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-question-to-dispel-contradictions-in-the-sutras/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-question-to-dispel-contradictions-in-the-sutras/","dg-note-properties":{}}
 ---
 
 བྱང་ཆུབ་སེམས་དཔའ་དོན་དམ་ཡང་དག་འཕགས་ཀྱིས་མདོ་སྡེ་ལ་འགལ་སྤོང་གི་དྲི་བ་ཞུས་པའི་ཚུལ་ཡོད་དེ། 

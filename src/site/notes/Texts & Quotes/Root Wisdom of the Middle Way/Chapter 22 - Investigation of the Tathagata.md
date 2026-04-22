@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-22-investigation-of-the-tathagata/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-22-investigation-of-the-tathagata/","dg-note-properties":{}}
 ---
 
 ཕུང་མིན་ཕུང་པོ་ལས་གཞན་མིན། །དེ་ལ་ཕུང་མེད་དེ་དེར་མེད། །དེ་བཞིན་གཤེགས་པ་ཕུང་ལྡན་མིན། །དེ་བཞིན་གཤེགས་པ་གང་ཞིག་ཡིན། །

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/in-dependence-on-what-path-they-are-attained/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/in-dependence-on-what-path-they-are-attained/","dg-note-properties":{}}
 ---
 
 གཉིས་པ་ནི་རྒྱུན་ཞུགས་དང་། འབྲས་བུ་ཐོད་རྒལ་པའི་ཕྱིར་འོང་དང་། འབྲས་བུ་ཐོད་རྒལ་བའི་ཕྱིར་མི་འོང་གི་འབྲས་བུ་གསུམ་མཐོང་ལམ་ཁོ་ན་ལ་བརྟེན་ནས་ཐོབ་སྟེ། དེ་ཉན་ཐོས་ཀྱི་ལམ་རྗེས་བཟོད་ཁོ་ན་ལ་བརྟེན་ནས་ཐོབ་པའི་ཕྱིར།

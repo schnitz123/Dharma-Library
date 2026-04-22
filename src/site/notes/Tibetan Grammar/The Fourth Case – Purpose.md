@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-fourth-case-purpose/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-fourth-case-purpose/","dg-note-properties":{}}
 ---
 
 དགོས་པ་དང་། བྱ་བ་གཉིས་སོ་སོར་འབྱེད་ཅིང་། བྱ་བ་དེས་བྱ་ཡུལ་ཉིད་དམ། བྱ་ཡུལ་དང་འབྲེལ་བའི་ལས་གང་གི་ཆེད་དུ་ཕན་གནོད་བྱེད་པ་ཉེ་བར་སྟོན་པའི་རྐྱེན།

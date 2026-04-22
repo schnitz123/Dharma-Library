@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/passages-indicating-the-cittamatra-system-are-of-interpretative-meaning/"}
+{"dg-publish":true,"permalink":"/madhyamaka/passages-indicating-the-cittamatra-system-are-of-interpretative-meaning/","dg-note-properties":{}}
 ---
 
 སྐབས་འདིར་དྲང་དོན་དུ་འགྲེལ་དགོས་པའི་མདོ་བཞི་ཡོད་དེ།

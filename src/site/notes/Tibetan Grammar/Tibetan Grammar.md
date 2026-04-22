@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/tibetan-grammar/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/tibetan-grammar/","dg-note-properties":{}}
 ---
 
 Terms / phrases / syllables (མིང་ཚིག་ཡི་གེ་གསུམ།) - see: [[Preliminaries/Lorig/Expressive sound\|Expressive sound]]

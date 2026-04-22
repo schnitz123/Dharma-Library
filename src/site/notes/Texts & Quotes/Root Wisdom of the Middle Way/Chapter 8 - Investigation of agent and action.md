@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-8-investigation-of-agent-and-action/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-8-investigation-of-agent-and-action/","dg-note-properties":{}}
 ---
 
 བྱེད་པོ་ཡིན་པར་གྱུར་པ་དེ། །ལས་སུ་གྱུར་པ་མི་བྱེད་དོ། །བྱེད་པོ་མ་ཡིན་གྱུར་པ་ཡང༌། །ལས་སུ་མ་གྱུར་མི་བྱེད་དོ། །

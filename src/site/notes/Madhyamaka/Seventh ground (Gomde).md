@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/seventh-ground-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/seventh-ground-gomde/","dg-note-properties":{}}
 ---
 
 ས་བདུན་པ་རིང་དུ་སོང་བ་འདིར་གནས་པའི་བྱང་སེམས་འདི་ནི་ཆོས་ཅན། ཤེས་རབ་ཁྱད་པར་ཅན་དང་ལྡན་པ་ཡིན་ཏེ། 

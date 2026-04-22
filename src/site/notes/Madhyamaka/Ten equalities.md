@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/ten-equalities/"}
+{"dg-publish":true,"permalink":"/madhyamaka/ten-equalities/","dg-note-properties":{}}
 ---
 
 Brief indication:
@@ -82,4 +82,4 @@ Although the thesis of non-production from the four extremes is explicitly prese
 2. Since this treatise mainly settles the equality of all compounded phenomena being without inherent production (from among the ten equalities), there is a purpose in stating that the thesis of non-inherent-production is presented.
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Madhyamaka#^d08963\|Madhyamaka]]

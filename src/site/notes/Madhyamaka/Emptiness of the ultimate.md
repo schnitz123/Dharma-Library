@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-ultimate/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-ultimate/","dg-note-properties":{}}
 ---
 
 མྱ་ངན་ལས་འདས་པའི་ཆོས་སྐུ་དེ་ཆོས་ཅན། དོན་དམ་པ་ཡིན་ཏེ། ཐོབ་པར་བྱ་བའི་དགོས་པ་མཆོག་ཏུ་གྱུར་པའི་གྲོལ་བ་ཡིན་པའི་ཕྱིར། 

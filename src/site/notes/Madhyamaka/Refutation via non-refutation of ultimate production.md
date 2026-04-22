@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-via-non-refutation-of-ultimate-production/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-via-non-refutation-of-ultimate-production/","dg-note-properties":{}}
 ---
 
 ཁོ་ན་རེ། ཐ་སྙད་དུ་གཞན་སྐྱེ་ཡོད་དེ། དེ་མེད་ན་ཀུན་བྱང་མེད་པར་འགྱུར་པའི་སྐྱོན་ཡོད་པའི་ཕྱིར་ཞེ་ན། 

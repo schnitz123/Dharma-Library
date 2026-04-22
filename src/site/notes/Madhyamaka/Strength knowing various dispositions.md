@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-various-dispositions/"}
+{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-various-dispositions/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་དེ་ནི་ཆོས་ཅན། མོས་པ་སྣ་ཚོགས་མཁྱེན་པའི་སྟོབས་ཞེས་བྱ་བ་ཡིན་ཏེ། 

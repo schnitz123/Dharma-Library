@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-thirty/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-thirty/","dg-note-properties":{}}
 ---
 
 ༄༅། །ལུང་སྟོན་པ་རྩ་བ་སུམ་ཅུ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།

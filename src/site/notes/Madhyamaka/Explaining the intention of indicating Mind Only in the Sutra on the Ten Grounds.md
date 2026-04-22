@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/explaining-the-intention-of-indicating-mind-only-in-the-sutra-on-the-ten-grounds/"}
+{"dg-publish":true,"permalink":"/madhyamaka/explaining-the-intention-of-indicating-mind-only-in-the-sutra-on-the-ten-grounds/","dg-note-properties":{}}
 ---
 
 ཙམ་གྱི་སྒྲས་ཕྱི་རོལ་མི་འགོག་པ་ས་བཅུ་པའི་ལུང་གིས་བསྒྲུབ་པ།

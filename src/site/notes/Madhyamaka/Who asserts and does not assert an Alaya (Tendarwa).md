@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/who-asserts-and-does-not-assert-an-alaya-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/who-asserts-and-does-not-assert-an-alaya-tendarwa/","dg-note-properties":{}}
 ---
 
 དེའི་རྗེས་སུ་འབྲང་བའི་གང་ཟག་ལ་ཡང་དེ་ཡོད་པར་འདོད་མི་འདོད་གཉིས་ཡོད་དེ། 

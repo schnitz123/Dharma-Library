@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/related-as-same-nature/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/related-as-same-nature/","dg-note-properties":{}}
 ---
 
  ཁྱོད་ཆོས་དེ་དང་བདག་ཉིད་གཅིག་པའི་སྒོ་ནས་ཐ་དད། ཆོས་དེ་མེད་ན་ཁྱོད་མེད་དགོས་པའི་ཆོས་དེ། ཆོས་དེ་དང་བདག་གཅིག་འབྲེལ་གྱི་མཚན་ཉིད།

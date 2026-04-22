@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/non-returners-not-completely-transformed-in-the-desire-realm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/non-returners-not-completely-transformed-in-the-desire-realm/","dg-note-properties":{}}
 ---
 
 མཐོང་ལམ་ཐོབ་པའི་ཚེ་དེ་ལ་ཕྱིར་མི་འོང་དུ་གྱུར་པའི་ཕྱིར་མི་འོང་། འདོད་པར་ཚེ་ཡོངས་སུ་མ་གྱུར་པའི་ཕྱིར་མི་འོང་གི་མཚན་ཉིད།

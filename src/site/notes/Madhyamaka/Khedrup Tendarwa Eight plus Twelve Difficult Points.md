@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/khedrup-tendarwa-eight-plus-twelve-difficult-points/"}
+{"dg-publish":true,"permalink":"/madhyamaka/khedrup-tendarwa-eight-plus-twelve-difficult-points/","dg-note-properties":{}}
 ---
 
 **There are eight root assertions (on the basis of non-inherent establishment):** 

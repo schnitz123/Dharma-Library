@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/entity-characteristics/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/entity-characteristics/","dg-note-properties":{}}
 ---
 
 ཉོན་མོངས་རྟགས་སོགས་ཀྱིས་དབེན་པའི་སེམས་དཔའི་རྣལ་འབྱོར་བཅུ་དྲུག་ཆོས་ཅན། ཁྱོད་ལ་མཚན་ཉིད་ཀྱི་སྒྲས་སྟོན་པའི་རྒྱུ་མཚན་ཡོད་དེ། 

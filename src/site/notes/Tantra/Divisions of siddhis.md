@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/divisions-of-siddhis/"}
+{"dg-publish":true,"permalink":"/tantra/divisions-of-siddhis/","dg-note-properties":{}}
 ---
 
 དངོས་གྲུབ་ལ་རབ་འབྲིང་ཐ་གསུམ་ཡོད།

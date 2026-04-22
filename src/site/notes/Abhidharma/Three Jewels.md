@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/three-jewels/"}
+{"dg-publish":true,"permalink":"/abhidharma/three-jewels/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་སུ་བྱེད་པའི་བྱེད་ཆོས་སུ་གྱུར་པའི་གཟུགས་སྐུའི་རྒྱུད་ཀྱི་ཟད་པ་དང་མི་སྐྱེ་བའི་ཡེ་ཤེས་སངས་རྒྱས་དཀོན་མཆོག་ཡིན་གྱི།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/substantial-and-imputed-existents/"}
+{"dg-publish":true,"permalink":"/madhyamaka/substantial-and-imputed-existents/","dg-note-properties":{}}
 ---
 
 རང་ཉིད་ངོས་གཟུང་བ་ལ་ཆོས་གཞན་ངོས་གཟུང་བ་ལ་ལྟོས་མི་དགོས་པ། རྫས་ཡོད་ཀྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/hearers-and-solitary-realisers-realise-emptiness-of-inherent-existence/"}
+{"dg-publish":true,"permalink":"/madhyamaka/hearers-and-solitary-realisers-realise-emptiness-of-inherent-existence/","dg-note-properties":{}}
 ---
 
 **First reasoning:** རིགས་པ་དང་པོ།

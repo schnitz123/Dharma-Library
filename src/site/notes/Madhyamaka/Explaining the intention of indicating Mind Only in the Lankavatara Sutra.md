@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/explaining-the-intention-of-indicating-mind-only-in-the-lankavatara-sutra/"}
+{"dg-publish":true,"permalink":"/madhyamaka/explaining-the-intention-of-indicating-mind-only-in-the-lankavatara-sutra/","dg-note-properties":{}}
 ---
 
 ལང་གཤེགས་ལས། ཕྱི་རོལ་སྣང་པ་ཡོད་མིན་ཏེ། །སེམས་ནི་སྣ་ཚོགས་རྣམས་སུ་སྣང་། །ལུས་དང་ལོངས་སྤྱོད་གནས་འདྲ་བ། །སེམས་ཙམ་དུ་ནི་ངས་བཤད་དོ། 

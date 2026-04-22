@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/mental-direct-perception/"}
+{"dg-publish":true,"permalink":"/madhyamaka/mental-direct-perception/","dg-note-properties":{}}
 ---
 
 མངོན་སུམ་གྱི་ཚད་མ་གང་ཞིག རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་ཡིད་དབང་ལས་དངོས་སུ་སྐྱེས་ཤིང་རང་གི་འཛིན་སྟངས་ཀྱི་ཡུལ་དུ་གྱུར་པའི་

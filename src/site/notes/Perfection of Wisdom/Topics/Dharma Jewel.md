@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/dharma-jewel/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/dharma-jewel/","dg-note-properties":{}}
 ---
 
 བསམ་དུ་མེད་པ་ལ་སོགས་པའི་ཡོན་ཏན་བརྒྱད་པོ་གང་རུང་དང་ལྡན་པའི་འཕགས་རྒྱུད་ཀྱི་རྣམ་བྱང་བདེན་པ། ཡང་ན།

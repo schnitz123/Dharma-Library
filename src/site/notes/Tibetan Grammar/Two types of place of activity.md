@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/two-types-of-place-of-activity/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/two-types-of-place-of-activity/","dg-note-properties":{}}
 ---
 
 

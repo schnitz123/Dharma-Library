@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-example-of-perceiving-falling-hairs/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-example-of-perceiving-falling-hairs/","dg-note-properties":{}}
 ---
 
 སེམས་ཅམ་པ་ན་རེ། ཕྱི་དོན་མེད་ཀྱང་ཕྱི་རོལ་དོན་སྣང་གི་ཤེས་པ་རང་བཞིན་གྱིས་ཡོད་དེ། 

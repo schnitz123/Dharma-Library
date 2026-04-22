@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/translations/70-topics/"}
+{"dg-publish":true,"permalink":"/website/translations/70-topics/","dg-note-properties":{}}
 ---
 
 <img src="/pdf/70topics_icon.png" class="gyurme-pic">Jetsunpa's Seventy Topics - version 1.0 uploaded 07/03/25

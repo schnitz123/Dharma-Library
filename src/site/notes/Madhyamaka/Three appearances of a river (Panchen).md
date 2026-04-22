@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/three-appearances-of-a-river-panchen/"}
+{"dg-publish":true,"permalink":"/madhyamaka/three-appearances-of-a-river-panchen/","dg-note-properties":{}}
 ---
 
 མི་སྡུག་པ་སྒོམ་པའི་ཏིང་ངེ་འཛིན་ལ་ས་གཞི་ཀེང་རུས་ཀྱི་གང་བར་སྣང་བ་ཆོས་ཀྱི་སྐྱེ་མཆེད་པའི་གཟུགས་དང༌། 

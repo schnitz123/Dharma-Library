@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/thirty-seven-practices-of-bodhisattvas/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/thirty-seven-practices-of-bodhisattvas/","dg-note-properties":{}}
 ---
 
 ༄༅། །ན་མོ་གུ་རུ་ལོ་ཀེ་ཤྭ་ར་ཡ། །   

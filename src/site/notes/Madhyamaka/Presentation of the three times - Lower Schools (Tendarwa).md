@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-three-times-lower-schools-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-three-times-lower-schools-tendarwa/","dg-note-properties":{}}
 ---
 
 བྱེ་བྲག་ཏུ་སྨྲ་བ་རྣམས་མྱུ་གུ་ལ་སོགས་པ་རེ་རེ་ཡང་དུས་གསུམ་དུ་འཇོག་པས། མྱུ་གུ་དེ་རང་གི་འདས་མ་འོངས་ཀྱི་དུས་སུ་ཡོད་པར་འདོད་དོ། 

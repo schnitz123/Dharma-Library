@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-the-divine-eye/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-the-divine-eye/","dg-note-properties":{}}
 ---
 
 མངོན་ཤེས་དྲུག་གི་ནང་ཚན་གང་ཞིག རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་ལྷའི་མིག་ལ་བརྟེན་ནས་སྐྱེས་ཤིང་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་གཟུགས་ཕྲ་རགས་མངོན་སུམ་དུ་མཐོང་བ། 

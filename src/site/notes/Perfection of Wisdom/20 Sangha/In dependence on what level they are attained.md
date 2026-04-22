@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/in-dependence-on-what-level-they-are-attained/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/in-dependence-on-what-level-they-are-attained/","dg-note-properties":{}}
 ---
 
 འབྲས་བུ་དང་པོ་གཉིས་བསམ་གཏན་དང་པོའི་ཉེར་བསྡོགས་མི་ལྕོགས་མེད་པ་ལ་བརྟེན་ནས་ཐོབ་སྟེ། རྒྱུན་ཞུགས་ཞུགས་པ་དང་ཕྱིར་འོང་ཞུགས་པ་གང་རུང་ཡིན་ན།བསམ་གཏན་གྱི་དངོས་གཞི་མ་ཐོབ་པས་ཁྱབ་པའི་ཕྱིར།

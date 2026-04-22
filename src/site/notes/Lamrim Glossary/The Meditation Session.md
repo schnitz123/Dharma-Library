@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/the-meditation-session/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/the-meditation-session/","dg-note-properties":{}}
 ---
 
 **The Six Preparatory Practices for the Actual Session:** ཐུན་གྱི་ངོ་བོ་ལ་སྦྱོར་བའི་ཆོས་དྲུག

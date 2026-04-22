@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/verbs/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/verbs/","dg-note-properties":{}}
 ---
 
 དངོས་པོ་གང་ཞིག་ལ་འཕོ་འགྱུར་བྱེད་པ་སྟོན་བྱེད་ཀྱི་སྒྲ། བྱ་ཚིག་གི་མཚན་ཉིད། 

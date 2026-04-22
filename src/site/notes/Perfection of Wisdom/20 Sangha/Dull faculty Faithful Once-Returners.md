@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/dull-faculty-faithful-once-returners/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/dull-faculty-faithful-once-returners/","dg-note-properties":{}}
 ---
 
 ཕྱིར་འོང་གང་ཞིག །རང་གི་ཞུགས་པ་དད་མོས་པ་དང་དད་པའི་རྗེས་འབྲང་གང་རུང་གི་རྟོགས་པ་སྔོན་དུ་སོང་བ། དབང་རྟུལ་དད་མོས་པའི་ཕྱིར་འོང་གི་མཚན་ཉིད།

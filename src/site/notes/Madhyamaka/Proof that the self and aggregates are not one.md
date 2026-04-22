@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/proof-that-the-self-and-aggregates-are-not-one/"}
+{"dg-publish":true,"permalink":"/madhyamaka/proof-that-the-self-and-aggregates-are-not-one/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། བདག་ཕུང་གཉིས་གཅིག་མ་ཡིན་ཏེ། ཡིན་ན་བདག་དང་འཇིག་རྟེན་མཐའ་དང་ལྡན་པ་དང་། 

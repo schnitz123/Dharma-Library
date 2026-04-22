@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-result-of-such-refutation-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-result-of-such-refutation-gomde/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། མཐར་འཛིན་གྱི་རྟོག་པ་རྣམས་ལོག་པར་འགྱུར་བ་གང་ཡིན་པ་དེ་ནི་དབུ་མའི་བསྟན་བཅོས་ལས་བཤད་པའི་དེ་ཁོ་ན་ཉིད་ལ། 

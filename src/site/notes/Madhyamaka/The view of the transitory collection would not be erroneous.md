@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-view-of-the-transitory-collection-would-not-be-erroneous/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-view-of-the-transitory-collection-would-not-be-erroneous/","dg-note-properties":{}}
 ---
 
 བདག་དེར་ལྟ་བའི་འཇིག་ལྟ་ཡང་ཆོས་ཅན། ཁྱོད་ཀྱི་འཛིན་སྟངས་ཕྱིན་ཅི་ལོག་ཏུ་མི་འགྱུར་བར་ཐལ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/sixteen-moments-of-the-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/sixteen-moments-of-the-path-of-seeing/","dg-note-properties":{}}
 ---
 
 ཉན་ཐོས་ཀྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་གང་ཞིག རང་གི་ངོ་སྐལ་གྱི་སྤང་བྱར་གྱུར་པའི་འདོད་པའི་སས་བསྡུས་ཀྱི་སྡུག་བསྔལ་མཐོང་སྤང་གི་

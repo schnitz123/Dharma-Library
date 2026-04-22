@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-all-phenomena/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-all-phenomena/","dg-note-properties":{}}
 ---
 
 The subject:

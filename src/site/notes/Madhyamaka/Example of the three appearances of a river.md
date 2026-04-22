@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/example-of-the-three-appearances-of-a-river/"}
+{"dg-publish":true,"permalink":"/madhyamaka/example-of-the-three-appearances-of-a-river/","dg-note-properties":{}}
 ---
 
 རབ་རིབ་དང་ལྡན་དབང་པོ་ཅན་མཚུངས་ལ། །ཆུ་འབབ་གླུང་ལ་ཡི་དྭགས་རྣག་བློ་ཡང༌། །  

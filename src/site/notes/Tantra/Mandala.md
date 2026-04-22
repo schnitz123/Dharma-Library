@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/mandala/"}
+{"dg-publish":true,"permalink":"/tantra/mandala/","dg-note-properties":{}}
 ---
 
 Action: coloured sand, painted cloth, special: concentration

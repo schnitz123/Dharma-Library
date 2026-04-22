@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/shantideva-h-sol-realise-selflessness-of-phenomena/"}
+{"dg-publish":true,"permalink":"/madhyamaka/shantideva-h-sol-realise-selflessness-of-phenomena/","dg-note-properties":{}}
 ---
 
 ཁོ་ན་རེ། འཁོར་བ་ལས་གྲོལ་བ་ཐོབ་པ་ལ་ཆོས་ཐམས་ཅད་རང་བཞིན་གྱི་གྲུབ་པས་སྟོང་པའི་སྟོང་ཉིད་སྒོམ་མི་དགོས་པར་ཐལ། 

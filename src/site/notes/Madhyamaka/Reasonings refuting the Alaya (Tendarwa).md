@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/reasonings-refuting-the-alaya-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/reasonings-refuting-the-alaya-tendarwa/","dg-note-properties":{}}
 ---
 
 དེ་ལྟ་བུའི་ཀུན་གཞི་མེད་པར་ཐལ། དེ་ཡོད་ན་དགེ་མི་དགེའི་ལས་ཀྱི་བག་ཆགས་བསྒོ་གཞི་ཡིན་དགོས་པ་ལས། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-the-paths-proceeding-to-all-existence-and-peace/"}
+{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-the-paths-proceeding-to-all-existence-and-peace/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་དེ་ནི་ཆོས་ཅན། མཐའ་ཡས་པ་སྟེ་ཐམས་ཅད་དུ་འགྲོ་བའི་ལམ་མཁྱེན་པའི་སྟོབས་སུ་འདོད་དེ།

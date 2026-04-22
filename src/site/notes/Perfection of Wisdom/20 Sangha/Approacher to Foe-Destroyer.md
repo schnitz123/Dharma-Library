@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-foe-destroyer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/approacher-to-foe-destroyer/","dg-note-properties":{}}
 ---
 
 ཞུགས་པ་བཞིའི་ནང་ཚན་གང་ཞིག གོང་མའི་ཆ་མཐུན་ལྔ་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ཐོབ་ཕྱིར་དུ་བརྩོན་བཞིན་པའི་སྦྱོར་བ་རྒྱུན་ཆགས་ལ་གནས་པ། དགྲ་བཅོམ་ཞུགས་པའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-non-observed/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-non-observed/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། དུས་གསུམ་པོ་དེ་ལ་མ་དམིགས་པ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། 

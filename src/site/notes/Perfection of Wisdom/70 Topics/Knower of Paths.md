@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-paths/","dg-note-properties":{}}
 ---
 
 རང་རྒྱུད་ལྡན་གྱི་གང་ཟག་གི་རྒྱུད་ཀྱི་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་ཐེག་ཆེན་འཕགས་པའི་མངོན་རྟོགས་དེ། ལམ་ཤེས་ཀྱི་མཚན་ཉིད། 

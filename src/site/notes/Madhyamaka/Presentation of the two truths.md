@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-two-truths/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-two-truths/","dg-note-properties":{}}
 ---
 
 མཐར་ཐུག་དཔྱོད་པའི་རིགས་ཤེས་ཀྱི་རྙེད་དོན་གང་ཞིག མཐར་ཐུག་དཔྱོད་པའི་རིགས་ཤེས་དེ་ཁྱོད་ལ་མཐར་ཐུག་དཔྱོད་པའི་རིགས་ཤེས་སུ་སོང་བ།

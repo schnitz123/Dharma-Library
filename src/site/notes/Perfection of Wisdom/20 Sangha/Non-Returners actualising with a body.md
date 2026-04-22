@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/non-returners-actualising-with-a-body/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/non-returners-actualising-with-a-body/","dg-note-properties":{}}
 ---
 
 རྣམ་པར་ཐར་པ་བརྒྱད་ཐོབ་ལ་མ་ཉམས་པའི་ཕྱིར་མི་འོང་དེ། ཕྱིར་མི་འོང་ལུས་མངོན་བྱེད་ཀྱི་མཚན་ཉིད་ཡིན།

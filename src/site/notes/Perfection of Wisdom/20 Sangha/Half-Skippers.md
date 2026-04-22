@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/half-skippers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/half-skippers/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་གོང་འཕོ་འོག་མིན་མཐར་ཐུག་འགྲོ་གང་ཞིག །ཚངས་རིས་དང་གནས་གཙང་དང་པོ་གསུམ་གང་རུང་གཅིག་དང་། 

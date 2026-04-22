@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/measure-of-the-object-of-negation-prasangika/"}
+{"dg-publish":true,"permalink":"/madhyamaka/measure-of-the-object-of-negation-prasangika/","dg-note-properties":{}}
 ---
 
 ཆོས་ཐམས་ཅད་ཐག་ཁྲ་ལ་སྦྲུལ་དུ་བརྟགས་པ་ལྟར་རྟོག་པའི་དབང་གིས་བཞག་པར་གསུངས་པ་དེས་དེ་ལས་བཟློག་སྟེ་འཛིན་པའི་བདེན་འཛིན་ཤེས་པར་འགྱུར་བས།

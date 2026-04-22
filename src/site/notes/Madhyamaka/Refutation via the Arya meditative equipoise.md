@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-via-the-arya-meditative-equipoise/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-via-the-arya-meditative-equipoise/","dg-note-properties":{}}
 ---
 
 དབུ་མ་པ་ཁ་ཅིག དོན་དམ་པར་གཞན་སྐྱེ་འགོག་པ་རིགས་མོད། གཞན་ལས་སྐྱེ་བ་འཇིག་རྟེན་ལས་ཀྱང་མེད། 

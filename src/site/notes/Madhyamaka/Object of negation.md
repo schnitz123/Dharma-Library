@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/object-of-negation/"}
+{"dg-publish":true,"permalink":"/madhyamaka/object-of-negation/","dg-note-properties":{}}
 ---
 
 Two types:
@@ -37,4 +37,4 @@ Similarly, the word indicating the lack of true existence, i.e. "empty", like th
 [[Madhyamaka/Measure of the object of negation (Prasangika)\|Measure of the object of negation (Prasangika)]]
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Madhyamaka#^d08963\|Madhyamaka]]

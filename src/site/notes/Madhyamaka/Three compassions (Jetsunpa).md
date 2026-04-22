@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/three-compassions-jetsunpa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/three-compassions-jetsunpa/","dg-note-properties":{}}
 ---
 
 སྙིང་རྗེ་གང་ཞིག སེམས་ཅན་མི་རྟག་པར་རྟོགས་པའི་ཤེས་རབ་དང་། 

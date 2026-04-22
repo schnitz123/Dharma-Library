@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/three-compassions-in-gyaltsab-je-s-pramana/"}
+{"dg-publish":true,"permalink":"/madhyamaka/three-compassions-in-gyaltsab-je-s-pramana/","dg-note-properties":{}}
 ---
 
 Love and compassion, and so forth, are of three types: བྱམས་པ་དང་སྙིང་རྗེ་སོགས་ནི་རྣམ་པ་གསུམ་སྟེ།

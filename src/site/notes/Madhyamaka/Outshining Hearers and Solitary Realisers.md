@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/outshining-hearers-and-solitary-realisers/"}
+{"dg-publish":true,"permalink":"/madhyamaka/outshining-hearers-and-solitary-realisers/","dg-note-properties":{}}
 ---
 
 ས་དྲུག་པ་མན་ཆད་དུ་ཉུན་རང་དགྲ་བཅོམ་བློའི་སྟོབས་ཀྱིས་ཟིལ་གྱིས་གནོན་མི་ནུས་ཞིང་། ས་བདུན་པ་ནས་ནུས་པའི་དོན་ཡོད་དེ། 

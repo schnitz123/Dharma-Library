@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/third-mind-generation/"}
+{"dg-publish":true,"permalink":"/madhyamaka/third-mind-generation/","dg-note-properties":{}}
 ---
 
 །ཤེས་བྱའི་བུད་ཤིང་མ་ལུས་སྲེག་པའི་མེ། །འོད་འབྱུང་ཕྱིར་ན་ས་ནི་གསུམ་པ་འདི། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/immediately-preceding-condition/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/immediately-preceding-condition/","dg-note-properties":{}}
 ---
 
 སྔོན་འཛིན་མངོན་སུམ་མྱོང་བ་གསལ་རིག་ཙམ་ཏུ་གཙོ་བོར་དངོས་སུ་སྐྱེད་བྱེད་ཀྱི་རིག་པ། སྔོན་འཛིན་མངོན་སུམ་གྱི་དེ་མ་ཐག་རྐྱེན་གྱི་མཚན་ཉིད།

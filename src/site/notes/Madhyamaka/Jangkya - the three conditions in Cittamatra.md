@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/jangkya-the-three-conditions-in-cittamatra/"}
+{"dg-publish":true,"permalink":"/madhyamaka/jangkya-the-three-conditions-in-cittamatra/","dg-note-properties":{}}
 ---
 
 **Divisions of observed object condition:** དམིགས་རྐྱེན་ལ་དབྱེ་ན།

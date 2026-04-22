@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-difference-between-the-second-fourth-and-seventh-cases/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-difference-between-the-second-fourth-and-seventh-cases/","dg-note-properties":{}}
 ---
 
 One key factor is in the usage of the particles themselves:

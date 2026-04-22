@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-causeless-production-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-causeless-production-gomde/","dg-note-properties":{}}
 ---
 
 རྒྱང་འཕེན་པ་ན་རེ། རྒྱུ་ལས་སྐྱེ་ན་ཇི་སྐད་བཤད་པའི་སྐྱོན་དུ་འགྱུར་ཡང་། ཁོ་བོ་ཅག་ནི་རྒྱུ་མེད་ལས་སྐྱེ་བར་འདོད་པས་སྐྱོན་དེ་དག་མེད་དེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/written-translations/"}
+{"dg-publish":true,"permalink":"/website/written-translations/","dg-note-properties":{}}
 ---
 
 Here you will find my translation projects. All will be licensed under Creative Commons BY-NC-ND 4.0 (which means free distribution so long as it is attributed, not for profit, and no changes are made apart from by the translator).

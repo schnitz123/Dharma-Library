@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/mahayana-partial-concordance-with-liberation-explicitly-indicated-in-this-context/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/mahayana-partial-concordance-with-liberation-explicitly-indicated-in-this-context/","dg-note-properties":{}}
 ---
 
 རྣམ་མཁྱེན་རང་རྒྱུད་ལ་སྒྲུབ་པ་ལ་མཁས་པའི་སེམས་དཔའི་རྒྱུད་ཀྱི་ཆོས་མངོན་རྟོགས་དེ། 

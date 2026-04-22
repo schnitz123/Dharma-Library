@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/gyaltsab-je-s-notes-on-the-eight-difficult-points/"}
+{"dg-publish":true,"permalink":"/madhyamaka/gyaltsab-je-s-notes-on-the-eight-difficult-points/","dg-note-properties":{}}
 ---
 
 སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པའི་རྩ་བ་ཤེས་རབ་ལ། འགྲེལ་པ་གྲགས་ཆེ་བ་བརྒྱད་དུ་ཡོད་ལ་དེའི་ནང་ནས་ཀྱང་དགོངས་པ་ཕྱིན་ཅི་མ་ལོག་པར་འགྲེལ་བ་ནི། སློབ་དཔོན་སངས་རྒྱས་བསྐྱངས་དང༌། སློབ་དཔོན་ཟླ་བ་གྲགས་པ་གཉིས་ཀྱིས་མཛད་པ་འདི་གཉིས་ཡིན་ལ། 

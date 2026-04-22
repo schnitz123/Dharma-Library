@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/how-memory-operates-without-self-knowers/"}
+{"dg-publish":true,"permalink":"/madhyamaka/how-memory-operates-without-self-knowers/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། རང་རིག་མེད་ཀྱང་ང་ཡིས་སྔར་སྔོན་པོ་མཐོང་སྙམ་དུ་དྲན་པ་སྐྱེ་བར་འགྱུར་ཏེ། རྒྱུ་མཚན་གང་གི་ཕྱིར་ན་དབང་ཤེས་གང་གིས་སྔར་ཡུལ་སྔོན་པོ་

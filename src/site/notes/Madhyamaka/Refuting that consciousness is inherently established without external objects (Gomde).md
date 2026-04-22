@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-that-consciousness-is-inherently-established-without-external-objects-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-that-consciousness-is-inherently-established-without-external-objects-gomde/","dg-note-properties":{}}
 ---
 
 སེམས་ཙམ་པ་ན་རེ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/lamrim-glossary/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/lamrim-glossary/","dg-note-properties":{}}
 ---
 
 [[Lamrim Glossary/Preliminaries\|Preliminaries]]

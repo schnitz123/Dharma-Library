@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/vasubandhu-two-types-of-eye-faculty/"}
+{"dg-publish":true,"permalink":"/madhyamaka/vasubandhu-two-types-of-eye-faculty/","dg-note-properties":{}}
 ---
 
 **ABK (Tib Dictionary):**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/three-natures/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/three-natures/","dg-note-properties":{}}
 ---
 
 1. [[Perfection of Wisdom/IntDef/Imputational Nature\|Imputational Nature]] ཀུན་བརྟགས།

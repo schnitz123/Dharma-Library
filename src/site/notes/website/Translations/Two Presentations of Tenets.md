@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/translations/two-presentations-of-tenets/"}
+{"dg-publish":true,"permalink":"/website/translations/two-presentations-of-tenets/","dg-note-properties":{}}
 ---
 
 <img src="/pdf/tenets_icon.png" class="gyurme-pic">Two Presentations of Tenets (Jetsunpa and Kunkhyen Jigme Wangpo) - version 1.0 uploaded 23/04/25

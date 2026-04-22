@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/prior-to-that-previous-lives-would-not-be-remembered/"}
+{"dg-publish":true,"permalink":"/madhyamaka/prior-to-that-previous-lives-would-not-be-remembered/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། ལྷག་མེད་མྱ་ངན་ལས་འདས་པའི་སྔོན་རོལ་དུ་དུས་སྐད་ཅིག་རེ་རེ་དག་ལ་ནི་བདག་ངོ་བོ་ཉིད་ཀྱིས་སྐྱེ་འཇིག་བྱེད་པར་ཐལ། 

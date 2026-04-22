@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-response-eliminating-those-contradictions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-response-eliminating-those-contradictions/","dg-note-properties":{}}
 ---
 
 དོན་དམ་ཡང་དག་འཕགས། ངས་ཆོས་རྣམས་ཀྱི་ངོ་བོ་ཉིད་མེད་པ་ཉིད་རྣམ་པ་གསུམ་པོ་འདི་ལྟ་སྟེ། 

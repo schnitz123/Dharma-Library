@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/surpassing-ethics-on-the-second-ground/"}
+{"dg-publish":true,"permalink":"/madhyamaka/surpassing-ethics-on-the-second-ground/","dg-note-properties":{}}
 ---
 
 བྱང་སེམས་ས་གཉིས་པ་བ་ཆོས་ཅན། རྨི་ལམ་དུ་ཡང་ཚུལ་ཁྲིམས་འཆལ་བའི་དྲི་མ་མཐའ་དག་སྤངས་པ་ཡིན་ཏེ། 

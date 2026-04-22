@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/khedrup-je-s-system-js/"}
+{"dg-publish":true,"permalink":"/madhyamaka/khedrup-je-s-system-js/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག་ན་རེ། མཉམ་བཞག་ཡེ་ཤེས་ཀྱིས་རང་ཉིད་ཡོད་པར་རྟོགས་པར་ཐལ། སྔོན་འཛིན་སོགས་གཉིས་སྣང་ཅན་གྱི་ཤེས་པས་དེ་ལྟར་རྟོགས་པས་ཁྱབ་པའི་ཕྱིར་ན། 

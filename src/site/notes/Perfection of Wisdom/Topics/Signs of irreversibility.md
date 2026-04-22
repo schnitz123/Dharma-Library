@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs-of-irreversibility/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs-of-irreversibility/","dg-note-properties":{}}
 ---
 
 རང་གང་ལ་ལྡན་པའི་གང་ཟག་བླ་མེད་རྫོགས་བྱང་ལས་ཕྱིར་མི་ལྡོག་པར་ཡིད་ཆེས་པར་བྱེད་པའི་སྒྲུབ་བྱེད་རྣམ་དག་དེ། ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་ངོ་བོ་ཡིན།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-production-from-other/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-production-from-other/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་བསྐྱངས་ནི་དངོས་པོ་རྣམས་གཞན་ལས་སྐྱེ་བ་མེད་དེ། ཐམས་ཅད་ལས་ཐམས་ཅད་སྐྱེ་བར་འགྱུར་བའི་ཕྱིར་རོ། །ཞེས་རྣམ་པར་འཆད་དོ།

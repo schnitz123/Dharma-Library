@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/conclusion/"}
+{"dg-publish":true,"permalink":"/madhyamaka/conclusion/","dg-note-properties":{}}
 ---
 
 **Indicating the qualities of the ten grounds** ས་བཅུའི་ཡོན་ཏན་བསྟན་པ།

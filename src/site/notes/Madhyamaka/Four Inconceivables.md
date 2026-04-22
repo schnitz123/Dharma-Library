@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/four-inconceivables/"}
+{"dg-publish":true,"permalink":"/madhyamaka/four-inconceivables/","dg-note-properties":{}}
 ---
 
 (Jamyang Shepa:) བསམ་གྱིས་མི་ཁྱབ་པ་བཞི།

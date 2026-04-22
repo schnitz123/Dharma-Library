@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-the-exhaustion-of-contamination/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-the-exhaustion-of-contamination/","dg-note-properties":{}}
 ---
 
 མངོན་ཤེས་དྲུག་གི་ནང་ཚན་གང་ཞིག ཉོན་སྒྲིབ་ཟད་པར་སྤངས་པ་དེ། ཟག་ཟད་ཀྱི་མངོན་ཤེས་ཀྱི་མཚན་ཉིད།

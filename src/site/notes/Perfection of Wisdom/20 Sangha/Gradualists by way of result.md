@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/gradualists-by-way-of-result/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/gradualists-by-way-of-result/","dg-note-properties":{}}
 ---
 
 སྦྱོར་ལམ་སྟན་གཅིག་པའི་རྟོགས་པ་ཐོབ་པའི་ཉན་ཐོས་གང་ཞིག འབྲས་བུ་བཞི་རིམ་གྱིས་མངོན་དུ་བྱེད་པར་འགྱུར་བ་དང་བྱས་པ་གང་རུང་གི་རིགས་ཅན།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/realisation-dharma-wheel/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/realisation-dharma-wheel/","dg-note-properties":{}}
 ---
 
 ལམ་ཞུགས་ཀྱི་མངོན་པར་རྟོགས་པས་བསྡུས་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན། རྟོགས་པའི་ཆོས་འཁོར་གྱི་མཚན་ཉིད།

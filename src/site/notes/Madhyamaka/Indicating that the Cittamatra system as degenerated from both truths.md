@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-the-cittamatra-system-as-degenerated-from-both-truths/"}
+{"dg-publish":true,"permalink":"/madhyamaka/indicating-that-the-cittamatra-system-as-degenerated-from-both-truths/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། ཀུན་རྫོབ་འཁྲུལ་བའི་རྣམ་རྟོག་གི་རྒྱུའམ་གཞི་རྫས་སུ་གྲུབ་པར་ནི་གཞན་དབང་གི་ཤེས་པ་གང་ཞིག་འགྱུར་ཏེ་མི་འགྱུར་བར་ཐལ། 

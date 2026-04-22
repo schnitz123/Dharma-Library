@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/two-ways-of-explaining-not-existing-ultimately/"}
+{"dg-publish":true,"permalink":"/madhyamaka/two-ways-of-explaining-not-existing-ultimately/","dg-note-properties":{}}
 ---
 
 དོན་དམ་པར་མེད་པའི་ཚུལ་ལ་གཉིས་ཡོད་དེ། དེ་ཁོ་ན་ཉིད་ལ་དཔྱོད་པའི་ཐོས་བསམ་སྒོམ་གསུམ་གྱི་རིགས་ཤེས་ལ་དོན་དམ་དུ་བྱས་ནས་

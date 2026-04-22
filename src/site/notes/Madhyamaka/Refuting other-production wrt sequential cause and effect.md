@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-other-production-wrt-sequential-cause-and-effect/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-other-production-wrt-sequential-cause-and-effect/","dg-note-properties":{}}
 ---
 
 ས་བོན་དེ་མྱུ་གུ་ལས་རང་བཞིན་གྱིས་གཞན་པ་ཉིད་དུ་མེད་དེ། མྱུ་གུ་ས་བོན་དང་ནི་དུས་མཉམ་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར། 

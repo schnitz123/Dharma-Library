@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/indicating-the-response-that-there-is-no-similar-fault-for-us/"}
+{"dg-publish":true,"permalink":"/madhyamaka/indicating-the-response-that-there-is-no-similar-fault-for-us/","dg-note-properties":{}}
 ---
 
 *Objection:* [[Madhyamaka/The objection of similar fault wrt the refutation of cause and effect lacking true establishment\|The objection of similar fault wrt the refutation of cause and effect lacking true establishment]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-valid-cognition/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-valid-cognition/","dg-note-properties":{}}
 ---
 
 མི་སླུ་བའི་རིག་པ། ཚད་མའི་མཚན་ཉིད། 

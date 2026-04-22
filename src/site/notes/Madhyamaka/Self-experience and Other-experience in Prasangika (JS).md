@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/self-experience-and-other-experience-in-prasangika-js/"}
+{"dg-publish":true,"permalink":"/madhyamaka/self-experience-and-other-experience-in-prasangika-js/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག་ན་རེ། རང་མྱོང་ཡོད་པར་ཐལ། རང་གིས་རང་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་པ་ཡོད་པའི་ཕྱིར་ན་མ་ཁྱབ། རྟགས་གྲུབ་སྟེ། རྣམ་མཁྱེན་ཡོད་པའི་ཕྱིར།

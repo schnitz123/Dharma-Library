@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-person-js/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-person-js/","dg-note-properties":{}}
 ---
 
 གདགས་གཞིའི་ཕུང་པོ་ལ་བརྟེན་ནས་ང་དང་ང་ཡི་བ་གང་རུང་གི་ཐ་སྙད་འཇུག་པའི་དོན་དེ། བདག་གི་མཚན་ཉིད། 

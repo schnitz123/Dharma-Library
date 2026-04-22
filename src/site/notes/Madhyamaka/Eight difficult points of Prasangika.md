@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/eight-difficult-points-of-prasangika/"}
+{"dg-publish":true,"permalink":"/madhyamaka/eight-difficult-points-of-prasangika/","dg-note-properties":{}}
 ---
 
 འཕགས་པའི་གཞུང་འགྲེལ་ཚུལ་ལ། རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ་རྡུལ་ཙམ་མེད་ཀྱང་། བྱ་བྱེད་ཐམས་ཅད་བཞག་པས་ཆོག་པའི་འགྲེལ་ཚུལ་གྱི་

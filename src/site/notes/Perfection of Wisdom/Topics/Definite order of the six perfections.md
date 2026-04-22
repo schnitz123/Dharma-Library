@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/definite-order-of-the-six-perfections/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/definite-order-of-the-six-perfections/","dg-note-properties":{}}
 ---
 
 སྦྱིན་སོགས་དྲུག་གི་གོ་རིམས་འདི་ལྟར་ངེས་པའི་རྒྱུ་མཚན་ཡོད་དེ། 

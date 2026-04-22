@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/developmental-lineage/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/developmental-lineage/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་རིགས་གང་ཞིག འདུས་བྱས་ཀྱི་སངས་རྒྱས་ཀྱི་སྐུར་འགྱུར་རུང། རྒྱས་འགྱུར་གྱི་རིགས་ཀྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/how-to-rely-upon-the-spiritual-teacher/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/how-to-rely-upon-the-spiritual-teacher/","dg-note-properties":{}}
 ---
 
 **The Ten Qualities of the Spiritual Teacher to be relied upon:** བསྟེན་བྱ་དགེ་བའི་བཤེས་གཉེན་གྱི་མཚན་ཉིད་ནི།

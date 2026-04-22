@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/four-great-reasonings-refuting-establishment-by-own-character-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/four-great-reasonings-refuting-establishment-by-own-character-gomde/","dg-note-properties":{}}
 ---
 
 **Three consequences to refute inherent existence (from the Root Text):**

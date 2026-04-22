@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/leaper-approachers-to-once-returner/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/leaper-approachers-to-once-returner/","dg-note-properties":{}}
 ---
 
 ཕྱིར་འོང་ཞུགས་པ་གང་ཞིག །སྦྱོར་ལམ་སྟན་གཅིག་པ་ནས་ལམ་རྗེས་བཟོད་ཀྱི་བར་གང་རུང་ལ་གནས་པ། འབྲས་བུ་ཐོད་རྒལ་བའི་ཕྱིར་འོང་ཞུགས་པའི་མཚན་ཉིད།

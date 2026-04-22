@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-self-would-be-annihilated-upon-nirvana-without-remainder/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-self-would-be-annihilated-upon-nirvana-without-remainder/","dg-note-properties":{}}
 ---
 
 གཞན་ཡང་། ལྷག་མེད་མྱ་ངན་ལས་འདས་པའི་ཚེ་ངེས་པར་རྒྱུན་ཆད་པར་འགྱུར་བ་ཐལ། 

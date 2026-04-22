@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/chapter-6/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/chapter-6/","dg-note-properties":{}}
 ---
 
 ལེའུ་དྲུག་པ་བཟོད་པ་བསྟན་པ།

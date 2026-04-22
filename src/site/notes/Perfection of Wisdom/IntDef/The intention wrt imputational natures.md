@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-intention-wrt-imputational-natures/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/the-intention-wrt-imputational-natures/","dg-note-properties":{}}
 ---
 
 དེ་ལ་མཚན་ཉིད་ངོ་བོ་ཉིད་མེད་པ་ཉིད་ལ་དགོངས་ནས་ངས་ཆོས་ཐམས་ཅད་མ་སྐྱེས་པ་མ་འགགས་པ་གཟོད་མ་ནས་ཞི་བ་

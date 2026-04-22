@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/speech-marks/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/speech-marks/","dg-note-properties":{}}
 ---
 
 They are suffix dependent:

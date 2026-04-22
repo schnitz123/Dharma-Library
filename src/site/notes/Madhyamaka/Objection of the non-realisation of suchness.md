@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/objection-of-the-non-realisation-of-suchness/"}
+{"dg-publish":true,"permalink":"/madhyamaka/objection-of-the-non-realisation-of-suchness/","dg-note-properties":{}}
 ---
 
 དངོས་སྨྲ་བ་ན་རེ། གང་གི་ཚེ་གཟུགས་སོགས་རང་བཞིན་གྱིས་སྐྱེ་བ་ཞི་བ་སྟེ་མེད་པ་ཁོ་ན་ཉིད་ཡིན་ནོ། འོ་ན། དེ་ཁོ་ན་ཉིད་ལ་བློ་གྲོས་འཇུག་པར་མི་འགྱུར་བར་ཐལ། གཟུགས་སོགས་རང་བཞིན་གྱིས་མེད་པ་དེ་ཁོ་ན་ཉིད་ཡིན་པའི་ཕྱིར།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/exalted-wisdom-dharmakaya/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/exalted-wisdom-dharmakaya/","dg-note-properties":{}}
 ---
 
 ཇི་ལྟ་བ་དང་ཇི་སྙེད་པ་ལ་ལྟོས་ཏེ་གཟིགས་པ་མཐར་ཐུག་པའི་མཁྱེན་པ་དེ༑ ཡེ་ཤེས་ཆོས་སྐུའི་མཚན་ཉིད། 

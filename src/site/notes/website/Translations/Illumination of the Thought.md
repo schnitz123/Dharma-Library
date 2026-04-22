@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/website/translations/illumination-of-the-thought/"}
+{"dg-publish":true,"permalink":"/website/translations/illumination-of-the-thought/","dg-note-properties":{}}
 ---
 
-<img src="/pdf/illumination_icon.png" class="gyurme-pic">Je Tsongkhapa's Illumination of the Thought: Chapters 1-5 (version 1.21 updated 05/03/25)
+<img src="/src/site/pdf/illumination_icon.png" class="gyurme-pic">Je Tsongkhapa's Illumination of the Thought: Chapters 1-5 (version 1.21 updated 05/03/25)
 
 Je Tsongkhapa's commentary on Chandrakirti's Supplement to the Middle Way (Madhyamakāvatāra).
 

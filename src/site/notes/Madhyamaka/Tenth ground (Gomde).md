@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/tenth-ground-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/tenth-ground-gomde/","dg-note-properties":{}}
 ---
 
 ས་བཅུ་པ་ལ་གནས་པའི་བྱང་སེམས་དེ་ཡིས་ནི་ཆོས་ཅན། རང་རྒྱུད་ལ་སངས་རྒྱས་རྣམས་ཀྱིས་བྱིན་གྱིས་བརླབས་པའི་ཡོན་ཏན་ཁྱད་པར་ཅན་ཐོབ་སྟེ། 

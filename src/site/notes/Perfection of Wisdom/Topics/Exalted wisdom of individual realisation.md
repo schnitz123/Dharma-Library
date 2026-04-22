@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-individual-realisation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-individual-realisation/","dg-note-properties":{}}
 ---
 
 **Possesses three distinguishing characteristics:**

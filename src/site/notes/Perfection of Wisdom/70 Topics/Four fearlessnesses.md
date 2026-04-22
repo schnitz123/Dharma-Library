@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/four-fearlessnesses/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/four-fearlessnesses/","dg-note-properties":{}}
 ---
 
 མི་འཇིགས་པ་བཞི་ཡོད་དེ། 

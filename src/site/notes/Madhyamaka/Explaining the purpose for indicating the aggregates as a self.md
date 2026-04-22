@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/explaining-the-purpose-for-indicating-the-aggregates-as-a-self/"}
+{"dg-publish":true,"permalink":"/madhyamaka/explaining-the-purpose-for-indicating-the-aggregates-as-a-self/","dg-note-properties":{}}
 ---
 
 བདག་ཏུ་གང་ལྟ་བ་ཐམས་ཅད་ཕུང་པོ་ཁོ་ནས་ལྟ་བར་གསུངས་པའི་དོན་བཤད་པ། 

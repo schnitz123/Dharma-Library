@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/completed-translations/"}
+{"dg-publish":true,"permalink":"/website/completed-translations/","dg-note-properties":{}}
 ---
 
 <div class="wrap">

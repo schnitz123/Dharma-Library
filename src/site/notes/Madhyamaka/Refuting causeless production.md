@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-causeless-production/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-causeless-production/","dg-note-properties":{}}
 ---
 
 སློབ་དཔོན་སངས་རྒྱས་བསྐྱངས་ནི་དངོས་པོ་རྣམས་རྒྱུ་མེད་པ་ལས་ཀྱང་སྐྱེ་བ་མེད་དེ། རྟག་ཏུ་ཐམས་ཅད་ལས་ཐམས་ཅད་སྐྱེ་བར་ཐལ་བར་འགྱུར་བའི་ཕྱིར་རོ།

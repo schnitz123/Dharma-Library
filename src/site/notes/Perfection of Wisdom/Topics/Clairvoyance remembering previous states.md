@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-remembering-previous-states/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-remembering-previous-states/","dg-note-properties":{}}
 ---
 
 མངོན་ཤེས་དྲུག་གི་ནང་ཚན་གང་ཞིག རང་གཞན་གྱི་ཚེ་རབས་སྔ་མ་དུ་མ་རྗེས་སུ་དྲན་པའི་རིགས་སུ་གནས་པ། སྔོན་གནས་རྗེས་དྲན་གྱི་མངོན་ཤེས་ཀྱི་མཚན་ཉིད།

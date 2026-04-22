@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/sixteen-types-of-form-realm-abodes-excluding-great-brahma/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/sixteen-types-of-form-realm-abodes-excluding-great-brahma/","dg-note-properties":{}}
 ---
 
 - First concentration

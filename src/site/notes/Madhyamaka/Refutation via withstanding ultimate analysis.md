@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-via-withstanding-ultimate-analysis/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-via-withstanding-ultimate-analysis/","dg-note-properties":{}}
 ---
 
 གཟུགས་སོགས་རང་བཞིན་གྱིས་མ་གྲུབ་སྟེ། དེ་གྲུབ་ན་རིགས་པའི་དཔྱད་བཟོད་དུ་གྲུབ་དགོས།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-compounded/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-compounded/","dg-note-properties":{}}
 ---
 
 ཁམས་གསུམ་པོ་ཆོས་ཅན། འདུས་བྱས་ཡིན་པར་ངེས་པར་བསྙད་དེ། རང་གི་རྒྱུ་རྐྱེན་ལས་བྱུང་བའི་ཕྱིར། 

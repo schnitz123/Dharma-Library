@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/gradualist-once-returners/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/gradualist-once-returners/","dg-note-properties":{}}
 ---
 
 ཕྱིར་འོང་གང་ཞིག །རྒྱུན་ཞུགས་ཀྱི་རྟོགས་པ་སྔོན་དུ་སོང་བ། འབྲས་བུ་རིམ་གྱིས་པའི་ཕྱིར་འོང་གི་མཚན་ཉིད།

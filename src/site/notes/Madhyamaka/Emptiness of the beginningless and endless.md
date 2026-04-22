@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-beginningless-and-endless/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-beginningless-and-endless/","dg-note-properties":{}}
 ---
 
 འཁོར་བ་དེ་ནི་ཆོས་ཅན། ཐོག་མ་དང་ཐ་མ་མེད་པ་ཞེས་བྱ་བར་བརྗོད་དེ། ཐོག་མ་དང་པོའེ་མཐའ་དང་ཐ་མ་ཕྱི་མའི་མཐའ་དེ་དག་མེད་པའི་ཕྱིར།

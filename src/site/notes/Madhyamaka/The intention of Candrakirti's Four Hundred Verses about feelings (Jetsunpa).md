@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-intention-of-candrakirti-s-four-hundred-verses-about-feelings-jetsunpa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-intention-of-candrakirti-s-four-hundred-verses-about-feelings-jetsunpa/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག ཚོར་བ་བདེ་སྡུག་བཏང་སྙོམས་གསུམ་ཡིད་མངོན་དུ་འཇོག་ཟེར་ན།

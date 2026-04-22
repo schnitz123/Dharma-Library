@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/words/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/words/","dg-note-properties":{}}
 ---
 
 ཁྱད་ཆོས་བཞི་དང་ལྡན་པའི་སངས་རྒྱས་ཀྱི་གསུང་རབ། བཀའི་མཚན་ཉིད།

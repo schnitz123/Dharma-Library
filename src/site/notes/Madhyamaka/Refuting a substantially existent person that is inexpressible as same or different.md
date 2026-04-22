@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-a-substantially-existent-person-that-is-inexpressible-as-same-or-different/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-a-substantially-existent-person-that-is-inexpressible-as-same-or-different/","dg-note-properties":{}}
 ---
 
 རང་སྡེ་མང་བཀུར་བ་ཁ་ཅིག བདག་དང་ཕུང་པོ་གཉིས་རང་བཞིན་གྱིས་གྲུབ་པའི་ངོ་བོ་གཞན་ཡིན་པ་ལ་ཕུང་པོ་མ་གཏོགས་དེ་འཛིན་མ་གྲུབ་ཕྱིར།

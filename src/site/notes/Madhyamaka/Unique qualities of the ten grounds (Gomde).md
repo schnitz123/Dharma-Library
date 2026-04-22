@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/unique-qualities-of-the-ten-grounds-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/unique-qualities-of-the-ten-grounds-gomde/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། ས་དང་པོར་སྐྱེ་བ་མེད་པའི་ཡོན་ཏན་བརྒྱ་ཕྲག་བཅུ་གཉིས་ཐོབ་པ་ཡིན་ཏེ། ས་དང་པོ་ཐོབ་པ་དེའི་ཚེ་བྱང་སེམས་འདིས་ནི། 

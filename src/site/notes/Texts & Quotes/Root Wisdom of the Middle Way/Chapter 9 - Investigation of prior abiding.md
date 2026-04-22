@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-9-investigation-of-prior-abiding/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-9-investigation-of-prior-abiding/","dg-note-properties":{}}
 ---
 
 ལྟ་དང་ཉན་ལ་སོགས་པ་དང༌། །ཚོར་སོགས་དང་ཡང་དབང་བྱས་པ། །གང་གི་ཡིན་པ་དེ་དག་གི །སྔ་རོལ་དེ་ཡོད་ཁ་ཅིག་སྨྲ། །

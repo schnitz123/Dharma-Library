@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/definite-number-of-the-abodes/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/definite-number-of-the-abodes/","dg-note-properties":{}}
 ---
 
 **Definite number:** Explicitly indicated in this context there are: སྐབས་འདིར་དངོས་སུ་བསྟན་པའི་ 

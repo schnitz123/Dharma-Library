@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/where-agent-and-object-are-not-different/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/where-agent-and-object-are-not-different/","dg-note-properties":{}}
 ---
 
 བྱ་བའི་ཡུལ་དང་བྱེད་པ་པོ་གཉིས་སོ་སོར་ཐ་དད་དུ་མི་སྣང་བའི་བྱ་བ་སྟོན་བྱེད་ཀྱི་སྒྲ། བྱ་བྱེད་ཐ་དད་པའི་ལས་ཚིག་གི་མཚན་ཉིད།

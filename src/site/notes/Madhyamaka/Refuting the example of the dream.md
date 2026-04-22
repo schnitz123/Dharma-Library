@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-example-of-the-dream/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-the-example-of-the-dream/","dg-note-properties":{}}
 ---
 
 སེམས་ཙམ་པ་ན་རེ། དེའི་དཔེ་ཡང་དག་ཡོད་དེ། རྨི་ལམ་ན་གླང་ཆེན་མེད་ཀྱང་གླང་ཆེན་གསལ་བར་སྣང་བའི་ཤེས་པ་རང་བཞིན་གྱིས་གྲུབ་པ་ཇི་ལྟ་བ་དེ་བཞིན་ནོ་ཞེ་ན།

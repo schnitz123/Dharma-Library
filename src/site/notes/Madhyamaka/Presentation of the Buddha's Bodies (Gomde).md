@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-buddha-s-bodies-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/presentation-of-the-buddha-s-bodies-gomde/","dg-note-properties":{}}
 ---
 
 **Dharmakaya** ཆོས་ཀྱི་སྐུ།
