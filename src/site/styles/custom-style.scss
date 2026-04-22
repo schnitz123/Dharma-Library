@@ -1,22 +1,16 @@
 /* --- ZONE 1: GLOBAL STYLES --- */
-body {
-    /* Standard English Font */
-    font-family: 'Times New Roman', serif !important;
-}
-
-/* THE SURGICAL FIX: This targets Tibetan Unicode characters specifically */
-/* Range U+0F00 to U+0FFF is the Tibetan script */
 @font-face {
-    font-family: 'TibetanOnly';
-    src: local('Monlam Uni OuChan2'), local('Monlam Uni OuChan 2');
+    font-family: 'TibetanCustom';
+    /* 1. Try to find it on the user's computer first */
+    src: local('Monlam Uni OuChan2'), 
+         local('MonlamUniOuChan2'),
+         /* 2. If not found (standard Windows users), download it from your server */
+         url('/pdf/Monlam-Uni-OuChan2.ttf') format('truetype');
     unicode-range: U+0F00-0FFF;
 }
 
-/* Apply the Tibetan font as a secondary fallback. 
-   Chrome will use Times for English, and then switch to 
-   'TibetanOnly' when it hits a Tibetan character. */
-html, body, .content, .nav-links, #lib-sidebar-desktop {
-    font-family: 'Times New Roman', 'TibetanOnly', serif !important;
+body, html, .content, .nav-links, #lib-sidebar-desktop, p, li, h1, h2, h3, span {
+   font-family: 'Times New Roman', 'Kailasa', 'TibetanCustom', 'Microsoft Himalaya', serif !important;
 }
 
 .content {
