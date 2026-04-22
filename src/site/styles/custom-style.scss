@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 /* --- ZONE 1: GLOBAL STYLES & FONTS --- */
 @font-face {
     font-family: 'TibetanCustom';
@@ -83,6 +86,11 @@ em, h1 { color: #add8e6; }
     margin: 0;
 }
 .nav-links a { text-decoration: none; color: #eac676; font-size: 20px; }
+
+/* Fix for Anchor Links being covered by Navbar */
+h1, h2, h3, h4, h5, h6, [id] {
+    scroll-margin-top: 100px; /* Adjust this value based on your navbar height */
+}
 
 /* --- ZONE 3: DESKTOP SIDEBAR & CONTENT (1000px+) --- */
 @media screen and (min-width: 1000px) {
