@@ -1,19 +1,26 @@
 /* --- ZONE 1: GLOBAL STYLES & FONTS --- */
 
+/* --- ZONE 1: GLOBAL STYLES & FONTS --- */
 @font-face {
     font-family: 'TibetanCustom';
     src: local('MonlamUniOuChan2'), 
-         local('MonlamUniOuChan-2'),
-         local('Monlam-Uni-OuChan2'),
          local('Monlam Uni OuChan2'), 
-         /* The download fallback for Windows users without the font */
+         local('Monlam-Uni-OuChan2'),
          url('/pdf/Monlam-Uni-OuChan2.ttf') format('truetype');
     unicode-range: U+0F00-0FFF;
 }
 
-/* Apply fonts globally */
+/* THE FIREFOX SPECIFIC OVERRIDE */
+/* This tells Firefox: "If you are on Windows, really try to use this stack" */
+@-moz-document url-prefix() {
+    body, .content, p, li, span, h1, h2, h3 {
+        font-family: 'Times New Roman', 'TibetanCustom', 'Microsoft Himalaya', serif !important;
+    }
+}
+
+/* Global application for all other browsers (Chrome, Safari) */
 body, html, .content, .nav-links, #lib-sidebar-desktop, p, li, h1, h2, h3, span, a {
-    font-family: 'Times New Roman', 'TibetanCustom', 'Kailasa', serif !important;
+    font-family: 'Times New Roman', 'Kailasa', 'TibetanCustom', 'Microsoft Himalaya', serif !important;
 }
 
 .content {
