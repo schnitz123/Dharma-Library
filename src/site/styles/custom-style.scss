@@ -1,12 +1,10 @@
 /* --- ZONE 1: GLOBAL STYLES & FONTS --- */
-
-/* --- ZONE 1: GLOBAL STYLES & FONTS --- */
 @font-face {
     font-family: 'TibetanCustom';
     src: local('MonlamUniOuChan2'), 
          local('Monlam Uni OuChan2'), 
          local('Monlam-Uni-OuChan2'),
-         url('/pdf/Monlam-Uni-OuChan2.ttf') format('truetype');
+         url('/pdf/Monlam_Uni_OuChan2.ttf') format('truetype');
     unicode-range: U+0F00-0FFF;
 }
 
@@ -79,7 +77,7 @@ em, h1 { color: #add8e6; }
     #lib-sidebar-desktop a, 
     #lib-sidebar-desktop li {
         font-size: 17px !important; 
-        line-height: 1.8 !important; /* Matched to homepage spacing */
+        line-height: 1.5 !important;
     }
     
     .content {
