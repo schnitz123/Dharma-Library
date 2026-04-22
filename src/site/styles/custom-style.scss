@@ -1,25 +1,22 @@
 /* --- ZONE 1: GLOBAL STYLES --- */
 body {
-    /* 1. WE PUT THE TIBETAN FONT FIRST. 
-       This forces the browser to use it for Tibetan characters 
-       before it even thinks about Times New Roman. */
-    --font-text-theme: 'Monlam Uni OuChan2', 'Monlam Uni OuChan 2', 'Times New Roman', serif;
-    --font-editor-theme: 'Monlam Uni OuChan2', 'Monlam Uni OuChan 2', 'Times New Roman', serif;
-    
-    --font-monospace-theme: 'JetBrains Mono', 'Fira Code', monospace;
-    --font-interface-theme: sans-serif;
-
-    --font-editor: var(--font-editor-theme);
+    /* Standard English Font */
+    font-family: 'Times New Roman', serif !important;
 }
 
-/* 2. APPLY TO EVERYTHING GLOBALLY */
-*, html, body, .content, .markdown-rendered {
-    font-family: 'Monlam Uni OuChan2', 'Monlam Uni OuChan 2', 'Times New Roman', serif !important;
+/* THE SURGICAL FIX: This targets Tibetan Unicode characters specifically */
+/* Range U+0F00 to U+0FFF is the Tibetan script */
+@font-face {
+    font-family: 'TibetanOnly';
+    src: local('Monlam Uni OuChan2'), local('Monlam Uni OuChan 2');
+    unicode-range: U+0F00-0FFF;
 }
 
-/* 3. FIX FOR HEADINGS AND LISTS */
-h1, h2, h3, h4, p, li, span, a {
-    font-family: 'Monlam Uni OuChan2', 'Monlam Uni OuChan 2', 'Times New Roman', serif !important;
+/* Apply the Tibetan font as a secondary fallback. 
+   Chrome will use Times for English, and then switch to 
+   'TibetanOnly' when it hits a Tibetan character. */
+html, body, .content, .nav-links, #lib-sidebar-desktop {
+    font-family: 'Times New Roman', 'TibetanOnly', serif !important;
 }
 
 .content {
@@ -115,16 +112,14 @@ em, h1 { color: #add8e6; }
         margin-top: 0 !important;
         padding-top: 0 !important;
     }
-    .content, 
+   .content, 
     .content p, 
     .content li, 
     .content span, 
     .content h1, 
     .content h2, 
     .content h3 {
-        /* Use the variable that has Monlam at the front */
-        font-family: var(--font-text-theme) !important;
-        -webkit-font-smoothing: antialiased;
+        font-family: 'Times New Roman', 'TibetanOnly', serif !important;
     }
     
     .navbar {
