@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/how-the-three-wheels-settle-selflessness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/how-the-three-wheels-settle-selflessness/","dg-note-properties":{}}
 ---
 
 འཁོར་ལོ་གསུམ་པོ་དེས་བདག་མེད་གཏན་ལ་འབེབས་པའི་ཚུལ་ཡང་ཡོད་དེ།    

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-buddhas/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-buddhas/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་སར་བགྲོད་པར་བྱེད་པའི་ལམ་གྱི་རིགས་སུ་གནས་པའི་མཁྱེན་པ། སངས་རྒྱས་ཀྱི་ལམ་གྱི་མཚན་ཉིད། 

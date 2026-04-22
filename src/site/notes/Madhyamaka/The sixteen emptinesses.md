@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-sixteen-emptinesses/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-sixteen-emptinesses/","dg-note-properties":{}}
 ---
 
 1. [[Madhyamaka/Emptiness of the inner\|Emptiness of the inner]] ནང་སྟོང་པ་ཉིད།

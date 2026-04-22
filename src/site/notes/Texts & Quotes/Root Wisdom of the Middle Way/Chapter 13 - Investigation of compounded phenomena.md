@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-13-investigation-of-compounded-phenomena/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-13-investigation-of-compounded-phenomena/","dg-note-properties":{}}
 ---
 
 བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་གང་ཞིག །སླུ་བ་དེ་ནི་བརྫུན་ཞེས་གསུངས། །འདུ་བྱེད་ཐམས་ཅད་སླུ་བའི་ཆོས། །དེས་ན་དེ་དག་བརྫུན་པ་ཡིན། །

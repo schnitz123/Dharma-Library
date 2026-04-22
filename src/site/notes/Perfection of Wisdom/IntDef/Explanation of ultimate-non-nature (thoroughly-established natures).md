@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-ultimate-non-nature-thoroughly-established-natures/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-ultimate-non-nature-thoroughly-established-natures/","dg-note-properties":{}}
 ---
 
 གཞན་ཡང་། ཆོས་རྣམས་ཀྱི་ཡོངས་སུ་གྲུབ་པའི་མཚན་ཉིད་གང་ཡིན་པ་དེ་ཡང་དོན་དམ་པ་ངོ་བོ་ཉིད་མེད་པ་ཉིད་ཅེས་བྱའོ། །

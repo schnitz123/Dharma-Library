@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/conventional-existence/"}
+{"dg-publish":true,"permalink":"/madhyamaka/conventional-existence/","dg-note-properties":{}}
 ---
 
 **Illumination of the Thought**

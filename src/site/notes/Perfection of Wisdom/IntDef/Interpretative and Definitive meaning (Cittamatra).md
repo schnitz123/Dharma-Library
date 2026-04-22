@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/interpretative-and-definitive-meaning-cittamatra/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/interpretative-and-definitive-meaning-cittamatra/","dg-note-properties":{}}
 ---
 
 སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ་ངེས་དོན་གྱི་མདོའི་མཚན་ཉིད། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-six-constituents/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-six-constituents/","dg-note-properties":{}}
 ---
 
 - [[Abhidharma/The four great elements\|The four elements]]

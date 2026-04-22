@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/arya-vimuktasena-definite-number/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/arya-vimuktasena-definite-number/","dg-note-properties":{}}
 ---
 
 སྐུ་བཞིར་འདོད་པ་ལས་གཞན་འཕགས་པ་གྲོལ་སྡེའི་རྗེས་འབྲང་སྐུ་གསུམ་དུ་འདོད་པ་དག་ནི། བྱང་ཆུབ་ཕྱོགས་མཐུན་ཚད་མེད་དང་། 

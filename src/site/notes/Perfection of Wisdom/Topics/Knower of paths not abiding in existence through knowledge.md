@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-of-paths-not-abiding-in-existence-through-knowledge/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-of-paths-not-abiding-in-existence-through-knowledge/","dg-note-properties":{}}
 ---
 
 གཞི་ཀུན་རྫོབ་ལ་ལྟོས་པའི་སྲིད་མཐའ་འགོག་བྱེད་ཀྱི་རྟོགས་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་འཕགས་པའི་མཁྱེན་པ། 

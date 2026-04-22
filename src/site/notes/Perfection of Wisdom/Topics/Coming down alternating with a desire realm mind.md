@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/coming-down-alternating-with-a-desire-realm-mind/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/coming-down-alternating-with-a-desire-realm-mind/","dg-note-properties":{}}
 ---
 
 སྤེལ་གཞི་སྙོམས་འཇུག་དགུ་ལ་སྤེལ་ཆོས་འདོད་སེམས་སྤེལ་ནས་ལུགས་མི་མཐུན་དུ་སྙོམས་པར་འཇུག་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས།

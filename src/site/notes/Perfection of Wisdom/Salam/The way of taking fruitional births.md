@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/the-way-of-taking-fruitional-births/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/the-way-of-taking-fruitional-births/","dg-note-properties":{}}
 ---
 
 Taking birth as:

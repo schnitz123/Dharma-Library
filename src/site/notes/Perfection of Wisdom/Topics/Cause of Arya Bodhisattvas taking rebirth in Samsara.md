@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/cause-of-arya-bodhisattvas-taking-rebirth-in-samsara/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/cause-of-arya-bodhisattvas-taking-rebirth-in-samsara/","dg-note-properties":{}}
 ---
 
 Related to [[Perfection of Wisdom/Topics/Not abandoning by taking the afflictions as a main object of abandonment\|what afflictions Arya Bodhisattvas do not strive to abandon]], because some say they do not abandon those in order to take rebirth in samsara for the welfare of others. Also, debated whether these afflictions are fully-qualified or not.

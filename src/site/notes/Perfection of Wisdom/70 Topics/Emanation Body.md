@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/emanation-body/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/emanation-body/","dg-note-properties":{}}
 ---
 
 ངེས་པ་ལྔ་དང་མི་ལྡན་པའི་རབ་ཏུ་ཕྱེ་བའི་གཟུགས་སྐུ་མཐར་ཐུག་དེ། སྤྲུལ་སྐུའི་མཚན་ཉིད། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mahayana-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mahayana-path-of-meditation/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས། ཐེག་ཆེན་གྱི་སྒོམ་ལམ་གྱི་མཚན་ཉིད།

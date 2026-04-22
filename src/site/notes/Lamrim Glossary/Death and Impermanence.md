@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/death-and-impermanence/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/death-and-impermanence/","dg-note-properties":{}}
 ---
 
 **Three roots, nine reasons, three decisions** རྩ་བ་གསུམ། རྒྱུ་མཚན་དགུ ཐག་ཅད་པ་རྣམ་པ་གསུམ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sautrantika/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sautrantika/","dg-note-properties":{}}
 ---
 
 མདོ་སྡེ་པས་ནི་སེམས་ཅན་གྱི་རྒྱུད་ཀྱི་ཟག་མེད་ཀྱི་སེམས་ཀྱི་ས་བོན་གྱི་ནུས་པ་ལ་སངས་རྒྱས་ཀྱི་རིགས་སུ་འདོད།

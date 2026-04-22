@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/interpretative-and-definitive-sutras/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/interpretative-and-definitive-sutras/","dg-note-properties":{}}
 ---
 
 ཉན་ཐོས་སྡེ་གཉིས་ཕལ་མོ་ཆེས་སངས་རྒྱས་ཀྱི་བཀའ་ཡིན་ན་ངེས་པའི་དོན་ཅན་ཁོ་ན་ཡིན་པས་ཁྱབ་པར་འདོད་ཅིང་

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-second-established-meaning/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-second-established-meaning/","dg-note-properties":{}}
 ---
 
 འཁོར་ལོ་བར་པ་ཆོས་ཅན། ཁྱོད་ཀྱི་བརྗོད་བྱ་ཡོད་དེ། ཀུན་བརྟགས་ཀྱིས་བསྡུས་པའི་ཆོས་རྣམས་རང་གི་མཚན་ཉིད་ཀྱིས་མ་གྲུབ་ཅིང་། 

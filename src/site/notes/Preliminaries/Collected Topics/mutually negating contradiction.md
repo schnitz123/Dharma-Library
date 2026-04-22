@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/mutually-negating-contradiction/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/mutually-negating-contradiction/","dg-note-properties":{}}
 ---
 
 རྣམ་བཅད་ཡོངས་གཅོད་ཀྱི་སྒོ་ནས་མི་མཐུན་པར་གནས་པ། ཕན་ཚུན་སྤང་འགལ་གྱི་མཚན་ཉིད།

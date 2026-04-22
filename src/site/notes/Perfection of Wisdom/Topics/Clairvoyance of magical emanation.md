@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-magical-emanation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-magical-emanation/","dg-note-properties":{}}
 ---
 
 མངོན་ཤེས་དྲུག་གི་ནང་ཚན་གང་ཞིག ས་གཡོ་བ་དང་གཅིག་ཏུ་བསྒྱུར་ཞིང་མང་པོར་སྤྲུལ་པ་ལ་སོགས་པ་བྱེད་པར་ནུས་པའི་རིག་པ། 

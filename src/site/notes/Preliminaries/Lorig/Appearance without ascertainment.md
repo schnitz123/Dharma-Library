@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/appearance-without-ascertainment/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/appearance-without-ascertainment/","dg-note-properties":{}}
 ---
 
 རང་གི་འཇུག་ཡུལ་དུ་གྱུར་པའི་རང་མཚན་གསལ་བར་སྣང་བ་ཡང་ཡིན། 

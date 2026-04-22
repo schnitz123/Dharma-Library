@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/afflictive-obscurations/"}
+{"dg-publish":true,"permalink":"/madhyamaka/afflictive-obscurations/","dg-note-properties":{}}
 ---
 
 སྒྲིབ་པ་གང་ཞིག གཙོ་བོར་ཐར་པ་ཐོབ་པ་ལ་བར་དུ་གཅོད་བྱེད་དེ། ཉོན་སྒྲིབ་ཀྱི་མཚན་ཉིད།

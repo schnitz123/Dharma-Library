@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-3-investigation-of-the-faculties/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-3-investigation-of-the-faculties/","dg-note-properties":{}}
 ---
 
 ལྟ་དང་ཉན་དང་སྣོམ་པ་དང༌། །མྱོང་བར་བྱེད་དང་རེག་བྱེད་ཡིད། །དབང་པོ་དྲུག་སྟེ་དེ་དག་གི །སྤྱོད་ཡུལ་བལྟ་བར་བྱ་ལ་སོགས། །

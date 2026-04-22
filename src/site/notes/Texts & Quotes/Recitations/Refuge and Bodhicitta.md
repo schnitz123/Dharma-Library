@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/refuge-and-bodhicitta/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/refuge-and-bodhicitta/","dg-note-properties":{}}
 ---
 
 ཕྱོོགས་བཅུ་དུས་གསུམ་གྱིི་དེ་བཞིིན་གཤེགས་པ་ཐམས་ཅད་ཀྱིི་སྐུ་གསུང་ཐུགས་ཡོོན་ཏན་འཕྲིན་ལས་ཐམས་ཅད་ཀྱིི་ངོ་བོར་གྱུར་པ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/main-mind/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/main-mind/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་གྱི་ངོ་བོ་འཛིན་པའི་སྒོ་ནས་བཞག་པའི་གཙོ་བོའི་རྣམ་རིག་དེ། གཙོ་སེམས་ཀྱི་མཚན་ཉིད།

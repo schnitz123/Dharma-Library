@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/surpassing-prayers-and-arising-from-cessation-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/surpassing-prayers-and-arising-from-cessation-gomde/","dg-note-properties":{}}
 ---
 
 བདག་ཉིད་ཆེན་པོ་ས་བདུན་པ་བ་དེ་ཆོས་ཅན། ས་གང་དུ་ཕྱིན་པ་ན་བྱང་སེམས་དེ་ཕྱིར་མི་ལྡོག་པ་ཉིད་དུ་འགྱུར་བས་མི་གཡོ་བ་ཞེས་བྱ་བའི་ས་བརྒྱད་པ་དེ་ལ་འཇུག་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཡང་དང་ཡང་དུ་སྔར་ས་བདུན་པ་མན་ཆད་ཀྱི་དགེ་བ་ལས་ཆེས་ལྷག་པ་འཐོབ་པར་བྱ་བའི་ཕྱིར་དུ་དེ་ལ་འཇུག་པའི་ཕྱིར།

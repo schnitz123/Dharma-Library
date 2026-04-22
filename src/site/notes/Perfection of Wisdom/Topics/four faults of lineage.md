@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-faults-of-lineage/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-faults-of-lineage/","dg-note-properties":{}}
 ---
 
 1. Strong afflictions ཉོན་མོངས་པ་ཤས་ཆེ་བ་དང་། 

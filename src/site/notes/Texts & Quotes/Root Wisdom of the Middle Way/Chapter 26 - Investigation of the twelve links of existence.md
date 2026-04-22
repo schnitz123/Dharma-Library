@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-26-investigation-of-the-twelve-links-of-existence/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-26-investigation-of-the-twelve-links-of-existence/","dg-note-properties":{}}
 ---
 
 མ་རིག་བསྒྲིབས་པས་ཡང་སྲིད་ཕྱིར། །འདུ་བྱེད་རྣམ་པ་གསུམ་པོ་དག །མངོན་པར་འདུ་བྱེད་གང་ཡིན་པའི། །ལས་དེ་དག་གིས་འགྲོ་བར་འགྲོ། །

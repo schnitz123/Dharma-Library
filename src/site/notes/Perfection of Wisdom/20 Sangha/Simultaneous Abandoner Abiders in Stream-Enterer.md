@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/simultaneous-abandoner-abiders-in-stream-enterer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/simultaneous-abandoner-abiders-in-stream-enterer/","dg-note-properties":{}}
 ---
 
 རྒྱུན་ཞུགས་འབྲས་གནས་གང་ཞིག ཁམས་གསུམ་གའི་སྒོམ་སྤང་ཉོན་མོངས་ཆུང་ངུའི་ཆུང་ངུ་དགུ་ཅིག་ཅར་དུ་སྤོང་བའི་རིགས་ཅན།

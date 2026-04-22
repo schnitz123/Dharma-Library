@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/buddha-sutra-misc/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/buddha-sutra-misc/","dg-note-properties":{}}
 ---
 
 དགེ་སློང་དག་གམ་མཁས་རྣམས་ཀྱིས། བསྲེགས་བཅད་བརྡར་བའི་གསེར་བཞིན་དུ། <br>ལེགས་པར་བརྟགས་ལ་ང་ཡི་བཀའ། བླང་བར་བྱ་ཡི་གུས་ཕྱིར་མིན།

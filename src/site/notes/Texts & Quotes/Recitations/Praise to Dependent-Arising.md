@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-dependent-arising/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-dependent-arising/","dg-note-properties":{}}
 ---
 
 ༄༅། །ན་མོ་གུ་རུ་མཉྫུ་གྷོཥཡ།  

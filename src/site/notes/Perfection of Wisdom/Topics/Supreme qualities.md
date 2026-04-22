@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/supreme-qualities/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/supreme-qualities/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན་བཞི་པ་གང་ཞིག ཤེས་སྒྲིབ་བཏགས་འཛིན་རྟོག་པ་མངོན་གྱུར་པ་འཇོམས་པའི་ནུས་པ་ཐོབ་པའི་ལམ་གྱི་རིགས་སུ་གནས་པས་

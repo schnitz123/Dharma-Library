@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/past-and-future/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/past-and-future/","dg-note-properties":{}}
 ---
 
 སྤྱིར་འདས་པ་དང་མ་འོངས་པའི་མཚན་ཉིད་མེད་དེ། འདས་པ་དང་མ་འོངས་པ་མེད་པའི་ཕྱིར་ཏེ། གཞི་གྲུབ་ན། ད་ལྟར་བ་ཡིན་པས་ཁྱབ་པའི་ཕྱིར།

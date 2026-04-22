@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/root-wisdom-of-the-middle-way/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/root-wisdom-of-the-middle-way/","dg-note-properties":{}}
 ---
 
 རྒྱ་གར་སྐད་དུ། །པྲ་ཛྙཱ་ནཱ་མ་མཱུ་ལ་མ་དྷྱཱ་མ་ཀ་ཀཱ་རི་ཀ །

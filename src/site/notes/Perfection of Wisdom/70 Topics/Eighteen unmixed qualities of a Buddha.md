@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/eighteen-unmixed-qualities-of-a-buddha/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/eighteen-unmixed-qualities-of-a-buddha/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་ཆོས་མ་འདྲེས་པ་བཅོ་བརྒྱད་ཡོད་དེ།

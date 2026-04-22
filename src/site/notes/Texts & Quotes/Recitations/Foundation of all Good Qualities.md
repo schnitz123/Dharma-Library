@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/foundation-of-all-good-qualities/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/foundation-of-all-good-qualities/","dg-note-properties":{}}
 ---
 
 ཡོན་ཏན་ཀུན་གྱི་གཞིར་གྱུར་དྲིན་ཆེན་རྗེ། །ཚུལ་བཞིན་བསྟེན་པ་ལམ་གྱི་རྩ་བ་རུ། 

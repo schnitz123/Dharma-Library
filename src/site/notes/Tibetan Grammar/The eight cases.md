@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-eight-cases/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-eight-cases/","dg-note-properties":{}}
 ---
 
 རྣམ་དབྱེའི་གོ་དོན་ནི། སྐབས་དོན་དེ་གཞན་དང་མ་འདྲེས་པར་སོ་སོར་འབྱེད་པར་བྱེད་པའི་ཚིག་ཕྲད་ཡིན་ནོ།

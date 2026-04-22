@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/great-compassion-accomplishing-the-benefit-and-happiness-of-disciples/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/great-compassion-accomplishing-the-benefit-and-happiness-of-disciples/","dg-note-properties":{}}
 ---
 
 དེ་ལ་བརྟེན་ནས་ཉིན་མཚན་ལན་དྲུག་ཏུ་སེམས་ཅན་གྱི་དོན་ལ་སོ་སོར་རྟོག་པར་བྱེད་པའི་བརྩེ་བ། འདིར་བསྟན་སྐྱེ་བོ་ལ་ཐུགས་རྗེ་ཆེན་པོའི་ངོ་བོ།

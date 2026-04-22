@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/vaibhashika/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/vaibhashika/","dg-note-properties":{}}
 ---
 
 རང་རིག་མི་འདོད་ཅིང་ཕྱི་དོན་བདེན་གྲུབ་ཏུ་འདོད་པའི་ཐེག་དམན་གྱི་གྲུབ་མཐའ་སྨྲ་བའི་གང་ཟག་དེ། བྱེ་བྲག་སྨྲ་བའི་མཚན་ཉིད།

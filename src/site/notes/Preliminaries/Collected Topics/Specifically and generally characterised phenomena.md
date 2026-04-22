@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/specifically-and-generally-characterised-phenomena/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/specifically-and-generally-characterised-phenomena/","dg-note-properties":{}}
 ---
 
 རྟོག་པས་བཏགས་པ་ཙམ་མ་ཡིན་པར་ཡུལ་རང་གི་སྡོད་ལུགས་ཀྱི་ངོས་ནས་གྲུབ་པ། རང་མཚན་གྱི་མཚན་ཉིད། 

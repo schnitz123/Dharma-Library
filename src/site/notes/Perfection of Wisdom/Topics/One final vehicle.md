@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/one-final-vehicle/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/one-final-vehicle/","dg-note-properties":{}}
 ---
 
 མཐར་ཐུག་ཐེག་པ་གསུམ་དུ་གསུངས་པ་སྒྲ་ཇི་བཞིན་པ་མ་ཡིན་ཏེ། མཐར་ཐུག་ཐེག་པ་གཅིག་ཏུ་གྲུབ་པའི་ཕྱིར་ཏེ། དེ་ལྟར་ལུང་གིས་ཀྱང་གྲུབ།

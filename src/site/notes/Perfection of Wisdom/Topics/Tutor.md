@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/tutor/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/tutor/","dg-note-properties":{}}
 ---
 
 ཁྱད་པར་གསུམ་ལྡན་གྱི་ཐེག་ཆེན་གྱི་དགེ་བའི་བཤེས་གཉེན་དུ་དམིགས་པ། འདིར་དངོས་སུ་བསྟན་པའི་ཡོངས་འཛིན་གྱི་མཚན་ཉིད།

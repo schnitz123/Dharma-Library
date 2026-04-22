@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-engaging-in-the-activities-ornament-for-mahayana-sutras/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-engaging-in-the-activities-ornament-for-mahayana-sutras/","dg-note-properties":{}}
 ---
 
 **Mode of engaging spontaneously** ལྷུན་གྲུབ་ཏུ་འཇུག་ཚུལ།

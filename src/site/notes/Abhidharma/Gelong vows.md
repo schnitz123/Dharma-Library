@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/gelong-vows/"}
+{"dg-publish":true,"permalink":"/abhidharma/gelong-vows/","dg-note-properties":{}}
 ---
 
 ལུས་ངག་གི་ཉེས་སྤྱོད་མཐའ་དག་ཇི་སྲིད་འཚོའི་བར་དུ་སྤོང་བར་མནོས་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་རབ་བྱུང་གི་སྡོམ་པར་དམིགས་པ། 

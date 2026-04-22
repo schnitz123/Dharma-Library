@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/characteristics-to-be-known/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/characteristics-to-be-known/","dg-note-properties":{}}
 ---
 
 རང་གི་ཐོབ་བྱར་གྱུར་པའི་འབྲས་བུ་ཤེར་ཕྱིན་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་ཞི་ལྷག་ཟུང་འབྲེལ་གྱི་སེམས་དཔའི་རྣལ་འབྱོར། ལམ་ཤེར་ཕྱིན་གྱི་རྣལ་འབྱོར་གྱི་མཚན་ཉིད།

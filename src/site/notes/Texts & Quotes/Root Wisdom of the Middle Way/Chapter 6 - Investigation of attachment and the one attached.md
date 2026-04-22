@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-6-investigation-of-attachment-and-the-one-attached/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-6-investigation-of-attachment-and-the-one-attached/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་འདོད་ཆགས་སྔ་རོལ་ན། །འདོད་ཆགས་མེད་པའི་ཆགས་ཡོད་ན། །དེ་ལ་བརྟེན་ནས་འདོད་ཆགས་ཡོད། །ཆགས་ཡོད་འདོད་ཆགས་ཡོད་པར་འགྱུར། །

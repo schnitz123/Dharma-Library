@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-seeing/","dg-note-properties":{}}
 ---
 
 

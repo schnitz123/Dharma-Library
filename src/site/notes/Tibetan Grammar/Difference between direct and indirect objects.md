@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/difference-between-direct-and-indirect-objects/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/difference-between-direct-and-indirect-objects/","dg-note-properties":{}}
 ---
 
 **Direct object (ལས།) and indirect object (བྱ་བའི་ཡུལ།)**

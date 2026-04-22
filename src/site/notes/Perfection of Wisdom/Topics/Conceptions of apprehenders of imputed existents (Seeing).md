@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-of-imputed-existents-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-of-imputed-existents-seeing/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་བཏགས་འཛིན་ལ་དམིགས་ནས་ལོངས་སྤྱོད་བྱེད་དུ་བདེན་པར་ཞེན་པའི་བདེན་འཛིན་ཀུན་བརྟགས། 

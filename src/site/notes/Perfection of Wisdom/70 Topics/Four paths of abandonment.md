@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/four-paths-of-abandonment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/four-paths-of-abandonment/","dg-note-properties":{}}
 ---
 
 སྤོང་བའི་ལམ་བཞི་ཡོད་དེ། 

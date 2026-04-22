@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/tantric-vows/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/tantric-vows/","dg-note-properties":{}}
 ---
 
 **Root Vows:** སྔགས་ཀྱི་རྩ་ལྟུང་བཅུ་བཞི།

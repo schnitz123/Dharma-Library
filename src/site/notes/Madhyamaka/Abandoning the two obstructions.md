@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/abandoning-the-two-obstructions/"}
+{"dg-publish":true,"permalink":"/madhyamaka/abandoning-the-two-obstructions/","dg-note-properties":{}}
 ---
 
 **According to Jetsunpa:**

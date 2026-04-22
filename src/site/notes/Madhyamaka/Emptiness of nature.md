@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-nature/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-nature/","dg-note-properties":{}}
 ---
 
 ཤེས་བ་ཆོས་ཅན། འདུས་བྱས་ལ་སོགས་པ་རྣམས་ཀྱི་ངོ་བོ་ཉིད་དམ་ཆོས་ཉིད་དེ་ནི་སྐབས་འདིར་རང་བཞིན་ཉིད་དུ་བསྙད་པ་ཡིན་ཏེ། 

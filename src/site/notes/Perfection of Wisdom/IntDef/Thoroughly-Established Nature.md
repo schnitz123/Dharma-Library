@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/thoroughly-established-nature/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/thoroughly-established-nature/","dg-note-properties":{}}
 ---
 
 རྣམ་དག་ལམ་གྱི་དམིགས་པ་མཐར་ཐུག ཡོངས་གྲུབ་ཀྱི་མཚན་ཉིད།

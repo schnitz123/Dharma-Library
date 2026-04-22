@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/pass-beyond-in-the-intermediate-state/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/pass-beyond-in-the-intermediate-state/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་གང་ཞིག །གཟུགས་ཀྱི་བར་སྲིད་དུ་ཉིང་མཚམས་སྦྱོར་བའི་རིགས་ཅན།

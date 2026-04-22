@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/peak-application-of-the-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/peak-application-of-the-path-of-meditation/","dg-note-properties":{}}
 ---
 
 སྒོམ་སྤང་རྟོག་པའི་ས་བོན་གྱི་དངོས་གཉེན་གྱི་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས་དེ། སྒོམ་ལམ་རྩེ་སྦྱོར་གྱི་མཚན་ཉིད།

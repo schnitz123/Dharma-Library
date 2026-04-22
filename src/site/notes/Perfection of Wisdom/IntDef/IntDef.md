@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/int-def/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/int-def/","dg-note-properties":{}}
 ---
 
 [[Perfection of Wisdom/IntDef/Sutra Unravelling the Thought\|Sutra Unravelling the Thought]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/six-root-afflictions/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/six-root-afflictions/","dg-note-properties":{}}
 ---
 
 1. Attachment འདོད་ཆགས།

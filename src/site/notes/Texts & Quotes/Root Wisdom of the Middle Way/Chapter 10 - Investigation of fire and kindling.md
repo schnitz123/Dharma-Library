@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-10-investigation-of-fire-and-kindling/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-10-investigation-of-fire-and-kindling/","dg-note-properties":{}}
 ---
 
 བུད་ཤིང་གང་དེ་མེ་ཡིན་ན། །བྱེད་པ་པོ་དང་ལས་གཅིག་འགྱུར། །གལ་ཏེ་ཤིང་ལས་མེ་གཞན་ན། །ཤིང་མེད་པར་ཡང་འབྱུང་བར་འགྱུར། །

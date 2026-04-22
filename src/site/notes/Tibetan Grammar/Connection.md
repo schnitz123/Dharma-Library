@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/connection/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/connection/","dg-note-properties":{}}
 ---
 
 This is used to connect two verbs or even whole phrases and sentences (by connecting their verbs). Some divide it along the verbs being ཐ་དད་པ། and ཐ་མི་དད་པ།, but the more useful distinction is in terms of the temporal relationship of the verbs being either:

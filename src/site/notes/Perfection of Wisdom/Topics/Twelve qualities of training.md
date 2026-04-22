@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/twelve-qualities-of-training/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/twelve-qualities-of-training/","dg-note-properties":{}}
 ---
 
 **Divisions:** (12) སྦྱངས་པའི་ཡོན་ཏན་བཅུ་གཉིས་ཏེ། 

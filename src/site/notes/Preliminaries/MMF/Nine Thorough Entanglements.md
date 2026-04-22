@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/nine-thorough-entanglements/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/nine-thorough-entanglements/","dg-note-properties":{}}
 ---
 
 ཀུན་སྦྱོར་དགུ་ཡོད་དེ།

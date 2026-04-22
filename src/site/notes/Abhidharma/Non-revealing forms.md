@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/non-revealing-forms/"}
+{"dg-publish":true,"permalink":"/abhidharma/non-revealing-forms/","dg-note-properties":{}}
 ---
 
 ཁྱད་ཆོས་ལྔ་དང་ལྡན་པའི་སྒོ་ནས་རང་ཀུན་ནས་སློང་བའི་སེམས་གཞན་གྱིས་ཇི་ལྟ་བ་བཞིན་དུ་རྣམ་པར་རིག་པར་བྱེད་པ་མ་ཡིན་པ་ཡང་ཡིན། 

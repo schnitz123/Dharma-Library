@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/topics-and-order-of-the-chapters/"}
+{"dg-publish":true,"permalink":"/abhidharma/topics-and-order-of-the-chapters/","dg-note-properties":{}}
 ---
 
 གནས་བརྒྱད་ཀྱི་གོ་རིམ་འདི་ལྟར་འཆད་པའི་རྒྱུ་མཚན་ཡོད་དེ།

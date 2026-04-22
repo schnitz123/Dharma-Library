@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/analytical-cessations/"}
+{"dg-publish":true,"permalink":"/abhidharma/analytical-cessations/","dg-note-properties":{}}
 ---
 
 བདེན་བཞི་ལ་སོ་སོར་རྟོག་པའི་ཤེས་རབ་ལ་བརྟེན་ནས་ཐོབ་པའི་བྲལ་བར་དམིགས་པ་དེ། སོ་སོར་བརྟགས་འགོག་གི་མཚན་ཉིད།

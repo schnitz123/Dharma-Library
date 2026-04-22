@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/negation-and-existence-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/negation-and-existence-particles/","dg-note-properties":{}}
 ---
 
 | Negation Particles | Existence Particles |

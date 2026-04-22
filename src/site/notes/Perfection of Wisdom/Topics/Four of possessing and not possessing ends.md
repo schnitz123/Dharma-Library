@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-of-possessing-and-not-possessing-ends/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-of-possessing-and-not-possessing-ends/","dg-note-properties":{}}
 ---
 
 ཕྱི་རོལ་པའི་དྲང་སྲོང་མངོན་ཤེས་དང་ལྡན་པ་འགའ་ཞིག་གིས་འཇིག་རྟེན་གྱི་མཐའ་འཆད་པར་འགྱུར་རོ། 

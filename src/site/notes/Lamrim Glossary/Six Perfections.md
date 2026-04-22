@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/six-perfections/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/six-perfections/","dg-note-properties":{}}
 ---
 
 **The Six Perfections:** ཕར་ཕྱིན་དྲུག

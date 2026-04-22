@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/branches-of-a-knower-of-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/branches-of-a-knower-of-paths/","dg-note-properties":{}}
 ---
 
 ལམ་ཤེས་ཀྱི་རྒྱུ་ངོ་བོ་འབྲས་བུ་གསུམ་པོ་གང་རུང་གིས་བསྡུས་ཤིང་སྙིང་རྗེ་ཆེན་པོས་ཟིན་པའི་ཡོན་ཏན་ཁྱད་པར་ཅན། ལམ་ཤེས་ཀྱི་ཡན་ལག་གི་མཚན་ཉིད།

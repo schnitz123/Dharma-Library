@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/both-conceptions-of-self-are-afflictive-obscurations/"}
+{"dg-publish":true,"permalink":"/madhyamaka/both-conceptions-of-self-are-afflictive-obscurations/","dg-note-properties":{}}
 ---
 
 ཉན་རང་དགྲ་བཅོམ་པས་ཕུང་པོ་བདེན་མེད་དུ་མ་རྟོགས་ན། དེས་གང་ཟག་བདེན་མེད་དུ་མི་རྟོགས་དགོས་ཏེ། གཞི་གྲུབ་གཅིག་གི་སྟེང་དུ་བདེན་མེད་ཚད་མས་གྲུབ་པའི་

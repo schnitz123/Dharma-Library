@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/the-three-entanglements/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/the-three-entanglements/","dg-note-properties":{}}
 ---
 
 The three entanglements: ཀུན་སྦྱོར་གསུམ་ཡོད་དེ།

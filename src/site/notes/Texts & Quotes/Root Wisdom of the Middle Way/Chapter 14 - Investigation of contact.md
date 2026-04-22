@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-14-investigation-of-contact/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-14-investigation-of-contact/","dg-note-properties":{}}
 ---
 
 བལྟ་བྱ་ལྟ་བ་ལྟ་བ་པོ། །གསུམ་པོ་དེ་དག་གཉིས་གཉིས་དང༌། །ཐམས་ཅད་ཀྱང་ནི་ཕན་ཚུན་དུ། །ཕྲད་པར་འགྱུར་པ་ཡོད་མ་ཡིན། །

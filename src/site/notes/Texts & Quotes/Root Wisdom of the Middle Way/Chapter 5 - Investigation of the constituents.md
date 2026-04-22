@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-5-investigation-of-the-constituents/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-5-investigation-of-the-constituents/","dg-note-properties":{}}
 ---
 
 ནམ་མཁའི་མཚན་ཉིད་སྔ་རོལ་ན། །ནམ་མཁའ་ཅུང་ཟད་ཡོད་མ་ཡིན། །གལ་ཏེ་མཚན་ལས་སྔ་གྱུར་ན། །མཚན་ཉིད་མེད་པར་ཐལ་བར་འགྱུར། །

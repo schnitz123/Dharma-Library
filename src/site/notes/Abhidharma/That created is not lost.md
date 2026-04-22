@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/that-created-is-not-lost/"}
+{"dg-publish":true,"permalink":"/abhidharma/that-created-is-not-lost/","dg-note-properties":{}}
 ---
 
 དགེ་མི་དགེའི་ལས་རྣམས་ཀྱིས་རང་རང་གི་རྣམ་སྨིན་ཀྱི་འབྲས་བུ་འབྱིན་པར་གདོན་མི་ཟ་སྟེ།

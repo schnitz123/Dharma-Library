@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/nature-body/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/nature-body/","dg-note-properties":{}}
 ---
 
 དག་པ་གཉིས་ལྡན་གྱི་དབྱིངས་མཐར་ཐུག་དེ། ངོ་བོ་ཉིད་སྐུའི་མཚན་ཉིད།

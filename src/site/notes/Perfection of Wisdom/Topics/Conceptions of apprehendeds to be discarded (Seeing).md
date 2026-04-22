@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-to-be-discarded-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-to-be-discarded-seeing/","dg-note-properties":{}}
 ---
 
  རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་བྱང་སེམས་ལམ་གྱི་ལྡོག་བྱ་ལ་དམིགས་ནས་ལོངས་སྤྱད་བྱར་བདེན་པར་ཞེན་པའི་བདེན་འཛིན་ཀུན་བརྟགས།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/treasury-of-knowledge-autocommentary/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/treasury-of-knowledge-autocommentary/","dg-note-properties":{}}
 ---
 
 **From Abhidharmakosha:** མཛོད་ལས། མངོན་པ་མཛོད་ལས། མཛོད་རྩ་བ་ལས།

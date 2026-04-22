@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/when-they-are-attained/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/when-they-are-attained/","dg-note-properties":{}}
 ---
 
 The results of *Stream-Enterer*, *Leaper Once-Returner*, and *Leaper Non-Returner* are attained simultaneously with the sixteenth instant of the path of seeing, i.e. the subsequent knowledge in relation to paths - depending on abandoning 0-5th, the 6th, or the 9th Desire Realm afflictions prior to the path of seeing, respectively.

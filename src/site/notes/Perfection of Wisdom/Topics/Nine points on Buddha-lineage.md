@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/nine-points-on-buddha-lineage/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/nine-points-on-buddha-lineage/","dg-note-properties":{}}
 ---
 
 **According to the presentation of Ornament for Mahayana Sutras:**

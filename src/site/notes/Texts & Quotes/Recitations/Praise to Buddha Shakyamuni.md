@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-buddha-shakyamuni/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-buddha-shakyamuni/","dg-note-properties":{}}
 ---
 
 སྟོན་པ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ། 

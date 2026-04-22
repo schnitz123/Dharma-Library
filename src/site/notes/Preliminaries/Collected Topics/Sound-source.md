@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/sound-source/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/sound-source/","dg-note-properties":{}}
 ---
 
 སྒྲའི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད་ཡོད་དེ། རྣ་ཤེས་ཀྱི་ཉན་བྱ་དེ་དེ་ཡིན་པའི་ཕྱིར། 

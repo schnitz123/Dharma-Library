@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/illustration-statements/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/illustration-statements/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག་ན་རེ། ཤུག་པའི་ཀ་བ་མཚན་གཞི། ཀ་བ་ཡིན་པར་མཚོན། གདུང་འདེགས་ཀྱི་དོན་བྱེད་ནུས་པ་ཡིན་པ་ཞེས་པའི་མཚོན་སྦྱོར་འདི་མཚོན་སྦྱོར་རྣམ་དག་ཡིན་ཟེར་ན། 

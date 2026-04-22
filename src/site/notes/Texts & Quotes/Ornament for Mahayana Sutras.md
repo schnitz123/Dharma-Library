@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/ornament-for-mahayana-sutras/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/ornament-for-mahayana-sutras/","dg-note-properties":{}}
 ---
 
 དེ་ཉིད་ཡང་དང་ཡང་དུ་ནི། མྱ་ངན་འདས་ལ་མངོན་དགའི་ཕྱིར།

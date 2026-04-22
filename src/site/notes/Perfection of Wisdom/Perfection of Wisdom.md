@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/perfection-of-wisdom/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/perfection-of-wisdom/","dg-note-properties":{}}
 ---
 
 [[Perfection of Wisdom/70 Topics/70 Topics\|70 Topics]] / [[Texts & Quotes/21 Perfection of Wisdom Commentaries\|21 Perfection of Wisdom Commentaries]]

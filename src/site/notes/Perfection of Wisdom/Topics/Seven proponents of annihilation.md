@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/seven-proponents-of-annihilation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/seven-proponents-of-annihilation/","dg-note-properties":{}}
 ---
 
 འདོད་པའི་མི་དང་ལྷ་དང་གཟུགས་ཁམས་པ་དང་གཟུགས་མེད་སྐྱེ་མཆེད་རིགས་བཞི་སྟེ་བདུན་པོ་རྣམས་མ་ཤིའི་བར་དུ་ནད་དང་འབྲས་དང་ཟུག་རྔུ་དང་བཅས་པ་ཡིན་ལ། ཤི་ནས་ཡེ་མེད་དུ་ལྟ་བ་བདུན་པོ་དེ་ཡིན་ནོ།

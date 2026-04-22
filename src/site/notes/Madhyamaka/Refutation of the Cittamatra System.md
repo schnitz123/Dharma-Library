@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-the-cittamatra-system/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refutation-of-the-cittamatra-system/","dg-note-properties":{}}
 ---
 
 [[Madhyamaka/Presentation of cause and effect does not require positing an Alaya (Tendarwa)\|Presentation of cause and effect does not require positing an Alaya (Tendarwa)]]

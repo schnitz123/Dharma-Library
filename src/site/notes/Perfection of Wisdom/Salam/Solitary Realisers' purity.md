@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/solitary-realisers-purity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/solitary-realisers-purity/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་བར་ཆད་མེད་ལམ་གྱི་ངོས་སྐལ་གྱི་སྒྲིབ་པ་སྤངས་པའི་རང་རྒྱལ་གྱི་བྲལ་བ། རང་རྒྱལ་གྱི་རྣམ་དག་གི་མཚན་ཉིད།

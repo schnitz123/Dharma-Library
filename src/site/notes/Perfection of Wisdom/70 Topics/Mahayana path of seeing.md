@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/mahayana-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/mahayana-path-of-seeing/","dg-note-properties":{}}
 ---
 
 རང་རྒྱུད་ལྡན་གྱི་གང་ཟག་གི་རྒྱུད་ཀྱི་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་ཐེག་ཆེན་གྱི་བདེན་པ་མངོན་རྟོགས་དེ། 

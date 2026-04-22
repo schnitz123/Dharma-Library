@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/true-suffering/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/true-suffering/","dg-note-properties":{}}
 ---
 
 ཀུན་ནས་ཉོན་མོངས་ཕྱོགས་ཀྱི་བདེན་པ་གང་ཞིག མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། དོན་གཞན་གྱི་བདག་གིས་སྟོང་པ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/reason-indicators/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/reason-indicators/","dg-note-properties":{}}
 ---
 
 **This category includes the following particles:**

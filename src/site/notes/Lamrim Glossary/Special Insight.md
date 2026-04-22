@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/special-insight/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/special-insight/","dg-note-properties":{}}
 ---
 
 **Selflessness:** བདག་མེད་ལ།

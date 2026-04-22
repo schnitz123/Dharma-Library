@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/discrimination-aggregate/"}
+{"dg-publish":true,"permalink":"/abhidharma/discrimination-aggregate/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་གྱི་ཐུན་མོང་མ་ཡིན་པའི་མཚན་མའམ་སྤུ་རིས་མ་འདྲེས་པར་འཛིན་པར་བྱེད་པས་རབ་ཏུ་ཕྱེ་བའི་སེམས་བྱུང་དེ། འདུ་ཤེས་ཀྱི་མཚན་ཉིད། 

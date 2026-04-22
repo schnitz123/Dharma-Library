@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/persons/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/persons/","dg-note-properties":{}}
 ---
 
 རང་གི་ཕུང་པོ་ལྔ་པོ་གང་རུང་ལ་བརྟེན་ནས་བཏགས་པའི་སྐྱེས་བུ་དེ། རང་ཉིད་གང་ཟག་གི་མཚན་ཉིད།

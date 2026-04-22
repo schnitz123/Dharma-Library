@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/prasangika/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/prasangika/","dg-note-properties":{}}
 ---
 
 གཞན་གྲགས་ཀྱི་ཐལ་འགྱུར་ཙམ་ཞལ་གྱིས་བཞེས་པའི་སྒོ་ནས་བདེན་དངོས་ཐ་སྙད་དུའང་མི་འདོད་པའི་དབུ་མ་པ་དེ། ཐལ་འགྱུར་བའི་མཚན་ཉིད།

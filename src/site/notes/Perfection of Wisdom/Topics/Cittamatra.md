@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/cittamatra/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/cittamatra/","dg-note-properties":{}}
 ---
 
 སེམས་ཙམ་པ་རྣམས་ཀྱིས་སེམས་ཅན་གྱི་རྒྱུད་ཀྱི་ཐོག་མ་མེད་པ་ནས་གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་དེ་འོང་བ། 

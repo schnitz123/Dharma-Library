@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-character-non-nature/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-character-non-nature/","dg-note-properties":{}}
 ---
 
 དེ་ལ་ཆོས་རྣམས་ཀྱི་མཚན་ཉིད་ངོ་བོ་ཉིད་མེད་པ་ཉིད་གང་ཞེ་ན། ཀུན་བརྟགས་པའི་མཚན་ཉིད་གང་ཡིན་པའོ།

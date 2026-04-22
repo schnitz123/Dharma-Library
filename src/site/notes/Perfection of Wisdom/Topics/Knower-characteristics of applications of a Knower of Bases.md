@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-characteristics-of-applications-of-a-knower-of-bases/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-characteristics-of-applications-of-a-knower-of-bases/","dg-note-properties":{}}
 ---
 
 དེ་བཞིན་གཤེགས་པ་འབྱུང་བ་སོགས་གཞི་ཤེས་ཀྱི་རྣམ་པ་གང་ཡང་རུང་བ་ལ་དམིགས་པའི་ཐེག་དམན་གྱི་རྟོགས་རིགས་སུ་གནས་པའི་སེམས་དཔའི་རྣལ་འབྱོར།

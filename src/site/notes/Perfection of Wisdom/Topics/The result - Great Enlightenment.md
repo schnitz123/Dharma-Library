@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/the-result-great-enlightenment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/the-result-great-enlightenment/","dg-note-properties":{}}
 ---
 
 དྲི་མ་ཟད་སྐྱེ་བདེན་མེད་དུ་མངོན་སུམ་དུ་རྟོགས་པ་མཐར་ཕྱིན་པའི་ཡེ་ཤེས་དང་ལྡན་པའི་སྐྱབས་གནས་མཐར་ཐུག བྱང་ཆུབ་ཆེན་པོའི་མཚན་ཉིད། 

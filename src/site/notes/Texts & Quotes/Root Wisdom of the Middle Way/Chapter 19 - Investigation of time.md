@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-19-investigation-of-time/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-19-investigation-of-time/","dg-note-properties":{}}
 ---
 
 ད་ལྟར་བྱུང་དང་མ་འོངས་པ། །གལ་ཏེ་འདས་ལ་ལྟོས་གྱུར་ན། །ད་ལྟར་བྱུང་དང་མ་འོངས་པ། །འདས་པའི་དུས་ན་ཡོད་པར་འགྱུར། །

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/great-charioteers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/great-charioteers/","dg-note-properties":{}}
 ---
 
 འཕགས་པ་ཐོགས་མེད་ཀྱིས་ཐེག་པ་ཆེན་པོའི་རིགས་ཅན་རྗེས་སུ་གཟུང་བའི་ཕྱིར་དུ་འཁོར་ལོ་ཐ་མའི་རྗེས་སུ་འབྲངས་ནས་

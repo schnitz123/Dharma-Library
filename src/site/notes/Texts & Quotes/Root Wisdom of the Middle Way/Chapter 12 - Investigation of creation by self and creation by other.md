@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-12-investigation-of-creation-by-self-and-creation-by-other/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-12-investigation-of-creation-by-self-and-creation-by-other/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག་སྡུག་བསྔལ་བདག་གིས་བྱས། །གཞན་གྱིས་བྱས་དང་གཉི་གས་བྱས། །རྒྱུ་མེད་པ་ལས་འབྱུང་བར་འདོད། །དེ་ནི་བྱ་བར་མི་རུང་ངོ༌། །

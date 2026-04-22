@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/three-turnings/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/three-turnings/","dg-note-properties":{}}
 ---
 
 བདེན་བཞི་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་ཐེག་དམན་ཐུན་མོང་མ་ཡིན་པའི་མདོ། བཀའ་དང་པོ་བདེན་བཞིའི་ཆོས་འཁོར་གྱི་མཚན་ཉིད། 

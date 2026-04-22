@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/observed-object-condition/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/observed-object-condition/","dg-note-properties":{}}
 ---
 
 སྔོན་འཛིན་མངོན་སུམ་སྔོན་པོའི་རྣམ་ལྡན་དུ་གཙོ་བོར་དངོས་སུ་སྐྱེད་བྱེད། སྔོན་འཛིན་མངོན་སུམ་གྱི་དམིགས་རྐྱེན་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/yogic-direct-perceivers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/yogic-direct-perceivers/","dg-note-properties":{}}
 ---
 
 རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་ཞི་ལྷག་ཟུང་འབྲེལ་གྱི་ཏིང་ངེ་འཛིན་ལ་བརྟེན་ནས་སྐྱེས་པ་གང་ཞིག 

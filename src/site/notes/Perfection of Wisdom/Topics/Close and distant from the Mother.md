@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/close-and-distant-from-the-mother/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/close-and-distant-from-the-mother/","dg-note-properties":{}}
 ---
 
 1. [[Perfection of Wisdom/Topics/Knower of bases distant from the Resultant Mother\|Knower of bases distant from the Resultant Mother]] འབྲས་ཡུམ་ལ་རིང་བའི་གཞི་ཤེས།

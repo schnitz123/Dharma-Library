@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/aspiring-and-engaging-bodhicitta/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/aspiring-and-engaging-bodhicitta/","dg-note-properties":{}}
 ---
 
 སྨོན་འཇུག་གང་རུང་ཡང་ཡིན་སྤྱོད་པ་ཉམས་ལེན་གྱི་བྱ་བས་དངོས་སུ་མ་ཟིན་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པ། སྨོན་པ་སེམས་བསྐྱེད་ཀྱི་མཚན་ཉིད། 

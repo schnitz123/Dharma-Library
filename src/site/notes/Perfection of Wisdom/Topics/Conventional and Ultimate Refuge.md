@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conventional-and-ultimate-refuge/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conventional-and-ultimate-refuge/","dg-note-properties":{}}
 ---
 
 ཁྱོད་ཡིན་པའམ་ཁྱོད་ཀྱི་ནང་ཚན་དུ་གྱུར་པའི་དོན་དམ་པའི་སྐྱབས་མེད་པ་གང་ཞིག དངོས་པོའི་གནས་ཚོད་ལ་ལམ་གྱི་བགྲོད་པ་མཐར་མ་ཐུག་པའི་སྐྱབས།

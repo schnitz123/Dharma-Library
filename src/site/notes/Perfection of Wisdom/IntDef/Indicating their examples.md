@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/indicating-their-examples/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/indicating-their-examples/","dg-note-properties":{}}
 ---
 
 དེ་ལ་འདི་ལྟ་སྟེ་དཔེར་ན་ནམ་མཁའི་མེ་ཏོག་ཇི་ལྟ་བ་དེ་ལྟ་བུར་ནི་མཚན་ཉིད་ངོ་བོ་ཉིད་མེད་པ་ཉིད་བལྟ་བར་བྱའོ། 

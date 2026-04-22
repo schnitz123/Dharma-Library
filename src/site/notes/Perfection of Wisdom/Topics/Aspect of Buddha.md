@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/aspect-of-buddha/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/aspect-of-buddha/","dg-note-properties":{}}
 ---
 
 ཇི་ལྟ་བ་དང་ཇི་སྙེད་པའི་ཆོས་ཐམས་ཅད་རྣམ་པ་ཀུན་མངོན་པར་སྟེ་མངོན་དུ་ཕྱོགས་པར་རྫོགས་པར་སྟེ་ཡང་དག་པར་བྱང་ཆུབ་པ་སྟེ་རྟོགས་པའི་མཐར་ཐུག་པའི་ཡེ་ཤེས། 

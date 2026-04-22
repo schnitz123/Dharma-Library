@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/debate-about-consciousnesses-realising-themselves/"}
+{"dg-publish":true,"permalink":"/madhyamaka/debate-about-consciousnesses-realising-themselves/","dg-note-properties":{}}
 ---
 
 **Do consciousnesses (implicitly) realise themselves?**

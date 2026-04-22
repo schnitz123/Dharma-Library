@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/assertions-regarding-what-connects-causes-and-their-effects-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/assertions-regarding-what-connects-causes-and-their-effects-tendarwa/","dg-note-properties":{}}
 ---
 
 ཁ་ཆེ་བྱེ་བྲག་སྨྲ་བ་ལས་གཞན་པའི་བྱེ་བྲག་ཏུ་སྨྲ་བ་ཁ་ཅིག་ན་རེ། དགེ་མི་དགེའི་ལས་དང༌། རྣམ་སྨིན་གྱི་འབྲས་བུའི་བར་དུ་བསྐལ་པ་ལ་སོགས་པས་ཆོད་པ་ཡོད་ཅིང༌།

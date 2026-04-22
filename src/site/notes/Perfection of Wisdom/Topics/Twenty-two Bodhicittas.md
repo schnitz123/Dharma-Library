@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/twenty-two-bodhicittas/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/twenty-two-bodhicittas/","dg-note-properties":{}}
 ---
 
 1. Earth ས་ལྟ་བུའི་སེམས་བསྐྱེད།

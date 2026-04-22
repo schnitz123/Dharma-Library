@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/bodhisattva-generosity-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/bodhisattva-generosity-gomde/","dg-note-properties":{}}
 ---
 
 བྱང་སེམས་རྣམས་ཆོས་ཅན། སྦྱིན་པས་རིང་པོར་མི་ཐོགས་པར་ཕ་རོལ་པོའི་ཡིད་ཚིམ་པར་མཐོང་བ་ན། སྦྱིན་འབྲས་དགའ་བ་མཆོག་ཏུ་གྱུར་པ་འཐོབ་པར་འགྱུར་ཏེ། 

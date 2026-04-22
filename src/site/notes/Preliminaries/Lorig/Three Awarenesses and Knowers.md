@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/three-awarenesses-and-knowers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/three-awarenesses-and-knowers/","dg-note-properties":{}}
 ---
 
 1. [[Preliminaries/Lorig/Conceptual consciousness taking a meaning generality as its apprehended object\|Conceptual consciousness taking a meaning generality as its apprehended object]]<br>དོན་སྤྱི་བཟུང་ཡུལ་དུ་བྱེད་པའི་རྟོག་པ།

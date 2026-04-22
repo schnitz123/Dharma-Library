@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-of-paths-knowing-the-paths-of-solitary-realisers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-of-paths-knowing-the-paths-of-solitary-realisers/","dg-note-properties":{}}
 ---
 
 ཁྱད་ཆོས་གསུམ་གྱིས་ཟིན་པའི་སྒོ་ནས་གདུལ་བྱ་རང་རྒྱལ་གྱི་རིགས་ཅན་རྗེས་སུ་གཟུང་བའི་ཕྱིར་དུ་ཤེས་པར་བྱ་བའི་མངོན་རྟོགས་ཀྱི་རིགས་སུ་གནས་པའི་

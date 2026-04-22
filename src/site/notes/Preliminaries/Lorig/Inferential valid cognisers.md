@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/inferential-valid-cognisers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/inferential-valid-cognisers/","dg-note-properties":{}}
 ---
 
 རང་གི་རྟེན་རྟགས་ཡང་དག་ལ་བརྟེན་ནས་དངོས་སུ་སྐྱེས་པའི་གསར་དུ་མི་སླུ་བའི་གཞན་རིག་དེ། རྗེས་སུ་དཔག་པའི་ཚད་མའི་མཚན་ཉིད།<br>དེ་དང་རྗེས་དཔག་གཉིས་དོན་གཅིག

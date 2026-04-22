@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/70-topics/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/70-topics/","dg-note-properties":{}}
 ---
 
 **Introduction:** [[Perfection of Wisdom/70 Topics/Perfection of Wisdom\|Perfection of Wisdom]] ཤེར་ཕྱིན།

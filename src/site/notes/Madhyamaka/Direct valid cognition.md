@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/direct-valid-cognition/"}
+{"dg-publish":true,"permalink":"/madhyamaka/direct-valid-cognition/","dg-note-properties":{}}
 ---
 
 ཚད་མ་གང་ཞིག །རྟགས་ལ་དངོས་སུ་མ་བརྟེན་པར་རང་གི་འཛིན་སྟངས་ཀྱི་ཡུལ་དུ་གྱུར་པའི་གཞལ་བྱ་ལ་མི་སླུ་བའི་རིག་པ། མངོན་སུམ་ཚད་མའི་མཚན་ཉིད། 

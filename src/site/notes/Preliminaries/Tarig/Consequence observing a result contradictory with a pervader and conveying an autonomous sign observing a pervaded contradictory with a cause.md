@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-a-result-contradictory-with-a-pervader-and-conveying-an-autonomous-sign-observing-a-pervaded-contradictory-with-a-cause/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-a-result-contradictory-with-a-pervader-and-conveying-an-autonomous-sign-observing-a-pervaded-contradictory-with-a-cause/","dg-note-properties":{}}
 ---
 
 དྲུག་པའི་མཚན་གཞི་ཡོད་དེ། ཙན་དན་གྱི་མེ་སྟོབས་ཆེན་པོས་ཁྱབ་པར་ནོན་པའི་གཞིར་ཆོས་ཅན། 

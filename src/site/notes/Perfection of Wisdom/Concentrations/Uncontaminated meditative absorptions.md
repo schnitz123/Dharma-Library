@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/uncontaminated-meditative-absorptions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/uncontaminated-meditative-absorptions/","dg-note-properties":{}}
 ---
 
 གོང་སའི་དངོས་གཞི་སྙོམས་འཇུག་གང་ཞིག །འཇིག་རྟེན་ལས་འདས་པའི་དགེ་བར་དམིགས་པ། གོང་སའི་དངོས་གཞི་སྙོམས་འཇུག་ཟག་མེད་ཀྱི་མཚན་ཉིད།

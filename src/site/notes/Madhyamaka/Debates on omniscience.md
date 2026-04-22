@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/debates-on-omniscience/"}
+{"dg-publish":true,"permalink":"/madhyamaka/debates-on-omniscience/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་དེས་རང་ལས་ཐ་དད་པའི་ཆོས་ཤུགས་ལ་མ་རྟོགས་ཀྱང་། དེས་ཤུགས་ལ་རྟོགས་པའི་ཆོས་ཡོད་དེ། 

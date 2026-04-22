@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak-application-of-heat/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak-application-of-heat/","dg-note-properties":{}}
 ---
 
 རྩེ་སྦྱོར་ཐོབ་པའི་རྟགས་བཅུ་གཉིས་པོ་གང་རུང་ཐོབ་པའི་ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན་དང་པོ་དེ། དྲོད་ཀྱི་རྩེ་སྦྱོར་གྱི་མཚན་ཉིད། 

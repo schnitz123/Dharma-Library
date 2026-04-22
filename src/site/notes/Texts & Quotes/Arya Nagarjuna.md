@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/arya-nagarjuna/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/arya-nagarjuna/","dg-note-properties":{}}
 ---
 
 **From Fundamental Wisdom:** རྩ་བ་ཤེས་རབ་ལས།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/individual-explanations-of-the-marks-and-signs/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/individual-explanations-of-the-marks-and-signs/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞིའི་སེམས་ལ་བརྟེན་ནས་དེ་བཞིན་གཤེགས་པ་རྣམས་སྐྱེས་བུ་དམ་པར་མཚོན་པར་བྱེད་པའམ། 

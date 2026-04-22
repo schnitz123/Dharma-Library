@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/concentration/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/concentration/","dg-note-properties":{}}
 ---
 
 སེམས་དགེ་བའི་དམིགས་པ་ལ་རྩེ་གཅིག་ཏུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་སྒོམ་བྱུང་གི་རིག་པ། བསམ་གཏན་གྱི་ངོ་བོ།

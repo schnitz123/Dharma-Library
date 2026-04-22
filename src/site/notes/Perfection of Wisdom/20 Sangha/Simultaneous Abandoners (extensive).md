@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/simultaneous-abandoners-extensive/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/simultaneous-abandoners-extensive/","dg-note-properties":{}}
 ---
 
 དེ་དགུ་མཐོང་ལམ་ཐོབ་རྗེས་སུ་སྤོང་བ་ཡིན་ཏེ། དེས་དེའི་སྔ་རོལ་ཏུ་སྲིད་ཉོན་དགུ་པ་སྤོང་མི་ནུས་པའི་ཕྱིར།

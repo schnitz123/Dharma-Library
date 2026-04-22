@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-of-imputed-existents/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-of-imputed-existents/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་བཏགས་འཛིན་ལ་དམིགས་ནས་ལོངས་སྤྱོད་བྱེད་དུ་བདེན་པར་ཞེན་པའི་ཞེན་རིག ཤེས་སྒྲིབ་བཏགས་འཛིན་རྟོག་པའི་མཚན་ཉིད། 

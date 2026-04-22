@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/benefits-of-abandoning-those/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/benefits-of-abandoning-those/","dg-note-properties":{}}
 ---
 
 གང་ལ་རྟེན་པར་བྱེད་ན། ས་བཅུ་རྒྱུན་མཐའ་ལ་གནས་པའི་སེམས་དཔའ་ལའོ། 

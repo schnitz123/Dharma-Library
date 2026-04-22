@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/seventy-verses-on-emptiness/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/seventy-verses-on-emptiness/","dg-note-properties":{}}
 ---
 
 ༄༅། །རྒྱ་གར་སྐད་དུ། ཤཱུཉ་ཏཱ་སཔྟི་ཀཱ་རི་ཀཱ་ནཱ་མ། །བོད་སྐད་དུ། སྟོང་པ་ཉིད་བདུན་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ་ཞེས་བྱ་བ།

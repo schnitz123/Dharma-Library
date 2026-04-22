@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/shantideva/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/shantideva/","dg-note-properties":{}}
 ---
 
 [[Texts & Quotes/Shantideva/Chapter 1\|Chapter 1]] - Benefits of bodhicitta

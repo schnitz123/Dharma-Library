@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sixteen-proponents-with-discrimination/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sixteen-proponents-with-discrimination/","dg-note-properties":{}}
 ---
 
 Wrong views discriminating: ་་་ར་འདུ་ཤེས་པ་རྣམས་ཀྱི་ལྟ་ངན་དང༌།

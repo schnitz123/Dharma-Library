@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/conceptual-consciousness-taking-a-meaning-generality-as-its-apprehended-object/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/conceptual-consciousness-taking-a-meaning-generality-as-its-apprehended-object/","dg-note-properties":{}}
 ---
 
 སྒྲ་དོན་འདྲེས་རུང་དུ་འཛིན་པའི་ཞེན་རིག རྟོག་པའི་མཚན་ཉིད།

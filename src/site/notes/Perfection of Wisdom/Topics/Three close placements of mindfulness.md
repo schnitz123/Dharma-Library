@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-close-placements-of-mindfulness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-close-placements-of-mindfulness/","dg-note-properties":{}}
 ---
 
 **Divisions:** Three close placements of mindfulness of the Buddha: སངས་རྒྱས་ཀྱི་དྲན་པ་ཉེར་གཞག་གསུམ་ཡོད་དེ།

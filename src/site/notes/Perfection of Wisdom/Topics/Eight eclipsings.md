@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-eclipsings/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-eclipsings/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་དངོས་གཞིའི་སེམས་ལ་བརྟེན་ནས་ཟད་པར་གྱི་དམིགས་ཡུལ་རྣམས་ཇི་ལྟར་འདོད་པ་བཞིན་ཟིལ་གྱིས་གནོན་པར་ནུས་པས་

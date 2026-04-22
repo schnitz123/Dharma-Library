@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/indefinite-articles-and-imperative-markers/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/indefinite-articles-and-imperative-markers/","dg-note-properties":{}}
 ---
 
 This uses the particles: ཅིག ཞིག ཤིག

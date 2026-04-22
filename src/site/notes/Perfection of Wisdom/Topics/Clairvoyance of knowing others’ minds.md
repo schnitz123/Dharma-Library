@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-knowing-others-minds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-knowing-others-minds/","dg-note-properties":{}}
 ---
 
 མངོན་ཤེས་དྲུག་གི་ནང་ཚན་གང་ཞིག གཞན་གྱི་སེམས་འདོད་ཆགས་དང་བཅས་མ་བཅས་སོགས་ཤེས་པའི་རིགས་སུ་གནས་པ། 

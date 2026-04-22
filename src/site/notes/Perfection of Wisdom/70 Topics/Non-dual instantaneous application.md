@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/non-dual-instantaneous-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/non-dual-instantaneous-application/","dg-note-properties":{}}
 ---
 
 གཟུང་འཛིན་རྫས་གཞན་གྱིས་སྟོང་པ་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སྒོ་ནས་ཤེས་སྒྲིབ་ཀྱི་དངོས་གཉེན་དུ་གྱུར་པའི་སེམས་དཔའི་རྣལ་འབྱོར་དེ། གཉིས་སུ་མེད་པའི་སྐད་ཅིག་མའི་སྦྱོར་བའི་མཚན་ཉིད། 

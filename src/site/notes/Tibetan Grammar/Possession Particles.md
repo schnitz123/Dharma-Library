@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/possession-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/possession-particles/","dg-note-properties":{}}
 ---
 
 This includes the following particles: པ། པོ། བ། བོ། མ། མོ། ཅན། མཁན། ལྡན།

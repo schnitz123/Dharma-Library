@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/objects-of-abandonment-of-the-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/objects-of-abandonment-of-the-path-of-seeing/","dg-note-properties":{}}
 ---
 
 

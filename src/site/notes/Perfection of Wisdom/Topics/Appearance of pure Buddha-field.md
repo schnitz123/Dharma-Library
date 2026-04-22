@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/appearance-of-pure-buddha-field/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/appearance-of-pure-buddha-field/","dg-note-properties":{}}
 ---
 
 འོ་ན་གང་དུ་ས་བཅུ་ཐོབ་མ་ཐག་པའི་ཚེ་ན་སངས་རྒྱས་ཀྱི་ཞིང་དག་པའི་སྣང་བ་འབྱུང་བར་བཤད་ན། དེའི་ཚུལ་གང་ཞེ་ན། 

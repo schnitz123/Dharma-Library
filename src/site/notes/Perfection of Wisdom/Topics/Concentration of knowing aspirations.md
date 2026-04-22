@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/concentration-of-knowing-aspirations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/concentration-of-knowing-aspirations/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་རབ་མཐའི་བསམ་གཏན་ལ་བརྟེན་ནས་ཆགས་ཐོགས་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་མཐར་ཐུག་པའི་མཁྱེན་པ། 

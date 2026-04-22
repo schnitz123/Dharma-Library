@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/reasoning-of-the-change-in-the-person-s-state-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/reasoning-of-the-change-in-the-person-s-state-tendarwa/","dg-note-properties":{}}
 ---
 
 དེ་ལྟར་རང་བཞིན་གྱིས་མི་འགག་ཅིང༌། ཕུང་པོ་ལ་བཏགས་པའི་ང་ཙམ་བག་ཆགས་བསྒོ་གཞི་མཐར་ཐུག་ཏུ་འདོད་པའི་ལུགས་འདི་ལ། 

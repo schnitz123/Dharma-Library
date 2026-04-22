@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/other-knowers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/other-knowers/","dg-note-properties":{}}
 ---
 
 ཁ་ཕྱི་བལྟས་ཀྱི་ཤེས་པ་དོན་གཅིག

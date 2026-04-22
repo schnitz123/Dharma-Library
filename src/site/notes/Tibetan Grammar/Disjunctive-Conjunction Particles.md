@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/disjunctive-conjunction-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/disjunctive-conjunction-particles/","dg-note-properties":{}}
 ---
 
 This particle has eleven markers, mirroring the suffix or secondary suffix of the word it is attached to. 

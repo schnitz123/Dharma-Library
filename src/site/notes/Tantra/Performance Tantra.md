@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/performance-tantra/"}
+{"dg-publish":true,"permalink":"/tantra/performance-tantra/","dg-note-properties":{}}
 ---
 
 **Becoming a suitable vessel for cultivating the path** ལམ་སྒོམ་པའི་སྣོད་རུང་དུ་བྱ་བ།

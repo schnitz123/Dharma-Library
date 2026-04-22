@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-uncompounded/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-uncompounded/","dg-note-properties":{}}
 ---
 
 ནམ་མཁའ་ཆོས་ཅན། འདུས་མ་བྱས་ཡིན་ཏེ། 

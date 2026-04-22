@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation-of-purity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation-of-purity/","dg-note-properties":{}}
 ---
 
 ཟག་མེད་ཀྱི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས་གང་ཞིག རང་གི་ཐོབ་བྱར་གྱུར་བའི་སྤངས་པ་མཐར་ཐུག་གི་ལག་རྗེས་འཇོག་བྱེད་དེ། 
@@ -8,7 +8,7 @@
 1. An uncontaminated Mahayana subsequent clear realisation; and
 2. The depositor of the imprint of the final abandonment that is its object of attainment.
 
-**Divisions:** there are nine, see [[../70 Topics/70 topics english.pdf#page=26&selection=13,0,13,28|70 Topics]]
+**Divisions:** there are nine, see [70 Topics](/img/user/Perfection%20of%20Wisdom/70%20Topics/70%20topics%20english.pdf)
 
 **Distinguishing features:**
 1. Cause རྒྱུའི་ཁྱད་པར། - [[Perfection of Wisdom/Salam/Concordant and discordant conditions of the pure path of meditation\|Concordant and discordant conditions of the pure path of meditation]]

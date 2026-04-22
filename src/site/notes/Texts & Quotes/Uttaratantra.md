@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/uttaratantra/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/uttaratantra/","dg-note-properties":{}}
 ---
 
 ཆོས་ཀྱི་སྐུ་ལས་མ་གཡོས་པར། སྤྲུལ་པའི་རང་བཞིན་སྣ་ཚོགས་ཀྱིས།

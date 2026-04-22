@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/four-changeable-menta-factors/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/four-changeable-menta-factors/","dg-note-properties":{}}
 ---
 
 1. Sleep གཉིད།

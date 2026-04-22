@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/aspect-of-suchness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/aspect-of-suchness/","dg-note-properties":{}}
 ---
 
 དེ་བཞིན་ཉིད་ལ་སླར་མི་ལྡང་བའི་ཚུལ་གྱིས་མཉམ་པར་བཞག་པའི་ཡེ་ཤེས། རྣམ་མཁྱེན་གྱི་ཤེས་རྣམ་དུ་གྱུར་པའི་དེ་བཞིན་ཉིད་ཀྱི་རྣམ་པའི་མཚན་ཉིད།

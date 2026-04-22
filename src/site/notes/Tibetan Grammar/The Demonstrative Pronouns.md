@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-demonstrative-pronouns/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-demonstrative-pronouns/","dg-note-properties":{}}
 ---
 
 The grammar texts mainly discuss the history of these particles and their position in relation to nouns and so forth. However, འདི་སྒྲ། and དེ་སྒྲ།, can very easily be understood as the demonstrative pronouns “this” and “that”.

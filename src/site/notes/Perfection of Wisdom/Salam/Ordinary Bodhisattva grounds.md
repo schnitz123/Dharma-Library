@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/ordinary-bodhisattva-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/ordinary-bodhisattva-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་རྟེན་དུ་གྱུར་པའི་བྱང་སེམས་སོ་སྐྱེའི་མངོན་རྟོགས་དེ། བྱང་སེམས་སོ་སྐྱེའི་སའི་མཚན་ཉིད།

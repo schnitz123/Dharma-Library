@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/specifically-characterised-object-other-exclusion/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/specifically-characterised-object-other-exclusion/","dg-note-properties":{}}
 ---
 
 མ་ཡིན་དགག་གི་གཞན་སེལ་ཡང་ཡིན། དོན་དམ་པར་དོན་བྱེད་ནུས་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ་དེ། དོན་རང་མཚན་གྱི་གཞན་སེལ་གྱི་མཚན་ཉིད།

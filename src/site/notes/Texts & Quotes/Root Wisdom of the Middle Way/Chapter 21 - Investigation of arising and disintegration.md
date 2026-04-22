@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-21-investigation-of-arising-and-disintegration/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-21-investigation-of-arising-and-disintegration/","dg-note-properties":{}}
 ---
 
 འཇིག་པ་འབྱུང་བ་མེད་པར་རམ། །ལྷན་ཅིག་ཡོད་པ་ཉིད་མ་ཡིན། །འབྱུང་བ་འཇིག་པ་མེད་པར་རམ། །ལྷན་ཅིག་ཡོད་པ་ཉིད་མ་ཡིན། །

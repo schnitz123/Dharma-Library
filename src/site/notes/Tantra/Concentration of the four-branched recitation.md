@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/concentration-of-the-four-branched-recitation/"}
+{"dg-publish":true,"permalink":"/tantra/concentration-of-the-four-branched-recitation/","dg-note-properties":{}}
 ---
 
 1. Focusing on the **self-basis** བདག་གི་གཞི་ལ་གཞོལ་བ།

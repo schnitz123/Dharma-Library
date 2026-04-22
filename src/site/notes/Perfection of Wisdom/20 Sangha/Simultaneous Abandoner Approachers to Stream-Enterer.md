@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/simultaneous-abandoner-approachers-to-stream-enterer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/simultaneous-abandoner-approachers-to-stream-enterer/","dg-note-properties":{}}
 ---
 
 རྒྱུན་ཞུགས་ཞུགས་པ་གང་ཞིག ཁམས་གསུམ་གྱི་སྒོམ་སྤང་ཉོན་མོངས་ཆུང་ངུའི་ཆུང་ངུ་དགུ་ཅིག་ཅར་དུ་སྤོང་བའི་རིགས་ཅན། 

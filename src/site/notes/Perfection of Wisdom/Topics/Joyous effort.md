@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/joyous-effort/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/joyous-effort/","dg-note-properties":{}}
 ---
 
 དགེ་བ་ལ་སྤྲོ་བའི་སེམས་པ། བརྩོན་འགྲུས་ཀྱི་ངོ་བོ།

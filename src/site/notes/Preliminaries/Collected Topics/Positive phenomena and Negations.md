@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/positive-phenomena-and-negations/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/positive-phenomena-and-negations/","dg-note-properties":{}}
 ---
 
 རང་འཛིན་རྟོག་པས་དགག་བྱ་དངོས་སུ་བཅད་པའི་ཚུལ་གྱིས་རྟོགས་པར་བྱ་བ། ཡང་ན།

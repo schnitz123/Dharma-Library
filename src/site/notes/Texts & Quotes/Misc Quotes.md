@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/misc-quotes/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/misc-quotes/","dg-note-properties":{}}
 ---
 
 **Sakyapandita's Excellent Treasure of Good Explanations:** ལེགས་པར་བཤད་པ་རིན་པོ་ཆེའི་གཏེར་ལས། ས་སྐྱ་ལེགས་བཤད་ལས།

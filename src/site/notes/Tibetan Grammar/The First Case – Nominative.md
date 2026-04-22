@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-first-case-nominative/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-first-case-nominative/","dg-note-properties":{}}
 ---
 
 ཁྱད་གཞི་དོན་གྱི་ངོ་བོ་ཙམ་སྟོན་ཞིང་། དེའི་ཁྱད་ཆོས་གང་ཡང་གསལ་བར་མི་བྱེད་པའི་མིང་རྐྱང་ཡིན་པ།

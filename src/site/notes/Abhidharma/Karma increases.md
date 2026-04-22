@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/karma-increases/"}
+{"dg-publish":true,"permalink":"/abhidharma/karma-increases/","dg-note-properties":{}}
 ---
 
 དགེ་བའི་ལས་ཆུང་ངུ་ལས་ཀྱང༌། ཁོང་ཁྲོ་ལྟ་བུས་མ་བཅོམ་ན་འབྲས་བུ་བདེ་བ་ཤིན་ཏུ་ཆེ་བ་འབྱུང་ལ། མི་དགེ་བའི་ལས་ཆུང་ངུ་ལས་ཀྱང༌།

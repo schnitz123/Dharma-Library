@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/song-of-experience/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/song-of-experience/","dg-note-properties":{}}
 ---
 
 ༄༅། །ན་མོ་གུ་རུ་མཉྫུ་གྷོ་ཥཱ་ཡ།

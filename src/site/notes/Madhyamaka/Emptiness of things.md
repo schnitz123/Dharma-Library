@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-things/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-things/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཆོས་ཅན། དངོས་པོ་སྟོང་པ་ཉིད་ཅེས་བྱ་བའི་དངོས་པོའི་སྒྲས་ནི་ཕུང་པོ་ལྔ་རྣམས་བརྗོད་པ་ཡིན་ཏེ།

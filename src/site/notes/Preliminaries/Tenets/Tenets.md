@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/tenets/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/tenets/","dg-note-properties":{}}
 ---
 
 དཀོན་མཆོག་གསུམ་སྐྱབས་གནས་ཡང་དག་ཏུ་ཁས་ལེན་ཞིང་། དེ་ལས་གཞན་པའི་སྐྱབས་གནས་མི་འདོད་པའི་གྲུབ་མཐའ་སྨྲ་བའི་གང་ཟག་དེ།
@@ -13,7 +13,7 @@
 4. Proponents of Non-Nature ངོ་བོ་ཉིད་མེད་པར་སྨྲ་བ། / [[Preliminaries/Tenets/Madhyamika\|Madhyamika]] དབུ་མ་པ།
 
 [[Preliminaries/Tenets/Objects of negation\|Objects of negation]]
-See: [[../../Charts/tenets charts.pdf|Tenets Charts]]
+See: [Tenets Charts](/img/user/Charts/tenets%20charts.pdf)
 See: [[Preliminaries/Lorig/Lorig of different tenets\|Lorig of different tenets]]
 
 ---

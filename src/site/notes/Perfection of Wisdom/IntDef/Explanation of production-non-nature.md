@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-production-non-nature/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-production-non-nature/","dg-note-properties":{}}
 ---
 
 ཆོས་རྣམས་ཀྱི་སྐྱེ་བ་ངོ་བོ་ཉིད་མེད་པ་ཉིད་གང་ཞེ་ན། ཆོས་རྣམས་ཀྱི་གཞན་གྱི་དབང་གི་མཚན་ཉིད་གང་ཡིན་པའོ། 

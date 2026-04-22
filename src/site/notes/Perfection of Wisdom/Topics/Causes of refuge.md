@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/causes-of-refuge/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/causes-of-refuge/","dg-note-properties":{}}
 ---
 
 

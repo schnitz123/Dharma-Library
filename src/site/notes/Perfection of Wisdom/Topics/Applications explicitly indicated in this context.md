@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/applications-explicitly-indicated-in-this-context/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/applications-explicitly-indicated-in-this-context/","dg-note-properties":{}}
 ---
 
 སྟོང་ཉིད་ལ་དམིགས་པའི་ཞི་ལྷག་ཟུང་འབྲེལ་གྱིས་ཟིན་པའི་སྐབས་འདིར་དངོས་སུ་བསྟན་པའི་སེམས་དཔའི་རྣལ་འབྱོར། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/branches-of-the-first-concentration/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/branches-of-the-first-concentration/","dg-note-properties":{}}
 ---
 
 - **Branches of antidotes:** རྟོག་དཔྱོད་གཉེན་པོའི་ཡན་ལག

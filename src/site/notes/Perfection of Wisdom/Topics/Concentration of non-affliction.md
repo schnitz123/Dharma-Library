@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/concentration-of-non-affliction/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/concentration-of-non-affliction/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་རབ་མཐའི་བསམ་གཏན་ལ་བརྟེན་ནས། རང་རྒྱུད་ལྡན་གྱི་གང་ཟག་དེ་ལ་དམིགས་པའམ་གང་ཟག་གཞན་ལ་དམིགས་པའི་ཉོན་མོངས་ཆུང་ངུ་ཟིལ་གྱིས་གནོན་ནུས་པས་རབ་ཏུ་ཕྱེ་བའི་དགྲ་བཅོམ་པའི་རྒྱུད་ཀྱི་ཏིང་ངེ་འཛིན། ཉོན་མོངས་མེད་པའི་ཏིང་ངེ་འཛིན་གྱི་ངོ་བོ།

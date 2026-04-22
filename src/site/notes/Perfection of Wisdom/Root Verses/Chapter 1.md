@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/root-verses/chapter-1/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/root-verses/chapter-1/","dg-note-properties":{}}
 ---
 
 **Statement of purpose** དགོས་དོན། / དགོས་འབྲེལ་ངག

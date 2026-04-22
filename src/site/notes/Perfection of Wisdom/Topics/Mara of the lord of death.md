@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mara-of-the-lord-of-death/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mara-of-the-lord-of-death/","dg-note-properties":{}}
 ---
 
 བདུད་བཞིའི་ནང་ཚན་གང་ཞིག སྲོག་གི་དབང་པོ་རང་དབང་མེད་པར་འགག་པར་བྱེད་པའི་ཆའི་རིགས་སུ་གནས་པ། འཆི་བདག་གི་བདུད་ཀྱི་མཚན་ཉིད། 

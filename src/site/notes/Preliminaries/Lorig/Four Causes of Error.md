@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/four-causes-of-error/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/four-causes-of-error/","dg-note-properties":{}}
 ---
 
 1. **Cause of error existing in the support** འཁྲུལ་རྒྱུ་བརྟེན་ལ་ཡོད་པ།

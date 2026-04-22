@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/entities-of-the-abodes/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/entities-of-the-abodes/","dg-note-properties":{}}
 ---
 
 ཐོད་རྒལ་གྱི་གནས་ཀྱི་ནང་ཚན་གྱི་བསམ་གཟུགས་རྣམས་ནི།

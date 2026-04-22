@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/generosity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/generosity/","dg-note-properties":{}}
 ---
 
 གཏོང་བའི་སེམས་པ། སྦྱིན་པའི་ངོ་བོ། 

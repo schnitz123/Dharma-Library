@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/mental-source/"}
+{"dg-publish":true,"permalink":"/abhidharma/mental-source/","dg-note-properties":{}}
 ---
 
 རྣམ་ཤེས་ཀྱི་ཕུང་པོ། ཡིད་ཀྱི་སྐྱེ་མཆེད། ཡིད་ཀྱི་ཁམས་རྣམས་དོན་གཅིག 

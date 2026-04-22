@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/space-constituent/"}
+{"dg-publish":true,"permalink":"/abhidharma/space-constituent/","dg-note-properties":{}}
 ---
 
 བྱེ་བྲག་སྨྲ་བ་ན་རེ། བུ་ག་ནམ་མཁའ་ཞེས་བྱ་བ་ནམ་མཁའི་ཁམས་ཡིན། དེ་ཡང་ཉིན་མོ་སྣང་བ་དང༌། མཚན་མོ་མུན་པའི་རང་བཞིན་ཞེས་ཟེར། 

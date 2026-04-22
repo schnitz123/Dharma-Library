@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-the-divine-ear/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/clairvoyance-of-the-divine-ear/","dg-note-properties":{}}
 ---
 
 མངོན་ཤེས་དྲུག་གི་ནང་ཚན་གང་ཞིག རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་ལྷའི་རྣ་བ་ལས་སྐྱེས་ཤིང་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སྒྲ་ཕྲ་རགས་ཤེས་པ། 

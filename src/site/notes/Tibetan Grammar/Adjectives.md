@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/adjectives/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/adjectives/","dg-note-properties":{}}
 ---
 
 ཆོས་དེ་ཁྱད་ཆོས་ལྟ་བུར་སྟོན་པའི་མཉན་བྱ། ཆོས་དེ་ལ་ལྟོས་པའི་ཆོས་བརྗོད་ཀྱི་སྒྲའི་མཚན་ཉིད། 

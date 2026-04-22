@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/assertions-regarding-the-basis-of-division-into-the-two-truths/"}
+{"dg-publish":true,"permalink":"/madhyamaka/assertions-regarding-the-basis-of-division-into-the-two-truths/","dg-note-properties":{}}
 ---
 
 In Kunkhyen Jamyang Shepa's Tenets

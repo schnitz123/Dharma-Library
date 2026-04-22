@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/absorption-of-cessation-cittamatra/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/absorption-of-cessation-cittamatra/","dg-note-properties":{}}
 ---
 
 དགག་གཞིའི་ཡིད་ཀྱི་རྣམ་ཤེས་དང་མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས་ཅི་རིགས་ཀྱི་སྟེང་དུ་དགག་བྱ་ཚོགས་བདུན་རགས་པ་འགོག་པའི་འཕགས་རྒྱུད་ཀྱི་སྙོམས་འཇུག་ཏུ་གྱུར་པའི་ལྡན་མིན་འདུ་བྱེད་དུ་དམིགས་པ། འགོག་སྙོམས་ཀྱི་མཚན་ཉིད།

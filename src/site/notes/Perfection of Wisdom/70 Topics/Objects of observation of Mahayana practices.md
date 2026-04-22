@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/objects-of-observation-of-mahayana-practices/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/objects-of-observation-of-mahayana-practices/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་སྒྲུབ་པས་སྒྲོ་འདོགས་གཅད་པར་བྱ་བའི་གཞི། ཐེག་ཆེན་སྒྲུབ་པའི་དམིགས་པའི་མཚན་ཉིད། 

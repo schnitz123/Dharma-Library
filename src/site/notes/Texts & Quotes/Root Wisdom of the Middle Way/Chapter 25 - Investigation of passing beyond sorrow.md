@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-25-investigation-of-passing-beyond-sorrow/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-25-investigation-of-passing-beyond-sorrow/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །གང་ཞིག་སྤོང་དང་འགགས་པ་ལས། །མྱ་ངན་འདའ་བར་འགྱུར་བར་འདོད། །

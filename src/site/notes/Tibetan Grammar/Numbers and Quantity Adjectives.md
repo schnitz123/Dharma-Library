@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/numbers-and-quantity-adjectives/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/numbers-and-quantity-adjectives/","dg-note-properties":{}}
 ---
 
 These are numbers and adjectives describing quantity.

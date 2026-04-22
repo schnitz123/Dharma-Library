@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/nine-supramundane-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/nine-supramundane-paths/","dg-note-properties":{}}
 ---
 
 འཇིག་རྟེན་ལས་འདས་པའི་ལམ་གྱི་སྒྲས་བརྗོད་རིགས་ལ་དགུ་ཡོད་དེ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/activating-the-mahayana-lineage/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/activating-the-mahayana-lineage/","dg-note-properties":{}}
 ---
 
 Leads to various discussions surrounding whether or not buddha-lineage pervades all sentient beings:

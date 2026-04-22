@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/eight-branches-of-aryas-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/eight-branches-of-aryas-paths/","dg-note-properties":{}}
 ---
 
 འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་ཡོད་དེ། 

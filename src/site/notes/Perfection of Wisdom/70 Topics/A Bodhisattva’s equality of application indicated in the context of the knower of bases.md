@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/a-bodhisattva-s-equality-of-application-indicated-in-the-context-of-the-knower-of-bases/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/a-bodhisattva-s-equality-of-application-indicated-in-the-context-of-the-knower-of-bases/","dg-note-properties":{}}
 ---
 
 གཞིའི་ངོ་བོ་དང་དབྱེ་བ་དང་མཚན་མཚོན་དང་ཡུལ་ཡུལ་ཅན་ལ་བདེན་ཞེན་འགོག་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སེམས་དཔའི་རྣལ་འབྱོར་དེ། 

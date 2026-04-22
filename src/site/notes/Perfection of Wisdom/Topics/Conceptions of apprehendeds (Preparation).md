@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-preparation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-preparation/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་གཟུང་བ་ལ་དམིགས་ནས་ལོངས་སྤྱད་བྱར་བདེན་པར་ཞེན་པའི་ཞེན་རིག ཤེས་སྒྲིབ་གཟུང་རྟོག་གི་མཚན་ཉིད།

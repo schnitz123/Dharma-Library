@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-in-ornament-for-mahayana-sutras/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-in-ornament-for-mahayana-sutras/","dg-note-properties":{}}
 ---
 
 **Mahayana refuge is supreme due to (all related to bodhisattvas):**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/the-three-natures-in-prasangika-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/the-three-natures-in-prasangika-tendarwa/","dg-note-properties":{}}
 ---
 
 All phenomena from forms and up to omniscience are posited in terms of: གཟུགས་ནས་རྣམ་མཁྱེན་གྱི་བར་གྱི་ཆོས་ཐམས་ཅད།

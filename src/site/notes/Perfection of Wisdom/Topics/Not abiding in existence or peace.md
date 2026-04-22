@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/not-abiding-in-existence-or-peace/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/not-abiding-in-existence-or-peace/","dg-note-properties":{}}
 ---
 
 

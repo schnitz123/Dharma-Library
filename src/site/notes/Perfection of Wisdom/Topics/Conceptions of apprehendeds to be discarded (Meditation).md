@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-to-be-discarded-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-to-be-discarded-meditation/","dg-note-properties":{}}
 ---
 
 

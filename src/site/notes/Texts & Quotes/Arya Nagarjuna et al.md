@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/arya-nagarjuna-et-al/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/arya-nagarjuna-et-al/","dg-note-properties":{}}
 ---
 
 [[Texts & Quotes/Arya Nagarjuna\|Arya Nagarjuna]]: 

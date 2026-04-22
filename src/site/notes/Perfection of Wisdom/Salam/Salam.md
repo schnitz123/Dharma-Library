@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/salam/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/salam/","dg-note-properties":{}}
 ---
 
 [[Perfection of Wisdom/Salam/Presentation of grounds\|Presentation of grounds]]

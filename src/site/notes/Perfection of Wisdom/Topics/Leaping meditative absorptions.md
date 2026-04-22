@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/leaping-meditative-absorptions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/leaping-meditative-absorptions/","dg-note-properties":{}}
 ---
 
 1. [[Perfection of Wisdom/Topics/Preparation for leaping\|Preparation for leaping]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-proponents-of-neither/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-proponents-of-neither/","dg-note-properties":{}}
 ---
 
 སྔ་མ་བརྒྱད་པོ་དེ་ཉིད་ལ་འདུ་ཤེས་ཡོད་པ་ཡང་མ་ཡིན། མེད་པ་ཡང་མ་ཡིན་པར་ཞེས་སོགས་སྦྱར་ནས་ལྟ་བ་བརྒྱད་པོ་དེ་ཡིན་ནོ།

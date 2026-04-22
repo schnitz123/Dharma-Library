@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/not-abandoning-by-taking-the-afflictions-as-a-main-object-of-abandonment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/not-abandoning-by-taking-the-afflictions-as-a-main-object-of-abandonment/","dg-note-properties":{}}
 ---
 
 བྱང་སེམས་འཕགས་པའི་ཆེད་དུ་གཉེར་ནས་མི་སྤོང་རྒྱུའི་སྐབས་འདིར་བསྟན་གྱི་ཉོན་མོངས་ཡིན་ན། ཉོན་མོངས་མཚན་ཉིད་པ་ཡིན་དགོས་པའི་ཕྱིར་དང༌། དེ་ཡིན་ན། ཉན་རང་སློབ་པ་འཕགས་པའི་རང་ཉིད་སྤང་བྱའི་གཙོ་བོར་བྱས་ནས་སྤོང་བས་ཁྱབ་པའི་ཕྱིར་ཏེ། ཉན་རང་སློབ་པ་འཕགས་པས་སྐབས་འདིར་བསྟན་གྱི་

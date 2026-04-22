@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/","dg-note-properties":{}}
 ---
 
 See: [[Texts & Quotes/Shantideva/Shantideva\|Shantideva]]

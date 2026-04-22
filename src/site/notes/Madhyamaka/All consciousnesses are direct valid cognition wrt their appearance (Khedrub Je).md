@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/all-consciousnesses-are-direct-valid-cognition-wrt-their-appearance-khedrub-je/"}
+{"dg-publish":true,"permalink":"/madhyamaka/all-consciousnesses-are-direct-valid-cognition-wrt-their-appearance-khedrub-je/","dg-note-properties":{}}
 ---
 
 ཚིག་གསལ་ལས། གལ་ཏེ་མཚན་གཞིའམ། རང་གི་མཚན་ཉིད་དམ། སྤྱིའི་མཚན་ཉིད་ཀྱང་རུང་སྟེ། འཇིག་རྟེན་ན་ཡོད་ན་ནི་ཐམས་ཅད་མངོན་སུམ་དུ་དམིགས་པར་བྱ་བ་ཡིན་པའི་ཕྱིར་ལྐོག་ཏུ་མ་གྱུར་པ་ཡིན་ཏེ། དེའི་ཕྱིར་དེའི་ཡུལ་ཅན་གྱི་རྣམ་པར་ཤེས་པ་དང་ལྷན་ཅིག་ཏུ་མངོན་སུམ་ཉིད་དུ་རྣམ་པར་བཞག་གོ །ཞེས་གསུངས།

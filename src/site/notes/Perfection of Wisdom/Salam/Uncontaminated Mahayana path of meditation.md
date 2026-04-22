@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/uncontaminated-mahayana-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/uncontaminated-mahayana-path-of-meditation/","dg-note-properties":{}}
 ---
 
 སྒྲ་དོན་འདྲེས་རུང་དུ་འཛིན་པའི་རྟོག་པ་དང་བྲལ་བའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས། ཐེག་ཆེན་གྱི་ཟག་བཅས་སྒོམ་ལམ་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/other-powered-nature/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/other-powered-nature/","dg-note-properties":{}}
 ---
 
 རང་གི་རྒྱུ་རྐྱེན་ལས་སྐྱེས་པ། གཞན་དབང་གི་མཚན་ཉིད།

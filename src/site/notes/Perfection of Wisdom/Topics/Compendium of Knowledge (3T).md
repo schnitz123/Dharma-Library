@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/compendium-of-knowledge-3-t/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/compendium-of-knowledge-3-t/","dg-note-properties":{}}
 ---
 
 དུས་དེར་བྱུང་ཟིན་གང་ཞིག དུས་དེར་འགགས་པར་དམིགས་པ་དེ། དུས་དེར་འདས་པའི་མཚན་ཉིད།

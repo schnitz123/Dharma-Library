@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/aryadeva/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/aryadeva/","dg-note-properties":{}}
 ---
 
 ཇི་ལྟར་ས་བོན་མཐའ་མཐོང་ཞིང་། །དེ་ལ་ཐོག་མ་ཡོད་མིན་ལྟར།་དེ་བཞིན་རྒྱུ་ནི་མ་ཚང་ཕྱིར། །སྐྱེ་བའང་འབྱུང་བར་མི་འགྱུར་རོ།

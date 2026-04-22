@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/enlightened-activities/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/enlightened-activities/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་ཡེ་ཤེས་ཆོས་སྐུས་བདག་རྐྱེན་བྱས་པ་ལས་བྱུང་བའི་རྣམ་དཀར་གྱི་ཡོན་ཏན། ཡེ་ཤེས་ཆོས་སྐུའི་འཕྲིན་ལས་ཀྱི་མཚན་ཉིད།

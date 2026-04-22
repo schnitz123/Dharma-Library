@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/intermediate/"}
+{"dg-publish":true,"permalink":"/abhidharma/intermediate/","dg-note-properties":{}}
 ---
 
 ལུང་དུ་བསྟན་པ་གང་ཞིག  སྡོམ་པ་དང་སྡོམ་མིན་གང་རུང་མ་ཡིན་པར་དམིགས་པ། བར་མའི་མཚན་ཉིད། 

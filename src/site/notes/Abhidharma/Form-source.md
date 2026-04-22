@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/form-source/"}
+{"dg-publish":true,"permalink":"/abhidharma/form-source/","dg-note-properties":{}}
 ---
 
 མིག་ཤེས་ཀྱི་དམིགས་རྐྱེན་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་གཟུགས་སུ་དམིགས་པ། གཟུགས་ཀྱི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད།

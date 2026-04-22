@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/arya-hearer-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/arya-hearer-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་གཞི་རྟེན་བྱེད་པའི་ཉན་ཐོས་འཕགས་པའི་མངོན་རྟོགས། ཉན་ཐོས་འཕགས་པའི་སའི་མཚན་ཉིད།

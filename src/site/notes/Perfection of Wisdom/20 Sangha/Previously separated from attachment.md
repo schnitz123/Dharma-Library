@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/previously-separated-from-attachment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/previously-separated-from-attachment/","dg-note-properties":{}}
 ---
 
 ཐོད་རྒལ་བའི་ཉན་ཐོས་གང་ཞིག མཐོང་ལམ་གྱི་སྔ་རོལ་ཏུ་འདོད་ཉོན་ལ་ཆགས་བྲལ་བྱས་པ། ཆགས་བྲལ་སྔོན་སོང་གི་ཉན་ཐོས་ཀྱི་དགེ་འདུན་གྱི་མཚན་ཉིད།

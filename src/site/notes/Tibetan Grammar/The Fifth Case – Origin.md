@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-fifth-case-origin/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-fifth-case-origin/","dg-note-properties":{}}
 ---
 
 འབྱུང་སའི་ཁུངས་དང་། བྱུང་བའི་ཆོས་གཉིས་སོ་སོར་འབྱེད་ཅིང་། གང་ནས་བྱུང་བའི་ཡུལ་དང་། གང་ནས་དགར་བའི་དངོས་པོ། 

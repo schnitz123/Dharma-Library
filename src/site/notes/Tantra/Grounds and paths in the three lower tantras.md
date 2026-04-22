@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/grounds-and-paths-in-the-three-lower-tantras/"}
+{"dg-publish":true,"permalink":"/tantra/grounds-and-paths-in-the-three-lower-tantras/","dg-note-properties":{}}
 ---
 
 **Path of Accumulation:** ཚོགས་ལམ།

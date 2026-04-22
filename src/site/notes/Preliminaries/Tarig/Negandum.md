@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/negandum/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/negandum/","dg-note-properties":{}}
 ---
 
 i.e. "that to be negated" དགག་བྱ།

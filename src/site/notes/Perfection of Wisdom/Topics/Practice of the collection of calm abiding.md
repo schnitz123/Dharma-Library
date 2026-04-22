@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-calm-abiding/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-calm-abiding/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག སེམས་དམིགས་པ་ལ་ཇི་ལྟར་འདོད་འདོད་དུ་འབད་མེད་ལྷུན་གྲུབ་ཏུ་འཇུག་པའི་ཤིན་སྦྱངས་ཀྱི་བདེ་བས་ཟིན་པའི་ཏིང་ངེ་འཛིན། 

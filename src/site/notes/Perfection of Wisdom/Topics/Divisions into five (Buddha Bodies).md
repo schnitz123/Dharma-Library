@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divisions-into-five-buddha-bodies/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divisions-into-five-buddha-bodies/","dg-note-properties":{}}
 ---
 
 **Divisions:** (Dharmamitra ཆོས་བཤེས།)

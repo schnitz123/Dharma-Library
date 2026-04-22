@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/accumulation-practice/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/accumulation-practice/","dg-note-properties":{}}
 ---
 
 ཚོགས་གཉིས་རྒྱ་ཆེན་པོས་ཟིན་པའི་སྒོ་ནས་ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་ཆོས་མཆོག་འབྲིང་མན་ཆད་ལས་ཁྱད་པར་དུ་འཕགས་ཤིང་། 

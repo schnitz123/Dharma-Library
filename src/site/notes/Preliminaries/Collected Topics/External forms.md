@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/external-forms/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/external-forms/","dg-note-properties":{}}
 ---
 
 སྐྱེས་བུའི་ཤེས་རྒྱུད་ཀྱིས་མ་བསྡུས་པའི་གཟུགས་དེ། ཕྱིའི་གཟུགས་ཀྱི་མཚན་ཉིད།

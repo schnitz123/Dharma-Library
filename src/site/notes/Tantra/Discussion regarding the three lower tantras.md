@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/discussion-regarding-the-three-lower-tantras/"}
+{"dg-publish":true,"permalink":"/tantra/discussion-regarding-the-three-lower-tantras/","dg-note-properties":{}}
 ---
 
 **The need for siddhis and enhancing wisdom**

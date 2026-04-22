@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/dharma-wheels/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/dharma-wheels/","dg-note-properties":{}}
 ---
 
 བཀའ་དང་ལམ་ཞུགས་ཀྱི་མངོན་པར་རྟོགས་པ་གང་རུང་གིས་བསྡུས་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན། ཆོས་འཁོར་གྱི་ངོ་བོ།

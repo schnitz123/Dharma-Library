@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/applications-of-a-knower-of-bases-in-the-continuum-of-a-bodhisattva/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/applications-of-a-knower-of-bases-in-the-continuum-of-a-bodhisattva/","dg-note-properties":{}}
 ---
 
 དེ་བཞིན་གཤེགས་པ་འབྱུང་བ་སོགས་གཞི་ཤེས་ཀྱི་རྣམ་པ་གང་རུང་ལ་དམིགས་པའི་ཐེག་དམན་གྱི་རྟོགས་རིགས་སུ་གནས་པའི་སེམས་དཔའི་རྣལ་འབྱོར། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/correct-from-the-perspective-of-worldly-knowledge/"}
+{"dg-publish":true,"permalink":"/madhyamaka/correct-from-the-perspective-of-worldly-knowledge/","dg-note-properties":{}}
 ---
 
 ཤེས་པ་གང་ཞིག སྟོང་ཉིད་རྟོགས་མ་མྱོང་བའི་གང་ཟག་གི་རྒྱུད་ཀྱི་ཐ་སྙད་པའི་ཚད་མས་ཁྱོད་ལོག་ཤེས་སུ་རྟོགས་མི་ནུས་པ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/pseudo-direct-perceivers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/pseudo-direct-perceivers/","dg-note-properties":{}}
 ---
 
 རང་གི་སྣང་ཡུལ་ལ་འཁྲུལ་པའི་རིག་པ། མངོན་སུམ་ལྟར་སྣང་གི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divisions-of-wrong-views/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divisions-of-wrong-views/","dg-note-properties":{}}
 ---
 
 ལྟ་ངན་རྣམས་འཁྲུལ་གཞི་ལ་བརྟེན་ནས་འབྱུང་ཞིང་གང་ཟག་གི་བདག་མེད་པར་ཤེས་པའི་སེམས་དཔའི་རྣལ་འབྱོར། 

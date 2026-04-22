@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/non-established-sign-in-the-proof-of-that/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/non-established-sign-in-the-proof-of-that/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་རྟགས་སུ་བཀོད་པ་གང་ཞིག དེ་སྒྲུབ་ཀྱི་ཕྱོགས་ཆོས་མ་ཡིན་པ་དེ། དེ་སྒྲུབ་ཀྱི་མ་གྲུབ་པའི་གཏན་ཚིགས་ཀྱི་མཚན་ཉིད།

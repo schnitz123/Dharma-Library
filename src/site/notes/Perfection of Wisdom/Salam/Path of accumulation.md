@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-accumulation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-accumulation/","dg-note-properties":{}}
 ---
 
 ཆོས་མངོན་པར་རྟོགས་པ། ཚོགས་ལམ་གྱི་མཚན་ཉིད།

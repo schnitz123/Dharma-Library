@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/application-of-skilful-means/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/application-of-skilful-means/","dg-note-properties":{}}
 ---
 
 འབད་རྩོལ་རགས་པ་ཞི་བའི་སྒོ་ནས་འཕྲིན་ལས་ལྷུན་གྱིས་གྲུབ་པའི་དག་སའི་རྣལ་འབྱོར། ཐབས་མཁས་སྦྱོར་བའི་མཚན་ཉིད།

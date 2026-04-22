@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/causal-and-resultant-refuge/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/causal-and-resultant-refuge/","dg-note-properties":{}}
 ---
 
 གང་ཟག་གཞན་རྒྱུད་ལ་གྲུབ་ཟིན་གྱི་དཀོན་མཆོག་གསུམ། བྱང་སེམས་རྒྱུན་མཐའ་བའི་རྒྱུའི་སྐྱབས་ཡིན།

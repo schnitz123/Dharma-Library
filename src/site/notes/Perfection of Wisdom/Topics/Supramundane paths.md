@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/supramundane-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/supramundane-paths/","dg-note-properties":{}}
 ---
 
 **Main division:** (also called the nine serial absorptions མཐར་གྱིས་གནས་པའི་སྙོམས་འཇུག་དགུ།)

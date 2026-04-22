@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/application-of-the-equality-of-existence-and-peace/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/application-of-the-equality-of-existence-and-peace/","dg-note-properties":{}}
 ---
 
 སྲིད་ཞི་བདེན་སྟོང་དུ་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སྒོ་ནས་རྗེས་ཐོབ་ཀྱི་གནས་སྐབས་སུ་བདེན་འཛིན་མངོན་གྱུར་པ་སྐྱེ་བའི་གོ་སྐབས་ཟད་པར་

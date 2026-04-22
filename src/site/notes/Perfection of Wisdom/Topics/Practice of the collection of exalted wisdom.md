@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-exalted-wisdom/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-exalted-wisdom/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག སྟོང་ཉིད་རྟོགས་པའི་ཤེས་རབ་ཁྱད་པར་ཅན་གྱི་རྟོགས་རིགས་སུ་གནས་པ། ཡེ་ཤེས་ཀྱི་ཚོགས་སྒྲུབ་ཀྱི་མཚན་ཉིད། 

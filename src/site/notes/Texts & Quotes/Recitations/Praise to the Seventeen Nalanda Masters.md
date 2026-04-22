@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-the-seventeen-nalanda-masters/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-the-seventeen-nalanda-masters/","dg-note-properties":{}}
 ---
 
 །དཔལ་ནཱ་ལེནྡྲའི་པཎ་ཆེན་བཅུ་བདུན་གྱི་གསོལ་འདེབས།

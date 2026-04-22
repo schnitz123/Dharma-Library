@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/who-pass-beyond-with-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/who-pass-beyond-with-application/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་སྐྱེ་འདའ་བ་གང་ཞིག །ལམ་སྒོམ་པ་འབད་རྩོལ་ཆེན་པོས་མྱང་འདས་མངོན་དུ་བྱེད་པ། 

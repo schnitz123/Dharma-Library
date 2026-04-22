@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/according-to-the-uttaratantra/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/according-to-the-uttaratantra/","dg-note-properties":{}}
 ---
 
 ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ཆོས་ཅན། ཁྱད་ཆོས་ལྔ་དང་ལྡན་ཏེ། 

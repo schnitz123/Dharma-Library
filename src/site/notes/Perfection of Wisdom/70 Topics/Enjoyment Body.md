@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/enjoyment-body/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/enjoyment-body/","dg-note-properties":{}}
 ---
 
 ངེས་པ་ལྔ་ལྡན་གྱི་གཟུགས་སྐུ་མཐར་ཐུག་དེ། ལོངས་སྐུའི་མཚན་ཉིད།

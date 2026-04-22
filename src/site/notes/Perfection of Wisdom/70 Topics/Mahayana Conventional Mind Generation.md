@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/mahayana-conventional-mind-generation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/mahayana-conventional-mind-generation/","dg-note-properties":{}}
 ---
 
 རང་གི་གྲོགས་སུ་གྱུར་པའི་གཞན་དོན་དུ་རྫོགས་པའི་བྱང་ཆུབ་ལ་དམིགས་པའི་འདུན་པ་དང་མཚུངས་ལྡན་དུ་བྱུང་ཞིང་། ཐེག་ཆེན་ལམ་གྱི་འཇུག་སྒོར་གྱུར་པའི་ལམ་གྱི་རིགས་སུ་གནས་པའི་རབ་ཏུ་ཕྱེ་བའི་ཐེག་ཆེན་གཙོ་བོའི་ཡིད་ཀྱི་རྣམ་རིག་ཁྱད་པར་ཅན་དེ། ཐེག་ཆེན་ཀུན་རྫོབ་སེམས་བསྐྱེད་ཀྱི་མཚན་ཉིད།

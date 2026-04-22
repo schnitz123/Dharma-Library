@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/apprehension-of-a-self-of-phenomena/"}
+{"dg-publish":true,"permalink":"/madhyamaka/apprehension-of-a-self-of-phenomena/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་ཆོས་དང་གང་ཟག་གཉིས་སུ་ཕྱེ་བའི་ཆོས་ལ་དམིགས་ནས་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་འཛིན་པའི་བློ། 

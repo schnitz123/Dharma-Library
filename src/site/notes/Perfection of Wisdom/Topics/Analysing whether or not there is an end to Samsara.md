@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/analysing-whether-or-not-there-is-an-end-to-samsara/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/analysing-whether-or-not-there-is-an-end-to-samsara/","dg-note-properties":{}}
 ---
 
 འཁོར་བ་ལ་ཐོག་མའི་མཐའ་མེད་ཀྱང་ཐ་མའི་མཐའ་ཡོད་དེ། སེམས་ཅན་ཐམས་ཅད་སངས་རྒྱ་ངེས་ཡིན་པའི་ཕྱིར། 

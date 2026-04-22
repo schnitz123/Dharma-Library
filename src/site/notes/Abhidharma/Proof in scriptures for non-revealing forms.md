@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/proof-in-scriptures-for-non-revealing-forms/"}
+{"dg-publish":true,"permalink":"/abhidharma/proof-in-scriptures-for-non-revealing-forms/","dg-note-properties":{}}
 ---
 
 རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་གཟུགས་ཡོད་པར་ལུང་རིགས་གཉིས་ཀྱིས་གྲུབ་སྟེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/emphasis-conjunction-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/emphasis-conjunction-particles/","dg-note-properties":{}}
 ---
 
 This particle has three markers that are suffix-dependent:

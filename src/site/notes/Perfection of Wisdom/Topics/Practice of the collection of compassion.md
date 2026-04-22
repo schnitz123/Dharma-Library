@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-compassion/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-compassion/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག །རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་སེམས་ཅན་སྡུག་བསྔལ་དང་བྲལ་བར་འདོད་པའི་རྣམ་པ་ཅན་གྱི་བརྩེ་བ། སྙིང་རྗེའི་ཚོགས་སྒྲུབ་ཀྱི་མཚན་ཉིད། 

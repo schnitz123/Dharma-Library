@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-engaging-in-the-activities-uttaratantra/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-engaging-in-the-activities-uttaratantra/","dg-note-properties":{}}
 ---
 
 **The six meanings:** དོན་དྲུག

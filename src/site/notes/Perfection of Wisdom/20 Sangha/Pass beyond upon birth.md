@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/pass-beyond-upon-birth/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/pass-beyond-upon-birth/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་གང་ཞིག །གཟུགས་སུ་སྐྱེ་བའི་ཀུན་སྦྱོར་དང་མངོན་པར་འགྲུབ་པའི་ཀུན་སྦྱོར་གཉིས་ཀ་མ་སྤངས་པས་གཟུགས་ཁམས་སུ་

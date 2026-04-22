@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/actions-would-induce-their-fruitions-endlessly-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/actions-would-induce-their-fruitions-endlessly-tendarwa/","dg-note-properties":{}}
 ---
 
 ཁ་ཅིག་གིས། དགེ་མི་དགེའི་ལས་ཀྱིས་རྣམ་སྨིན་གྱི་འབྲས་བུ་འབྱིན་པ་ཐུག་མེད་ཡིན་པར་ཐལ། ལས་ཞིག་པས་འབྲས་བུ་བསྐྱེད་པའི་ཕྱིར། ཞེས་ཟེར་ན།

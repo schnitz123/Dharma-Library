@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/ultimately-proceed-to-akani-ha/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/ultimately-proceed-to-akani-ha/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་གོང་འཕོ་བ་གང་ཞིག །འོག་མིན་གྱི་རྟེན་ལ་མྱང་འདས་མངོན་དུ་བྱེད་པའི་རིགས་ཅན། 

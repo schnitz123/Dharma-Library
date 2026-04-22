@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/adherence-to-signs-in-relation-to-the-result/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/adherence-to-signs-in-relation-to-the-result/","dg-note-properties":{}}
 ---
 
 དེ་བཞིན་གཤེགས་པ་ལ་སྐྱབས་གནས་ཡང་དག་ཏུ་བདེན་པར་གཟུང་བའི་སྒོ་ནས་ཕྱག་འཚལ་བ་དང་བསྟོད་པ་དང༌། 

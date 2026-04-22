@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/who-pass-beyond-just-upon-rebirth/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/who-pass-beyond-just-upon-rebirth/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་སྐྱེ་འདའ་བ་གང་ཞིག །གཟུགས་ཀྱི་སྐྱེ་སྲིད་གྲུབ་ཙམ་ནས་མྱང་འདས་མངོན་དུ་བྱེད་པ། སྐྱེས་ཙམ་ནས་འདའ་བའི་མཚན་ཉིད།

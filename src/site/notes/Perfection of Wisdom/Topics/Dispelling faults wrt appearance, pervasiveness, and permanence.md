@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/dispelling-faults-wrt-appearance-pervasiveness-and-permanence/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/dispelling-faults-wrt-appearance-pervasiveness-and-permanence/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་འཕགས་པ་འདི་དུས་རྟག་ཏུ་ཉེ་རིང་དང་བྲལ་བའི་ཐུགས་རྗེ་ཆེན་པོའི་ངང་ལ་བཞུགས་ཀྱང་། 

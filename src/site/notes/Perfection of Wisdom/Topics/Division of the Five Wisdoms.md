@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/division-of-the-five-wisdoms/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/division-of-the-five-wisdoms/","dg-note-properties":{}}
 ---
 
 1. Exalted wisdom of dharmadhatu ཆོས་དབྱིངས་ཀྱི་ཡེ་ཤེས།

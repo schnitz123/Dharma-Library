@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/marks-and-signs-4-bodies-gm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/marks-and-signs-4-bodies-gm/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞིའི་སེམས་ལ་བརྟེན་ནས་རང་ཉིད་སྐྱེས་བུ་དམ་པར་མཚོན་པར་བྱེད་པའམ། 

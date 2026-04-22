@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/valid-cognisers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/valid-cognisers/","dg-note-properties":{}}
 ---
 
 གསར་དུ་མི་སླུ་བའི་རིག་པ། ཚད་མའི་མཚན་ཉིད།

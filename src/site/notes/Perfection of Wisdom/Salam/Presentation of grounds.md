@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/presentation-of-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/presentation-of-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་གཞི་རྟེན་བྱེད་པའི་ལམ་ཞུགས་ཀྱི་མངོན་པར་རྟོགས་པ་དེ། ས་ལམ་གཉིས་སུ་ཕྱེ་བའི་སའི་མཚན་ཉིད།

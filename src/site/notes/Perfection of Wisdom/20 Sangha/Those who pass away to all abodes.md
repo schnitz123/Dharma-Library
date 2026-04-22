@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/those-who-pass-away-to-all-abodes/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/those-who-pass-away-to-all-abodes/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་གོང་འཕོ་འོག་མིན་མཐར་ཐུག་འགྲོ་གང་ཞིག །ཚངས་ཆེན་མ་གཏོགས་གཟུགས་ཀྱི་གནས་རིགས་བཅུ་དྲུག་རིམ་གྱིས་བགྲོད་དེ་

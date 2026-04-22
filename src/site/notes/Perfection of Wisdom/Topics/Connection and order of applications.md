@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/connection-and-order-of-applications/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/connection-and-order-of-applications/","dg-note-properties":{}}
 ---
 
 སྐབས་དང་པོ་གསུམ་དུ་མཁྱེན་གསུམ་གྱི་རྣམ་པ་ཤེས་ནས་བསྒོམ་པར་བྱ་བའི་མཁྱེན་གསུམ་གྱི་རྣམ་པ་དེ་ཉིད་སྦྱོར་བ་ཁྱད་པར་ཅན་གྱིས་ཟིན་དགོས་ཤིང༌། 

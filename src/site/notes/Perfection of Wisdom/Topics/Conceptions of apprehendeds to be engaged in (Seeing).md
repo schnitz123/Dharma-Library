@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-to-be-engaged-in-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehendeds-to-be-engaged-in-seeing/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་བྱང་སེམས་ལམ་གྱི་འཇུག་བྱ་ལ་དམིགས་ནས་ལོངས་སྤྱད་བྱར་བདེན་པར་འཛིན་པའི་བདེན་འཛིན་ཀུན་བརྟགས།

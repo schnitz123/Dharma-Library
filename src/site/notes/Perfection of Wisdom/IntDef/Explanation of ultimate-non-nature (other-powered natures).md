@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-ultimate-non-nature-other-powered-natures/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-ultimate-non-nature-other-powered-natures/","dg-note-properties":{}}
 ---
 
 ཆོས་རྣམས་ཀྱི་དོན་དམ་པ་ངོ་བོ་ཉིད་མེད་པ་གང་ཞེ་ན། རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་ཆོས་གང་དག་སྐྱེ་བ་ངོ་བོ་ཉིད་མེད་པ་ཉིད་ཀྱིས་ངོ་བོ་ཉིད་མེད་པ་དེ་དག་ནི་

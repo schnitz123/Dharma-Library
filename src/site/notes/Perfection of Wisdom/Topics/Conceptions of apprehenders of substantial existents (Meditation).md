@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-of-substantial-existents-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-of-substantial-existents-meditation/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/uncontaminated-vows/"}
+{"dg-publish":true,"permalink":"/abhidharma/uncontaminated-vows/","dg-note-properties":{}}
 ---
 
 འདུས་བྱས་དང་ཟག་མེད་ཀྱི་གཞི་མཐུན་པའི་སྡོམ་པར་དམིགས་པ། ཟག་མེད་ཀྱི་སྡོམ་པའི་མཚན་ཉིད།

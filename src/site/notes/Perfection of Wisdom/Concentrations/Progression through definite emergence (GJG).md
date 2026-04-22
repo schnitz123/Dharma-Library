@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/progression-through-definite-emergence-gjg/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/progression-through-definite-emergence-gjg/","dg-note-properties":{}}
 ---
 
 The definitions of both the [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the concentrations\|concentrations]] and [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the Formless Realm\|formless absorptions]] specify “passed beyond its lower level” (རང་གི་འོག་ས་ལས་འདས་པ།), which is explained respectively as:

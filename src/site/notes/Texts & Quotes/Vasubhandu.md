@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/vasubhandu/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/vasubhandu/","dg-note-properties":{}}
 ---
 
 [[Texts & Quotes/Treasury of Knowledge + Autocommentary\|Treasury of Knowledge + Autocommentary]]

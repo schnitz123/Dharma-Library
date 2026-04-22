@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/wrong-consciousness/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/wrong-consciousness/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞུགས་པའི་རིག་པ། ལོག་ཤེས་ཀྱི་མཚན་ཉིད།

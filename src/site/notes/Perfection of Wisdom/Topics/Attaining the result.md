@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/attaining-the-result/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/attaining-the-result/","dg-note-properties":{}}
 ---
 
 ལམ་ལ་བསླབས་པའི་འབྲས་བུ་མཐར་ཐུག་སངས་རྒྱས་ཀྱི་སྐུ་ཡིན་ལ། དེ་དངོས་སུ་ཐོབ་པའི་རྟེན་ནི་བྱང་སེམས་རྒྱུན་མཐའ་པ་ཡིན་གྱི། 

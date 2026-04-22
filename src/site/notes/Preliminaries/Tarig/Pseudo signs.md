@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/pseudo-signs/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/pseudo-signs/","dg-note-properties":{}}
 ---
 
 In general, pseudo signs do not exist because if it is an established base, it is pervaded by being a correct sign.

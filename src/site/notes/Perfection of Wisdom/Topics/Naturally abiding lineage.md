@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/naturally-abiding-lineage/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/naturally-abiding-lineage/","dg-note-properties":{}}
 ---
 
 རང་གི་རྟེན་ཆོས་སུ་གྱུར་པའི་དྲི་མ་དང་བཅས་པའི་སེམས་ཀྱི་ཆོས་ཉིད་གང་ཞིག ངོ་བོ་ཉིད་སྐུར་འགྱུར་རུང་དེ། རང་བཞིན་གནས་རིགས་ཀྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/je-tsongkhapa/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/je-tsongkhapa/","dg-note-properties":{}}
 ---
 
 **From Destiny Fulfilled:** རྟོགས་བརྗོད་མདུན་ལེགས་མ་ལས། 

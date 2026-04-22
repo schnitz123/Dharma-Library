@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/implicative-negation/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/implicative-negation/","dg-note-properties":{}}
 ---
 
 རང་ཞེས་བརྗོད་པའི་སྒྲས་རང་གི་དགག་བྱ་བཀག་ཤུལ་དུ་རང་འཛིན་རྟོག་པའི་གཞལ་བྱར་འཕངས་པ་ཡང་ཡིན། སྒྲུབ་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པ་ཡོད་པ་ཡང་ཡིན། དགག་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ་དེ། རང་ཉིད་མ་ཡིན་དགག་གི་གཞན་སེལ་གྱི་མཚན་ཉིད།

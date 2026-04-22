@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/absorption-of-cessation/"}
+{"dg-publish":true,"permalink":"/madhyamaka/absorption-of-cessation/","dg-note-properties":{}}
 ---
 
 རང་འཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་འཇིག་རྟེན་ལས་འདས་པའི་ལམ་དང་སྲིད་རྩེའི་དངོས་གཞིའི་སྙོམས་འཇུག་ལ་བརྟེན་ནས་ཐོབ་ཅིང་
@@ -51,4 +51,4 @@ because the eight concentrations and absorptions (the basis for alternation) are
 If follows that there is no difference in terms of being peaceful or not in relation to the cessation used for leaping going up and the cessation used for leaping going down because both are the same in being exalted wisdoms of meditative equipoise in single-pointed equipoise on dharmata. You asserted the sign.
 
 ---
-Up a level: [[Madhyamaka/Madhyamaka\|Madhyamaka]]
+Up a level: [[Madhyamaka/Madhyamaka#^d08963\|Madhyamaka]]

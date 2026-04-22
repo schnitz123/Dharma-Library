@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/application-in-complete-aspects/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/application-in-complete-aspects/","dg-note-properties":{}}
 ---
 
 མཁྱེན་གསུམ་གྱི་རྣམ་པ་བསྡུས་ནས་སྒོམ་པར་བྱེད་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སེམས་དཔའི་རྣལ་འབྱོར། རྣམ་རྫོགས་སྦྱོར་བའི་མཚན་ཉིད། 

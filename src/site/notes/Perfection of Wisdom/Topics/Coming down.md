@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/coming-down/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/coming-down/","dg-note-properties":{}}
 ---
 
 སྤེལ་གཞི་སྙོམས་འཇུག་དགུ་དང་བསམ་གཟུགས་བརྒྱད་པོ་གང་རུང་ལ་སྤེལ་ཆོས་འདོད་སེམས་དང་འགོག་པ་གང་རུང་སྤེལ་ནས་ལུགས་མི་མཐུན་དུ་

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/remainder/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/remainder/","dg-note-properties":{}}
 ---
 
 This usage is subtly different from the previous two; it marks that the sentence is not yet complete in that there is more information coming. It often performs the function of a semicolon. Often, the way to distinguish it is simply that the sentence continues but is not giving a reason etc. for what came before.

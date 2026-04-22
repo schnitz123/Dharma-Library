@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/the-time-of-accomplishing-the-result-there/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/the-time-of-accomplishing-the-result-there/","dg-note-properties":{}}
 ---
 
 དེ་ལྟ་བུའི་གནས་དེར་བྱང་སེམས་འོག་མ་རྣམས་བསྐལ་པ་གྲངས་མེད་གསུམ་ལ་སོགས་པའི་ཚོགས་བསགས་པ་སྔོན་དུ་སོང་ནས་དུས་རེ་ཞིག་ན། 

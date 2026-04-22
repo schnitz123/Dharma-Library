@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-20-investigation-of-collections/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-20-investigation-of-collections/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་རྒྱུ་དང་རྐྱེན་རྣམས་ཀྱི། །ཚོགས་པ་ཉིད་ལས་སྐྱེ་འགྱུར་ཞིང༌། །ཚོགས་ལ་འབྲས་བུ་ཡོད་ན་ནི། །ཇི་ལྟར་ཚོགས་པ་ཉིད་ལས་སྐྱེ། །

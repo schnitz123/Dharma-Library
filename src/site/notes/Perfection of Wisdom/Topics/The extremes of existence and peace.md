@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/the-extremes-of-existence-and-peace/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/the-extremes-of-existence-and-peace/","dg-note-properties":{}}
 ---
 
 **The two extremes in this context (Panchen):**

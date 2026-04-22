@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/root-verses/root-verses/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/root-verses/root-verses/","dg-note-properties":{}}
 ---
 
 ཉན་ཐོས་ཞི་བ་འཚོལ་རྣམས་ཀུན་ཤེས་ཉིད་ཀྱིས་ཉེར་ཞིར་ཁྲིད་མཛད་གང་ཡིན་དང་།

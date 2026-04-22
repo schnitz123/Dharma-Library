@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/arya-solitary-realiser-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/arya-solitary-realiser-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་གཞི་རྟེན་བྱེད་པའི་རང་རྒྱལ་འཕགས་པའི་མངོན་རྟོགས། རང་རྒྱལ་འཕགས་པའི་སའི་མཚན་ཉིད།

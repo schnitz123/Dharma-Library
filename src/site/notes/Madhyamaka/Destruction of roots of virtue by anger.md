@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/destruction-of-roots-of-virtue-by-anger/"}
+{"dg-publish":true,"permalink":"/madhyamaka/destruction-of-roots-of-virtue-by-anger/","dg-note-properties":{}}
 ---
 
 སྐབས་འདིར་བཤད་པའི་ཁོང་ཁྲོའི་གཞོམ་བྱའི་དགེ་རྩ་ཡིན་ན་བསོད་ནམས་ཀྱི་ཚོགས་ཀྱིས་བསྡུས་པས་ཁྱབ།

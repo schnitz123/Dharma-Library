@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/eight-applications-for-the-five-faults/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/eight-applications-for-the-five-faults/","dg-note-properties":{}}
 ---
 
 དབུས་མཐའ་ལས། ཉེས་པ་ལྔ་སྤོང་འདུ་བྱེད་བརྒྱད། །བརྟེན་པའི་རྒྱུ་ལས་བྱུང་བའོ།

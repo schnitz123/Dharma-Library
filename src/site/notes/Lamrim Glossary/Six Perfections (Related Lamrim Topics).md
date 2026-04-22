@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/six-perfections-related-lamrim-topics/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/six-perfections-related-lamrim-topics/","dg-note-properties":{}}
 ---
 
 **Generosity that possesses the six excellences:** དམ་པ་དྲུག་ལྡན་དུ་བྱ་བ།

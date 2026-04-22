@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-antidotes/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-antidotes/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག རང་གི་ངོས་སྐལ་གྱི་སྤང་བྱའི་དངོས་གཉེན་བྱེད་པ། གཉེན་པོའི་ཚོགས་སྒྲུབ་ཀྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/mental-factor/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/mental-factor/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་གྱི་ཁྱད་པར་ཅི་རིགས་འཛིན་ཅིང་རང་དང་མཚུངས་ལྡན་གྱི་གཙོ་སེམས་གང་རུང་གི་འཁོར་དུ་བྱུང་བའི་རིག་པ། སེམས་བྱུང་གི་མཚན་ཉིད།

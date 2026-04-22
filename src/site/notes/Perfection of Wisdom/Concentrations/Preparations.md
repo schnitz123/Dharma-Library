@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/preparations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/preparations/","dg-note-properties":{}}
 ---
 
 ཉེར་བསྡོགས་ཀྱི་སས་བསྡུས་ཤིང་། རང་གི་ཐོབ་བྱར་གྱུར་པའི་གོང་སའི་དངོས་གཞི་སྙོམས་འཇུག་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་ཁམས་གོང་གི་སས་བསྡུས་ཀྱི་

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emanation-body-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emanation-body-gomde/","dg-note-properties":{}}
 ---
 
 ཁོ་ན་རེ། སྔར་བཤད་པའི་སྐུ་དེ་དག་དང་པོར་མངོན་དུ་མཛད་ནས་ཆོས་ལོངས་གཉིས་རྟག་ཏུ་བཞུགས་པར་བཤད་མོད། 

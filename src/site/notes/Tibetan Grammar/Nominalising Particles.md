@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/nominalising-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/nominalising-particles/","dg-note-properties":{}}
 ---
 
 This includes the following particles: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/dignaga-and-dharmakirti/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/dignaga-and-dharmakirti/","dg-note-properties":{}}
 ---
 
 Dignaga: [[Texts & Quotes/Compendium of Valid Cognition\|Compendium of Valid Cognition]]

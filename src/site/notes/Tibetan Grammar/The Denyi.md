@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-denyi/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-denyi/","dg-note-properties":{}}
 ---
 
 ལས་དང་བྱ་བ་སོ་སོར་འབྱེད་ཀྱང་། མིང་ཚིག་གང་རུང་གི་གཞི་གཅིག་ལ་སྦྱོར་བའི་ཚེ། བྱ་ལས་ངོ་བོ་ཐ་མི་དད་པར་བྱ་བ་གཅིག་ལ་སྦྱར་ནས་གོ་དགོས་པར་བརྟེན། 

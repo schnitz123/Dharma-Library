@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/discussion-about-their-observed-objects-and-aspects/"}
+{"dg-publish":true,"permalink":"/madhyamaka/discussion-about-their-observed-objects-and-aspects/","dg-note-properties":{}}
 ---
 
 **There is no difference in observed-objects and aspects because:** དེ་ལ་དམིགས་རྣམ་མི་འདྲ་བའི་ཁྱད་པར་མེད་དེ།  

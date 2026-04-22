@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/difference-between-hearers-and-solitary-realisers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/difference-between-hearers-and-solitary-realisers/","dg-note-properties":{}}
 ---
 
 རང་རྒྱལ་དགྲ་བཅོམ་པ་ཆོས་ཅན། ཉན་ཐོས་ལས་ལམ་བགྲོད་ཚུལ་གྱི་སྒོ་ནས་ཁྱད་པར་དུ་འཕགས་ཏེ། སྲིད་པ་ཐ་མའི་ཚེ་སློབ་དཔོན་གཞན་གྱི་གདམས་ངག་ལ་

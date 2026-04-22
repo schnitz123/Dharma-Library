@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/assertion/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/assertion/","dg-note-properties":{}}
 ---
 
 This usage does not specifically relate to verbs and is used to give more information, reasons, or divisions. 

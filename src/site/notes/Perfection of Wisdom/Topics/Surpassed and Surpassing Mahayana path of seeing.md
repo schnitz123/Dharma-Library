@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/surpassed-and-surpassing-mahayana-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/surpassed-and-surpassing-mahayana-path-of-seeing/","dg-note-properties":{}}
 ---
 
 Mahayana path of seeing can also be divided into:

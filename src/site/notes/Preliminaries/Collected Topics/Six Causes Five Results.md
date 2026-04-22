@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/six-causes-five-results/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/six-causes-five-results/","dg-note-properties":{}}
 ---
 
 བྱེད་རྒྱུ་ལྷན་ཅིག་འབྱུང་བ་དང་། །སྐལ་མཉམ་མཚུངས་པར་ལྡན་པ་དང་། །ཀུན་ཏུ་འགྲོ་དང་རྣམ་སྨིན་དང་། །རྒྱུ་ནི་རྣམ་པ་དྲུག་ཏུ་འདོད།

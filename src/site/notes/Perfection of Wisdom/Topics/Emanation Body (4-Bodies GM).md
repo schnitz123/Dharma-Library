@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/emanation-body-4-bodies-gm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/emanation-body-4-bodies-gm/","dg-note-properties":{}}
 ---
 
 རང་གི་ནང་ཚན་དུ་གྱུར་པའི་ལོངས་སྐུ་ཡིན་པ་མེད་པ་གང་ཞིག །ངེས་པ་ལྔ་དང་མི་ལྡན་པའི་གཟུགས་སྐུ་མཐར་ཐུག་དེ། སངས་རྒྱས་ཀྱི་སྤྲུལ་པའི་སྤྲུལ་སྐུའི་མཚན་ཉིད།

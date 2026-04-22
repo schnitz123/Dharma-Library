@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-15-investigation-of-nature/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-15-investigation-of-nature/","dg-note-properties":{}}
 ---
 
 རང་བཞིན་རྒྱུ་དང་རྐྱེན་ལས་ནི། ། འབྱུང་བར་རིགས་པ་མ་ཡིན་ནོ། །རྒྱུ་དང་རྐྱེན་ལས་བྱུང་བ་ཡི། །རང་བཞིན་བྱས་པ་ཅན་དུ་འགྱུར། །

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-16-investigation-of-bondage-and-liberation/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-16-investigation-of-bondage-and-liberation/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་འདུ་བྱེད་འཁོར་ཞེ་ན། །དེ་དག་རྟག་ན་མི་འཁོར་ཏེ། །མི་རྟག་ན་ཡང་འཁོར་མི་འགྱུར། །སེམས་ཅན་ལ་ཡང་རིམ་འདི་མཚུངས། །

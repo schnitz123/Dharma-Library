@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/enlightened-activities-of-the-exalted-wisdom-truth-body/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/enlightened-activities-of-the-exalted-wisdom-truth-body/","dg-note-properties":{}}
 ---
 
 རང་གི་རྒྱུར་གྱུར་པའི་ཡེ་ཤེས་ཆོས་སྐུས་བདག་རྐྱེན་བྱས་པ་ལས་བྱུང་བའི་རྣམ་དཀར་གྱི་ཡོན་ཏན་དེ། ཡེ་ཤེས་ཆོས་སྐུའི་འཕྲིན་ལས་ཀྱི་མཚན་ཉིད། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/refutation-of-objections/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/refutation-of-objections/","dg-note-properties":{}}
 ---
 
 ༄༅། །རྒྱ་གར་སྐད་དུ། བི་གྲ་ཧ་བྱ་བརྟ་ནི་ཀཱ་རི་ཀཱ་ནཱ་མ། བོད་སྐད་དུ། རྩོད་པ་བཟློག་པའི་ཚིག་ལེའུར་བྱས་པ་ཞེས་བྱ་བ། 

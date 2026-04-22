@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/indefinite-sign-with-remainder-in-the-proof-of-that/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/indefinite-sign-with-remainder-in-the-proof-of-that/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་ཐུན་མོང་བའི་མ་ངེས་པའི་གཏན་ཚིགས་གང་ཞིག ཁྱོད་དེ་སྒྲུབ་པ་ལ་ཕྱོགས་ཆོས་ཅན་དུ་སོང་བའི་གང་ཟག་གིས། 

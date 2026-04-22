@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/sound-source/"}
+{"dg-publish":true,"permalink":"/abhidharma/sound-source/","dg-note-properties":{}}
 ---
 
 ཉན་ཤེས་ཀྱི་དམིགས་རྐྱེན་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་ཕྱིའི་སྐྱེ་མཆེད་དུ་དམིགས་པ། སྒྲའི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད། 

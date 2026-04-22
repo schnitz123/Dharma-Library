@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/analysis-of-the-powers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/analysis-of-the-powers/","dg-note-properties":{}}
 ---
 
 ཤེས་རབ་ཡིན་ན་ཤེས་རབ་ཀྱི་དབང་པོ་ཡིན་པས་མ་ཁྱབ་སྟེ། འཇིག་ལྟ་ཤེས་རབ་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ཤེས་རབ་ཉོན་མོངས་ཅན་ཡིན་པའི་ཕྱིར།

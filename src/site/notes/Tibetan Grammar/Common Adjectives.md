@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/common-adjectives/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/common-adjectives/","dg-note-properties":{}}
 ---
 
 These are adjectives describing colour, shape, spatial dimensions, quality, and so forth.

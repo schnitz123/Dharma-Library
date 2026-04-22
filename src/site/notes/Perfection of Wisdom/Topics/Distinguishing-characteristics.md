@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/distinguishing-characteristics/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/distinguishing-characteristics/","dg-note-properties":{}}
 ---
 
 བསམ་གྱིས་མི་ཁྱབ་པ་སོགས་ཀྱིས་ཁྱད་པར་དུ་བྱས་པའི་སེམས་དཔའི་རྣལ་འབྱོར། ཉན་རང་གི་སྦྱོར་བ་ལས་ཁྱད་དུ་འཕགས་པའི་སྦྱོར་བའི་མཚན་ཉིད།

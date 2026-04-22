@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/taking-the-vow-verses/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/taking-the-vow-verses/","dg-note-properties":{}}
 ---
 
 དཀོན་མཆོག་གསུམ་ལ་བདག་སྐྱབས་མཆི། སྡིག་པ་ཐམས་ཅད་སོ་སོར་བཤགས།

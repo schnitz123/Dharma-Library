@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/sixty-verses-on-reasoning/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/sixty-verses-on-reasoning/","dg-note-properties":{}}
 ---
 
 ༄༅། །རྒྱ་གར་སྐད་དུ། ཡུགྟི་ཥཥྛ་ཀཱ་ཀཱ་རི་ཀཱ་ནཱ་མ། བོད་སྐད་དུ། རིགས་པ་དྲུག་ཅུ་པའི་ཚིག་ལེ་འུར་བྱས་པ་ཞེས་བྱ་བ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/engaged-practice/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/engaged-practice/","dg-note-properties":{}}
 ---
 
 

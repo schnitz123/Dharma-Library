@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/awareness/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/awareness/","dg-note-properties":{}}
 ---
 
 རིག་པ། བློའི་མཚན་ཉིད། 

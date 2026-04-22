@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-vehicles/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-vehicles/","dg-note-properties":{}}
 ---
 
 དོན་གཉིས་གང་རུང་ཁུར་དུ་འཁྱེར་བའི་ལམ་ཞུགས་ཀྱི་མངོན་རྟོགས་དེ། ཐེག་པའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/purpose-for-presenting-the-paths-in-multiple-chapters/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/purpose-for-presenting-the-paths-in-multiple-chapters/","dg-note-properties":{}}
 ---
 
 སྐབས་དང་པོ་གསུམ་དུ་སྦྱོར་མཐོང་སྒོམ་གསུམ་བསྟན་པ་དང༌། སྦྱོར་བ་དང་པོ་གསུམ་དུ་སྦྱོར་མཐོང་སྒོམ་གསུམ་བསྟན་པ་ལ་དགོས་པ་ཡོད་དེ། 

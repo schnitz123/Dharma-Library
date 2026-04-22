@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-objective/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-objective/","dg-note-properties":{}}
 ---
 
 བྱ་བའི་ཡུལ་གང་ཞིག་ལ་བྱེད་པ་པོ་རང་གི་དོན་དུ་བྱེད་པ་ཉེ་བར་སྟོན་པའི་རྐྱེན། ལས་སུ་བྱ་བའི་སྒྲའི་གོ་དོན།

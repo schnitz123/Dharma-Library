@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-outer/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-outer/","dg-note-properties":{}}
 ---
 
 ཤེས་བ་ཆོས་ཅན། གཟུགས་ནི་གཟུགས་རང་གི་ངོ་བོ་ཉིད་ཀྱིས་གྲུབ་པས་སྟོང་སྟེ། 

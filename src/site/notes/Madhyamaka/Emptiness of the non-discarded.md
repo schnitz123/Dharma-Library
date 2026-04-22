@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-non-discarded/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-non-discarded/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་གང་ཡིན་པ་དེ་ནི་ཆོས་ཅན། དོར་བ་མེད་པ་ཡིན་ཏེ། 

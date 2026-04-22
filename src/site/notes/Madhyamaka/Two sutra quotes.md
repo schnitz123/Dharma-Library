@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/two-sutra-quotes/"}
+{"dg-publish":true,"permalink":"/madhyamaka/two-sutra-quotes/","dg-note-properties":{}}
 ---
 
 བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པའི་མདོ་ལས།

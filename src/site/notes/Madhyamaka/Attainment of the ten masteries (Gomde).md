@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/attainment-of-the-ten-masteries-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/attainment-of-the-ten-masteries-gomde/","dg-note-properties":{}}
 ---
 
 ཁོ་ན་རེ། ས་འདིར་ཉོན་མོངས་ཐམས་ཅད་ཟད་པར་བཤད་ན་འོ་ན། ས་བརྒྱད་པ་བ་ཆོས་ཅན། སྲིད་པར་སྐྱེ་བ་མི་ལེན་པར་ཐལ། ཉན་མོངས་ཟད་པར་སྤངས་པའི་ཕྱིར། 

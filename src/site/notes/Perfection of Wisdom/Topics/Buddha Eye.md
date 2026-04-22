@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/buddha-eye/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/buddha-eye/","dg-note-properties":{}}
 ---
 
 སྤྱན་ལྔའི་ནང་ཚན་གང་ཞིག ཆོས་ཐམས་ཅད་མངོན་སུམ་དུ་རྟོགས་པའི་མཐར་ཕྱིན་པའི་ཡེ་ཤེས། སངས་རྒྱས་ཀྱི་སྤྱན་གྱི་མཚན་ཉིད།

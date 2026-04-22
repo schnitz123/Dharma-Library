@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/space/"}
+{"dg-publish":true,"permalink":"/abhidharma/space/","dg-note-properties":{}}
 ---
 
 རྟག་པ་དང་མ་སྒྲིབ་པའི་རང་བཞིན་ཅན་གྱིས་གཞི་མཐུན་པར་དམིགས་པ། འདུས་མ་བྱས་ཀྱི་ནམ་མཁའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/three-principal-aspects-of-the-path/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/three-principal-aspects-of-the-path/","dg-note-properties":{}}
 ---
 
 ལམ་གཙོ་རྣམ་གསུམ། །རྗེ་བཙུན་བླ་མ་རྣམས་ལ་ཕྱག་འཚལ་ལོ། 

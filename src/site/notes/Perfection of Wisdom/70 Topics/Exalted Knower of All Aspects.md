@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/exalted-knower-of-all-aspects/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/exalted-knower-of-all-aspects/","dg-note-properties":{}}
 ---
 
 སེམས་བསྐྱེད་སོགས་བཅུ་མངོན་སུམ་དུ་རྟོགས་པ་མཐར་ཕྱིན་པའི་ཡེ་ཤེས། རྣམ་མཁྱེན་གྱི་མཚན་ཉིད། 

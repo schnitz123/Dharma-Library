@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/persons-for-whom-some-exalted-wisdom-as-descended/"}
+{"dg-publish":true,"permalink":"/tantra/persons-for-whom-some-exalted-wisdom-as-descended/","dg-note-properties":{}}
 ---
 
 གཞལ་ཡས་ཁང་དང་དེ་ལ་བཀོད་པའི་ལྷ་རགས་པ་རྣམས་ནམ་གསལ་བཏབ་ན་ཡན་ལག་ཉིང་ལག་ཐམས་ཅད་དུས་གཅིག་ཏུ་གསལ་ཞིང་བརྟན་པར་འཆར་ཐུབ་ཀྱང་

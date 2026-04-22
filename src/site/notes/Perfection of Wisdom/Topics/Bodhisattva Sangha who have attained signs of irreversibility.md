@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/bodhisattva-sangha-who-have-attained-signs-of-irreversibility/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/bodhisattva-sangha-who-have-attained-signs-of-irreversibility/","dg-note-properties":{}}
 ---
 
 གཟུགས་སོགས་ལ་བདེན་ཞེན་མངོན་གྱུར་པ་ལྡོག་པ་སོགས་རྟགས་ཞེ་བཞི་པོ་གང་རུང་རང་རྒྱུད་ལ་ཐོབ་པའི་སེམས་དཔའ། 

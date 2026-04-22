@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-supreme-and-non-supreme-faculties/"}
+{"dg-publish":true,"permalink":"/madhyamaka/strength-knowing-supreme-and-non-supreme-faculties/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་དེ་ནི་ཆོས་ཅན། དབང་པོ་མཆོག་དང་མཆོག་མ་ཡིན་པ་མཁྱེན་པའིེ་སྟོབས་སུ་གསུངས་ཏེ། 

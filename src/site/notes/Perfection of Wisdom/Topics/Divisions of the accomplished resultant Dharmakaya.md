@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divisions-of-the-accomplished-resultant-dharmakaya/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divisions-of-the-accomplished-resultant-dharmakaya/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/yogic-direct-valid-cognisers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/yogic-direct-valid-cognisers/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་ཞི་ལྷ་གཟུང་འབྲེལ་གྱི་ཏིང་ངེ་འཛིན་ལ་བརྟེན་ནས་བྱུང་བའི་ཕྲ་བའི་མི་རྟག་པ་དང་། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/scriptural-dharma-wheel/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/scriptural-dharma-wheel/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱིས་བཀས་བསྡུས་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན། ལུང་གི་ཆོས་འཁོར་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/the-four-empowerments/"}
+{"dg-publish":true,"permalink":"/tantra/the-four-empowerments/","dg-note-properties":{}}
 ---
 
 ![Empowerments Chart.png](/img/user/Tantra/Empowerments%20Chart.png)

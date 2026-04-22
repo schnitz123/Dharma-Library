@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/forming-adjectives-from-auxiliaries/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/forming-adjectives-from-auxiliaries/","dg-note-properties":{}}
 ---
 
 These adjectives are mainly formed using the auxiliaries ཅན། ལྡན། བཅས། ཡོད། མེད།. 

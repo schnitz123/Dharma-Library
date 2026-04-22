@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-types-of-joyous-effort/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-types-of-joyous-effort/","dg-note-properties":{}}
 ---
 
 སྒོ་གསུམ་བྱ་བ་ངན་པ་ལ་མ་ཞེན་པའི་བརྩོན་འགྲུས་ལ་གདམས་པ་ཡིན་ཏེ། ལུས་ངག་ཡིད་གསུམ་གྱི་བསོད་ནམས་དེ་བདེ་བ་སྐྱེ་བ་ལ་ཞེན་པར་འགྱུར་བའི་ལེ་ལོ་སྤོང་ཕྱིར་དུ་ལུས་ངག་སོགས་བདེན་མེད་དུ་མཚུངས་པར་གདམས་པའི་མདོ་ཚིག་ཡིན་པའི་ཕྱིར།

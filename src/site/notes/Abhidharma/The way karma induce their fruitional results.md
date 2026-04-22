@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-way-karma-induce-their-fruitional-results/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-way-karma-induce-their-fruitional-results/","dg-note-properties":{}}
 ---
 
 དགེ་མི་དགེའི་ལས་རྣམས་ཀྱི་འབྲས་བུ་གསུམ་གསུམ་འབྱིན་ཏེ། 

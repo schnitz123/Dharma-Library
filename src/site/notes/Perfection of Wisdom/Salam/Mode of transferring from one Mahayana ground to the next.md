@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mode-of-transferring-from-one-mahayana-ground-to-the-next/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mode-of-transferring-from-one-mahayana-ground-to-the-next/","dg-note-properties":{}}
 ---
 
 མཉམ་གཞག་ནས་མཉམ་གཞག་ཏུ་འཕོ་བ་ཡིན་ཏེ། བར་ཆད་མེད་ལམ་ནས་རྣམ་གྲོལ་ལམ་དུ་འཕོ་བ་ཡིན་པའི་ཕྱིར།

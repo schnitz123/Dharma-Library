@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/yogacara-svatantrika/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/yogacara-svatantrika/","dg-note-properties":{}}
 ---
 
 ཐ་སྙད་ཀྱི་རྣམ་གཞག་ཕལ་ཆེར་སེམས་ཙམ་པ་དང་སྒོ་བསྟུན་ནས་སྨྲ་བའི་དབུ་མ་པ་དེ། རྣལ་འབྱོར་སྤྱོད་པའི་དབུ་མ་རང་རྒྱུད་པའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/twelve-deeds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/twelve-deeds/","dg-note-properties":{}}
 ---
 
 མཆོག་གི་སྤྲུལ་སྐུའི་མཛད་པའི་གཙོ་བོ་རྣམས་བསྡུ་ན་བཅུ་གཉིས་སུ་འདུ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conception-of-apprehendeds-of-the-completely-pure-class/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conception-of-apprehendeds-of-the-completely-pure-class/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་རྣམ་བྱང་ཕྱོགས་ཀྱི་བདེན་པ་ལ་དམིགས་ནས་ལོངས་སྤྱད་བྱར་བདེན་པར་ཞེན་པའི་ཞེན་རིག 

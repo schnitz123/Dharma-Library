@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conventional-truth/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conventional-truth/","dg-note-properties":{}}
 ---
 
 རང་མངོན་སུམ་དུ་རྟོགས་པའི་མངོན་སུམ་གྱི་ཚད་མས་གཉིས་སྣང་དང་བཅས་པའི་སྒོ་ནས་རྟོགས་པར་བྱ་བ། ཀུན་རྫོབ་བདེན་པའི་མཚན་ཉིད།

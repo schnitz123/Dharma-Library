@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/twelve-branches-of-scripture/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/twelve-branches-of-scripture/","dg-note-properties":{}}
 ---
 
 གསུང་རབ་ཡན་ལག་བཅུ་གཉིས།

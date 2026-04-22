@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/non-simultaneous-abiding-contradiction/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/non-simultaneous-abiding-contradiction/","dg-note-properties":{}}
 ---
 
 རྒྱུན་བཅད་བྱ་གཅོད་བྱེད་ཀྱི་སྒོ་ནས་མི་མཐུན་པར་གནས་པ། ལྷན་ཅིག་མི་གནས་འགལ་གྱི་མཚན་ཉིད།

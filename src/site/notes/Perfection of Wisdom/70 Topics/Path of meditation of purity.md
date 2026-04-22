@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/path-of-meditation-of-purity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/path-of-meditation-of-purity/","dg-note-properties":{}}
 ---
 
 ཟག་པ་མེད་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས་གང་ཞིག རང་གི་ཐོབ་བྱར་གྱུར་པའི་སྤངས་པ་མཐར་ཐུག་གི་ལག་རྗེས་འཇོག་བྱེད་དེ། 

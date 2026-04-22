@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/consciousness-empty-of-objects-arising-from-the-potencies-of-imprints/"}
+{"dg-publish":true,"permalink":"/madhyamaka/consciousness-empty-of-objects-arising-from-the-potencies-of-imprints/","dg-note-properties":{}}
 ---
 
 In response to [[Madhyamaka/Refuting the example of perceiving falling hairs\|Refuting the example of perceiving falling hairs]]:

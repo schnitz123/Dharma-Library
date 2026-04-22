@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-of-apprehenders-meditation/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་འཛིན་པ་ལ་དམིགས་ནས་ལོངས་སྤྱོད་བྱེད་དུ་བདེན་པར་ཞེན་པའི་བདེན་འཛིན་ལྷན་སྐྱེས། སྒོམ་སྤང་ཤེས་སྒྲིབ་འཛིན་རྟོག་གི་མཚན་ཉིད།

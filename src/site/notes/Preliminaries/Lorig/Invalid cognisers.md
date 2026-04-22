@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/invalid-cognisers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/invalid-cognisers/","dg-note-properties":{}}
 ---
 
 གསར་དུ་མི་སླུ་བ་མ་ཡིན་པའི་རིག་པ། ཚད་མིན་གྱི་བློའི་མཚན་ཉིད།

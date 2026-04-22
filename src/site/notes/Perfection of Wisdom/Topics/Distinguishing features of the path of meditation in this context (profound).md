@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/distinguishing-features-of-the-path-of-meditation-in-this-context-profound/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/distinguishing-features-of-the-path-of-meditation-in-this-context-profound/","dg-note-properties":{}}
 ---
 
 **The entity of the profound indicated in this context are:** འདིར་བསྟན་ཟབ་པའི་ངོ་བོ་ཡང་ཡོད་དེ།

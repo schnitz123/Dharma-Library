@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/actual-leaping-meditative-absorptions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/actual-leaping-meditative-absorptions/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་ཐོད་རྒལ་གྱི་སྦྱོར་བ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་སྙོམས་འཇུག་གང་ཞིག 

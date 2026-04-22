@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/bodhisattva-s-equality-of-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/bodhisattva-s-equality-of-application/","dg-note-properties":{}}
 ---
 
 གཞིའི་ངོ་བོ་དང་དབྱེ་བ་དང་མཚན་མཚོན་དང་ཡུལ་ཡུལ་ཅན་སོགས་ལ་བདེན་ཞེན་འགོག་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སེམས་དཔའི་རྣལ་འབྱོར་དེ། 

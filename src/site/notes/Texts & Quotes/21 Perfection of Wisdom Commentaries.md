@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/21-perfection-of-wisdom-commentaries/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/21-perfection-of-wisdom-commentaries/","dg-note-properties":{}}
 ---
 
 **Twelve Commentaries connecting Sutra and Ornament:** མདོ་རྒྱན་སྦྱར་བའི་འགྲེལ་བ་བཅུ་གཉིས་ལ།

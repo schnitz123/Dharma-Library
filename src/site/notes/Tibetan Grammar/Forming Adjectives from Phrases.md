@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/forming-adjectives-from-phrases/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/forming-adjectives-from-phrases/","dg-note-properties":{}}
 ---
 
 Sometimes postpositional phrases can be used as adjectives.

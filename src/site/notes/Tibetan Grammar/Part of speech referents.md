@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/part-of-speech-referents/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/part-of-speech-referents/","dg-note-properties":{}}
 ---
 
 In order to refer to specific parts of a sentence, these referents are formed in relation to the verb:

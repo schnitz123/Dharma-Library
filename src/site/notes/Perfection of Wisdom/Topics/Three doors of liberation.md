@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-doors-of-liberation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-doors-of-liberation/","dg-note-properties":{}}
 ---
 
 འགོག་བདེན་གྱི་རྣམ་པ་བཞི། གཟུགས་སོགས་དོན་ལྔ་དང༌། ཕོ་མོ་དང་འདུས་བྱས་ཀྱི་མཚན་ཉིད་གསུམ་སྟེ་མཚན་མ་བཅུ་པོ་དེ་ལ་དམིགས་པའི་ཏིང་ངེ་འཛིན་ནི་

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/pure-land-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/pure-land-application/","dg-note-properties":{}}
 ---
 
 རང་གང་དུ་སངས་རྒྱས་པའི་སངས་རྒྱས་ཀྱི་ཞིང་ཁྱད་པར་ཅན་འགྲུབ་པའི་སྨོན་ལམ་ལ་སོགས་པའི་རྒྱུའི་དགེ་རྩའི་ནུས་པ་མཐུ་ཅན་དུ་གྱུར་པའི་དག་སའི་རྣལ་འབྱོར་དེ། ཞིང་དག་སྦྱོར་བའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/non-conceptual/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/non-conceptual/","dg-note-properties":{}}
 ---
 
 སྒྲ་དོན་འདྲེས་རུང་དུ་འཛིན་པའི་ཞེན་རིག་དང་བྲལ་བ་དེ། རྟོག་བྲལ་གྱི་མཚན་ཉིད།

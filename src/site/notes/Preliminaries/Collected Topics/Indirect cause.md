@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/indirect-cause/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/indirect-cause/","dg-note-properties":{}}
 ---
 
 བརྒྱུད་ནས་སྐྱེད་བྱེད། བརྒྱུད་རྒྱུའི་མཚན་ཉིད།

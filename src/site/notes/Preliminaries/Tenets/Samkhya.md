@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/samkhya/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/samkhya/","dg-note-properties":{}}
 ---
 
 **(Konchog Jigme Wangpo:)** Sāṃkhyas follow the Sage Kapila.

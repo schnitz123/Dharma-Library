@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/apprehension-of-true-existence/"}
+{"dg-publish":true,"permalink":"/madhyamaka/apprehension-of-true-existence/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་བདེན་གྲུབ་ཏུ་འཛིན་པའི་བློ། བདེན་འཛིན་གྱི་མཚན་ཉིད། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-that-are-objects-of-abandonment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/conceptions-that-are-objects-of-abandonment/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་བདེན་གྲུབ་ཏུ་འཛིན་པའི་བློ། སྐབས་འདིར་བསྟན་གྱི་ཤེས་སྒྲིབ་རྟོག་པའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/stream-enterers-born-from-class-to-class/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/stream-enterers-born-from-class-to-class/","dg-note-properties":{}}
 ---
 
 འདོད་ཉོན་གསུམ་པ་སྤངས་པའི་རྒྱུན་ཞུགས་ཀྱི་འབྲས་བུ་གསར་དུ་ཐོབ་པའི་རྒྱུན་ཞུགས་འབྲས་གནས་ཁྱད་པར་ཅན་གང་ཞིག 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/twenty-views-of-self-tendarwa/"}
+{"dg-publish":true,"permalink":"/madhyamaka/twenty-views-of-self-tendarwa/","dg-note-properties":{}}
 ---
 
 **Related with verses:** [[Madhyamaka/Sixth mind generation#^5901d0\|6.144]] and [[Madhyamaka/Sixth mind generation#^5901d1\|6.145]]

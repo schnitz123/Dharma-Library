@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/bodhisattva-s-application-in-this-context/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/bodhisattva-s-application-in-this-context/","dg-note-properties":{}}
 ---
 
 གཞི་ཀུན་རྫོབ་པའི་ངོ་བོ་དང་ཁྱད་པར་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ་དང༌། དོན་དམ་པའི་སྡོད་ལུགས་ཀྱི་ངོ་བོ་དང་ཁྱད་པར་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ་གང་རུང་གི་

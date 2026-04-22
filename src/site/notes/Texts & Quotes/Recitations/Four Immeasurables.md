@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/four-immeasurables/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/four-immeasurables/","dg-note-properties":{}}
 ---
 
 སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག 

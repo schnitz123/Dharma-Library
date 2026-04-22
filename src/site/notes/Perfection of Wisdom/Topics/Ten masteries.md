@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ten-masteries/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ten-masteries/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞི་ལ་བརྟེན་ནས་ཚེའི་འདུ་བྱེད་འདོར་བ་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་པ་ལ་སོགས་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་རིག་པ། འདིར་བསྟན་དབང་གི་ངོ་བོ།

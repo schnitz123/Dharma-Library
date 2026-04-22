@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-ni-particle/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-ni-particle/","dg-note-properties":{}}
 ---
 
 The ནི་སྒྲ། is a purely grammatical particle and rarely explicitly makes it into English translation. It has three main usages:

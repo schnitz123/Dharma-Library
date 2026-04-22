@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-seventh-case-locative/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-seventh-case-locative/","dg-note-properties":{}}
 ---
 
 རྟེན་པའི་གཞི་དང་། བརྟེན་པའི་ཆོས་གཉིས་སོ་སོར་འབྱེད་ཅིང་། བརྟེན་པའི་ཆོས་གང་རྟེན་གཞི་གང་ལ་གནས་ཡོད་མེད་སྟོན་པར་བྱེད་པའི་རྐྱེན།

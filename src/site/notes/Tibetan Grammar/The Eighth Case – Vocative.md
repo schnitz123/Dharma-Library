@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-eighth-case-vocative/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-eighth-case-vocative/","dg-note-properties":{}}
 ---
 
 This case marks an exclamation, usually using a person’s name or other term referring to them (e.g. “teacher”). 

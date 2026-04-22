@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-first-established-meaning/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/explanation-of-first-established-meaning/","dg-note-properties":{}}
 ---
 
 ལྔ་སྡེ་ལ་གསུངས་པའི་བདེན་བཞིའི་ཆོས་འཁོར་ཆོས་ཅན། ཁྱོད་གསུང་པ་པོའི་སྟོན་པ་དང་། དུས་དང་གནས་རྣམས་བཞག་ཏུ་ཡོད་དེ། 

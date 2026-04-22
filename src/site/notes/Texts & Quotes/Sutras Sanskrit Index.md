@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/sutras-sanskrit-index/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/sutras-sanskrit-index/","dg-note-properties":{}}
 ---
 
 The Sutra Unravelling the Thought

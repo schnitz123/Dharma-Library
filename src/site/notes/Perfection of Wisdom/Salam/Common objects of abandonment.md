@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/common-objects-of-abandonment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/common-objects-of-abandonment/","dg-note-properties":{}}
 ---
 
 མངོན་མཐོ་དང་། ངེས་ལེགས་གང་རུང་གི་ཡོན་ཏན་མཐོང་ཞིང་ཐོབ་པ་ལ་གེགས་བྱེད་ཀྱི་སྒྲིབ་པའི་རིགས་སུ་གནས་པ་གང་ཞིག 

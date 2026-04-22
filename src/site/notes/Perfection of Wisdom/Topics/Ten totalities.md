@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ten-totalities/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ten-totalities/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་དངོས་གཞིའི་སེམས་ལ་བརྟེན་ནས་རང་གི་དམིགས་ཡུལ་ཇི་ལྟར་བཞེད་པ་ལྟར་སྤྲོ་བར་ནུས་པས་རབ་ཏུ་ཕྱེ་བའི་རིག་པ། 

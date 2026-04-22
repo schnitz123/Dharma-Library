@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/treatise/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/treatise/","dg-note-properties":{}}
 ---
 
 འཆོས་སྐྱོབ་ཀྱི་ཡོན་ཏན་གཉིས་དང་ལྡན་པའི་རིགས་སུ་གནས་པའི་ངག་རྣམ་དག ནང་པ་སངས་རྒྱས་པའི་བསྟན་བཅོས་རྣམ་དག་གི་མཚན་ཉིད།

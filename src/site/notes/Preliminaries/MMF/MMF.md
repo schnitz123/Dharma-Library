@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/mmf/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/mmf/","dg-note-properties":{}}
 ---
 
 [[Preliminaries/MMF/Main mind\|Main mind]] / [[Preliminaries/MMF/Mental factor\|Mental factor]]

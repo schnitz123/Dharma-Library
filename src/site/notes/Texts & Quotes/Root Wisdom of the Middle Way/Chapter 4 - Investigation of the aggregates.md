@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-4-investigation-of-the-aggregates/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-4-investigation-of-the-aggregates/","dg-note-properties":{}}
 ---
 
 གཟུགས་ཀྱི་རྒྱུ་ནི་མ་གཏོགས་པར། །གཟུགས་ནི་དམིགས་པར་མི་འགྱུར་རོ། །གཟུགས་ཞེས་བྱ་བ་མ་གཏོགས་པར། །གཟུགས་ཀྱི་རྒྱུ་ཡང་མི་སྣང་ངོ༌། །

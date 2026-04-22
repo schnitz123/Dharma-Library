@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/absorption-of-cessation-abhidharmakosha/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/absorption-of-cessation-abhidharmakosha/","dg-note-properties":{}}
 ---
 
 *Beings of non-discrimination* possess these qualities: འདུ་ཤེས་མེད་པ་པ་དེ་ཁྱད་ཆོས་དུ་མ་དང་ལྡན་ཏེ། 

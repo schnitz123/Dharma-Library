@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/mandala/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/mandala/","dg-note-properties":{}}
 ---
 
 ས་གཞི་སྤོས་ཆུས་བྱུགས་ཤིང་མེ་ཏོག་བཀྲམ། །

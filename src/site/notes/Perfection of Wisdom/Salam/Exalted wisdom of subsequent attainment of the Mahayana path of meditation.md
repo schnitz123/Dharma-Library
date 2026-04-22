@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-subsequent-attainment-of-the-mahayana-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-subsequent-attainment-of-the-mahayana-path-of-meditation/","dg-note-properties":{}}
 ---
 
 ###### ཐེག་ཆེན་གྱི་སྒོམ་ལམ་རྣམ་གྲོལ་ལམ་ལས་ལངས་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས་གང་ཞིག<br>རང་རྒྱུད་ལ་ལྡན་པའི་གང་ཟག་གི་རྒྱུད་ལ་མངོན་གྱུར་དུ་འབྱུང་བ་དེ། ཐེག་ཆེན་གྱི་སྒོམ་ལམ་རྗེས་ཐོབ་ཡེ་ཤེས་ཀྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/bodhisattva-vows/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/bodhisattva-vows/","dg-note-properties":{}}
 ---
 
 1. Praising oneself and belittling others བདག་བསྟོད་གཞན་སྨོད།

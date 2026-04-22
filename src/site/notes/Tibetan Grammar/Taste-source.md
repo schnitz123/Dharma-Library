@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/taste-source/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/taste-source/","dg-note-properties":{}}
 ---
 
 ལྕེ་ཤེས་ཀྱི་དམིགས་རྐྱེན་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་ཕྱིའི་སྐྱེ་མཆེད་དུ་དམིགས་པ། རོའི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད།  

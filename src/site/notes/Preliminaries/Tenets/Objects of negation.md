@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/objects-of-negation/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/objects-of-negation/","dg-note-properties":{}}
 ---
 
 **Vaibhashika + Sautrantika:**

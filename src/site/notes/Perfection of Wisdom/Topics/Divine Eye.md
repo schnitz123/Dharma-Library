@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divine-eye/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/divine-eye/","dg-note-properties":{}}
 ---
 
 སྤྱན་ལྔའི་ནང་ཚན་གང་ཞིག རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་ལྷའི་མིག་ལ་བརྟེན་ནས་སེམས་ཅན་གྱི་འཆི་འཕོ་བ་དང་སྐྱེ་བ་མངོན་སུམ་དུ་མཐོང་བའི་

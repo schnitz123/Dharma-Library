@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/enlightened-activities-4-bodies-gm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/enlightened-activities-4-bodies-gm/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་རྟོགས་པ་ཡེ་ཤེས་ཆོས་སྐུ་ལ་བརྟེན་ནས་ཐོབ་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན་དེ། 

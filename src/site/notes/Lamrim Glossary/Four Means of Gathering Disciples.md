@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/four-means-of-gathering-disciples/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/four-means-of-gathering-disciples/","dg-note-properties":{}}
 ---
 
 **The Four Ways of Gathering Disciples:** བསྡུ་བཞི།

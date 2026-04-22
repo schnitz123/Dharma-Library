@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/transfer-to-the-upper-realms/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/transfer-to-the-upper-realms/","dg-note-properties":{}}
 ---
 
 གཟུགས་ཁམས་སུ་སྐྱེ་བ་གཉིས་བརྒྱུད་དུ་བླངས་ནས་འོག་མིན་དང་སྲིད་རྩེ་གང་རུང་གི་རྟེ ན་ལ་མྱང་འདས་མངོན་དུ་བྱེད་པའི་རིགས་ཅན། 

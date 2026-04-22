@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/vatsiputriya/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/vatsiputriya/","dg-note-properties":{}}
 ---
 
 གནས་པའི་རིགས་ཉིད་ཀྱི་བུད་མེད་ནི་གནས་མ་ཡིན་ལ་དེ་ལས་སྐྱེས་པའི་བུ་ནི་གནས་མའི་བུ་སྟེ། པ་ནི་སྡེ་པ་ཞེས་པའི་དོན་ནོ།

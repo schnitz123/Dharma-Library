@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-third-case-agentive/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-third-case-agentive/","dg-note-properties":{}}
 ---
 
 བྱེད་པ་པོ་དང་། བྱ་བ་གཉིས་སུ་འབྱེད་ཅིང་། བྱ་བ་དེའི་བྱེད་པ་པོ་སུ་ཡིན་ཉེ་བར་སྟོན་པའི་རྐྱེན།

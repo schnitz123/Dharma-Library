@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-branches-of-arya-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-branches-of-arya-paths/","dg-note-properties":{}}
 ---
 
 རང་འབྲས་འཕགས་ལམ་གྱི་རྒྱུར་གྱུར་པའི་འཕགས་རྒྱུད་ཀྱི་མཁྱེན་པ། འཕགས་ལམ་ཡན་ལག་གི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/three-refutations-of-external-objects/"}
+{"dg-publish":true,"permalink":"/madhyamaka/three-refutations-of-external-objects/","dg-note-properties":{}}
 ---
 
 སེམས་ཙམ་པའི་ལུགས་ཀྱི་ཆོས་ཀྱི་བདག་མེད་གཏན་ལ་འབེབས་ཚུལ་ལ། སློབ་དཔོན་ཕྱོག་གླང་གིས་རྡུལ་འདུས་པ་དང་ཕྲ་རབ་གཟུང་དོན་ཡིན་པ་་་་་་པ་དེ་ལ།

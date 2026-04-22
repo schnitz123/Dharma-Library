@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-18-investigation-of-self-and-phenomena/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-18-investigation-of-self-and-phenomena/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་ཕུང་པོ་བདག་ཡིན་ན། །སྐྱེ་དང་འཇིག་པ་ཅན་དུ་འགྱུར། །གལ་ཏེ་ཕུང་པོ་རྣམས་ལས་གཞན། །ཕུང་པོའི་མཚན་ཉིད་མེད་པར་འགྱུར། །

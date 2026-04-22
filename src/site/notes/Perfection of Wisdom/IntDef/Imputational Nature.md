@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/imputational-nature/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/imputational-nature/","dg-note-properties":{}}
 ---
 
 རང་འཛིན་རྟོག་པས་སྒྲོ་འདོགས་པ། ཀུན་བརྟགས་ཀྱི་མཚན་ཉིད། 

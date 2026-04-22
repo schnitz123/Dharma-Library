@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/true-aspectarians/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/true-aspectarians/","dg-note-properties":{}}
 ---
 
 སེམས་ཙམ་པ་གང་ཞིག ཚུར་མཐོང་གི་རྒྱུད་ཀྱི་གཟུགས་འཛིན་མངོན་སུམ་ལ་གཟུགས་རགས་པར་སྣང་བའི་ཆ་ལ་མ་རིག་བག་ཆགས་ཀྱིས་བསླད་པ་མ་ཞུགས་པར་

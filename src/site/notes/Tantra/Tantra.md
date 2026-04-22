@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/tantra/"}
+{"dg-publish":true,"permalink":"/tantra/tantra/","dg-note-properties":{}}
 ---
 
 **The four classes of secret mantra:** གསང་ཆེན་རྒྱུད་སྡེ་བཞི་ལ།

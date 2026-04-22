@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/protector-maitreya-and-arya-asanga/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/protector-maitreya-and-arya-asanga/","dg-note-properties":{}}
 ---
 
 **Protector Maitreya and Arya Asanga:**

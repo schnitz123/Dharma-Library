@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/reasoning-for-explanations/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/reasoning-for-explanations/","dg-note-properties":{}}
 ---
 
 **From Reasoning for Explanations:** རྣམ་བཤད་རིགས་པ་ལས།

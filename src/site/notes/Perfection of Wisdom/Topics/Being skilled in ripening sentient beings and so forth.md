@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/being-skilled-in-ripening-sentient-beings-and-so-forth/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/being-skilled-in-ripening-sentient-beings-and-so-forth/","dg-note-properties":{}}
 ---
 
 དམན་ལམ་སྔོན་དུ་མ་སོང་བའི་བྱང་སེམས་འཕགས་པ་ཆོས་ཅན། ཁྱོད་ཀྱི་རྒྱུད་ཀྱི་ལམ་ཤེས་དེ་ཉན་རང་གི་ལམ་ལས་བྱེད་ལས་ཀྱི་སྒོ་ནས་

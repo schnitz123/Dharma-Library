@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/composition-of-the-treatise-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/composition-of-the-treatise-gomde/","dg-note-properties":{}}
 ---
 
 དགེ་སློང་དཔལ་ལྡན་ཟླ་གྲགས་ཆོས་ཅན། ཁྱོད་ཀྱི་དབུ་མ་ལ་འཇུག་པའི་ལུགས་འདི་ཉིད། ལུང་རིགས་མན་ངག་གསུམ་དང་ལྡན་པས་རང་བཟོའི་ཉེས་པ་མེད་དེ། 

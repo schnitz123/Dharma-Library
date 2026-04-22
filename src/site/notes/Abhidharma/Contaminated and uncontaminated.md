@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/contaminated-and-uncontaminated/"}
+{"dg-publish":true,"permalink":"/abhidharma/contaminated-and-uncontaminated/","dg-note-properties":{}}
 ---
 
 ཟག་པ་དམིགས་པ་དང་མཚུངས་ལྡན་གང་རུང་གི་སྒོ་ནས་རྣམ་པ་ཀུན་ཏུ་རྒྱས་པར་འགྱུར་བས་རབ་ཏུ་ཕྱེ་བ། ཟག་བཅས་ཀྱི་མཚན་ཉིད། 

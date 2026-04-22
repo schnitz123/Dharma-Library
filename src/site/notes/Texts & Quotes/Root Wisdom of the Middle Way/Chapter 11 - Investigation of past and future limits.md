@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-11-investigation-of-past-and-future-limits/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-11-investigation-of-past-and-future-limits/","dg-note-properties":{}}
 ---
 
 སྔོན་མཐའ་མངོན་ནམ་ཞེས་ཞུས་ཚེ། །ཐུབ་པ་ཆེན་པོས་མིན་ཞེས་གསུངས། །འཁོར་བ་ཐོག་མ་མཐའ་མེད་དེ། །དེ་ལ་སྔོན་མེད་ཕྱི་མ་མེད། །

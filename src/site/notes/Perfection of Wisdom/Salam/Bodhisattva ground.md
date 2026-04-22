@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/bodhisattva-ground/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/bodhisattva-ground/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་རྟེན་དུ་གྱུར་པའི་བྱང་སེམས་ཀྱི་མངོན་རྟོགས། བྱང་སེམས་ཀྱི་སའི་མཚན་ཉིད།

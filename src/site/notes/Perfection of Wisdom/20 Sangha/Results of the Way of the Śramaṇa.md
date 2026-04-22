@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/results-of-the-way-of-the-srama-a/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/results-of-the-way-of-the-srama-a/","dg-note-properties":{}}
 ---
 
 ཟག་མེད་བར་ཆད་མེད་ལམ་དགེ་སྦྱོང་གི་ཚུལ་ཡིན། ཁྱོད་རང་ལ་གནས་པའི་འཕགས་པའི་གང་ཟག་དོན་དམ་པའི་དགེ་སྦྱོང་དུ་བྱེད་པས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར།

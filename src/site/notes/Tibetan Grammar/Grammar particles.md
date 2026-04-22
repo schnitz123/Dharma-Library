@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/grammar-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/grammar-particles/","dg-note-properties":{}}
 ---
 
 ཚིག་ཕྲད་ཀྱི་གོ་དོན་ནི། ཚོགས་གསུམ་གང་རུང་གི་ཐོག་མཐའ་བར་གསུམ་ཅི་རིགས་ཀྱི་གནས་སུ་སྒྲ་དེ་སྦྱར་ན་དོན་ཞིག་སྟོན་ལ།

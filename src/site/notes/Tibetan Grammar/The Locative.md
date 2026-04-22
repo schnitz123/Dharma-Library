@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-locative/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-locative/","dg-note-properties":{}}
 ---
 
 This employs the Tibetan convention of support and supported (རྟེན་དང་བརྟེན་པ།). The Locative marks the existence or dependence of some supported phenomenon (བརྟེན་པ།) upon some support (རྟེན།). 

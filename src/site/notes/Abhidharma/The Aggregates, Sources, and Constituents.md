@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-aggregates-sources-and-constituents/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-aggregates-sources-and-constituents/","dg-note-properties":{}}
 ---
 
 - [[Abhidharma/The Five Aggregates\|The Five Aggregates]] ཕུང་པོ་ལྔ།

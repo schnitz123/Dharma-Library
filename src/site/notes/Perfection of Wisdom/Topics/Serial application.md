@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/serial-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/serial-application/","dg-note-properties":{}}
 ---
 
 མཁྱེན་གསུམ་གྱི་རྣམ་པ་སྒོམ་པ་ལ་བརྟན་པ་ཐོབ་དོན་དུ་མཁྱེན་གསུམ་གྱི་རྣམ་པ་སྒོམ་པར་བྱེད་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སེམས་དཔའི་རྣལ་འབྱོར་གང་ཞིག 

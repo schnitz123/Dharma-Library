@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/great-praise-of-the-twelve-acts-of-the-buddha/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/great-praise-of-the-twelve-acts-of-the-buddha/","dg-note-properties":{}}
 ---
 
 ཐུབ་པའི་བསྟོད་པ་ཐབས་མཁས་ཐུགས་རྗེ་མ།

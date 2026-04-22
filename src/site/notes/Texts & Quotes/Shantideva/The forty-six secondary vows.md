@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/the-forty-six-secondary-vows/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/shantideva/the-forty-six-secondary-vows/","dg-note-properties":{}}
 ---
 
 སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་གནོད་པའི་ཉེས་བྱས་བདུན།

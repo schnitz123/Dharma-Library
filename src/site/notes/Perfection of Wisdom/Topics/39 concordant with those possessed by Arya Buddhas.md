@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/39-concordant-with-those-possessed-by-arya-buddhas/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/39-concordant-with-those-possessed-by-arya-buddhas/","dg-note-properties":{}}
 ---
 
 ཐུན་མོང་མ་ཡིན་པའི་རྣམ་མཁྱེན་གྱི་རྣམ་པ་ཡིན་ཏེ། ཤིན་ཏུ་ཕུལ་དུ་བྱུང་བ་མཐར་ཐུག་པའི་ཡེ་ཤེས་ཡིན་པའི་ཕྱིར།

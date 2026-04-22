@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/lamrim-prayer/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/lamrim-prayer/","dg-note-properties":{}}
 ---
 
 ལམ་རིམ་སྨོན་ལམ་བཞུགས།

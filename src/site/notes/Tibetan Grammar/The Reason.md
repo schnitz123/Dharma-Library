@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-reason/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-reason/","dg-note-properties":{}}
 ---
 
 The Reason Third Case behaves differently from the other two usages, since it does not directly link to a verb but rather marks a reason clause in a sentence. Some would say it is a non-case usage included in the [[Tibetan Grammar/Reason Indicators\|Reason Indicators]] (རྒྱུ་མཚན་སྟོན་པའི་སྒྲ།).

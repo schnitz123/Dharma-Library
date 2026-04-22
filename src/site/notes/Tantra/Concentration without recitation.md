@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/concentration-without-recitation/"}
+{"dg-publish":true,"permalink":"/tantra/concentration-without-recitation/","dg-note-properties":{}}
 ---
 
 1. **Concentration abiding in fire** མེ་གནས་ཀྱི་བསམ་གཏན།

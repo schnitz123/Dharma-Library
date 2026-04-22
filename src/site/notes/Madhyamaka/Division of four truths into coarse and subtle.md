@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/division-of-four-truths-into-coarse-and-subtle/"}
+{"dg-publish":true,"permalink":"/madhyamaka/division-of-four-truths-into-coarse-and-subtle/","dg-note-properties":{}}
 ---
 
 བདེན་པ་བཞི་ལ་སྒྲས་བརྗོད་རིགས་ཀྱི་སྒོ་ནས་ཕྲ་རགས་གཉིས་གཉིས་སུ་འབྱེད་ཚུལ་ནི།

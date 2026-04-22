@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/nyaya-vaisheshika/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/nyaya-vaisheshika/","dg-note-properties":{}}
 ---
 
 **(Jigme Wangpo:)** The Vaiśeṣikas and Nyāyas follow the Sage Kaṇāda and the Brahmin Akṣapāda, respectively.

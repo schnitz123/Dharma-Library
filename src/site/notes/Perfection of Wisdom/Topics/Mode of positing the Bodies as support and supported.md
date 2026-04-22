@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-positing-the-bodies-as-support-and-supported/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-positing-the-bodies-as-support-and-supported/","dg-note-properties":{}}
 ---
 
 དང་པོ་ངོ་བོ་ཉིད་སྐུ་ནི་ཐ་མ་ཆོས་ཀྱི་སྐུ་གསུམ་པོ་དེའི་རྟེན་ཡིན་ཏེ། དཔེར་ན། ནམ་མཁའ་ནི་གཟུགས་བརྙན་ཐམས་ཅད་ཀྱི་རྟེན་ཡིན་པ་བཞིན་ཡིན་པའི་ཕྱིར།

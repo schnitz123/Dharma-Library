@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/one-final-vehicle-vs-three-final-vehicles/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/one-final-vehicle-vs-three-final-vehicles/","dg-note-properties":{}}
 ---
 
 **Assertions:**

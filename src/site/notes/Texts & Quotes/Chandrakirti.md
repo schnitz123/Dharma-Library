@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/chandrakirti/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/chandrakirti/","dg-note-properties":{}}
 ---
 
 སྐྱབས་འགྲོ་བདུན་ཅུ་པ་ལས།<br>སངས་རྒྱས་དེའི་ཆོས་དགེ་འདུན་ནི། ཐར་པ་འདོད་པ་རྣམས་ཀྱི་སྐྱབས།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/terminating-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/terminating-particles/","dg-note-properties":{}}
 ---
 
 There are eleven Terminating Particles: (སླར་བསྡུ། ཟླ་སྡུད། རྫོགས་ཚིག)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/object-possessors/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/object-possessors/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ཅི་རིགས་དང་ལྡན་པའི་དངོས་པོ་དེ། རང་ཉིད་ཡུལ་ཅན་གྱི་མཚན་ཉིད།

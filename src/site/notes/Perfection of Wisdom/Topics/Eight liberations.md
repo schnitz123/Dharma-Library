@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-liberations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/eight-liberations/","dg-note-properties":{}}
 ---
 
 **Three liberations of the form realm:** གཟུགས་ཀྱི་རྣམ་པར་ཐར་པ་གསུམ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-twelve-sources/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-twelve-sources/","dg-note-properties":{}}
 ---
 
 **The six faculties:** eye- ear- nose- tongue- body- mental-

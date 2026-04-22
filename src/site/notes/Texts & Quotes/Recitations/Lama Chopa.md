@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/lama-chopa/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/lama-chopa/","dg-note-properties":{}}
 ---
 
 **Preliminaries སྔོན་འགྲོ།**

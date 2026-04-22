@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-manjushri/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-manjushri/","dg-note-properties":{}}
 ---
 
 འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།

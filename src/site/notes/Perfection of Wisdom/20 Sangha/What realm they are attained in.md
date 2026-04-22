@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/what-realm-they-are-attained-in/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/what-realm-they-are-attained-in/","dg-note-properties":{}}
 ---
 
 The results of *Stream-Enterer*, *Once-Returner*, and *Non-Returner* are exclusively actualised on a Desire Realm support:

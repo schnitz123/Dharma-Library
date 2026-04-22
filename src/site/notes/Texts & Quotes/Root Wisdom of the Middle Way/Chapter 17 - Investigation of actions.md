@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-17-investigation-of-actions/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-17-investigation-of-actions/","dg-note-properties":{}}
 ---
 
 བདག་ཉིད་ལེགས་པར་སྡོམ་པ་དང༌། །གཞན་ལ་ཕན་འདོགས་བྱམས་སེམས་གང༌། །དེ་ཆོས་དེ་ནི་འདི་གཞན་དུ། །འབྲས་བུ་དག་གི་ས་བོན་ཡིན། །

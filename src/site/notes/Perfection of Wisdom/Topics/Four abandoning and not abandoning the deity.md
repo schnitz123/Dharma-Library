@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-abandoning-and-not-abandoning-the-deity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-abandoning-and-not-abandoning-the-deity/","dg-note-properties":{}}
 ---
 
 བློ་མ་བྱང་བ་དང༌། རྟོག་པ་མངོན་པའི་ང་རྒྱལ་ཅན་དང༌། བློ་བྱང་བ་རྣམ་པར་མ་ངེས་པ་དང༌། 

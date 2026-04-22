@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-of-paths-not-abiding-in-peace-through-compassion/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-of-paths-not-abiding-in-peace-through-compassion/","dg-note-properties":{}}
 ---
 
 གཞི་ཀུན་རྫོབ་ལ་ལྟོས་ཏེ་ཞི་མཐའ་འགོག་བྱེད་ཀྱི་རྟོགས་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་འཕགས་པའི་མཁྱེན་པ། 

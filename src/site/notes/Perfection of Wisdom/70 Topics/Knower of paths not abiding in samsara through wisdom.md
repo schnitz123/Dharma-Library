@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-paths-not-abiding-in-samsara-through-wisdom/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-paths-not-abiding-in-samsara-through-wisdom/","dg-note-properties":{}}
 ---
 
 གཞི་ཀུན་རྫོབ་ལ་ལྟོས་ཏེ་སྲིད་མཐའ་འགོག་བྱེད་ཀྱི་རྟོགས་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་འཕགས་པའི་མཁྱེན་པ་དེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/benefits-of-the-path-of-meditation-of-belief/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/benefits-of-the-path-of-meditation-of-belief/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་མོས་པ་སྒོམ་ལམ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་ཡོན་ཏན་དེ། མོས་པ་སྒོམ་ལམ་གྱི་ཕན་ཡོན་གྱི་མཚན་ཉིད།

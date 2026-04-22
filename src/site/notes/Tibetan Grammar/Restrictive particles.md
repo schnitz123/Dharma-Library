@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/restrictive-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/restrictive-particles/","dg-note-properties":{}}
 ---
 
 སྦྱོར་ཚུལ་གྱི་དབང་གིས་གཞི་གང་ལ་ཆོས་གང་མི་ལྡན་པའམ། གཞན་ལ་ལྡན་པ་རྣམ་པར་གཅོད་པའི་སྒྲ། ངེས་གཟུང་གི་སྒྲའམ་རྣམ་གཅོད་ཀྱི་སྒྲ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-24-investigation-of-the-aryas-truths/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-24-investigation-of-the-aryas-truths/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-23-investigation-of-error/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-23-investigation-of-error/","dg-note-properties":{}}
 ---
 
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་རྣམས། །ཀུན་ཏུ་རྟོག་ལས་འབྱུང་བར་གསུངས། །སྡུག་དང་མི་སྡུག་ཕྱིན་ཅི་ལོག །བརྟེན་པ་ཉིད་ལས་ཀུན་ཏུ་འབྱུང༌། །

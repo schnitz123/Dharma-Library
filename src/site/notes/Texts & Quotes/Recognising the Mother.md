@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recognising-the-mother/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recognising-the-mother/","dg-note-properties":{}}
 ---
 
 ཨེ་མ་ཧོ།

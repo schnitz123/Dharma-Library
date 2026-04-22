@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-own-nature/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-own-nature/","dg-note-properties":{}}
 ---
 
 ཆོས་ནམས་ཀྱི་རང་བཞིན་ཆོས་ཉིད་དེ་ཆོས་ཅན། རང་བཞིེན་ཞེས་བྱ་བར་བསྙད་པ་ཡིན་ཏེ། 

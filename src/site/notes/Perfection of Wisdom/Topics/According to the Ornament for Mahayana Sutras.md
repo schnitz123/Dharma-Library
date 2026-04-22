@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/according-to-the-ornament-for-mahayana-sutras/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/according-to-the-ornament-for-mahayana-sutras/","dg-note-properties":{}}
 ---
 
 ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ཆོས་ཅན། ཁྱད་ཆོས་དྲུག་དང་ལྡན་ཏེ། 

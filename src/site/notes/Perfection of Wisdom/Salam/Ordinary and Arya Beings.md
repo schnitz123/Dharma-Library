@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/ordinary-and-arya-beings/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/ordinary-and-arya-beings/","dg-note-properties":{}}
 ---
 
 Etymology for "ordinary being" (སོ་སོ་སྐྱེས་བུ།): A being that takes birth through the power of their individual karma. (Not pervasive)

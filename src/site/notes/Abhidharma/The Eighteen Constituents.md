@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-eighteen-constituents/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-eighteen-constituents/","dg-note-properties":{}}
 ---
 
 - The six constituents of the observed object: [[Abhidharma/The five objects\|The five objects]] + [[Abhidharma/Phenomenon-source\|Phenomenon-source]]

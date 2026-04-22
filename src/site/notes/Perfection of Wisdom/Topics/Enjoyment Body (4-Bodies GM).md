@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/enjoyment-body-4-bodies-gm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/enjoyment-body-4-bodies-gm/","dg-note-properties":{}}
 ---
 
 ངེས་པ་ལྔ་ལྡན་གྱི་གཟུགས་སྐུ་མཐར་ཐུག་དེ། ལོངས་སྐུའི་མཚན་ཉིད། 

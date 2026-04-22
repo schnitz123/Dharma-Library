@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-21-taras/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/praise-to-21-taras/","dg-note-properties":{}}
 ---
 
 སྒྲོལ་མ་ཉེར་གཅིག་གི་བསྟོད་པ་བསྡུས་པ་བཞུགས་སོ།

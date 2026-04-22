@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/designated-terms/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/designated-terms/","dg-note-properties":{}}
 ---
 
 དོན་དེ་ལ་རྗེས་གྲུབ་ཏུ་བརྡའ་སྦྱར་བ་ཡང་ཡིན། དོན་དེའི་མིང་ཕལ་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ། དོན་དེའི་བཏགས་མིང་གི་མཚན་ཉིད།

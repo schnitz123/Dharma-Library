@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/buddha-jewel/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/buddha-jewel/","dg-note-properties":{}}
 ---
 
 འདུས་མ་བྱས་ལ་སོགས་པའི་ཡོན་ཏན་བརྒྱད་དང་ལྡན་པའི་མཐར་ཐུག་གི་སྐྱབས་གནས། / དོན་གཉིས་མཐར་ཕྱིན་པའི་སྐྱབས་གནས་མཐར་ཐུག་དེ། 

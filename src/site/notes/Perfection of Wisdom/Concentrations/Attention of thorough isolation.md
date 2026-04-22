@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-of-thorough-isolation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-of-thorough-isolation/","dg-note-properties":{}}
 ---
 
 དེ་ལྟ་བུའི་ཞི་ལྷག་ཟུང་འབྲེལ་གྱི་ཏིང་ངེ་འཛིན་གོམས་པར་བྱས་པ་ལ་བརྟེན་ནས་འཇིག་རྟེན་པའི་སྒོམ་སྤང་དུ་གྱུར་པའི་འདོད་ཉོན་ཆེན་པོའི་ཆེན་པོའི་དངོས་གཉེན་བྱེད་པའི་ནུས་པ་ཐོབ་པ་ན།

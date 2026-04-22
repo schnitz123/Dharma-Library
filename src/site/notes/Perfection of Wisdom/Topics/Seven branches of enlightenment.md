@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/seven-branches-of-enlightenment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/seven-branches-of-enlightenment/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་བྱང་ཆུབ་ཀྱི་རྒྱུ་བྱེད་པའི་འཕགས་རྒྱུད་ཀྱི་མཁྱེན་པ། བྱང་ཆུབ་ཡན་ལག་གི་མཚན་ཉིད།

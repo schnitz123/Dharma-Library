@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/heart-sutra/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/recitations/heart-sutra/","dg-note-properties":{}}
 ---
 
 སྨྲ་བསམ་བརྗོད་མེད་ཤེས་རབ་ཕ་རོལ་ཕྱིན། །མ་སྐྱེས་མི་འགག་ནམ་མཁའི་ངོ་བོ་ཉིད། 

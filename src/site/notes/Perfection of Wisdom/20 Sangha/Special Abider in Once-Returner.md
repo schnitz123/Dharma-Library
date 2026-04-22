@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/special-abider-in-once-returner/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/special-abider-in-once-returner/","dg-note-properties":{}}
 ---
 
 ཕྱིར་འོང་འབྲས་གནས་གང་ཞིག །རང་གི་གོང་མའི་འབྲས་བུ་ལ་ཞུགས་པས་རབ་ཏུ་ཕྱེ་བ། ཕྱིར་འོང་འབྲས་ཁྱད་པར་ཅན་གྱི་མཚན་ཉིད། 

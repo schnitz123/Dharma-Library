@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/other-divisions-of-karma/"}
+{"dg-publish":true,"permalink":"/abhidharma/other-divisions-of-karma/","dg-note-properties":{}}
 ---
 
 **Three:** 

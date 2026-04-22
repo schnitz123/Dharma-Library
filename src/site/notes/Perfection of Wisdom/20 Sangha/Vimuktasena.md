@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/vimuktasena/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/vimuktasena/","dg-note-properties":{}}
 ---
 
 **Meaning Sangha:**

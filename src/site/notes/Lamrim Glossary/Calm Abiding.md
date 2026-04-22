@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/calm-abiding/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/calm-abiding/","dg-note-properties":{}}
 ---
 
 **Six Conditions Conducive to Calm Abiding:** ཞི་གནས་ཀྱི་ཚོགས་དྲུག

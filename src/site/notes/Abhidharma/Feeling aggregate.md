@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/feeling-aggregate/"}
+{"dg-publish":true,"permalink":"/abhidharma/feeling-aggregate/","dg-note-properties":{}}
 ---
 
 

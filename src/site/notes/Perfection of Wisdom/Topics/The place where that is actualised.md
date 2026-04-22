@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/the-place-where-that-is-actualised/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/the-place-where-that-is-actualised/","dg-note-properties":{}}
 ---
 
 ཕར་ཕྱིན་ཐེག་པར་རིགས་ངེས་པའི་གང་ཟག་རྣམས་ནི། དང་པོར་གཟུགས་ཁམས་ཀྱི་འོག་མིན་སྟུག་པོ་བཀོད་པ་ཁོ་ནར་སངས་རྒྱ་བ་ཡིན་ཏེ། 

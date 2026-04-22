@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/bodhisattvas-purity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/bodhisattvas-purity/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་བར་ཆད་མེད་ལམ་གྱི་ངོས་སྐལ་གྱི་སྒྲིབ་པ་སྤངས་པའི་བྱང་སེམས་ཀྱི་བྲལ་བ། བྱང་སེམས་ཀྱི་རྣམ་དག་གི་མཚན་ཉིད།

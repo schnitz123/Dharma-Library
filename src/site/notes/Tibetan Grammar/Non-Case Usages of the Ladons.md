@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/non-case-usages-of-the-ladons/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/non-case-usages-of-the-ladons/","dg-note-properties":{}}
 ---
 
 The Ladon particles can be mistaken for some nouns and verbs:

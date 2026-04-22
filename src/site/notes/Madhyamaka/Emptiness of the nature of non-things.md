@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-nature-of-non-things/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-the-nature-of-non-things/","dg-note-properties":{}}
 ---
 
 དངོས་པོ་རྣམས་ཆོས་ཅན། ཁྱོད་ལ་དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་ཅེས་བྱ་སྟེ། ཁྱོད་ལ་རྒྱུ་རྐྱེན་འདུས་པ་ལས་བྱུང་བ་ཡི་བདེན་པའི་ངོ་བོ་ཉིད་མེད་པའི་ཕྱིར་ཏེ། 

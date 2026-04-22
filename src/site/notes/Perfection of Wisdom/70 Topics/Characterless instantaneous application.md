@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/characterless-instantaneous-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/characterless-instantaneous-application/","dg-note-properties":{}}
 ---
 
 སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སྒོ་ནས་ཤེས་སྒྲིབ་ཀྱི་དངོས་གཉེན་དུ་གྱུར་པའི་སེམས་དཔའི་རྣལ་འབྱོར་དེ། 

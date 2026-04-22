@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-2-investigation-of-coming-and-going/"}
+{"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-2-investigation-of-coming-and-going/","dg-note-properties":{}}
 ---
 
 རེ་ཞིག་སོང་ལ་མི་འགྲོ་སྟེ། །མ་སོང་བ་ལའང་འགྲོ་བ་མིན། །སོང་དང་མ་སོང་མ་གཏོགས་པར། །བགོམ་པ་ཤེས་པར་མི་འགྱུར་རོ། །

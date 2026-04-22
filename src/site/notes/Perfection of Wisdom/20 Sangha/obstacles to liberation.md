@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/obstacles-to-liberation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/obstacles-to-liberation/","dg-note-properties":{}}
 ---
 
 Three sets of main obstacles to liberation (ཐར་པ་ཐོབ་པའི་བགེགས་ཀྱི་གཙོ་བ།):

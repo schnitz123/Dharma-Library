@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-e-particles/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-e-particles/","dg-note-properties":{}}
 ---
 
 The [[Tibetan Grammar/The Third Case – Agentive\|Third Case]] particle is suffix dependent:

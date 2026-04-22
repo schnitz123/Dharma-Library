@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-characteristics-of-applications-of-a-knower-of-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-characteristics-of-applications-of-a-knower-of-paths/","dg-note-properties":{}}
 ---
 
 སྟོང་ཉིད་མཚན་མེད་སོགས་ལམ་ཤེས་ཀྱི་རྣམ་པ་གང་རུང་ལ་དམིགས་པའི་སེམས་དཔའི་རྣལ་འབྱོར། ལམ་ཤེས་ཀྱི་སྦྱོར་བའི་བྱེ་བྲག་གི་མཚན་ཉིད།

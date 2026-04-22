@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/motivation-of-actions/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/motivation-of-actions/","dg-note-properties":{}}
 ---
 
 **The Purpose / Motivation for Accumulating Actions:** ལས་གསོག་པ་ལ་གཉིས་ཏེ།

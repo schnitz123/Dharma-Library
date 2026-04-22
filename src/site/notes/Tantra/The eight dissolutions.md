@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tantra/the-eight-dissolutions/"}
+{"dg-publish":true,"permalink":"/tantra/the-eight-dissolutions/","dg-note-properties":{}}
 ---
 
 **FIRST DISSOLUTION: EARTH → WATER** ས་ཆུ་ལ་ཐིམ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/solitary-realiser-s-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/solitary-realiser-s-path-of-seeing/","dg-note-properties":{}}
 ---
 
 རང་གི་རྒྱུར་གྱུར་པའི་རང་རྒྱལ་གྱི་སྦྱོར་ལམ་རྫོགས་རྗེས་སུ་བྱུང་ཞིང་། རང་གི་འབྲས་བུར་གྱུར་པའི་རང་རྒྱལ་གྱི་སྒོམ་ལམ་མ་སྐྱེས་གོང་གི་<br>རང་རྒྱལ་གྱི་བདེན་པ་མངོན་རྟོགས་དེ། རང་རྒྱལ་གྱི་མཐོང་ལམ་གྱི་མཚན་ཉིད།

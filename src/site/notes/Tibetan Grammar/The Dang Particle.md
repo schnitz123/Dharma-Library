@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/the-dang-particle/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/the-dang-particle/","dg-note-properties":{}}
 ---
 
 The Thirty divides the དང་སྒྲ། into five usages:

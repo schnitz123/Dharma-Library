@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/sharp-faculty-once-returner-attainers-through-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/sharp-faculty-once-returner-attainers-through-seeing/","dg-note-properties":{}}
 ---
 
 ཕྱིར་འོང་གང་ཞིག །རང་གི་ཞུགས་པ་མཐོང་ཐོབ་པ་དང་ཆོས་ཀྱི་རྗེས་འབྲང་གང་རུང་གི་རྟོགས་པ་སྔོན་དུ་སོང་བ། དབང་རྣོན་མཐོང་ཐོབ་པའི་ཕྱིར་འོང་གི་མཚན་ཉིད།

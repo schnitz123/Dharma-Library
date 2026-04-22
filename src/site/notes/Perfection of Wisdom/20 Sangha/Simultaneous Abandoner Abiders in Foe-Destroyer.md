@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/simultaneous-abandoner-abiders-in-foe-destroyer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/simultaneous-abandoner-abiders-in-foe-destroyer/","dg-note-properties":{}}
 ---
 
 དགྲ་བཅོམ་འབྲས་གནས་གང་ཞིག །ཁམས་གསུམ་གྱི་སྒོམ་སྤང་ཉོན་མོངས་ཆུང་ངུའི་ཆུང་ངུ་དགུ་ཅིག་ཅར་དུ་སྤངས་པ། 

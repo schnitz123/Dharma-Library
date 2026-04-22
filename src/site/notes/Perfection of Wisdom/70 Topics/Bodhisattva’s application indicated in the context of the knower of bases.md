@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/bodhisattva-s-application-indicated-in-the-context-of-the-knower-of-bases/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/bodhisattva-s-application-indicated-in-the-context-of-the-knower-of-bases/","dg-note-properties":{}}
 ---
 
 གཞི་ཀུན་རྫོབ་པའི་སྡོད་ལུགས་ཀྱི་ངོ་བོ་དང་ཁྱད་པར་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ་དང་། དོན་དམ་པའི་སྡོད་ལུགས་ཀྱི་ངོ་བོ་དང་ཁྱད་པར་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ་གང་རུང་གི་གཉེན་པོར་སྒོམ་པའི་སེམས་དཔའི་རྣལ་འབྱོར་དེ། གཞི་ཤེས་ཀྱི་སྐབས་ནས་བསྟན་པའི་བྱང་སེམས་ཀྱི་སྦྱོར་བའི་མཚན་ཉིད།

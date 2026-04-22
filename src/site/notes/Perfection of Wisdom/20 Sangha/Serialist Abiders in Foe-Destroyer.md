@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/serialist-abiders-in-foe-destroyer/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/serialist-abiders-in-foe-destroyer/","dg-note-properties":{}}
 ---
 
 དགྲ་བཅོམ་འབྲས་གནས་གང་ཞིག དེ་དགུ་རིམ་ཅན་དུ་སྤངས་པ། སྤང་བྱ་རིམ་གྱིས་པའི་དགྲ་བཅོམ་འབྲས་གནས་ཀྱི་མཚན་ཉིད།
