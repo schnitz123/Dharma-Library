@@ -12,11 +12,12 @@
                 <li><a href="/website/about-me/">About me</a></li>
                 <li><a href="/website/written-translations/">Written translations</a></li>
                 <li><a href="/website/offerings/">Make an offering</a></li>
+                <li>{% if settings.dgEnableSearch === true%}
+                    {% include "components/searchButton.njk" %}
+                    {%endif%}</li>
             </ul>
         
-            {% if settings.dgEnableSearch === true%}
-                {% include "components/searchButton.njk" %}
-            {%endif%}
+            
         </div>   
     </nav>
 
