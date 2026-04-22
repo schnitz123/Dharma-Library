@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
 }
+
 /* --- ZONE 1: GLOBAL STYLES & FONTS --- */
 @font-face {
     font-family: 'TibetanCustom';
@@ -12,14 +13,12 @@ html {
 }
 
 /* THE FIREFOX SPECIFIC OVERRIDE */
-/* This tells Firefox: "If you are on Windows, really try to use this stack" */
 @-moz-document url-prefix() {
     body, .content, p, li, span, h1, h2, h3 {
         font-family: 'Times New Roman', 'TibetanCustom', 'Microsoft Himalaya', serif !important;
     }
 }
 
-/* Global application for all other browsers (Chrome, Safari) */
 body, html, .content, .nav-links, #lib-sidebar-desktop, p, li, h1, h2, h3, span, a {
     font-family: 'Times New Roman', 'Kailasa', 'TibetanCustom', 'Microsoft Himalaya', serif !important;
 }
@@ -33,7 +32,7 @@ body, html, .content, .nav-links, #lib-sidebar-desktop, p, li, h1, h2, h3, span,
 strong, b { color: #eac676; }
 em, h1 { color: #add8e6; }
 
-/* Images */
+/* Images & Grid */
 .profile-pic {
     float: right;
     width: 250px;
@@ -51,20 +50,16 @@ em, h1 { color: #add8e6; }
 
 .grid {
     display: grid;
-    /* This creates two equal columns on desktop */
     grid-template-columns: 1fr 1fr; 
-    gap: 20px; /* Space between the cells */
+    gap: 20px;
     margin-top: 20px;
 }
 
-/* Individual Cell styling */
-.cell {
-    text-align: center;
-}
+.cell { text-align: center; }
 
 .cell img {
     width: 100%;
-    max-width: 400px; /* Limits size as you requested */
+    max-width: 400px;
     height: auto;
     border-radius: 8px;
     display: block;
@@ -77,19 +72,36 @@ em, h1 { color: #add8e6; }
     color: var(--text-normal);
 }
 
-/* --- ZONE 2: NAVIGATION LINKS --- */
+/* --- ZONE 2: NAVIGATION & NAVBAR --- */
+.navbar {
+    position: fixed;
+    top: 0;
+    height: 60px !important; /* Reduced Height */
+    width: 100%;
+    z-index: 100 !important;
+    display: flex;
+    align-items: center;
+}
+
 .nav-links {
     list-style: none;
     display: flex;
     gap: 30px;
-    padding: 20px;
+    padding: 0 20px !important;
     margin: 0;
+    align-items: center;
 }
-.nav-links a { text-decoration: none; color: #eac676; font-size: 20px; }
 
-/* Fix for Anchor Links being covered by Navbar */
+.nav-links a { 
+    text-decoration: none; 
+    color: #eac676; 
+    font-size: 20px; 
+    line-height: 60px; /* Vertically centers text in navbar */
+}
+
+/* Fix for Anchor Links - Adjusted for 60px Navbar */
 h1, h2, h3, h4, h5, h6, [id] {
-    scroll-margin-top: 100px; /* Adjust this value based on your navbar height */
+    scroll-margin-top: 80px; /* 60px navbar + 20px breathing room */
 }
 
 /* --- ZONE 3: DESKTOP SIDEBAR & CONTENT (1000px+) --- */
@@ -99,10 +111,10 @@ h1, h2, h3, h4, h5, h6, [id] {
     #lib-sidebar-desktop.desktop-sidebar {
         display: block !important;
         position: fixed;
-        top: 80px;
+        top: 60px !important; /* Matched to new Navbar height */
         left: 0;
         width: 260px;
-        height: 100vh;
+        height: calc(100vh - 60px);
         padding: 20px;
         background: var(--background-primary);
         border-right: 1px solid var(--background-modifier-border);
@@ -118,7 +130,7 @@ h1, h2, h3, h4, h5, h6, [id] {
     
     .content {
         margin-left: 350px;
-        margin-top: 0px !important;
+        margin-top: 20px !important; /* Added slight top margin for aesthetic */
         max-width: 1000px;
         font-size: 24px !important;
         line-height: 1.65 !important;
@@ -135,12 +147,6 @@ h1, h2, h3, h4, h5, h6, [id] {
         margin-top: 0 !important;
         padding-top: 0 !important;
     }
-    
-    .navbar {
-        position: fixed;
-        top: 0;
-        z-index: 100 !important;
-    }
 }
 
 /* --- ZONE 4: MOBILE (Under 1000px) --- */
@@ -149,10 +155,11 @@ h1, h2, h3, h4, h5, h6, [id] {
         display: none !important;
     }
 
+    /* Adjusted Mobile Button position for shorter Navbar */
     #lib-mobile-btn.menu-toggle {
         display: flex !important;
         position: fixed !important;
-        top: 10px !important;
+        top: 10px !important; /* Centered in the 60px bar */
         right: 15px !important;
         width: 40px !important;
         height: 40px !important;
@@ -199,7 +206,7 @@ h1, h2, h3, h4, h5, h6, [id] {
         text-decoration: none !important;
     }
 
-    .content { margin-top: 0 !important; padding-top: 10px !important; }
+    .content { margin-top: 0 !important; padding-top: 70px !important; } /* Pushes content below fixed 60px navbar */
     
     .profile-pic, .gyurme-pic {
         float: none !important;
@@ -209,7 +216,6 @@ h1, h2, h3, h4, h5, h6, [id] {
         max-width: 400px;
     }
     .grid {
-        /* Switch to one column on smaller screens */
         grid-template-columns: 1fr;
     }
 }
