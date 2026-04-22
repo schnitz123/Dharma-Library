@@ -2,18 +2,18 @@
 
 @font-face {
     font-family: 'TibetanCustom';
-    /* 1. Try local computer first (Windows users who have it installed) */
-    src: local('Monlam Uni OuChan2'), 
-         local('MonlamUniOuChan2'),
-         /* 2. Download from server (Windows users who don't have it) */
+    src: local('MonlamUniOuChan2'), 
+         local('MonlamUniOuChan-2'),
+         local('Monlam-Uni-OuChan2'),
+         local('Monlam Uni OuChan2'), 
+         /* The download fallback for Windows users without the font */
          url('/pdf/Monlam-Uni-OuChan2.ttf') format('truetype');
     unicode-range: U+0F00-0FFF;
 }
 
 /* Apply fonts globally */
 body, html, .content, .nav-links, #lib-sidebar-desktop, p, li, h1, h2, h3, span, a {
-    /* ORDER: English -> Mac Native -> Monlam Download -> Windows Native */
-    font-family: 'Times New Roman', 'Kailasa', 'TibetanCustom', 'Microsoft Himalaya', serif !important;
+    font-family: 'Times New Roman', 'TibetanCustom', 'Kailasa', serif !important;
 }
 
 .content {
