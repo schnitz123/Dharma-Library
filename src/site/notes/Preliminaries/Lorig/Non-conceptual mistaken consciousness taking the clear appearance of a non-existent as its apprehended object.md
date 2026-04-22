@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/non-conceptual-mistaken-consciousness-taking-the-clear-appearance-of-a-non-existent-as-its-apprehended-object/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/non-conceptual-mistaken-consciousness-taking-the-clear-appearance-of-a-non-existent-as-its-apprehended-object/","dg-note-properties":{}}
 ---
 
 རང་གི་སྣང་ཡུལ་ལ་འཁྲུལ་བའི་གསལ་སྣང་ཅན་གྱི་རིག་པ། རང་ཉིད་རྟོག་མེད་འཁྲུལ་ཤེས་ཡིན་པའི་མཚན་ཉིད།

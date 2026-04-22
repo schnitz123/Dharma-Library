@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/true-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/true-paths/","dg-note-properties":{}}
 ---
 
 རྣམ་བྱང་ཕྱོགས་ཀྱི་བདེན་པ་གང་ཞིག ལམ་རིགས་པ་སྒྲུབ་པ་ངེས་འབྱིན་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་རབ་ཏུ་ཕྱེ་བ། ལམ་བདེན་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subjective-aspects/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subjective-aspects/","dg-note-properties":{}}
 ---
 
 མཁྱེན་གསུམ་གང་རུང་གི་རྣམ་པ་ཤར་བའི་སྒོ་ནས་སྒོམ་པར་བྱེད་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སེམས་དཔའི་རྣལ་འབྱོར། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-consequence-not-conveying-a-proof/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-consequence-not-conveying-a-proof/","dg-note-properties":{}}
 ---
 
 ཐལ་འགྱུར་ཡང་དག་གང་ཞིག  དོན་བཟློག་ན་ཚུལ་གསུམ་མ་ཚང་བ་དེ། སྒྲུབ་བྱེད་མི་འཕེན་པའི་ཐལ་འགྱུར་ཡང་དག་གི་མཚན་ཉིད།

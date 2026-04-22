@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/true-cessations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/true-cessations/","dg-note-properties":{}}
 ---
 
 རྣམ་བྱང་ཕྱོགས་ཀྱི་བདེན་པ་གང་ཞིག འགོག་པ་ཞི་བ་གྱ་ནོམ་ངེས་འབྱུང་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་རབ་ཏུ་ཕྱེ་བ། འགོག་བདེན་གྱི་མཚན་ཉིད།

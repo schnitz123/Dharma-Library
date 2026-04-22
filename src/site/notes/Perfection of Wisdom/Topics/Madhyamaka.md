@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/madhyamaka/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/madhyamaka/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་སྐུར་འགྱུར་རུང་གི་ཆོས། སངས་རྒྱས་ཀྱི་རིགས་ཀྱི་མཚན་ཉིད།

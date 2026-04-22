@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/ten-paths-of-buddhas/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/ten-paths-of-buddhas/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཉིད་ཀྱི་ལམ་བཅུ་ཡོད་དེ། སྦྱིན་སོགས་ཕར་ཕྱིན་དྲུག ཐབས་སྟོབས་སྨོན་ལམ་ཡེ་ཤེས་ཀྱི་ཕར་ཕྱིན་དང་བཅུ་ཡོད་པའི་ཕྱིར།

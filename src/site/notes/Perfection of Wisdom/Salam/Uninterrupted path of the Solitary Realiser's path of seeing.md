@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/uninterrupted-path-of-the-solitary-realiser-s-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/uninterrupted-path-of-the-solitary-realiser-s-path-of-seeing/","dg-note-properties":{}}
 ---
 
 གཉིས་སྟོང་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་རང་རྒྱལ་གྱི་བདེན་པ་མངོན་རྟོགས་གང་ཞིག རང་གི་ངོ་སྐལ་གྱི་སྤང་བྱར་གྱུར་པའི་གཟུགས་<br>ཕྱི་རོལ་དོན་འཛིན་གྱི་རྟོག་པ་ཀུན་བཏགས་ཀྱི་དངོས་གཉེན་བྱེད་པ་དེ། རང་རྒྱལ་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་གྱི་མཚན་ཉིད།

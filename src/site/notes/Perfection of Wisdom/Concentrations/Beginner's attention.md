@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/beginner-s-attention/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/beginner-s-attention/","dg-note-properties":{}}
 ---
 
 ཡིད་ལ་བྱེད་པའི་ལས་དང་པོ་བ་ནི། 

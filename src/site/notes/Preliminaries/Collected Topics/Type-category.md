@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/type-category/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/type-category/","dg-note-properties":{}}
 ---
 
 རིགས་སྤྱིའི་མཚན་ཉིད་ཡོད་དེ། རང་གི་རིགས་ཅན་དུ་མ་ལ་རྗེས་སུ་འགྲོ་བའི་ཆོས་དེ་དེ་ཡིན་པའི་ཕྱིར།

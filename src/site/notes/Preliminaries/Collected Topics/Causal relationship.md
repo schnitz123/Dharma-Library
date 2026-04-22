@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/causal-relationship/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/causal-relationship/","dg-note-properties":{}}
 ---
 
 ཆོས་དེ་དང་རྫས་ཐ་དད་པའི་སྒོ་ནས་ཆོས་དེའི་འབྲས་བུའི་རིགས་སུ་གནས་པ། ཆོས་དེ་དང་དེ་བྱུང་འབྲེལ་གྱི་མཚན་ཉིད།

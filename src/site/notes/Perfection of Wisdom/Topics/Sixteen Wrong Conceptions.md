@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sixteen-wrong-conceptions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sixteen-wrong-conceptions/","dg-note-properties":{}}
 ---
 
 There are four wrong perspectives with respect to **true sufferings**: apprehending the appropriated aggregates as pure, happiness, permanent, and self. གཙང་བདེ་རྟག་བདག་ཏུ་འཛིན་པ།

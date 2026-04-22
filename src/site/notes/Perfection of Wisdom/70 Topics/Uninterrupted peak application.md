@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/uninterrupted-peak-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/uninterrupted-peak-application/","dg-note-properties":{}}
 ---
 
 མཁྱེན་གསུམ་བསྡུས་སྒོམ་ཐེག་ཆེན་གྱི་ཚོགས་ལམ་ལས་རབ་ཏུ་གྱུར་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སེམས་དཔའི་རྣལ་འབྱོར་མཐར་ཐུག་གང་ཞིག 

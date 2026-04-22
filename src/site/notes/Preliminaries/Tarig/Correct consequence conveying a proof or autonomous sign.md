@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-consequence-conveying-a-proof-or-autonomous-sign/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-consequence-conveying-a-proof-or-autonomous-sign/","dg-note-properties":{}}
 ---
 
 ཐལ་འགྱུར་ཡང་དག་གང་ཞིག  བཟློག་དོན་ཚུལ་གསུམ་ཚང་བ་དེ། སྒྲུབ་བྱེད་འཕེན་པའམ་རང་རྒྱུད་འཕེན་པའི་ཐལ་འགྱུར་ཡང་དག་གི་མཚན་ཉིད།

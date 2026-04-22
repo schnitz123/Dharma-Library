@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-five-objects/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-five-objects/","dg-note-properties":{}}
 ---
 
 1. [[Abhidharma/Form-source\|Form-source]] གཟུགས་ཀྱི་སྐྱེ་མཆེད།

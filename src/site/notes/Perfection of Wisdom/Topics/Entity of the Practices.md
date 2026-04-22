@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/entity-of-the-practices/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/entity-of-the-practices/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་སེམས་བསྐྱེད་ལ་བརྟེན་ནས་དོན་གཉིས་ཕུན་ཚོགས་སུ་སྒྲུབ་པར་བྱེད་པའི་ཆེན་པོ་དྲུག་ལྡན་གྱི་སེམས་དཔའི་རྣལ་འབྱོར། ཐེག་ཆེན་སྒྲུབ་པའི་མཚན་ཉིད།

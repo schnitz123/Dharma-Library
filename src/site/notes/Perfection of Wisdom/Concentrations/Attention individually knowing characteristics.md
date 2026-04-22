@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-individually-knowing-characteristics/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-individually-knowing-characteristics/","dg-note-properties":{}}
 ---
 
 ཞི་གནས་དེའི་ངང་ནས་འདོད་པ་ནི་སྡུག་བསྔལ་ཆེས་མང་ཞིང་མ་ཞི་བ་དང་། ཚེ་ཐུང་བ་སོགས་རགས་པ་དང་། བསམ་གཏན་དང་པོ་དེ་ལས་བཟློག་སྟེ་ཞི་བའི་མཚན་ཉིད་དུ་སོ་སོར་ཐོས་བསམ་གྱིས་དཔྱོད་པར་བྱེད་ཅིང་། དེ་ལྟར་དཔྱད་སྟོབས་ཀྱིས་དྲངས་པའི་ཤིན་སྦྱངས་ཀྱི་བདེ་བ་མ་སྐྱེས་པའི་ལྷག་མཐོང་རྗེས་མཐུན་པ་ཞིག

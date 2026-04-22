@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-renown/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-renown/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་རྟགས་ཡང་དག་གང་ཞིག  དེ་སྒྲུབ་ཀྱི་བསྒྲུབ་བྱ་ལ་གྲགས་པའི་རྗེས་དཔག་ཚད་མ་སྐྱེད་བྱེད་དེ། གྲགས་པའི་རྟགས་ཡང་དག་གི་མཚན་ཉིད།

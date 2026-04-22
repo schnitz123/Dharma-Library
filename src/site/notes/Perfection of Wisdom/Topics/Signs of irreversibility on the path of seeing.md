@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs-of-irreversibility-on-the-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs-of-irreversibility-on-the-path-of-seeing/","dg-note-properties":{}}
 ---
 
 རང་གང་ལ་ལྡན་པའི་བྱང་སེམས་མཐོང་ལམ་པ་དབང་འབྲིང་བླ་མེད་རྫོགས་བྱང་ལས་ཕྱིར་མི་ལྡོག་པར་ཡིད་ཆེས་པའི་སྒྲུབ་བྱེད་རྣམ་དག 

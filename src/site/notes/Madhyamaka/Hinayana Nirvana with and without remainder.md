@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/hinayana-nirvana-with-and-without-remainder/"}
+{"dg-publish":true,"permalink":"/madhyamaka/hinayana-nirvana-with-and-without-remainder/","dg-note-properties":{}}
 ---
 
 ཐེག་དམན་གྱི་མྱང་འདས་གང་ཞིག བདེན་སྣང་མངོན་གྱུར་པ་ནུབ་པས་ཁྱད་པར་དུ་བྱས་པ། ཐེག་དམན་གྱི་ལྷག་མེད་མྱང་འདས་ཀྱི་མཚན་ཉིད།

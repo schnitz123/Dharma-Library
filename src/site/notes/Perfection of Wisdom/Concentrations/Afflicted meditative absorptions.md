@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/afflicted-meditative-absorptions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/afflicted-meditative-absorptions/","dg-note-properties":{}}
 ---
 
 སྙོམས་འཇུག་གི་རྫས་རྒྱུན་ཡང་ཡིན། སྒྲིབ་ལུང་མ་བསྟན་གྱི་སེམས་རྩེ་གཅིག་པ་མཚུངས་ལྡན་དང་བཅས་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ་དེ། 

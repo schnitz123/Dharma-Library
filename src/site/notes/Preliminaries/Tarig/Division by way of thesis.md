@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/division-by-way-of-thesis/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/division-by-way-of-thesis/","dg-note-properties":{}}
 ---
 
 རྟགས་ཡང་དག་ལ་བསྒྲུབ་བྱའི་སྒོ་ནས་དབྱེ་ན།

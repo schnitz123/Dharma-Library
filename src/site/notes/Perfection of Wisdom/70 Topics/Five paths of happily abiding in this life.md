@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/five-paths-of-happily-abiding-in-this-life/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/five-paths-of-happily-abiding-in-this-life/","dg-note-properties":{}}
 ---
 
 མཐོང་ཆོས་ལ་བདེར་གནས་ཀྱི་ལམ་ལྔ་ཡོད་དེ། 

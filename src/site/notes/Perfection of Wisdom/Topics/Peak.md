@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན་གཉིས་པ་གང་ཞིག །ཤེས་སྒྲིབ་རྣམ་བྱང་གཟུང་རྟོག་མངོན་གྱུར་པ་འཇོམས་པའི་ནུས་པ་ཐོབ་པའི་ལམ་གྱི་རིགས་སུ་གནས་པས་

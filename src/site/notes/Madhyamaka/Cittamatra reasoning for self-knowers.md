@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/cittamatra-reasoning-for-self-knowers/"}
+{"dg-publish":true,"permalink":"/madhyamaka/cittamatra-reasoning-for-self-knowers/","dg-note-properties":{}}
 ---
 
 གལ་ཏེ་སེམས་ཙམ་པ་ན་རེ། སྔོ་སྣང་དབང་ཤེས་ཆོས་ཅན། ཁྱོད་མྱོང་བྱེད་ཡོད་དེ། ཁྱོད་དྲན་པ་ཡོད་པའི་ཕྱིར། དཔེར་ན་སྔོན་པོ་བཞིན། 

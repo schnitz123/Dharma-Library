@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-branches-of-explanation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-branches-of-explanation/","dg-note-properties":{}}
 ---
 
 1. Purpose དགོས་དོན།

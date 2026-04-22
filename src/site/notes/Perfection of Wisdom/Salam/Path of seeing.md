@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-seeing/","dg-note-properties":{}}
 ---
 
 བདེན་པ་མངོན་རྟོགས། མཐོང་ལམ་གྱི་མཚན་ཉིད།

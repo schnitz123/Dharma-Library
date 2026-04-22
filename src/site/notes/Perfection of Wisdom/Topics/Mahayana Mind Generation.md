@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-mind-generation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-mind-generation/","dg-note-properties":{}}
 ---
 
 རང་གི་གྲོགས་སུ་གྱུར་པའི་གཞན་དོན་དུ་རྫོགས་པའི་བྱང་ཆུབ་དོན་གཉེར་གྱི་འདུན་པ་དང་མཚུངས་ལྡན་དུ་བྱུང་ཞིང་།
@@ -60,7 +60,7 @@
 	2. Thinking of their kindness དྲིན་དྲན་པ།
 	3. Repaying their kindness དྲིན་གཟོ་བ།
 	4. Affectionate love ཡིད་འོང་གི་བྱམས་པ།
-	5. Great compassion སྙིང་རྗེ་ཆེན་པ།
+	5. Great compassion སྙིང་རྗེ་ཆེན་པོ།
 	6. Pure superior intention ལྷག་བསམ་རྣམ་དག
 	7. Bodhicitta - the result འབྲས་བུ་ཐེག་ཆེན་སེམས་བསྐྱེད།
 - **Shantideva's Equalising and Exchanging Self and Others** བདག་གཞན་མཉམ་བརྗེ།

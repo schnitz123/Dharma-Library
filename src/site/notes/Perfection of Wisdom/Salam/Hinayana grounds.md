@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/hinayana-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/hinayana-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་གཞི་རྟེན་བྱེད་པའི་ཐེག་དམན་གྱི་ལམ་ཞུགས་ཀྱི་མངོན་རྟོགས། ཐེག་དམན་གྱི་སའི་མཚན་ཉིད།

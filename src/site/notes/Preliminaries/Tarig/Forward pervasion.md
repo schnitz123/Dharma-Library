@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/forward-pervasion/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/forward-pervasion/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་མཐུན་ཕྱོགས་ཁོ་ན་ལ་འགོད་ཚུལ་དང་མཐུན་པར་ཡོད་པ་ཉིད་དུ་ཚད་མས་ངེས་པ་དེ། དེ་སྒྲུབ་ཀྱི་རྗེས་ཁྱབ་ཀྱི་མཚན་ཉིད།

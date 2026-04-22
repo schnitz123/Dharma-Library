@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-effect-sign/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-effect-sign/","dg-note-properties":{}}
 ---
 
 འབྲས་བུའི་ཚུལ་གསུམ་ཡིན་པ། འབྲས་རྟགས་ཡང་དག་གི་མཚན་ཉིད།

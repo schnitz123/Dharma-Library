@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/six-clairvoyances/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/six-clairvoyances/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞིའི་སེམས་ལ་བརྟེན་ནས་རང་ཡུལ་མངོན་སུམ་དུ་མཐོང་བས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/analysis-of-whose-objects-are-the-bodies/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/analysis-of-whose-objects-are-the-bodies/","dg-note-properties":{}}
 ---
 
 **Dharmakaya:**

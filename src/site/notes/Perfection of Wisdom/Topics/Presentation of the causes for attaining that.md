@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-the-causes-for-attaining-that/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-the-causes-for-attaining-that/","dg-note-properties":{}}
 ---
 
 བསྐལ་ཆེན་གྲངས་མེད་དུ་མར་ཚོགས་གཉིས་རླབས་པོ་ཆེ་བསགས་པས་སྒྲིབ་གཉིས་སྤངས་པའི་འབྲས་བུ་ཆོས་སྐུ་འཐོབ་པ་ཡིན།

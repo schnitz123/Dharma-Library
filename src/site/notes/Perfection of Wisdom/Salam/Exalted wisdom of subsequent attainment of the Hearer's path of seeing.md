@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-subsequent-attainment-of-the-hearer-s-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-subsequent-attainment-of-the-hearer-s-path-of-seeing/","dg-note-properties":{}}
 ---
 
 ཉན་ཐོས་ཀྱི་མཐོང་ལམ་རྣམ་གྲོལ་ལམ་ལས་ལངས་པའི་ཉན་ཐོས་ཀྱི་བདེན་པ་མངོན་རྟོགས་གང་ཞིག<br>རང་རྒྱུད་ལྡན་གྱི་གང་ཟག་གི་རྒྱུད་ལ་མངོན་གྱུར་དུ་འབྱུང་བ། ཉན་ཐོས་ཀྱི་མཐོང་ལམ་རྗེས་ཐོབ་ཡེ་ཤེས་ཀྱི་མཚན་ཉིད།

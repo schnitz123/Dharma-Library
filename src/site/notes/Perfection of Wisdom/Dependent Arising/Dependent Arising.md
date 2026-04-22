@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/dependent-arising/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/dependent-arising/","dg-note-properties":{}}
 ---
 
 རང་གི་ཆ་ཤས་ལ་ལྟོས་ནས་གྲུབ་པ། རྟེན་འབྲེལ་གྱི་མཚན་ཉིད།

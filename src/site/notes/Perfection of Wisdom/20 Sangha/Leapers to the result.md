@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/leapers-to-the-result/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/leapers-to-the-result/","dg-note-properties":{}}
 ---
 
 སྦྱོར་ལམ་སྟན་གཅིག་པའི་རྟོགས་པ་ཐོབ་པའི་ཉན་ཐོས་གང་ཞིག རྒྱུན་ཞུགས་ཀྱི་འབྲས་བུ་མངོན་དུ་མ་བྱས་པར་འབྲས་བུ་ཐ་མ་གསུམ་པོ་གང་རུང་མངོན་དུ་བྱས་སམ་

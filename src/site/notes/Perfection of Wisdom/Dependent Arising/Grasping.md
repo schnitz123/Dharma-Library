@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/grasping/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/grasping/","dg-note-properties":{}}
 ---
 
 སྔར་གྱི་སྲེད་པའི་རྟེན་འབྲེལ་དེ་ལྷག་པར་འཕེལ་ཏེ་འཕེན་བྱེད་ལས་ཀྱི་བག་ཆགས་གསོས་འདེབས་པ་ལ་ནུས་པ་མཐུ་ཅན་དུ་གྱུར་པའི་འདོད་ཆགས་དེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/hearer-s-path-of-no-more-learning/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/hearer-s-path-of-no-more-learning/","dg-note-properties":{}}
 ---
 
 ཉན་ཐོས་ཀྱི་ལམ་གྱི་བགྲོད་པ་མཐར་ཕྱིན་པའི་ཉན་ཐོས་ཀྱི་མངོན་རྟོགས། ཉན་ཐོས་ཀྱི་མི་སློབ་ལམ་གྱི་མཚན་ཉིད།

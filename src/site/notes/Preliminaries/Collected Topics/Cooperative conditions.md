@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/cooperative-conditions/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/cooperative-conditions/","dg-note-properties":{}}
 ---
 
 དངོས་པོ་རང་གི་རྫས་རྒྱུན་མ་ཡིན་པར་རྫས་སུ་གཙོ་བོར་སྐྱེད་བྱེད། དངོས་པོའི་ལྷན་ཅིག་བྱེད་རྐྱེན་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-no-more-learning/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-no-more-learning/","dg-note-properties":{}}
 ---
 
 ཉོན་སྒྲིབ་སྤངས་པའི་མཁྱེན་པ། མི་སློབ་ལམ་གྱི་མཚན་ཉིད།

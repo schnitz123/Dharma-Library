@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/birth/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/birth/","dg-note-properties":{}}
 ---
 
 སྔར་གྱི་སྲིད་པའི་རྟེན་འབྲེལ་གྱི་མཐུས་སྐྱེ་སྲིད་དུ་ཉིང་མཚམས་སྦྱར་མ་ཐག་པའི་གནས་སྐབས་ཀྱི་རྣམ་སྨིན་གྱི་ཕུང་པོའི་རིགས་སུ་གནས་པའི་

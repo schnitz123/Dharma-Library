@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/compounded-phenomena/"}
+{"dg-publish":true,"permalink":"/abhidharma/compounded-phenomena/","dg-note-properties":{}}
 ---
 
 རང་གི་རྒྱུ་རྐྱེན་ལས་སྐྱེས་པས་རབ་ཏུ་ཕྱེ་བར་དམིགས་པ། འདུས་བྱས་ཀྱི་མཚན་ཉིད།

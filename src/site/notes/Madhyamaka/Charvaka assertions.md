@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/charvaka-assertions/"}
+{"dg-publish":true,"permalink":"/madhyamaka/charvaka-assertions/","dg-note-properties":{}}
 ---
 
 **(Jigme Wangpo:)** Cārvākas [assert that] there is no coming to this life from the previous birth because no one has seen that called “a previous birth”.

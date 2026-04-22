@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/lay-upasaka-vows/"}
+{"dg-publish":true,"permalink":"/abhidharma/lay-upasaka-vows/","dg-note-properties":{}}
 ---
 
 རྩ་བ་གསུམ། ལོག་གཡེམ་ཆང་སྟེ། སྤང་བྱ་ལྔ་ཇི་སྲིད་འཚོའི་བར་སྤོང་བར་མནོས་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་སོ་ཐར་གྱི་སྡོམ་པར་དམིགས་པ། 

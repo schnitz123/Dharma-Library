@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/samsara-chart/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/samsara-chart/","dg-note-properties":{}}
 ---
 
 

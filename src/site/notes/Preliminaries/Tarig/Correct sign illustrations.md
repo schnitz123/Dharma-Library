@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-illustrations/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-illustrations/","dg-note-properties":{}}
 ---
 
 **Divisions + Illustrations:**

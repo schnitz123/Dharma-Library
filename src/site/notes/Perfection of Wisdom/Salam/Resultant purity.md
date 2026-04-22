@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/resultant-purity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/resultant-purity/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་བར་ཆད་མེད་ལམ་གྱི་སྒྲིབ་པ་སྤངས་པའི་སོ་སོར་བརྟགས་འགོག རྣམ་དག་གི་མཚན་ཉིད།

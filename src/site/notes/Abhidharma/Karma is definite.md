@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/karma-is-definite/"}
+{"dg-publish":true,"permalink":"/abhidharma/karma-is-definite/","dg-note-properties":{}}
 ---
 
 སྐྱེ་འཕགས་གང་ཡིན་ཀྱང༌། ཚོར་བ་བདེ་བ་ཐ་ན་སེམས་ཅན་དམྱལ་བར་སྐྱེས་པ་ན་རླུང་བསིལ་བ་ལངས་པ་ལ་བརྟེན་ནས་ཅུང་ཟད་བདེ་བར་བྱུང་བ་ཙམ་ཡན་ཆད། 

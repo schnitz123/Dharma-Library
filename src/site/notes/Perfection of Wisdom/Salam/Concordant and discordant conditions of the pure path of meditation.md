@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/concordant-and-discordant-conditions-of-the-pure-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/concordant-and-discordant-conditions-of-the-pure-path-of-meditation/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་རྣམ་དག་སྒོམ་ལམ་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་བའི་རྣམ་དཀར་གྱི་ཡོན་ཏན་དེ། རྣམ་དག་སྒོམ་ལམ་གྱི་མཐུན་རྐྱེན་གྱི་མཚན་ཉིད།

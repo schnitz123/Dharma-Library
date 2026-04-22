@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/absorption-of-cessation-svatantrika/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/absorption-of-cessation-svatantrika/","dg-note-properties":{}}
 ---
 
 དགག་གཞི་ཡིད་ཀྱི་རྣམ་ཤེས་ཕྲ་མོའི་སྟེང་དུ་དགག་བྱ་མཚུངས་ལྡན་རགས་པ་བཀག་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་འཕགས་རྒྱུད་ཀྱི་སྙོམས་འཇུག་ཏུ་གྱུར་པའི་ལྡན་མིན་འདུ་བྱེད། འགོག་སྙོམས་ཀྱི་མཚན་ཉིད།

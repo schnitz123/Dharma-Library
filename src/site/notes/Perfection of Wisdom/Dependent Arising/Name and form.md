@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/name-and-form/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/name-and-form/","dg-note-properties":{}}
 ---
 
 རང་དང་རྟེན་འབྲེལ་ཚར་གཅིག་ཏུ་གཏོགས་པའི་འཕེན་བྱེད་ལས་ཀྱི་འཕངས་འབྲས་ཀྱང་ཡིན། སྐྱེ་སྲིད་དུ་ཉིང་མཚམས་སྦྱར་མ་ཐག་པ་ནས་བཟུང་སྟེ། 

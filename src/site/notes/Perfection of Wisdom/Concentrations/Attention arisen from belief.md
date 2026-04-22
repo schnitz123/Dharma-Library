@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-arisen-from-belief/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-arisen-from-belief/","dg-note-properties":{}}
 ---
 
 དེ་ལྟ་བུའི་མཚན་ཉིད་སོ་སོར་རིག་པའི་ཡིད་བྱེད་དེ་ཡུན་རིང་དུ་གོམས་པར་བྱས་པ་ལ་བརྟེན་ནས་སྔར་བཞིན་འདོད་པ་ལ་རགས་པ་དང་། 

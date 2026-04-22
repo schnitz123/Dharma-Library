@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/presentation-of-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/presentation-of-paths/","dg-note-properties":{}}
 ---
 
 ངེས་འབྱུང་གི་བསམ་པ་བཅོས་མ་མ་ཡིན་པས་ཟིན་པའི་མཁྱེན་པ་དེ། ལམ་གྱི་མཚན་ཉིད།

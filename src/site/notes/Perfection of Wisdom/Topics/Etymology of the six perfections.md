@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/etymology-of-the-six-perfections/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/etymology-of-the-six-perfections/","dg-note-properties":{}}
 ---
 
 1. Generosity: due to alleviating poverty དབུལ་བ་དོར་བས་སྦྱིན་པ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/non-vows/"}
+{"dg-publish":true,"permalink":"/abhidharma/non-vows/","dg-note-properties":{}}
 ---
 
 གཞན་ལ་གནོད་པ་ཆེན་པོ་བྱེད་པ་ལ་ཞུགས་ཤིང༌། རང་གི་གཉེན་པོར་གྱུར་པའི་སྡོམ་པ་ཐོབ་ན་གཏོང་བར་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བ། 

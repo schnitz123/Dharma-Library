@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/immeasurable-equanimity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/immeasurable-equanimity/","dg-note-properties":{}}
 ---
 
 ཚད་མེད་གང་ཞིག །སེམས་ཅན་རྣམས་ཉོན་མོངས་པ་དང་མི་ལྡན་པར་འདོད་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པ། བཏང་སྙོམས་ཚད་མེད་ཀྱི་མཚན་ཉིད།

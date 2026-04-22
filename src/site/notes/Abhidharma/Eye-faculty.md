@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/eye-faculty/"}
+{"dg-publish":true,"permalink":"/abhidharma/eye-faculty/","dg-note-properties":{}}
 ---
 
 མིག་གི་རྣམ་པར་ཤེས་པའི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་ནང་གི་གཟུགས་ཅན་དང་བར་དམིགས་པ། 

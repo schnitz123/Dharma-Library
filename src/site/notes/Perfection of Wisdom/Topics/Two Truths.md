@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/two-truths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/two-truths/","dg-note-properties":{}}
 ---
 
 **Basis of the division:** all objects of knowledge.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/afflictive-and-knowledge-obscurations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/afflictive-and-knowledge-obscurations/","dg-note-properties":{}}
 ---
 
 ཉོན་སྒྲིབ་དང་ཤེས་སྒྲིབ་གང་རུང་གང་ཞིག གཙོ་བོར་ཐར་པ་ཐོབ་པ་ལ་བར་དུ་གཅོད་བྱེད་ཀྱི་སྒྲིབ་པའི་རིགས་སུ་གནས་པ། ཉོན་སྒྲིབ་ཀྱི་མཚན་ཉིད།

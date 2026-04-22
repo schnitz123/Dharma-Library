@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tibetan-grammar/comparative-and-superlative-adjectives/"}
+{"dg-publish":true,"permalink":"/tibetan-grammar/comparative-and-superlative-adjectives/","dg-note-properties":{}}
 ---
 
 Common adjectives have three forms: regular, comparative, and superlative.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/empowering-condition/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/empowering-condition/","dg-note-properties":{}}
 ---
 
 སྔོན་འཛིན་མངོན་སུམ་རང་དབང་དུ་གཙོ་བོར་དངོས་སུ་སྐྱེད་བྱེད། སྔོན་འཛིན་མངོན་སུམ་གྱི་བདག་རྐྱེན་གྱི་མཚན་ཉིད།

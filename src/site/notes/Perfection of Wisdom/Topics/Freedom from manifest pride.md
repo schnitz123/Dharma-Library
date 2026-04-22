@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/freedom-from-manifest-pride/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/freedom-from-manifest-pride/","dg-note-properties":{}}
 ---
 
 དེ་བཞིན་གཤེགས་པའི་རང་བཞིན་གྱི་འོད་ཀྱིས་འདོད་གཟུགས་ཀྱི་ལྷ་རྣམས་ཀྱི་འོད་མོག་མོག་པོར་མཛད་པ་ཆོས་ཅན། དགོས་པ་ཡོད་དེ། 

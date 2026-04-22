@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mode-of-traversing-the-paths-and-grounds-mahayana/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mode-of-traversing-the-paths-and-grounds-mahayana/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་རིགས་ངེས་ཀྱི་ལམ་མ་ཞུགས་ཀྱི་གང་ཟག་གི་རྒྱུད་ལ། ཐེག་ཆེན་སེམས་བསྐྱེད་ནམ་སྐྱེས་པ་ན།<br>དེས་ཐེག་ཆེན་གྱི་ཚོགས་ལམ་ཆུང་ངུ་ཐོབ་པར་འཇོག

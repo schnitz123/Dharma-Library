@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-five-aggregates/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-five-aggregates/","dg-note-properties":{}}
 ---
 
 དུ་མ་སྤུངས་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བ། ཕུང་པོའི་མཚན་ཉིད། 

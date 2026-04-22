@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/forbearance/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/forbearance/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན་གསུམ་པ་གང་ཞིག ཤེས་སྒྲིབ་རྫས་འཛིན་རྟོག་པ་མངོན་གྱུར་པ་འཇོམས་པའི་ནུས་པ་ཐོབ་པའི་ལམ་གྱི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བ། ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་བཟོད་པའི་མཚན་ཉིད།

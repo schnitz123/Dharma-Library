@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/property-of-the-position/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/property-of-the-position/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་ཤེས་འདོད་ཆོས་ཅན་སྐྱོན་མེད་ཀྱི་སྟེང་དུ་འགོད་ཚུལ་དང་མཐུན་པར་ཡོད་པ་ཉིད་དུ་ཚད་མས་ངེས་པ། དེ་སྒྲུབ་ཀྱི་ཕྱོགས་ཆོས་ཀྱི་མཚན་ཉིད།

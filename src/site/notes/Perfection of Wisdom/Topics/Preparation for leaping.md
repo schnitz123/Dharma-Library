@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/preparation-for-leaping/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/preparation-for-leaping/","dg-note-properties":{}}
 ---
 
 རང་གི་ཐོབ་བྱར་གྱུར་པའི་ཐོད་རྒལ་གྱི་དངོས་གཞི་སྙོམས་འཇུག་ཐོབ་དོན་དུ་མཐར་གནས་སྙོམས་འཇུག་དགུ་ལ་བར་དུ་གང་ཡང་མ་སྤེལ་བར་སྙོམས་པར་འཇུག་པའི་

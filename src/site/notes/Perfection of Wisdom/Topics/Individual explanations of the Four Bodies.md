@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/individual-explanations-of-the-four-bodies/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/individual-explanations-of-the-four-bodies/","dg-note-properties":{}}
 ---
 
 1. [[Perfection of Wisdom/Topics/Nature body\|Nature body]] ངོ་བོ་ཉིད་སྐུ།

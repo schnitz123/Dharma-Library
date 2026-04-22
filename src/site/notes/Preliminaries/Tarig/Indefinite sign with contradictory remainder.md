@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/indefinite-sign-with-contradictory-remainder/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/indefinite-sign-with-contradictory-remainder/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་ཐུན་མོང་གི་མ་ངེས་པའི་གཏན་ཚིགས་གང་ཞིག །རང་ཉིད་དེ་སྒྲུབ་པ་ལ་ཕྱོགས་ཆོས་ཅན་དུ་སོང་བའི་གང་ཟག་གིས་རང་ཉིད་དེ་སྒྲུབ་ཀྱི་མི་མཐུན་ཕྱོགས་ལ་ཡོད་པར་ངེས་རང་ཉིད་དེ་སྒྲུབ་ཀྱི་མཐུན་ཕྱོགས་ལ་ཡོད་མེད་ཐེ་ཚོམ་ཟ་བ། འགལ་བ་ལྷག་ལྡན་གྱི་མ་ངེས་པའི་གཏན་ཚིགས་ཀྱི་མཚན་ཉིད།

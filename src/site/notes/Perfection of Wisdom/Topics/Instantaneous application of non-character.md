@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/instantaneous-application-of-non-character/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/instantaneous-application-of-non-character/","dg-note-properties":{}}
 ---
 
 སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སྒོ་ནས་ཤེས་སྒྲིབ་ཀྱི་དངོས་གཉེན་བྱེད་པའི་རིགས་སུ་གནས་པའི་སེམས་དཔའི་རྣལ་འབྱོར་མཐར་ཐུག་དེ། 

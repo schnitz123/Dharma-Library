@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/dharma-cloud/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/dharma-cloud/","dg-note-properties":{}}
 ---
 
 རང་གི་འདའ་བྱར་གྱུར་པའི་ས་དགུའི་རྗེས་སུ་བྱུང་ཞིང་། མདོ་ལས་སངས་རྒྱས་ཀྱི་སར་སྒྲ་བཤད་ནས་སྟོན་པའི་སེམས་དཔའི་རྣལ་འབྱོར་མཐར་ཐུག་དེ། 
@@ -11,7 +11,7 @@
 See: [[Perfection of Wisdom/Topics/Paths that are surpassed through abiding and seeing\|Paths that are surpassed through abiding and seeing]]
 
 **The surpassed nine grounds refers to:**
-- [[Hin Grounds.png|The eight grounds of the lower]] དམན་པ་ས་བརྒྱད།
+- [The eight grounds of the lower](/img/user/Perfection%20of%20Wisdom/Salam/Hin%20Grounds.png) དམན་པ་ས་བརྒྱད།
 - The nine causal grounds རྒྱུའི་ས་དགུ། (first nine bodhisattva grounds counted as one)
 
 **Divisions:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation-of-accomplishment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation-of-accomplishment/","dg-note-properties":{}}
 ---
 
 ཟག་མེད་ཀྱི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས་གང་ཞིག རང་གི་ཐོབ་བྱར་གྱུར་པའི་རྟོགས་པ་མཐར་ཐུག་གི་ལག་རྗེས་འཇོག་བྱེད་དེ།

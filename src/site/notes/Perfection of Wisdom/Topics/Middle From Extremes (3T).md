@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/middle-from-extremes-3-t/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/middle-from-extremes-3-t/","dg-note-properties":{}}
 ---
 
 དུ་བ་མཚན་གཞི། མེ་དེ་ཉིད་རང་དུས་སུ་འདས་ཟིན་པར་མཚོན། མེའི་རྒྱུ་བུད་ཤིང་དང་མེ་གཉིས་ཀ་རང་དུས་སུ་ལོངས་སྤྱད་ཟིན་པར་འདས་པར་དམིགས་པ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/illustrations-of-the-branches-of-arya-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/illustrations-of-the-branches-of-arya-paths/","dg-note-properties":{}}
 ---
 
 See also: [[Perfection of Wisdom/Topics/seven royal treasures of wheel-turning kings\|seven royal treasures of wheel-turning kings]]

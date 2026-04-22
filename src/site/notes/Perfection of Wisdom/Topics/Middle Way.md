@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/middle-way/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/middle-way/","dg-note-properties":{}}
 ---
 
 1. Basis Middle Way free from superimposition and deprecation སྒྲོ་སྐུར་དང་བྲལ་བའི་གཞི་དབུ་མ།

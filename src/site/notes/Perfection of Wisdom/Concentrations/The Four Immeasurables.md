@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/the-four-immeasurables/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/the-four-immeasurables/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞིའི་སེམས་ལ་བརྟེན་ནས་བརྩེ་བ་སོགས་གང་རུང་གི་རྣམ་པ་ཡང་དག་པར་འཇོག་པའི་ཏིང་ངེ་འཛིན་ཤེས་རབ་མཚུངས་ལྡན་དང་བཅས་པས་རབ་ཏུ་ཕྱེ་བའི་རིག་པ། ཚད་མེད་ཀྱི་མཚན་ཉིད།

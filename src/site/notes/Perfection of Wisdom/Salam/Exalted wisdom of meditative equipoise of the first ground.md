@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-meditative-equipoise-of-the-first-ground/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-meditative-equipoise-of-the-first-ground/","dg-note-properties":{}}
 ---
 
 **Divisions:**

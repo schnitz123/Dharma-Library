@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/instantaneous-application-of-non-duality/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/instantaneous-application-of-non-duality/","dg-note-properties":{}}
 ---
 
 གཟུང་འཛིན་རྫས་གཞན་གྱིས་སྟོང་པར་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སྒོ་ནས་ཤེས་སྒྲིབ་ཀྱིི་དངོས་གཉེན་བྱེད་པའི་རིགས་སུ་གནས་པའི་སེམས་དཔའི་རྣལ་འབྱོར་མཐར་ཐུག་དེ། གཉིས་སུ་མེད་པའི་སྐད་ཅིག་སྦྱོར་གྱི་མཚན་ཉིད།

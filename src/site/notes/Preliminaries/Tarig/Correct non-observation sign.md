@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-non-observation-sign/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-non-observation-sign/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་རྟགས་ཡང་དག་གང་ཞིག  ཁྱོད་ཀྱི་རྟགས་ཀྱིས་དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་སྒྲུབ་བྱའི་ཆོས་སུ་བཟུང་བྱ་ཡང་ཡིན། 

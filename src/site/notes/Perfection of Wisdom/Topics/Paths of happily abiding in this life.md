@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-happily-abiding-in-this-life/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-happily-abiding-in-this-life/","dg-note-properties":{}}
 ---
 
 རྣམ་ཐར་ཐོབ་ཟིན་པའི་གང་ཟག་གི་རྒྱུད་ཀྱི་རགས་པའི་ཉོན་མོངས་པས་མ་བསླད་པའི་མཁྱེན་པ། མཐོང་ཆོས་ལ་བདེར་གནས་ཀྱི་ལམ་གྱི་མཚན་ཉིད།

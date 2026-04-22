@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/categories-and-instances/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/categories-and-instances/","dg-note-properties":{}}
 ---
 
 སྤྱིའི་མཚན་ཉིད་ཡོད་དེ། རང་གི་གསལ་བ་ལ་རྗེས་སུ་འགྲོ་བའི་ཆོས་དེ་དེ་ཡིན་པའི་ཕྱིར།

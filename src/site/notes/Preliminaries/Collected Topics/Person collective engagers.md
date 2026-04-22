@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/person-collective-engagers/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/person-collective-engagers/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ལ་ཆ་ཤས་སུ་མ་ཕྱེ་བར་འཇུག་པའི་སྐྱེས་བུ། སྒྲུབ་འཇུག་གི་གང་ཟག་གི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/the-difference-in-realising-antidotes/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/the-difference-in-realising-antidotes/","dg-note-properties":{}}
 ---
 
 ས་བཅུ་ལ་ཆོས་ཉིད་རྟོགས་ཚུལ་མི་འདྲ་བའི་ཁྱད་པར་བཅུ་ཡོད་དེ། ས་བཅུའི་མཉམ་བཞག་ཏུ་ཆོས་ཉིད་བདེན་མེད་དུ་མངོན་སུམ་དུ་རྟོགས་པ་ལ་ཁྱད་པར་མེད་ཀྱང་། 

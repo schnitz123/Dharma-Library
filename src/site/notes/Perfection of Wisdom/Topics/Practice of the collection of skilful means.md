@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-skilful-means/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-skilful-means/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག །རྣམ་མཁྱེན་ཡིད་བྱེད་ཀྱི་བསམ་པས་སེམས་ཅན་གྱི་དོན་བྱེད་པ་ལ་བརྩོན་པ། ཐབས་མཁས་པའི་ཚོགས་སྒྲུབ་ཀྱི་མཚན་ཉིད།

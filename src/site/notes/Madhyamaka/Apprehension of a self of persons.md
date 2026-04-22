@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/apprehension-of-a-self-of-persons/"}
+{"dg-publish":true,"permalink":"/madhyamaka/apprehension-of-a-self-of-persons/","dg-note-properties":{}}
 ---
 
 རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་གང་ཟག་ལ་དམིགས་ནས་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་འཛིན་པའི་བློ། གང་ཟག་གི་བདག་འཛིན་གྱི་མཚན་ཉིད། 

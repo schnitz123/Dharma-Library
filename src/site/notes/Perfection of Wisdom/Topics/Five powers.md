@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-powers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-powers/","dg-note-properties":{}}
 ---
 
 རང་འབྲས་འཕགས་ལམ་སྐྱེད་པ་ལ་རང་དབང་དུ་གྱུར་པའི་མཁྱེན་པ། བྱང་ཕྱོགས་སོ་བདུན་གྱི་ནང་ཚན་དུ་གྱུར་པའི་དབང་པོའི་མཚན་ཉིད།

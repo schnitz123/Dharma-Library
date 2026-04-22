@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/summary-of-first-three-chapters/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/summary-of-first-three-chapters/","dg-note-properties":{}}
 ---
 
 མཁྱེན་གསུམ་རྒྱས་པར་བཤད་པའི་མཇུག་དེ་མ་ཐག་ཏུ་མཁྱེན་གསུམ་གྱི་མཇུག་བསྡུ་མཛད་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཚན་པ་གསུམ་པོ་འདི་ཙམ་གྱིས་ཀྱང་

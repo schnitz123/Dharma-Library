@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/mind-of-definite-emergence-and-three-higher-trainings/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/mind-of-definite-emergence-and-three-higher-trainings/","dg-note-properties":{}}
 ---
 
 Definition of mind of definite emergence: ???

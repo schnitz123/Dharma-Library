@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/results-of-the-six-perfections/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/results-of-the-six-perfections/","dg-note-properties":{}}
 ---
 
 རིན་ཆེན་ཕྲེང་བ་ལས། སྦྱིན་པས་ལོངས་སྤྱོད་ཁྲིམས་ཀྱིས་བདེ། །བཟོད་པས་མདངས་གསལ་བརྩོན་པས་བརྗིད། །བསམ་གཏན་གྱིས་ཞི་བློ་ཡིས་གྲོལ། 

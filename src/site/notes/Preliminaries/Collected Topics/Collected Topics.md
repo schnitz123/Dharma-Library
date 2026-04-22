@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/collected-topics/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/collected-topics/","dg-note-properties":{}}
 ---
 
 [[Preliminaries/Collected Topics/Form\|Form]]

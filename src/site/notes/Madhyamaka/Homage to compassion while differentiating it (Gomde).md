@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/homage-to-compassion-while-differentiating-it-gomde/"}
+{"dg-publish":true,"permalink":"/madhyamaka/homage-to-compassion-while-differentiating-it-gomde/","dg-note-properties":{}}
 ---
 
 །དང་པོར་ང་ཞེས་བདག་ལ་ཞེན་གྱུར་ཅིང་། །བདག་གི་འདི་ཞེས་དངོས་ལ་ཆགས་བསྐྱེད་པ། 

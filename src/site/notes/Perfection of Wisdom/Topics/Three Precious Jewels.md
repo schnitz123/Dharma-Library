@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-precious-jewels/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-precious-jewels/","dg-note-properties":{}}
 ---
 
 1. [[Perfection of Wisdom/Topics/Buddha Jewel\|Buddha Jewel]] སངས་རྒྱས་དཀོན་མཆོག

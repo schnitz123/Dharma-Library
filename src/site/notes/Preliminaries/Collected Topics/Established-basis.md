@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/established-basis/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/established-basis/","dg-note-properties":{}}
 ---
 
 - **Object of knowledge**: that suitable as an object of awareness. བློའི་ཡུལ་དུ་བྱ་རུང་བ། ཤེས་བྱའི་མཚན་ཉིད།

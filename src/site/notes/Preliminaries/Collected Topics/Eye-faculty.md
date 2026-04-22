@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/eye-faculty/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/eye-faculty/","dg-note-properties":{}}
 ---
 
 རང་འབྲས་མིག་ཤེས་ཀྱི་ཐུན་མོང་མིན་པའི་བདག་རྐྱེན་བྱེད་པའི་ཆ་ནས་བཞག་པའི་ནང་གི་གཟུགས་ཅན་དྭངས་པ་དེ། མིག་གི་དབང་པོའི་མཚན་ཉིད།

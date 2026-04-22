@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/applying-this-to-categories-other-than-form/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/applying-this-to-categories-other-than-form/","dg-note-properties":{}}
 ---
 
 དེ་ལྟར་གཟུགས་ཕུང་ལ་ཇི་ལྟར་སྦྱར་བ་བཞིན་དུ་ཕུང་པོ་ལྷག་མ་རྣམས་ལ་ཡང་དེ་བཞིན་དུ་སྦྱོར།

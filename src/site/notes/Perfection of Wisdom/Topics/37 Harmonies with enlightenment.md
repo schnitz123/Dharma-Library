@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/37-harmonies-with-enlightenment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/37-harmonies-with-enlightenment/","dg-note-properties":{}}
 ---
 
 **Divisions:**

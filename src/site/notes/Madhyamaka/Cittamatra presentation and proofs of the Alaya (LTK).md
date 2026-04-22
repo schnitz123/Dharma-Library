@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/cittamatra-presentation-and-proofs-of-the-alaya-ltk/"}
+{"dg-publish":true,"permalink":"/madhyamaka/cittamatra-presentation-and-proofs-of-the-alaya-ltk/","dg-note-properties":{}}
 ---
 
 དམིགས་ཡུལ་གཟུགས་སྒྲ་དྲི་རོ་རེག་བྱ་སྟེ་དོན་ལྔ། མིག་རྣ་བ་སྣ་ལྕེ་ལུས་ཀྱི་དབང་པོ་ལྔའི་སེམས་ཅན་དང༌། 

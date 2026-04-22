@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/complete-trainings-extensive/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/complete-trainings-extensive/","dg-note-properties":{}}
 ---
 
 རང་གང་ལ་ལྡན་པའི་ས་དེའི་སྐྱོན་སེལ་ཞིང་ཡོན་ཏན་རྫོགས་པར་བྱེད་པའི་ཡོན་ཏན། སའི་ཡོངས་སྦྱོང་གི་མཚན་ཉིད།

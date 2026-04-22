@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation/","dg-note-properties":{}}
 ---
 
 རྗེས་ལ་མངོན་རྟོགས། སྒོམ་ལམ་གྱི་མཚན་ཉིད།

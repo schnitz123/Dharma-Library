@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-an-opposite-pervasion-and-conveying-an-autonomous-sign-observing-an-opposite-pervasion/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-an-opposite-pervasion-and-conveying-an-autonomous-sign-observing-an-opposite-pervasion/","dg-note-properties":{}}
 ---
 
 བཞི་པའི་མཚན་གཞི་ཡོད་དེ།    སྒྲ་ཆོས་ཅན།    མ་བྱས་པ་ཡིན་པར་ཐལ།    རྟག་པ་ཡིན་པའི་ཕྱིར། ཞེས་པའི་ཐལ་འགྱུར་དེ་དེ་ཡིན་པའི་ཕྱིར།

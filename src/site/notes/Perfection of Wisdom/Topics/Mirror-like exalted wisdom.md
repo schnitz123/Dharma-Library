@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mirror-like-exalted-wisdom/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mirror-like-exalted-wisdom/","dg-note-properties":{}}
 ---
 
 མེ་ལོང་ཡེ་ཤེས་དེ་ལ་མི་གཡོ་བ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། དེ་དུས་རྒྱུན་མི་འཆད་དུ་འབྱུང་བས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར། 

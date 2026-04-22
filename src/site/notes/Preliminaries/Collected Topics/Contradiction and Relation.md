@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/contradiction-and-relation/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/contradiction-and-relation/","dg-note-properties":{}}
 ---
 
 ཁྱོད་ཐ་དད་ཀྱང་ཡིན། ཁྱོད་ཡིན་པ་མི་སྲིད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་དུ་དམིགས་པ་དེ། རང་ཉིད་འགལ་བ་ཡིན་པའི་མཚན་ཉིད།

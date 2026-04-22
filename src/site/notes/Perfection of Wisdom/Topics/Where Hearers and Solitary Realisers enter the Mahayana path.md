@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/where-hearers-and-solitary-realisers-enter-the-mahayana-path/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/where-hearers-and-solitary-realisers-enter-the-mahayana-path/","dg-note-properties":{}}
 ---
 
 Regardless of what they've done before, a path is always entered via its path of accumulation.

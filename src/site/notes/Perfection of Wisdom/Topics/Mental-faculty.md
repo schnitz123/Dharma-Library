@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mental-faculty/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mental-faculty/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་འབྲས་སུ་གྱུར་པའི་རྣམ་པར་ཤེས་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་གཙོ་བོའི་རྣམ་རིག་དེ། ཡིད་ཀྱི་དབང་པོའི་མཚན་ཉིད། 

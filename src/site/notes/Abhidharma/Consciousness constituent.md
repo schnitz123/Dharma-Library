@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/consciousness-constituent/"}
+{"dg-publish":true,"permalink":"/abhidharma/consciousness-constituent/","dg-note-properties":{}}
 ---
 
 སྤྱིར་གཙོ་བོའི་སེམས་ཡིན་ན་རྣམ་ཤེས་ཀྱི་ཁམས་ཡིན་པས་ཁྱབ་ཀྱང༌། 

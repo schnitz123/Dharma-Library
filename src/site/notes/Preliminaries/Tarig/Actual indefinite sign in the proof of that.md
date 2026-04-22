@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/actual-indefinite-sign-in-the-proof-of-that/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/actual-indefinite-sign-in-the-proof-of-that/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་མ་ངེས་པའི་གཏན་ཚིགས་གང་ཞིག ཁྱོད་དེ་སྒྲུབ་པ་ལ་ཕྱོགས་ཅན་དུ་སོང་བའི་གང་ཟག་གིས། ཁྱོད་དེ་སྒྲུབ་ཀྱི་མཐུན་ཕྱོགས་དང་། མི་མཐུན་ཕྱོགས་གཉིས་ཀ་ལ་ཡོད་པར་ངེས་པ་དེ། ཁྱོད་དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་མ་ངེས་པའི་གཏན་ཚིགས་ཡིན་པའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/branches-of-the-second-concentration/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/branches-of-the-second-concentration/","dg-note-properties":{}}
 ---
 
 - **Branch of antidotes:** གཉེན་པོའི་ཡན་ལག

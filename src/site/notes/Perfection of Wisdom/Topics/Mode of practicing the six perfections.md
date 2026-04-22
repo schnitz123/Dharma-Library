@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-practicing-the-six-perfections/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-practicing-the-six-perfections/","dg-note-properties":{}}
 ---
 
 མདོ་སྡེའི་རྒྱན་ལས། རེ་བ་མེད་པའི་སྦྱིན་པ་དང། །ཡང་སྲིད་མི་འདོད་ཚུལ་ཁྲིམས་དང། །ཐམས་ཅད་ལ་ནི་བཟོད་པ་དང། །ཡོན་ཏན་ཀུན་འབྱུང་བརྩོན་འགྲུས་དང་། 

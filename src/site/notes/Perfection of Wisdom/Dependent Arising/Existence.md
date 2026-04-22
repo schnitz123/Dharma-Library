@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/existence/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/existence/","dg-note-properties":{}}
 ---
 
 སྔར་གྱི་སྲེད་ལེན་དེ་གཉིས་ཀྱིས་འཕེན་བྱེད་ལས་ཀྱི་བག་ཆགས་གསོས་བཏབ་སྟེ་ཡང་སྲིད་འགྲུབ་པར་བྱེད་པའི་འགྲུབ་བྱེད་ཀྱི་ལས་དེ།

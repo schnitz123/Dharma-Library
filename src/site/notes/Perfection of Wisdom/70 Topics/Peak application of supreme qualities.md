@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/peak-application-of-supreme-qualities/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/peak-application-of-supreme-qualities/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བསྐྱེད་པའི་ནུས་པ་སྨིན་པའི་ཆ་ནས་ཏིང་ངེ་འཛིན་མཐའ་ལས་འདས་པ་ལ་སེམས་ཀུན་ཏུ་གནས་པ་ཐོབ་པའི་ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན་བཞི་པ་དེ། ཆོས་མཆོག་གི་རྩེ་སྦྱོར་གྱི་མཚན་ཉིད།

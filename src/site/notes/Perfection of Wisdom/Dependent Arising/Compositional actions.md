@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/compositional-actions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/compositional-actions/","dg-note-properties":{}}
 ---
 
 རང་དང་རྟེན་འབྲེལ་ཚར་གཅིག་ཏུ་གཏོགས་པའི་མ་རིག་པས་ཀུན་ནས་བསླངས་ཤིང་རང་གི་འཕང་བྱར་གྱུར་བའི་ཡང་སྲིད་ཕྱི་མ་འཕེན་བྱེད་ཀྱི་སེམས་བྱུང་སེམས་པ་དེ། <br>ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་གྱི་འདུ་བྱེད་ཀྱི་རྟེན་འབྲེལ་གྱི་མཚན་ཉིད།

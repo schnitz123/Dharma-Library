@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/substantial-cause/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/substantial-cause/","dg-note-properties":{}}
 ---
 
 དངོས་པོ་རང་གི་རྫས་རྒྱུན་དུ་གཙོ་བོར་སྐྱེད་བྱེད། དངོས་པོའི་ཉེར་ལེན་གྱི་མཚན་ཉིད།

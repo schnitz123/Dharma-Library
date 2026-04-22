@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subjective-aspects-of-a-knower-of-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subjective-aspects-of-a-knower-of-paths/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་ལམ་ཤེས་ཀྱི་སྦྱོར་བ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་ཐེག་ཆེན་འཕགས་པའི་རྒྱུད་ཀྱི་གཉེན་ཕྱོགས་ཤེས་རྣམ་གང་ཞིག 

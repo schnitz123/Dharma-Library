@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/five-modes-of-statement-of-a-consequence/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/five-modes-of-statement-of-a-consequence/","dg-note-properties":{}}
 ---
 
 1. **Individual sign, predicate and subject** རྟགས་ཆོས་དོན་གསུམ་རེ་རེ་བའི་འགོད་ཚུལ།

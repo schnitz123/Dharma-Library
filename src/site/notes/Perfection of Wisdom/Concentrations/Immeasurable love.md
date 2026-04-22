@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/immeasurable-love/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/immeasurable-love/","dg-note-properties":{}}
 ---
 
 ཚད་མེད་གང་ཞིག །སེམས་ཅན་རྣམས་བདེ་བ་དང་ལྡན་པར་འདོད་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པ། བྱམས་པ་ཚད་མེད་ཀྱི་མཚན་ཉིད།

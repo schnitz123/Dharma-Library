@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/three-modes-in-pramanavartika/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/three-modes-in-pramanavartika/","dg-note-properties":{}}
 ---
 
 རང་ཉིད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པ་ལ་རྟགས་ཚུལ་དང་པོར་སོང་བའི་གང་ཟག་གིས། རང་ཉིད་སྒྲའི་སྟེང་དུ་འགོད་ཚུལ་དང་མཐུན་པར་ཡོད་པ་ཉིད་དུ་ཚད་མས་ངེས་པ། 

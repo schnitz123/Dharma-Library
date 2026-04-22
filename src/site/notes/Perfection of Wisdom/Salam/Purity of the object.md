@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/purity-of-the-object/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/purity-of-the-object/","dg-note-properties":{}}
 ---
 
 **Two Results of the Way of the Sramana:** དགེ་སྦྱོང་ཚུལ་གྱི་འབྲས་བུ་ལ་གཉིས་ཡོད་དེ།

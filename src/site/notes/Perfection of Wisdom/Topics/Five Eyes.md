@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-eyes/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-eyes/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞིའི་སེམས་ལ་བརྟེན་ནས་བྱུང་ཞིང་རང་ཡུལ་མངོན་སུམ་དུ་མཐོང་བས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པའི་

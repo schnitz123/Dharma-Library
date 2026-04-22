@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/three-conditions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/three-conditions/","dg-note-properties":{}}
 ---
 
 1. Unmoving conditions གཡོ་བ་མེད་པའི་རྐྱེན།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/hearer-s-path-of-seeing-that-is-neither-of-those-two/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/hearer-s-path-of-seeing-that-is-neither-of-those-two/","dg-note-properties":{}}
 ---
 
 ཉན་ཐོས་ཀྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་པ་དང་། ཉན་ཐོས་ཀྱི་མཐོང་ལམ་རྣམ་གྲོལ་ལམ་པ་བའི་རྒྱུད་ཀྱི་ཚད་མེད་བཞི་དང་།<br>ཐར་པ་དོན་གཉེར་གྱི་བློ་དང་། ཉན་ཐོས་ཀྱི་མཐོང་ལམ་རྗེས་ཐོབ་པའི་རྒྱུད་ཀྱི་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་མཁྱེན་པ་དང་།<br>གཉིས་སྟོང་མངོན་སུམ་དུ་རྟོགས་པའི་མཁྱེན་པ་རྣམས་ལ་བྱེད་དོ།

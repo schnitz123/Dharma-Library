@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-proving-the-convention/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-proving-the-convention/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་ཚུལ་གསུམ་གང་ཞིག །ཁྱོད་ཀྱི་རྟགས་ཀྱིས་དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་སུ་གཟུང་བྱ་ཡང་ཡིན། མཚོན་བྱ་ཡང་ཡིན་པའི་གཞི་མཐུན་སྲིད་པ། 

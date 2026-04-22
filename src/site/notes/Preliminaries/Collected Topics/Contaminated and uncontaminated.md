@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/contaminated-and-uncontaminated/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/contaminated-and-uncontaminated/","dg-note-properties":{}}
 ---
 
 **Abhidharmakosha:** When established base is divided, there are:

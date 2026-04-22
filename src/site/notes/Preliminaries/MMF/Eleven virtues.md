@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/eleven-virtues/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/eleven-virtues/","dg-note-properties":{}}
 ---
 
 1. Faith དད་པ།

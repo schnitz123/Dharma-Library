@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/direct-effect/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/direct-effect/","dg-note-properties":{}}
 ---
 
 དངོས་པོའི་དངོས་སུ་བསྐྱེད་བྱ། དངོས་པོའི་དངོས་འབྲས་ཀྱི་མཚན་ཉིད།

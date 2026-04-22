@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/faults-not-applying-to-buddhapalita/"}
+{"dg-publish":true,"permalink":"/madhyamaka/faults-not-applying-to-buddhapalita/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་བསྐྱངས་ཀྱིས་འགྲེལ་ངག་གིས་གཏན་ཚིགས་དང་དཔེ་མ་བརྗོད་པའི་སྒོ་ནས་སྐྱོན་བརྗོད་མི་རིགས་ཏེ། 

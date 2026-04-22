@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/everlasting-and-continuous-non-forgetfulness-wrt-sentient-beings-welfare/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/everlasting-and-continuous-non-forgetfulness-wrt-sentient-beings-welfare/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞི་ལ་བརྟེན་ནས། སེམས་ཅན་གྱི་དོན་མཛད་དགོངས་པ་ན་དེའི་དུས་ལས་མི་འདའ་བར་བྱེད་པའི་མཁྱེན་པ། 

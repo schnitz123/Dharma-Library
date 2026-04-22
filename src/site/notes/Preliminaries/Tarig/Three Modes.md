@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/three-modes/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/three-modes/","dg-note-properties":{}}
 ---
 
 **The three modes**:

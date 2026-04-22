@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/three-paths-of-antidotes/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/three-paths-of-antidotes/","dg-note-properties":{}}
 ---
 
 གཉེན་པོའི་ལམ་གསུམ་ཡོད་དེ། རྣམ་ཐར་སྒོ་གསུམ་གྱི་རྣམ་པ་གསུམ་ཡོད།

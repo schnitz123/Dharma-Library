@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-definite-emergence/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-definite-emergence/","dg-note-properties":{}}
 ---
 
 རྣམ་མཁྱེན་དུ་གདོན་མི་ཟ་བར་ངེས་པར་འབྱིན་པར་བྱེད་པའི་དག་སའི་རྣལ་འབྱོར། ངེས་འབྱུང་སྒྲུབ་པའི་མཚན་ཉིད།

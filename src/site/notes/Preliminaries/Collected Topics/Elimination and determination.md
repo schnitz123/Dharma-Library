@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/elimination-and-determination/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/elimination-and-determination/","dg-note-properties":{}}
 ---
 
 གཞི་དེ་ཆོས་དེ་ཡིན་པར་ཕར་རྣམ་པར་བཅད་ཅིང་མ་ཡིན་པར་རྟོགས་པ་དེ། རྣམ་བཅད་ཀྱི་དོན། 

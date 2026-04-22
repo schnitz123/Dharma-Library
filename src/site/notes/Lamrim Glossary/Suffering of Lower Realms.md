@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/suffering-of-lower-realms/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/suffering-of-lower-realms/","dg-note-properties":{}}
 ---
 
 **The Suffering of the Hells** དམྱལ་བའི་སྡུག་བསྔལ།

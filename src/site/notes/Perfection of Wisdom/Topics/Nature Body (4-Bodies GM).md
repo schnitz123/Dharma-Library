@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/nature-body-4-bodies-gm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/nature-body-4-bodies-gm/","dg-note-properties":{}}
 ---
 
 དག་པ་གཉིས་ལྡན་གྱི་དབྱིངས་མཐར་ཐུག་དེ། ངོ་བོ་ཉིད་སྐུའི་མཚན་ཉིད། 

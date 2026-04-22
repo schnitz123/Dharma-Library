@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/confirmation-of-the-response/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/int-def/confirmation-of-the-response/","dg-note-properties":{}}
 ---
 
 དེ་དག་ནི་སྔར་འགལ་སྤོང་གི་དྲི་བའི་སྐབས་སུ་བཤད་པའི་གཟུགས་ཕུང་ནས་ལམ་གྱི་ཡན་ལག་གི་བར་གྱི་རེ་རེ་ལའང་མཚན་ཉིད་གསུམ་གསུམ་གྱི་འཇོག་ལུགས་བྱས་ནས་དེ་ལ་དགོངས་ནས་སྟོན་པས་ངོ་བོ་ཉིད་མེད་པ་གསུམ་དུ་བཤད་པར་བདག་གིས་གོའོ། ཞེས་དོན་དམ་ཡང་དག་འཕགས་ཀྱིས་སྟོན་པ་ལ་གསོལ་བའོ།

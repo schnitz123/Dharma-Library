@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/buddha-s-omniscience/"}
+{"dg-publish":true,"permalink":"/madhyamaka/buddha-s-omniscience/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་ཀྱིས་ཤེས་བྱ་མཁྱེན་ཚུལ་ལ་གཉིས་ཡོད་དེ།

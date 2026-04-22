@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/abhidharma/"}
+{"dg-publish":true,"permalink":"/abhidharma/abhidharma/","dg-note-properties":{}}
 ---
 
 [[Abhidharma/Topics and order of the chapters\|Topics and order of the chapters]]

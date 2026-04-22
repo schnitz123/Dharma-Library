@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/antidotes-to-those-conceptions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/antidotes-to-those-conceptions/","dg-note-properties":{}}
 ---
 
 བྱང་སེམས་སྦྱོར་ལམ་པས་སྐལ་ལྡན་གྱི་གདུལ་བྱ་གཞན་དག་ལ་མཐོང་ལམ་དང། སྒོམ་ལམ་གྱི་རྟོགས་པ་སྐྱེད་བྱེད་དུ་ལུང་བསྟན་པ་ཆོས་ཅན། 

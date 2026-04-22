@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-strengths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-strengths/","dg-note-properties":{}}
 ---
 
 རང་གི་མི་མཐུན་ཕྱོགས་ཀྱིས་རྫི་བར་མི་ནུས་པའི་མཁྱེན་པ་དེ། བྱང་ཕྱོགས་སོ་བདུན་གྱི་ནང་ཚན་དུ་གྱུར་པའི་རྣམ་བྱང་གི་སྟོབས་ཀྱི་ངོ་བོ་ཡིན།

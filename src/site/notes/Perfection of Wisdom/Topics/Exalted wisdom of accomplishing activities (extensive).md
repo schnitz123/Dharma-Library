@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-accomplishing-activities-extensive/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-accomplishing-activities-extensive/","dg-note-properties":{}}
 ---
 
 བྱ་བ་སྒྲུབ་པའི་ཡེ་ཤེས་ཆོས་ཅན། བྱེད་ལས་ཁྱད་པར་ཅན་དང་ལྡན་ཏེ། 

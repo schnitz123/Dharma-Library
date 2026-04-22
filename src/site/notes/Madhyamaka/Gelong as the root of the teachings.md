@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/gelong-as-the-root-of-the-teachings/"}
+{"dg-publish":true,"permalink":"/madhyamaka/gelong-as-the-root-of-the-teachings/","dg-note-properties":{}}
 ---
 
 

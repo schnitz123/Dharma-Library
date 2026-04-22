@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/one-nature/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/one-nature/","dg-note-properties":{}}
 ---
 
 ངོ་བོ་གཅིག་གི་མཚན་ཉིད་ཡོད་དེ། ངོ་བོ་སོ་སོ་བ་མ་ཡིན་པའི་ཆོས་དེ་དེ་ཡིན་པའི་ཕྱིར།

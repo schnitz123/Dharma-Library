@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-special-insight/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-special-insight/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག དམིགས་པ་ལ་དཔྱད་སྟོབས་ཀྱིས་དྲངས་པའི་ཤིན་སྦྱངས་ཀྱི་བདེ་བས་ཟིན་པའི་སྒོ་ནས་རང་ཡུལ་ལ་སོ་སོར་རྟོག་པའི་ཤེས་རབ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-path-of-preparation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-path-of-preparation/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་གྱི་ཐར་པ་ཆ་མཐུན་རྫོགས་རྗེས་སུ་བྱུང་བའི་མངོན་པར་རྟོགས་པའི་རིགས་སུ་གནས་ཤིང་། བདེན་པ་མངོན་པར་རྟོགས་པ་དང་རྗེས་སུ་མཐུན་པའི་ཐེག་ཆེན་གྱི་འཇིག་རྟེན་པའི་དོན་མངོན་པར་རྟོགས་པ། ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་གྱི་མཚན་ཉིད།

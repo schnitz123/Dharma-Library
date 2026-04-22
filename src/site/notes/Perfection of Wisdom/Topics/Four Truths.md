@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-truths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-truths/","dg-note-properties":{}}
 ---
 
 **In order of their clear realisation:** ཡུལ་ཅན་མངོན་པར་རྟོགས་པའི་རིམ་པ།

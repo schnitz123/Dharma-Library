@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-merit/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-merit/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག ཐབས་ཁྱད་པར་ཅན་གྱི་རྟོགས་རིགས་སུ་གནས་པ། བསོད་ནམས་ཀྱི་ཚོགས་སྒྲུབ་ཀྱི་མཚན་ཉིད། 

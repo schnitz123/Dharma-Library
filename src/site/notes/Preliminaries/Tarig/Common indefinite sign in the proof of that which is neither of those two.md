@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/common-indefinite-sign-in-the-proof-of-that-which-is-neither-of-those-two/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/common-indefinite-sign-in-the-proof-of-that-which-is-neither-of-those-two/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་ཐུན་མོང་བའི་མ་ངེས་པའི་གཏན་ཚིགས་གང་ཞིག ཁྱོད་དེ་སྒྲུབ་པ་ལ་ཕྱོགས་ཆོས་ཅན་དུ་སོང་བའི་གང་ཟག་གིས། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collections-of-the-retentions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collections-of-the-retentions/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག དམ་པའི་ཆོས་འཛིན་ཅིང་སྤེལ་བར་བྱེད་པའི་དྲན་པ་དང་ཤེས་རབ་མཚུངས་ལྡན་དང་བཅས་པའི་རིགས་སུ་གནས་པ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mind-of-supreme-enlightenment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mind-of-supreme-enlightenment/","dg-note-properties":{}}
 ---
 
 ལམ་ཤེས་སྐྱེ་བའི་རྟེན་གྱི་ཡུལ་སོ་སོར་ངེས་པ་ཡིན་ཏེ། 

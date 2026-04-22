@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/contradictory-sign-in-the-proof-of-that/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/contradictory-sign-in-the-proof-of-that/","dg-note-properties":{}}
 ---
 
 སྒྲ་རྟག་པར་སྒྲུབ་པའི་ཕྱོགས་ཆོས་ཀྱང་ཡིན། སྒྲ་རྟག་པར་མ་ཡིན་པར་སྒྲུབ་པའི་རྗེས་ཁྱབ་ཀྱང་ཡིན་པའི་གཞི་མཐུན་པ་དེ། 

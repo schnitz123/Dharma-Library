@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/reasoning-refuting-true-existences/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/reasoning-refuting-true-existences/","dg-note-properties":{}}
 ---
 
 བློ་ལ་སྣང་བའི་དབང་གིས་བཞག་པ་མ་ཡིན་པར་རང་གི་ཐུན་མོང་མ་ཡིན་པའི་སྡོད་ལུགས་ཀྱི་ངོས་ནས་གྲུབ་པ་དེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-path-of-meditation-in-this-context/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-path-of-meditation-in-this-context/","dg-note-properties":{}}
 ---
 
 **Tendarwa:**

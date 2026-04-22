@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ultimate-truth/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ultimate-truth/","dg-note-properties":{}}
 ---
 
 རང་མངོན་སུམ་དུ་རྟོགས་པའི་མངོན་སུམ་གྱི་ཚད་མས་གཉིས་སྣང་ནུབ་པའི་ཚུལ་གྱིས་རྟོགས་པར་བྱ་བ། དོན་དམ་བདེན་པའི་མཚན་ཉིད།

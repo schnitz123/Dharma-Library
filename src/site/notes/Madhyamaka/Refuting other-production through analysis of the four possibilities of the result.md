@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/refuting-other-production-through-analysis-of-the-four-possibilities-of-the-result/"}
+{"dg-publish":true,"permalink":"/madhyamaka/refuting-other-production-through-analysis-of-the-four-possibilities-of-the-result/","dg-note-properties":{}}
 ---
 
 འབྲས་བུ་སྐྱེད་པར་བྱེད་པའི་རྒྱུ། བསྐྱེད་བྱ་རང་ལས་ངོ་བོ་ཉེད་ཀྱིས་གཞན་དུ་གྲུབ་པ་སྐྱེད་པར་བྱེད་པ་དེ་འབྲས་བུ་དེའི་རྒྱུ་ཡིན་པར་ཁྱོད་འདོད་ན། 

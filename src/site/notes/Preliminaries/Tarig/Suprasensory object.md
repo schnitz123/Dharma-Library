@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/suprasensory-object/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/suprasensory-object/","dg-note-properties":{}}
 ---
 
 སྤྱིར་བློ་ལ་ལྟོས་པའི་བསྐལ་དོན་ལ་གསུམ་ཡོད་དེ། ཡུལ་དང་དུས་དང་ངོ་བོའི་བསྐལ་དོན་གསུམ་ཡོད་པའི་ཕྱིར།

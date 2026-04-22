@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-the-three-times/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-the-three-times/","dg-note-properties":{}}
 ---
 
 དུས་དེར་ཞིག་པ། དུས་དེར་འདས་པའི་མཚན་ཉིད།

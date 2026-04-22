@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/compassion-observing-sentient-beings/"}
+{"dg-publish":true,"permalink":"/madhyamaka/compassion-observing-sentient-beings/","dg-note-properties":{}}
 ---
 
 སྙིང་རྗེ་གང་ཞིག རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་སྡུག་བསྔལ་གྱིས་མངར་བའི་སེམས་ཅན་ཙམ་ལ་དམིགས་ནས་སྡུག་བསྔལ་དང་བྲལ་བར་འདོད་པས་རབ་ཏུ་ཕྱེ་བ་དེ། སེམས་ཅན་ཙམ་ལ་དམིགས་པའི་སྙིང་རྗེའི་མཚན་ཉིད།

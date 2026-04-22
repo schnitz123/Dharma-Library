@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-consequence-conveying-an-opposite-of-the-same-type/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-consequence-conveying-an-opposite-of-the-same-type/","dg-note-properties":{}}
 ---
 
 ཐལ་འགྱུར་ཡང་དག་གང་ཞིག  ལྡོག་པ་རང་རྒྱུད་རང་དང་རིགས་གཅིག་པ་འཕེན་པ་དེ། ལྡོག་པ་རང་རིགས་འཕེན་པའི་ཐལ་འགྱུར་ཡང་དག་གི་མཚན་ཉིད།

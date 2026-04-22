@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/boundaries-of-the-three-compassions/"}
+{"dg-publish":true,"permalink":"/madhyamaka/boundaries-of-the-three-compassions/","dg-note-properties":{}}
 ---
 
 བདག་མེད་ཕྲ་རགས་གང་ཡང་མ་རྟོགས་པའི་གང་ཟག་གི་རྒྱུད་ལ་སྙིང་རྗེ་དང་པོ་ཁོ་ན་ཡོད། ཕྱི་མ་གཉིས་མེད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/heat/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/heat/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན་དང་པོ་གང་ཞིག  ཤེས་སྒྲིབ་ཀུན་ནས་ཉོན་མོངས་གཟུང་རྟོག་མངོན་གྱུར་པ་འཇོམས་པའི་ནུས་པ་ཐོབ་པའི་ལམ་གྱི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བ། ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་དྲོད་ཀྱི་མཚན་ཉིད།

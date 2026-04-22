@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/common-indefinite-sign-in-the-proof-of-that/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/common-indefinite-sign-in-the-proof-of-that/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་མ་ངེས་པའི་གཏན་ཚིགས་གང་ཞིག ཁྱོད་དེ་སྒྲུབ་པ་ལ་ཕྱོགས་ཆོས་ཅན་དུ་སོང་བའི་གང་ཟག་གིས་ཁྱོད་དེ་སྒྲུབ་ཀྱི་མཐུན་ཕྱོགས་ལ་ཡོད་པར་

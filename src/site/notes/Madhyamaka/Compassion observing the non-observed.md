@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/compassion-observing-the-non-observed/"}
+{"dg-publish":true,"permalink":"/madhyamaka/compassion-observing-the-non-observed/","dg-note-properties":{}}
 ---
 
 སེམས་ཅན་བདེན་སྟོང་དུ་ཚད་མས་གྲུབ་ཟིན་པའི་གང་ཟག་གི་རྒྱུད་ཀྱི་སྙིང་རྗེ་གང་ཞིག 

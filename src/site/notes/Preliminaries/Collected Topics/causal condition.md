@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/causal-condition/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/causal-condition/","dg-note-properties":{}}
 ---
 
 རྐྱེན་དང་དོན་གཅིག

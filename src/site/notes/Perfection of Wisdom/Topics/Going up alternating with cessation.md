@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/going-up-alternating-with-cessation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/going-up-alternating-with-cessation/","dg-note-properties":{}}
 ---
 
 སྤེལ་གཞི་བསམ་གཟུགས་ལ་སྤེལ་ཆོས་འགོག་པ་སྤེལ་ནས་སྙོམས་པར་འཇུག་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས། 

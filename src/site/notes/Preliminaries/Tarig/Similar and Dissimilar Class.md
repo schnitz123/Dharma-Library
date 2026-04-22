@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/similar-and-dissimilar-class/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/similar-and-dissimilar-class/","dg-note-properties":{}}
 ---
 
 སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་བསྒྲུབ་ཚུལ་དང་མཐུན་པར་མི་རྟག་པས་མི་སྟོང་པ། སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་མཐུན་ཕྱོགས་ཀྱི་མཚན་ཉིད།

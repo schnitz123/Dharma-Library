@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/the-four-great-elements/"}
+{"dg-publish":true,"permalink":"/abhidharma/the-four-great-elements/","dg-note-properties":{}}
 ---
 
 འབྱུང་བ་ཡང་ཡིན། སྲ་ཞིང་འཐས་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ་དེ་ཡང་ཡིན། བརླན་ཞིང་གཤེར་བ་དེ་ཡང་ཡིན། ཚ་ཞིང་སྲེག་པ་དེ་ཡང་ཡིན། 

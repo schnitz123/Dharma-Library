@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/pramanavartika-overview/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/pramanavartika-overview/","dg-note-properties":{}}
 ---
 
 3a: 4 - penultimate

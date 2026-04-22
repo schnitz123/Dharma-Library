@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/the-objective-of-mahayana-practices/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/the-objective-of-mahayana-practices/","dg-note-properties":{}}
 ---
 
 གང་གི་ཆེད་དུ་བྱ་བ་ལ་འཇུག་པའི་འབྲས་བུ་མཐར་ཐུག་དེ། ཐེག་ཆེན་སྒྲུབ་པའི་ཆེད་དུ་བྱ་བའི་མཚན་ཉིད། 

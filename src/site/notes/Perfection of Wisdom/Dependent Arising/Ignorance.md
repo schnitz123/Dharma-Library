@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/ignorance/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/ignorance/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ལ་རྨོངས་པའི་རྣམ་པས་འཇུག་པའི་སེམས་བྱུང་། མ་རིག་པའི་མཚན་ཉིད།

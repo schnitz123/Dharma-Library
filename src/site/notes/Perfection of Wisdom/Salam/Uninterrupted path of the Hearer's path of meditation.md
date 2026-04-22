@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/uninterrupted-path-of-the-hearer-s-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/uninterrupted-path-of-the-hearer-s-path-of-meditation/","dg-note-properties":{}}
 ---
 
 གང་ཟག་གི་བདག་མེད་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་ཉན་ཐོས་ཀྱི་རྗེས་ལ་མངོན་རྟོགས་གང་ཞིག<br>རང་གི་ངོ་སྐལ་གྱི་སྤང་བྱར་གྱུར་པའི་སྒོམ་སྤང་ཉོན་སྒྲིབ་ཀྱི་དངོས་གཉེན་བྱེད་པ་དེ། ཉན་ཐོས་ཀྱི་སྒོམ་ལམ་བར་ཆད་མེད་ལམ་གྱི་མཚན་ཉིད།

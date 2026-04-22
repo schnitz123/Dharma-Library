@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation-of-belief/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation-of-belief/","dg-note-properties":{}}
 ---
 
 ཡུམ་དོན་གསུམ་པོ་གང་རུང་གི་འབྱུང་གནས་སུ་མོས་ཤིང་ཡིད་ཆེས་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས་དེ། མོས་པ་སྒོམ་ལམ་གྱི་མཚན་ཉིད།

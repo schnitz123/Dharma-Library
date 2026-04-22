@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/partial-concordance-with-liberation-supported-upon-the-continuum/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/partial-concordance-with-liberation-supported-upon-the-continuum/","dg-note-properties":{}}
 ---
 
 རྣམ་མཁྱེན་རང་རྒྱུད་ལ་སྒྲུབ་པ་ལ་མཁས་པའི་སེམས་དཔའི་ཆོས་མངོན་རྟོགས། སྐབས་འདིར་དངོས་སུ་བསྟན་པའི་ཐར་པ་ཆ་མཐུན་གྱི་མཚན་ཉིད།

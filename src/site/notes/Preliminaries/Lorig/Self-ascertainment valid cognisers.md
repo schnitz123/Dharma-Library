@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/self-ascertainment-valid-cognisers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/self-ascertainment-valid-cognisers/","dg-note-properties":{}}
 ---
 
 ཚད་མ་གང་ཞིག རང་གི་གཞལ་བྱའི་བདག་ཉིད་ཡུལ་སྟེང་དུ་གནས་པ་མེད་ན། རང་ཉིད་མི་འབྱུང་བ་ལ་རང་སྟོབས་ཀྱིས་ངེས་པ་འདྲེན་ནུས་པ། 

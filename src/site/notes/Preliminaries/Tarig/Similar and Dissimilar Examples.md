@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/similar-and-dissimilar-examples/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/similar-and-dissimilar-examples/","dg-note-properties":{}}
 ---
 
 མཐུན་དཔེར་བཟུང་བ། མཐུན་དཔེའི་མཚན་ཉིད།

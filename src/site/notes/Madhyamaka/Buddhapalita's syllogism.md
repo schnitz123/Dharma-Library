@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/buddhapalita-s-syllogism/"}
+{"dg-publish":true,"permalink":"/madhyamaka/buddhapalita-s-syllogism/","dg-note-properties":{}}
 ---
 
 **Example syllogism** དཔེའི་སྦྱོར་བ།

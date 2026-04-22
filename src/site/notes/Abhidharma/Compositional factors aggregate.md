@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/compositional-factors-aggregate/"}
+{"dg-publish":true,"permalink":"/abhidharma/compositional-factors-aggregate/","dg-note-properties":{}}
 ---
 
 ཕུང་པོ་གཞན་བཞི་གང་རུང་མ་ཡིན་པའི་འདུས་བྱས་སུ་དམིགས་པ། འདུ་བྱེད་ཀྱི་ཕུང་པོའི་མཚན་ཉིད། 

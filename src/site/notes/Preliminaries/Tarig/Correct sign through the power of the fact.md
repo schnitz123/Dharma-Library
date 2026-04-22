@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-through-the-power-of-the-fact/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-through-the-power-of-the-fact/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་རྟགས་ཡང་དག་གང་ཞིག  དེ་སྒྲུབ་ཀྱི་བསྒྲུབ་བྱ་ལ་དངོས་སྟོབས་ཀྱི་རྗེས་དཔག་ཚད་མ་སྐྱེད་བྱེད་དེ། དངོས་སྟོབས་ཀྱི་རྟགས་ཡང་དག་གི་མཚན་ཉིད།

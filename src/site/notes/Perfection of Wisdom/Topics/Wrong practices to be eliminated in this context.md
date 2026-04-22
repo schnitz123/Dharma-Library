@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/wrong-practices-to-be-eliminated-in-this-context/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/wrong-practices-to-be-eliminated-in-this-context/","dg-note-properties":{}}
 ---
 
 བདེན་གཉིས་ངོ་བོ་གཅིག་ཏུ་འདུ་མི་རུང་བར་འཛིན་པའི་ས་བོན་དང་མངོན་གྱུར་པ་གང་རུང་གིས་བསྡུས་པ། འདིར་བསྟན་བསལ་བྱ་ལོག་སྒྲུབ་ཀྱི་མཚན་ཉིད། 

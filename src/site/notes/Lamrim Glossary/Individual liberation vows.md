@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/individual-liberation-vows/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/individual-liberation-vows/","dg-note-properties":{}}
 ---
 
 **Eight types of vows:** སོ་ཐར་རིགས་བརྒྱད།

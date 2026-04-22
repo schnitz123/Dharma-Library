@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-the-six-perfections/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-the-six-perfections/","dg-note-properties":{}}
 ---
 
 སྦྱིན་སོགས་དྲུག་ནི་ཕལ་ཆེར་གོ་སྒྲུབ་ཀྱི་སྐབས་བཞིན། ཁྱད་ཆོས་སོགས་སྔ་མ་བཞིན་ནོ།

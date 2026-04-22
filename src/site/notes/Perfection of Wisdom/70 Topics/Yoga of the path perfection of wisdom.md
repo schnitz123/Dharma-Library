@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/yoga-of-the-path-perfection-of-wisdom/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/yoga-of-the-path-perfection-of-wisdom/","dg-note-properties":{}}
 ---
 
 རང་གི་ཐོབ་བྱར་གྱུར་པའི་འབྲས་བུ་ཤེར་ཕྱིན་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་ཞི་ལྷག་ཟུང་འབྲེལ་གྱིས་ཟིན་པའི་སེམས་དཔའི་རྣལ་འབྱོར་དེ། 

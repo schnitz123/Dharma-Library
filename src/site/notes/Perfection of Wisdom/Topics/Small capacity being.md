@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/small-capacity-being/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/small-capacity-being/","dg-note-properties":{}}
 ---
 
 རང་ཉིད་ངན་སོང་གི་སྡུག་བསྔལ་ལས་ཐར་ནས་མངོན་མཐོའི་བདེ་བ་ཙམ་བསྒྲུབ་པའི་ཕྱིར་དུ་བརྩོན་བཞིན་པའི་གང་ཟག་དེ་སྐྱེས་བུ་ཆུང་ངུ་ཡིན།

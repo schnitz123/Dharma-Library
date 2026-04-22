@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-bases-distant-from-the-resultant-mother/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-bases-distant-from-the-resultant-mother/","dg-note-properties":{}}
 ---
 
 གཞི་ཤེས་གང་ཞིག སྙིང་རྗེ་ཆེན་པོ་དང་བྲལ་ཞིང་བདེན་འཛིན་གྱིས་བཅིངས་པ་དེ། འབྲས་ཡུམ་ལ་རིང་བའི་གཞི་ཤེས་ཀྱི་མཚན་ཉིད། 

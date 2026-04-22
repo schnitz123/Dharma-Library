@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/non-established-sign-in-relation-to-the-awareness/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/non-established-sign-in-relation-to-the-awareness/","dg-note-properties":{}}
 ---
 
 1. **Non-established sign due to doubting the entity of the sign** 

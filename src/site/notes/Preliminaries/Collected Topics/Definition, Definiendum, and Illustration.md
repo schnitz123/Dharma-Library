@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/definition-definiendum-and-illustration/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/definition-definiendum-and-illustration/","dg-note-properties":{}}
 ---
 
 མཚན་ཉིད་ཀྱི་མཚན་ཉིད་ཡོད་དེ། རྫས་ཡོད་ཆོས་གསུམ་ཚང་བ་དེ་དེ་ཡིན་པའི་ཕྱིར།

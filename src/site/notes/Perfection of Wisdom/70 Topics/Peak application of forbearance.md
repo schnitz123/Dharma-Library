@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/peak-application-of-forbearance/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/peak-application-of-forbearance/","dg-note-properties":{}}
 ---
 
 མཁྱེན་གསུམ་རྗེས་མཐུན་པ་རྫོགས་པའི་ཤེས་རབ་དང་། གཞན་དོན་ལ་མི་ཕྱེད་པའི་བརྟན་པ་ཐོབ་པའི་ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན་གསུམ་པ་དེ།

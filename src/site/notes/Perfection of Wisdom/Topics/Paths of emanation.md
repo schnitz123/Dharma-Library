@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-emanation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-emanation/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་རབ་མཐའི་བསམ་གཏན་ལ་བརྟེན་ནས་སྙོམས་འཇུག་གི་སྒྲིབ་པ་ཅི་རིགས་ལས་གྲོལ་ཞིང་སྤྲུལ་སྒྱུར་སྣ་ཚོགས་སྟོན་པར་ནུས་པས་

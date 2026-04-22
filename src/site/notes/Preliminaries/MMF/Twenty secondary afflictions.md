@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/twenty-secondary-afflictions/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/twenty-secondary-afflictions/","dg-note-properties":{}}
 ---
 
 1. Belligerence ཁྲོ་བ།

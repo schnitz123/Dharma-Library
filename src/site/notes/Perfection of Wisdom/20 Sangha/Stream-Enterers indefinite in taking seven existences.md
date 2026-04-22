@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/stream-enterers-indefinite-in-taking-seven-existences/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/stream-enterers-indefinite-in-taking-seven-existences/","dg-note-properties":{}}
 ---
 
 རྒྱུན་ཞུགས་སྲིད་པ་ལན་བདུན་པ་བ་གང་ཞིག །འདོད་པར་ལས་ཉོན་གྱིས་སྲིད་པ་ཉེར་བརྒྱད་ལེན་པར་མ་ངེས་པའི་རིགས་ཅན། 

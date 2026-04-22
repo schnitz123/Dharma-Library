@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mara-of-the-aggregates/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mara-of-the-aggregates/","dg-note-properties":{}}
 ---
 
 བདུད་བཞིའི་ནང་ཚན་གང་ཞིག རང་རྒྱུ་ལས་དང་ཉོན་མོངས་པ་ལ་བརྟེན་ནས་བྱུང་བའི་ཟག་བཅས་ཀྱི་ཕུང་པོ་དང་མ་རིག་བག་ཆགས་ཀྱི་ས་ལ་བརྟེན་དགོས་པ་གང་རུང༌། ཕུང་པོའི་བདུད་ཀྱི་མཚན་ཉིད།

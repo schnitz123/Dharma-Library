@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/limitless-consciousness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/limitless-consciousness/","dg-note-properties":{}}
 ---
 
 དམིགས་པའི་སྒོ་ནས་ནམ་མཁའ་མཐའ་ཡས་ལ་འདོད་ཆགས་དང་བྲལ་བའི་རྣམ་ཤེས་མཐའ་ཡས་ཀྱི་སས་བསྡུས་པའི་དགེ་བའི་རིག་པ། 

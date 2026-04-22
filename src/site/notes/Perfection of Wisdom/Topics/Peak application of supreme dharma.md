@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak-application-of-supreme-dharma/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak-application-of-supreme-dharma/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་མཐོང་ལམ་སྐྱེད་པའི་ནུས་པ་སྨིན་པའི་ཏིང་ངེ་འཛིན་མཐའ་ཡས་པའི་སེམས་ཀུན་ཏུ་གནས་པ་ཐོབ་པའི་

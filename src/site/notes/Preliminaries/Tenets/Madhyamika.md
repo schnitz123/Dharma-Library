@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/madhyamika/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/madhyamika/","dg-note-properties":{}}
 ---
 
 བདེན་དངོས་ཐ་སྙད་དུ་ཡང་མི་འདོད་པའི་ཐེག་ཆེན་གྱི་གྲུབ་མཐའ་སྨྲ་བའི་གང་ཟག་དེ། ངོ་བོ་ཉིད་མེད་པར་སྨྲ་བའི་མཚན་ཉིད།

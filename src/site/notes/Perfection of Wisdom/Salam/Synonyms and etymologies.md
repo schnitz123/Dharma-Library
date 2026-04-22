@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/synonyms-and-etymologies/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/synonyms-and-etymologies/","dg-note-properties":{}}
 ---
 
 ས་དང་། ལམ་དང་། མཁྱེན་པ་དང་། ལམ་ཞུགས་ཀྱི་མངོན་རྟོགས་རྣམས་མིང་གི་རྣམ་གྲངས་ཡིན།

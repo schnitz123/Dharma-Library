@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-a-result-and-conveying-an-autonomous-sign-of-non-observation-of-a-cause/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-a-result-and-conveying-an-autonomous-sign-of-non-observation-of-a-cause/","dg-note-properties":{}}
 ---
 
 བདུན་པའི་མཚན་གཞི་ཡོད་དེ། མེ་མེད་མཚན་མོའི་རྒྱ་མཚོར་ཆོས་ཅན། མེ་ཡོད་པར་ཐལ། དུ་བ་ཡོད་པའི་ཕྱིར། ཞེས་པའི་ཐལ་འགྱུར་དེ་དེ་ཡིན་པའི་ཕྱིར།

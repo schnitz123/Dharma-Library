@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/nine-mental-abidings/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/nine-mental-abidings/","dg-note-properties":{}}
 ---
 
 ནང་ཉིད་དུ་འཇོག་པ་ནི། དང་པོར་ལྷ་སྐུ་ལ་སོགས་པ་དམིགས་པ་གང་ཡང་རུང་བ་ལ་སེམས་གཏད་ནས་སྒོམ་པར་བྱེད་པའི་ཏིང་ངེ་འཛིན་ཅིག་ལ་འཇོག

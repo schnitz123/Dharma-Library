@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/contact/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/contact/","dg-note-properties":{}}
 ---
 
 རང་དང་རྟེན་འབྲེལ་ཚར་གཅིག་ཏུ་གཏོགས་པའི་འཕེན་བྱེད་ཀྱི་ལས་ཀྱི་འཕངས་འབྲས་ཀྱང་ཡིན། 

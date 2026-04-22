@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/body-faculty/"}
+{"dg-publish":true,"permalink":"/abhidharma/body-faculty/","dg-note-properties":{}}
 ---
 
 ལུས་ཀྱི་རྣམ་པར་ཤེས་པའི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་ནང་གི་གཟུགས་ཅན་དང་བར་དམིགས་པ། 

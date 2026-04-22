@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/subjective-aspects-of-the-antidote-class-indicated-in-this-context/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/subjective-aspects-of-the-antidote-class-indicated-in-this-context/","dg-note-properties":{}}
 ---
 
 རང་གི་མི་མཐུན་ཕྱོགས་འཇོམས་ནུས་པའི་མཁྱེན་པ་དེ། སྐབས་འདིར་བསྟན་གྱི་གཉེན་པོ་ཕྱོགས་ཀྱི་ཤེས་རྣམ་གྱི་མཚན་ཉིད།

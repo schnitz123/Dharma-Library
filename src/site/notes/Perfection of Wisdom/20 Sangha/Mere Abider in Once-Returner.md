@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/mere-abider-in-once-returner/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/mere-abider-in-once-returner/","dg-note-properties":{}}
 ---
 
 ཕྱིར་འོང་འབྲས་གནས་གང་ཞིག །རང་གི་གོང་མའི་འབྲས་བུ་ལ་མ་ཞུགས་པས་རབ་ཏུ་ཕྱེ་བ། ཕྱིར་འོང་འབྲས་གནས་ཙམ་པོ་བའི་མཚན་ཉིད།

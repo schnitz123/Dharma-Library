@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/physical-eye/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/physical-eye/","dg-note-properties":{}}
 ---
 
 སྤྱན་ལྔའི་ནང་ཚན་གང་ཞིག རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་ཤའི་མིག་ལ་བརྟེན་ནས་དཔག་ཚད་བརྒྱའི་གཟུགས་ཕྲ་རགས་མངོན་སུམ་དུ་མཐོང་བའི་རིག་པ། ཤའི་སྤྱན་གྱི་མཚན་ཉིད།

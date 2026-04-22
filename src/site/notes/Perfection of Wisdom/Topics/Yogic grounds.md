@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/yogic-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/yogic-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་རྟེན་བྱེད་པའི་ལམ་ཞུགས་ཀྱི་མཁྱེན་པ། རྣལ་འབྱོར་གྱི་སའི་མཚན་ཉིད། 

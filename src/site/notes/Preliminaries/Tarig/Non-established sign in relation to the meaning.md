@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/non-established-sign-in-relation-to-the-meaning/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/non-established-sign-in-relation-to-the-meaning/","dg-note-properties":{}}
 ---
 
 1. **Non-established sign where the entity of the sign does not exist** 

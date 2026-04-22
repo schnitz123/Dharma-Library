@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/five-aspects-of-concomitance/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/five-aspects-of-concomitance/","dg-note-properties":{}}
 ---
 
 1. **Support** རྟེན། - Same supporting sense-power.

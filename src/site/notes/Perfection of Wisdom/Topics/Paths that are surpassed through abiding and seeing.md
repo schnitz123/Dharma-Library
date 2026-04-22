@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-that-are-surpassed-through-abiding-and-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-that-are-surpassed-through-abiding-and-seeing/","dg-note-properties":{}}
 ---
 
 In terms of progression on the path, there are:

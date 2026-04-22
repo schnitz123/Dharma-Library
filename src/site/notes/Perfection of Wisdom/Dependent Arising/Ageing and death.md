@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/ageing-and-death/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/ageing-and-death/","dg-note-properties":{}}
 ---
 
 སྐྱེ་སྲིད་གྲུབ་པའི་སྐད་ཅིག་གཉིས་པ་ནས་འཆི་སྲིད་མ་གྲུབ་པའི་བར་གྱི་རྣམ་སྨིན་གྱི་ཕུང་པོ་ན་ཚོད་གཞན་དུ་གྱུར་པའི་ཆ་ལ། རྒ་བའི་རྟེན་འབྲེལ་དང་།

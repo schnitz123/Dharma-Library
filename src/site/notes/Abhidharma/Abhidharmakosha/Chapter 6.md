@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/abhidharmakosha/chapter-6/"}
+{"dg-publish":true,"permalink":"/abhidharma/abhidharmakosha/chapter-6/","dg-note-properties":{}}
 ---
 
 བདེན་པ་མཐོང་དང་སྒོམ་པ་ལས། །ཉོན་མོངས་སྤངས་པ་ཞེས་བཤད་པ།

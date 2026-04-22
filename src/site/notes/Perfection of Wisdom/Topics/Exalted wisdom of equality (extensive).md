@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-equality-extensive/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-equality-extensive/","dg-note-properties":{}}
 ---
 
 མཉམ་ཉིད་ཡེ་ཤེས་ཆོས་ཅན། རྒྱུ་མེད་མ་ཡིན་ཏེ། བདག་གཞན་མཉམ་པ་ཉིད་དུ་བསྒོམས་པས་དྲི་མ་དག་པ་ལ་བརྟེན་ནས་ཐོབ་པའི་ཕྱིར། 

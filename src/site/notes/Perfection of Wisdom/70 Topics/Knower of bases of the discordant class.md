@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-bases-of-the-discordant-class/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-bases-of-the-discordant-class/","dg-note-properties":{}}
 ---
 
 གཞི་ཤེས་གང་ཞིག ཐབས་ཤེས་ཁྱད་པར་ཅན་གཉིས་དང་བྲལ་བ་དེ། མི་མཐུན་ཕྱོགས་ཀྱི་གཞི་ཤེས་ཀྱི་མཚན་ཉིད། 

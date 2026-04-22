@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-final-vehicles/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-final-vehicles/","dg-note-properties":{}}
 ---
 
 སེམས་ཙམ་པ་རྣམས་ན་རེ། མཐར་ཐུག་ཐེག་པ་གསུམ་དུ་གྲུབ་པར་གསུངས་པ་སྒྲ་ཇི་བཞིན་པ་ཡིན་ཏེ། མཐར་ཐུག་ཐེག་པ་གསུམ་དུ་གྲུབ་པའི་ཕྱིར་ཏེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/smell-source/"}
+{"dg-publish":true,"permalink":"/abhidharma/smell-source/","dg-note-properties":{}}
 ---
 
 སྣ་ཤེས་ཀྱི་དམིགས་རྐྱེན་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་ཕྱིའི་སྐྱེ་མཆེད་དུ་དམིགས་པ། དྲིའི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད།  

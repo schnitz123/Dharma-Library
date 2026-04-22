@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/terminology-relating-to-pak-a/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/terminology-relating-to-pak-a/","dg-note-properties":{}}
 ---
 
 (Purbuchok:) There are three referents for the term Pakṣa: ཕྱོགས་ཀྱི་སྒྲའི་འཇུག་གཞི་དེ་ལ་གསུམ་ཡོད་པ་ལས། 

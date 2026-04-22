@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-observation-of-the-contradictory-object-that-is-suitable-to-appear-that-relates-via-a-mutually-negating-contradiction/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-observation-of-the-contradictory-object-that-is-suitable-to-appear-that-relates-via-a-mutually-negating-contradiction/","dg-note-properties":{}}
 ---
 
 སྒྲ་རྟག་པ་མ་ཡིན་པར་སྒྲུབ་པའི་འགལ་དམིགས་ཀྱི་རྟགས་ཡང་དག་ཀྱང་ཡིན། རྟག་པ་དང་ལྷན་ཅིག་མི་གནས་འགལ་མ་ཡིན་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པ་དེ། 

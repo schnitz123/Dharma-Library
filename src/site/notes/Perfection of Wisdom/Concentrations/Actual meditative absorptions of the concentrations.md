@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/actual-meditative-absorptions-of-the-concentrations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/actual-meditative-absorptions-of-the-concentrations/","dg-note-properties":{}}
 ---
 
 ཡན་ལག་གི་སྒོ་ནས་རང་གི་འོག་ས་ལས་འདས་པའི་བསམ་གཏན་གྱི་སས་བསྡུས་པའི་དགེ་བའི་རིག་པ་དེ། བསམ་གཏན་གྱི་དངོས་གཞིའི་སྙོམས་འཇུག་གི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/taste-source/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/taste-source/","dg-note-properties":{}}
 ---
 
 རོའི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད་ཡོད་དེ། ལྕེ་ཤེས་ཀྱི་མྱོང་བྱ་དེ་དེ་ཡིན་པའི་ཕྱིར།

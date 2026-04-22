@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/cause-and-effect/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/cause-and-effect/","dg-note-properties":{}}
 ---
 
 རྒྱུའི་མཚན་ཉིད་ཡོད་དེ། སྐྱེད་བྱེད་དེ་དེ་ཡིན་པའི་ཕྱིར། / ཕན་འདོགས་བྱེད་དེ་དེ་ཡིན་པའི་ཕྱིར།

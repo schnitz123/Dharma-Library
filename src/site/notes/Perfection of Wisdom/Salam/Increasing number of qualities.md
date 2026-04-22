@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/increasing-number-of-qualities/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/increasing-number-of-qualities/","dg-note-properties":{}}
 ---
 
 During subsequent attainment of the first ground, in a single instant one:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/three-sets-of-vows/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/three-sets-of-vows/","dg-note-properties":{}}
 ---
 
 [[Lamrim Glossary/Individual liberation vows\|Individual liberation vows]]

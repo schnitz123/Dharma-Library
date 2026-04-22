@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/persons-who-attain-those/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/persons-who-attain-those/","dg-note-properties":{}}
 ---
 
 ངན་སོང་གསུམ་དང་སྒྲ་མི་སྙན་པའི་རྟེན་ལ་བསམ་གཏན་དང་གཟུགས་མེད་ཀྱི་དངོས་གཞི་སྙོམས་འཇུག་གསར་དུ་སྐྱེ་བ་མེད་དེ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/self-knowing-direct-perceivers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/self-knowing-direct-perceivers/","dg-note-properties":{}}
 ---
 
 འཛིན་རྣམ། རང་རིག་གི་མཚན་ཉིད།

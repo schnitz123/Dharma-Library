@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞི་བརྟེན་ནས་དེ་བཞིན་གཤེགས་པའི་ཐུགས་རྒྱུད་ཀྱི་ཡོན་ཏན་རྣམ་དག་གདུལ་བྱ་གཞན་དག་ལ་གོ་བར་བྱེད་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན། སངས་རྒྱས་ཀྱི་དཔེ་བྱད་ཀྱི་ཡོན་ཏན་གྱི་མཚན་ཉིད།

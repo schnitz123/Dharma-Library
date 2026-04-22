@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/two-proponents-of-causelessness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/two-proponents-of-causelessness/","dg-note-properties":{}}
 ---
 
 གཟུགས་མེད་ནས་ཤི་འཕོས་ནས་འདོད་ལྷར་སྐྱེས་པའི་དྲང་སྲོང་འགའ་ཞིག་གིས་མངོན་ཤེས་བསྒྲུབས་ནས་བལྟས་པས་རང་གི་ལུས་ཀྱི་རྒྱུ་སྔ་མ་གང་ཡིན་མ་མཐོང་ནས་

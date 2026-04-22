@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subjective-aspects-of-a-knower-of-bases/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subjective-aspects-of-a-knower-of-bases/","dg-note-properties":{}}
 ---
 
 གཞི་ཤེས་ཀྱི་བསྒོམ་བྱའི་རྣམ་པར་གྱུར་པའི་འཕགས་རྒྱུད་ཀྱི་མཁྱེན་པ་གང་ཞིག ཐེག་དམན་གྱི་རྟོགས་རིགས་སུ་གནས་པ། གཞི་ཤེས་ཀྱི་ཤེས་རྣམ་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/basis-of-alternation-and-alternated-phenomenon/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/basis-of-alternation-and-alternated-phenomenon/","dg-note-properties":{}}
 ---
 
 **Basis of alternation:** (སྤེལ་གཞི།)

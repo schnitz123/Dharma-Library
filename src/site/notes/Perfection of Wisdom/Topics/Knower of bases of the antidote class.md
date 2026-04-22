@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-of-bases-of-the-antidote-class/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-of-bases-of-the-antidote-class/","dg-note-properties":{}}
 ---
 
 ཐེག་དམན་གྱི་རྟོགས་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་འཕགས་པའི་མཁྱེན་པ་གང་ཞིག ཐབས་ཤེས་ཁྱད་པར་ཅན་གྱིས་ཟིན་པ། 

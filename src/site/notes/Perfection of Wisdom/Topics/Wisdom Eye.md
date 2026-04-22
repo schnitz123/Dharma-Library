@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/wisdom-eye/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/wisdom-eye/","dg-note-properties":{}}
 ---
 
 སྤྱན་ལྔའི་ནང་ཚན་གང་ཞིག རྣམ་པར་མི་རྟོག་པའི་ཡེ་ཤེས་སུ་དམིགས་པ། ཤེས་རབ་ཀྱི་སྤྱན་གྱི་མཚན་ཉིད།

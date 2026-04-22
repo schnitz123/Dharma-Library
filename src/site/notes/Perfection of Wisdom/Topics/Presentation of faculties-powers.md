@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-faculties-powers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-faculties-powers/","dg-note-properties":{}}
 ---
 
 

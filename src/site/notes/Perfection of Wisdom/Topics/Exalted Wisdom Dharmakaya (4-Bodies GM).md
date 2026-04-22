@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-dharmakaya-4-bodies-gm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-dharmakaya-4-bodies-gm/","dg-note-properties":{}}
 ---
 
 ཤེས་བྱ་ཇི་ལྟ་བ་དང་ཇི་སྙེད་པ་ལ་ལྟོས་ནས་གཟིགས་པ་མཐར་ཐུག་པའི་ཡེ་ཤེས་དེ། ཡེ་ཤེས་ཆོས་སྐུའི་མཚན་ཉིད།

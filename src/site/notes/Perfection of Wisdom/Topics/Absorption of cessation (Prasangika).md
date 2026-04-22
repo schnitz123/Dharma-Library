@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/absorption-of-cessation-prasangika/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/absorption-of-cessation-prasangika/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་འདས་ལམ་དང་སྲིད་རྩེའི་དངོས་གཞིའི་སེམས་ལ་བརྟེན་ནས་སྲིད་རྩེ་ལ་འདོད་ཆགས་དང་བྲལ་བའི་རིགས་སུ་གནས་པའི་ཆོས་ཉིད་ལ་

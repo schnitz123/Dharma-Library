@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/craving/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/craving/","dg-note-properties":{}}
 ---
 
 རང་དང་རྟེན་འབྲེལ་ཚར་མི་གཅིག་པའི་ཚོར་བ་གསུམ་པོ་གང་རུང་ལ་སྲེད་པའི་སྒོ་ནས་རང་དང་རྟེན་འབྲེལ་ཚར་གཅིག་ཏུ་གཏོགས་པའི་འཕེན་བྱེད་ཀྱི་ལས་ཀྱི་

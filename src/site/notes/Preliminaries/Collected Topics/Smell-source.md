@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/smell-source/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/smell-source/","dg-note-properties":{}}
 ---
 
 དྲིའི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད་ཡོད་དེ། སྣ་ཤེས་ཀྱི་མྱོང་བྱ་དེ་དེ་ཡིན་པའི་ཕྱིར།

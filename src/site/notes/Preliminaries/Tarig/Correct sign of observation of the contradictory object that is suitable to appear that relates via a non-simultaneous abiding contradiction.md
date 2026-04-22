@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-observation-of-the-contradictory-object-that-is-suitable-to-appear-that-relates-via-a-non-simultaneous-abiding-contradiction/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-observation-of-the-contradictory-object-that-is-suitable-to-appear-that-relates-via-a-non-simultaneous-abiding-contradiction/","dg-note-properties":{}}
 ---
 
 མེ་སྟོབས་ཆེན་པོས་ཁྱབ་པར་ནོན་པའི་ཤར་གྱི་དངོས་པོའི་སྟེང་དུ་གྲང་རེག་རྒྱུན་ཆགས་མེད་པར་སྒྲུབ་པའི་སྣང་རུང་འགལ་དམིགས་ཀྱི་རྟགས་ཡང་དག་ཀྱང་ཡིན། 

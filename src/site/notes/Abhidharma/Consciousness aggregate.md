@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/consciousness-aggregate/"}
+{"dg-publish":true,"permalink":"/abhidharma/consciousness-aggregate/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་སོ་སོར་རྣམ་པར་རིག་པར་བྱེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་གཙོ་བོའི་རྣམ་རིག་ཏུ་དམིགས་པ། རྣམ་ཤེས་ཀྱི་མཚན་ཉིད། 

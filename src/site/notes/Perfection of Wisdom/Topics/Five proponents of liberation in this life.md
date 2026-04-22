@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-proponents-of-liberation-in-this-life/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-proponents-of-liberation-in-this-life/","dg-note-properties":{}}
 ---
 
 འདོད་པའི་ཡོན་ཏན་ལ་འཛེམ་མེད་དུ་སྤྱོད་པས་ཚེ་འདི་ལ་གྲོལ་བར་ལྟ་བ་དང༌། བསམ་གཏན་བཞི་ཐོབ་པས་ཚེ་འདི་ཉིད་ལ་གྲོལ་བར་ལྟ་བ་བཞི་སྟེ་ལྔའོ།

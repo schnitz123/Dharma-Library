@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/function-characteristics/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/function-characteristics/","dg-note-properties":{}}
 ---
 
 ཕན་བདེ་སྐྱོབ་སོགས་ཀྱི་བྱེད་ལས་ཁྱད་པར་ཅན་དང་ལྡན་པའི་སེམས་དཔའི་རྣལ་འབྱོར། གཞན་དོན་སྒྲུབ་པའི་བྱེད་ལས་ཁྱད་པར་ཅན་དང་ལྡན་པའི་སྦྱོར་བའི་མཚན་ཉིད།

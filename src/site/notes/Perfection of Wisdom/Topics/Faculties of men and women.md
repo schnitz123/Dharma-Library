@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/faculties-of-men-and-women/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/faculties-of-men-and-women/","dg-note-properties":{}}
 ---
 
 ཕོ་མོའི་དབང་པོ་གང་རུང་གང་ཞིག རང་རྒྱུད་ལྡན་གྱི་གང་ཟག་ཕོར་མཚོན་པར་བྱེད་པའི་རིགས་སུ་གནས་པ། ཕོའི་དབང་པོའི་མཚན་ཉིད། 

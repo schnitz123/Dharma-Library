@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/peak-application-of-peak/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/peak-application-of-peak/","dg-note-properties":{}}
 ---
 
 སྟོང་གསུམ་གྱི་སེམས་ཅན་དང་མཉམ་པའི་སངས་རྒྱས་མཆོད་པ་ལས་ལྷག་པ་སོགས་བསོད་ནམས་རྣམ་པར་འཕེལ་བ་བཅུ་དྲུག་ཐོབ་པའི་

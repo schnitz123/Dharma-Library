@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/persons-who-are-supports-for-cultivating-the-applications/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/persons-who-are-supports-for-cultivating-the-applications/","dg-note-properties":{}}
 ---
 
 ཕྱི་ནང་གི་རྐྱེན་གཉིས་དང་ལྡན་པའི་སྐབས་འདིར་དངོས་སུ་བསྟན་པའི་སེམས་དཔའ། སྐབས་འདིར་དངོས་སུ་བསྟན་པའི་སྦྱོར་བ་སྒོམ་པ་པོའི་རྟེན་གྱི་གང་ཟག་གི་མཚན་ཉིད།

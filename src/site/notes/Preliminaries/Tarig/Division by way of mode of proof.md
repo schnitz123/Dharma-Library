@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/division-by-way-of-mode-of-proof/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/division-by-way-of-mode-of-proof/","dg-note-properties":{}}
 ---
 
 **There are five:**

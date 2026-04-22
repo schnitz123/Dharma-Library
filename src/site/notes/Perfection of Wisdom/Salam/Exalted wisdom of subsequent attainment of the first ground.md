@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-subsequent-attainment-of-the-first-ground/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-subsequent-attainment-of-the-first-ground/","dg-note-properties":{}}
 ---
 
 ས་དང་པོའི་རྣམ་གྲོལ་ལམ་ལས་ལངས་པའི་ཐེག་ཆེན་གྱི་བདེན་པ་མངོན་རྟོགས་གང་ཞིག རང་རྒྱུད་ལ་ལྡན་པའི་གང་ཟག་གི་རྒྱུད་ལ་མངོན་གྱུར་དུ་འབྱུང་བ་དེ། 

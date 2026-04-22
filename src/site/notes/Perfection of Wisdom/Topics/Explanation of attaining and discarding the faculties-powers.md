@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/explanation-of-attaining-and-discarding-the-faculties-powers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/explanation-of-attaining-and-discarding-the-faculties-powers/","dg-note-properties":{}}
 ---
 
 **Birth existence of womb-birth in the Desire Realm:** འདོད་པའི་མངལ་སྐྱེས་ཀྱི་སྐྱེ་སྲིད་ཀྱི་གནས་སྐབས་སུ་

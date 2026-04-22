@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/cittamatra/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/cittamatra/","dg-note-properties":{}}
 ---
 
 ཕྱི་དོན་ཁས་མི་ལེན་ཅིང་། རང་རིག་བདེན་གྲུབ་ཏུ་འདོད་པའི་ཐེག་ཆེན་གྱི་གྲུབ་མཐའ་སྨྲ་བའི་གང་ཟག་དེ། སེམས་ཙམ་པའི་མཚན་ཉིད།

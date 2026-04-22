@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-signs-proving-the-meaning-and-convention/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-signs-proving-the-meaning-and-convention/","dg-note-properties":{}}
 ---
 
 **Division:**

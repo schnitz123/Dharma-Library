@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mirror-like-exalted-wisdom-extensive/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mirror-like-exalted-wisdom-extensive/","dg-note-properties":{}}
 ---
 
 The Mirror-like exalted wisdom possesses five attributes: མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས་དེ། ཁྱད་ཆོས་ལྔ་དང་ལྡན་པ་ཡིན་ཏེ། 

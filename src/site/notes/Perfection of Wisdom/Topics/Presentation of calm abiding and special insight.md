@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-calm-abiding-and-special-insight/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-calm-abiding-and-special-insight/","dg-note-properties":{}}
 ---
 
 ཞི་ལྷག་སྒོམ་པ་ཕན་ཡོན་ཁྱད་པར་ཅན་དང་ལྡན་ཏེ། ཐེག་པ་ཆེ་ཆུང་གི་འཇིག་རྟེན་དང་འཇིག་རྟེན་ལས་འདས་པའི་ཡོན་ཏན་ཐམས་ཅད་ཞི་ལྷག་གི་འབྲས་བུ་ཡིན་པའི་ཕྱིར། 

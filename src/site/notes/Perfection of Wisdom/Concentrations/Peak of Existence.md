@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/peak-of-existence/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/peak-of-existence/","dg-note-properties":{}}
 ---
 
 དམིགས་པའི་སྒོ་ནས་ཅི་ཡང་མེད་ལ་འདོད་ཆགས་དང་བྲལ་བའི་སྲིད་རྩེའི་སས་བསྡུས་པའི་དགེ་བའི་རིག་པ། 

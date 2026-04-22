@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/bhavaviveka-s-refutation/"}
+{"dg-publish":true,"permalink":"/madhyamaka/bhavaviveka-s-refutation/","dg-note-properties":{}}
 ---
 
 མྱུ་གུ་ཆོས་ཅན། སྐྱེ་བ་དོན་མེད་དང་ཐུག་མེད་ཡིན་པར་ཐལ། བདག་ལས་སྐྱེས་པའི་ཕྱིར། 

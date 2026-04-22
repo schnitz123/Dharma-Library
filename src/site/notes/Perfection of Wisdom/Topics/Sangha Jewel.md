@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sangha-jewel/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sangha-jewel/","dg-note-properties":{}}
 ---
 
 རིག་གྲོལ་གྱི་ཡོན་ཏན་བརྒྱད་པོ་གང་རུང་དང་ལྡན་པའི་འཕགས་པའི་གང་ཟག དགེ་འདུན་དཀོན་མཆོག་གི་མཚན་ཉིད།

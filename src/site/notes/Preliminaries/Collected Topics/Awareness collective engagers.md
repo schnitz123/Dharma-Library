@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/awareness-collective-engagers/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/awareness-collective-engagers/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ཆ་ཤས་སུ་མ་ཕྱེ་བར་འཇུག་པའི་རིག་པ། སྒྲུབ་འཇུག་གི་བློའི་མཚན་ཉིད།

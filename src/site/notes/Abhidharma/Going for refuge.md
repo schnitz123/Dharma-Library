@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/going-for-refuge/"}
+{"dg-publish":true,"permalink":"/abhidharma/going-for-refuge/","dg-note-properties":{}}
 ---
 
 སྡུག་བསྔལ་རྣམས་འཇིགས་པའི་གནས་སུ་མཐོང་ཞིང༌། དཀོན་མཆོག་ལ་དེ་ལས་སྐྱོབ་པའི་ནུས་པ་ཡོད་པར་ཡིད་ཆེས་པའི་སྒོ་ནས་

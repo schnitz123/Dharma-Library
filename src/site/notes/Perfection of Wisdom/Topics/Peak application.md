@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak-application/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་དྲོད་ཀྱི་རྟོགས་པ་ཐོབ་པའི་སྒོ་ནས་མཁྱེན་གསུམ་བསྡུས་སྒོམ་རབ་ཏུ་གྱུར་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་སེམས་དཔའི་རྣལ་འབྱོར། 

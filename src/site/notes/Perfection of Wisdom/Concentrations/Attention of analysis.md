@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-of-analysis/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-of-analysis/","dg-note-properties":{}}
 ---
 
 དེ་ལྟར་འཇིག་རྟེན་པའི་འདོད་ཉོན་འབྲིང་སྤངས་པ་ན་དགེ་བ་ལ་སྦྱོར་བའི་གེགས་བྱེད་པའི་འདོད་པའི་ཀུན་དཀྲིས་མི་འབྱུང་བ་ན་

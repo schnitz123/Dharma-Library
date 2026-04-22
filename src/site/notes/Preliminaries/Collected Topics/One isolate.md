@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/one-isolate/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/one-isolate/","dg-note-properties":{}}
 ---
 
 ལྡོག་པ་གཅིག་གི་མཚན་ཉིད་ཡོད་དེ། རང་ལྡོག་སོ་སོ་བ་མ་ཡིན་པའི་ཆོས་དེ་དེ་ཡིན་པའི་ཕྱིར།

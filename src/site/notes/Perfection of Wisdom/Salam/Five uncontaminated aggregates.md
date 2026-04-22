@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/five-uncontaminated-aggregates/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/five-uncontaminated-aggregates/","dg-note-properties":{}}
 ---
 
 1. Aggregate of ethics ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ།

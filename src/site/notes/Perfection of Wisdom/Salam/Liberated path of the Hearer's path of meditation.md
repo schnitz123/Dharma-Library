@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/liberated-path-of-the-hearer-s-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/liberated-path-of-the-hearer-s-path-of-meditation/","dg-note-properties":{}}
 ---
 
 རང་གི་ཉེར་ལེན་དུ་གྱུར་པའི་རང་དང་མཉམ་གཞག་ཐུན་གཅིག་ལ་སྐྱེས་པའི་ཉན་ཐོས་ཀྱི་སྒོམ་ལམ་བར་མེད་ལམ་གྱི་ངོ་སྐལ་གྱི་སྒྲིབ་པ་ལས་<br>གྲོལ་བའི་བདག་མེད་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་ཉན་ཐོས་ཀྱི་རྗེས་ལ་མངོན་རྟོགས། ཉན་ཐོས་ཀྱི་སྒོམ་ལམ་རྣམ་གྲོལ་ལམ་གྱི་མཚན་ཉིད།

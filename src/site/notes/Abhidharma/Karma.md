@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/karma/"}
+{"dg-publish":true,"permalink":"/abhidharma/karma/","dg-note-properties":{}}
 ---
 
 རང་དང་མཚུངས་ལྡན་གྱི་སེམས་ཡུལ་ལ་གཡོ་བར་བྱེད་པས་རབ་ཏུ་ཕྱེ་བའི་གཟུགས་ཅན་དུ་དམིགས་པ་དེ། ལས་ཀྱི་མཚན་ཉིད་དུ་བྱེ་བྲག་སྨྲ་བས་བཞེད་དེ། 

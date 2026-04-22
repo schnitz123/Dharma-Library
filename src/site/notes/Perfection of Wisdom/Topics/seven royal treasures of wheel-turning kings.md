@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/seven-royal-treasures-of-wheel-turning-kings/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/seven-royal-treasures-of-wheel-turning-kings/","dg-note-properties":{}}
 ---
 
 འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོའི་རིན་པོ་ཆེ་སྣ་བདུན།

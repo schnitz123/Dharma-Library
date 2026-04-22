@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/mind-apprehending-a-sign/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/mind-apprehending-a-sign/","dg-note-properties":{}}
 ---
 
 རང་ཉིད་སྒྲ་བྱས་པ་དང་། བྱས་ན་མི་རྟག་པས་ཁྱབ་པ་གང་རུང་ལ་མི་སླུ་བ་ཡང་ཡིན།

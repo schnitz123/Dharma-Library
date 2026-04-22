@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-bases/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-bases/","dg-note-properties":{}}
 ---
 
 རང་རྒྱུད་ལྡན་གྱི་གང་ཟག་གི་རྒྱུད་ཀྱི་བདག་མེད་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་ཟིན་པའི་ཡེ་ཤེས་གང་ཞིག ཐེག་དམན་གྱི་རྟོགས་རིགས་སུ་གནས་པ་དེ། གཞི་ཤེས་ཀྱི་མཚན་ཉིད། 

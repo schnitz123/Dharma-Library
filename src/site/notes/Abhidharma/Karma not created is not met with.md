@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/karma-not-created-is-not-met-with/"}
+{"dg-publish":true,"permalink":"/abhidharma/karma-not-created-is-not-met-with/","dg-note-properties":{}}
 ---
 
 བདག་ཅག་གི་སྟོན་པས་ཚོགས་གྲངས་མེད་བསགས་པའི་འབྲས་བུ་ལ་ལོངས་སྤྱོད་པར་འདོད་པ་རྣམས་ཀྱིས་ཀྱང་དེའི་རྒྱུ་ཐམས་ཅད་བསག་མི་དགོས་ཀྱང༌། 

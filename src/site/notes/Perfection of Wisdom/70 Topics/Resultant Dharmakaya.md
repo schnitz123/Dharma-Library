@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/resultant-dharmakaya/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/resultant-dharmakaya/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་མཁྱེན་གསུམ་གྱི་རྣམ་པ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་འབྲས་བུ་མཐར་ཐུག འབྲས་བུ་ཆོས་སྐུའི་མཚན་ཉིད། 

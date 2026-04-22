@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/tarig/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/tarig/","dg-note-properties":{}}
 ---
 
 [[Preliminaries/Tarig/Parts of the Syllogism\|Parts of the Syllogism]]

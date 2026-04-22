@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/liberated-path-of-the-first-ground/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/liberated-path-of-the-first-ground/","dg-note-properties":{}}
 ---
 
 ཆོས་ཉིད་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་ཡེ་ཤེས་གང་ཞིག རང་དང་མཉམ་གཞག་ཐུན་གཅིག་ཏུ་གྱུར་པའི་བར་ཆད་མེད་ལམ་གྱི་ངོ་སྐལ་གྱི་སྒྲིབ་པ་སྤངས་པའི་ས་དང་པོའི་ཡེ་ཤེས་དེ། ས་དང་པོའི་རྣམ་གྲོལ་ལམ་གྱི་མཚན་ཉིད།

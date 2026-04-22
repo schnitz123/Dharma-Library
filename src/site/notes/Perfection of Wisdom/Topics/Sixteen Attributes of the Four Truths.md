@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sixteen-attributes-of-the-four-truths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/sixteen-attributes-of-the-four-truths/","dg-note-properties":{}}
 ---
 
 **Suffering:** Taking the subject – the appropriated aggregates – it follows that:

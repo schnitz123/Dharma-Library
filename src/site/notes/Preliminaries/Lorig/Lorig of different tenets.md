@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/lorig-of-different-tenets/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/lorig-of-different-tenets/","dg-note-properties":{}}
 ---
 
 Asserting *three* direct valid cognisers (no self-knowers):

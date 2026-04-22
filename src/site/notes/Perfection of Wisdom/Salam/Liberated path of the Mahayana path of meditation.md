@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/liberated-path-of-the-mahayana-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/liberated-path-of-the-mahayana-path-of-meditation/","dg-note-properties":{}}
 ---
 
 ###### ཐེག་ཆེན་གྱི་སྒོམ་ལམ་མཉམ་གཞག་ཡེ་ཤེས་གང་ཞིག རང་དང་མཉམ་གཞག་ཐུན་གཅིག་ལ་སྐྱེས་པའི་བར་ཆད་མེད་ལམ་གྱི་ངོ་སྐལ་གྱི་<br>བདེན་འཛིན་ལས་གྲོལ་བའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས། ཐེག་ཆེན་གྱི་སྒོམ་ལམ་རྣམ་གྲོལ་ལམ་གྱི་མཚན་ཉིད།

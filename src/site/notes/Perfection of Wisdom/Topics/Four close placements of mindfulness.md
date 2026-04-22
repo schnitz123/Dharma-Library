@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-close-placements-of-mindfulness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-close-placements-of-mindfulness/","dg-note-properties":{}}
 ---
 
 ལུས་ཚོར་སེམས་ཆོས་བཞི་ལ་རང་སྤྱིའི་མཚན་ཉིད་གཉིས་གཉིས་ཀྱིས་བརྟགས་ནས་སྒོམ་པར་བྱེད་པའི་དྲན་པ་དང་ཤེས་རབ་གང་རུང་གིས་བསྡུས་པའི་

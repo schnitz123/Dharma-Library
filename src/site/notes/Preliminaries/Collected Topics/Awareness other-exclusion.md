@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/awareness-other-exclusion/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/awareness-other-exclusion/","dg-note-properties":{}}
 ---
 
 མ་ཡིན་དགག་གི་གཞན་སེལ་ཡང་ཡིན། རྟོག་པས་སྒྲོ་བཏགས་ཀྱང་ཡིན་པའི་གཞི་མཐུན་པ། བློའི་གཞན་སེལ་གྱི་མཚན་ཉིད།

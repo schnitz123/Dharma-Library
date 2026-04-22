@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-equality/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-equality/","dg-note-properties":{}}
 ---
 
 **Possesses three distinguishing characteristics:**

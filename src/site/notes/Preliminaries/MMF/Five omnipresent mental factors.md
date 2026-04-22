@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/five-omnipresent-mental-factors/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/five-omnipresent-mental-factors/","dg-note-properties":{}}
 ---
 
 1. Feeling ཚོར་བ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/hearers-purity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/hearers-purity/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་བར་ཆད་མེད་ལམ་གྱི་ངོས་སྐལ་གྱི་སྒྲིབ་པ་སྤངས་པའི་ཉན་ཐོས་ཀྱི་བྲལ་བ། ཉན་ཐོས་ཀྱི་རྣམ་དག་གི་མཚན་ཉིད།

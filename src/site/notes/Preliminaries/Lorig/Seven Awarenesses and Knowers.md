@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/seven-awarenesses-and-knowers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/seven-awarenesses-and-knowers/","dg-note-properties":{}}
 ---
 
 བློ་རིག་བདུན།

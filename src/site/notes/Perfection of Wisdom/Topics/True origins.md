@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/true-origins/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/true-origins/","dg-note-properties":{}}
 ---
 
 ཀུན་ནས་ཉོན་མོངས་ཕྱོགས་ཀྱི་བདེན་པ་གང་ཞིག རྒྱུ་ཀུན་འབྱུང་རབ་སྐྱེ་རྐྱེན་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་རབ་ཏུ་ཕྱེ་བ། ཀུན་འབྱུང་བདེན་པའི་མཚན་ཉིད།

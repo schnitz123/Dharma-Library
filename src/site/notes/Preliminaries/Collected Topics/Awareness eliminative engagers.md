@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/awareness-eliminative-engagers/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/awareness-eliminative-engagers/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ལ་ཆ་ཤས་སུ་ཕྱེ་ནས་འཇུག་པའི་རིག་པ། སེལ་འཇུག་གི་བློའི་མཚན་ཉིད།

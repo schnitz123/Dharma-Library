@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/discussion-about-non-faulty-awareness/"}
+{"dg-publish":true,"permalink":"/madhyamaka/discussion-about-non-faulty-awareness/","dg-note-properties":{}}
 ---
 
 Regarding the two:

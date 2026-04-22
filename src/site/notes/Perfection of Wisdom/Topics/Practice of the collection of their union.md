@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-their-union/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-their-union/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག །ཞི་ལྷག་གཉིས་ཀྱིས་ཟིན་པ། བཅུ་པ་ཟུང་དུ་འབྲེལ་བའི་ལམ་གྱི་ཚོགས་ཀྱི་མཚན་ཉིད།

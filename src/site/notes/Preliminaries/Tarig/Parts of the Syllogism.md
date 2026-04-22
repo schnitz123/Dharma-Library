@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/parts-of-the-syllogism/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/parts-of-the-syllogism/","dg-note-properties":{}}
 ---
 
 **Syllogism** སྦྱོར་བ། རྟགས་སྦྱོར།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/function-of-the-mahayana-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/function-of-the-mahayana-path-of-meditation/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་ཐེག་ཆེན་གྱི་སྒོམ་ལམ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་ཕན་ཡོན་དེ། ཐེག་ཆེན་གྱི་སྒོམ་ལམ་གྱི་བྱེད་པའི་མཚན་ཉིད།

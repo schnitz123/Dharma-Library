@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/unspecified/"}
+{"dg-publish":true,"permalink":"/abhidharma/unspecified/","dg-note-properties":{}}
 ---
 
 རྣམ་སྨིན་དཀར་ནག་གང་རུང་དུ་ལུང་བསྟན་དུ་མེད་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་ཆོས་སུ་དམིགས་པ། ལུང་མ་བསྟན་གྱི་མཚན་ཉིད། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-the-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-the-paths/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག གོང་མའི་འབྲས་བུ་སྒྲུབ་པ་ལ་བརྩོན་པ། ལམ་གྱི་ཚོགས་སྒྲུབ་ཀྱི་མཚན་ཉིད། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/sign/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/sign/","dg-note-properties":{}}
 ---
 
 རྟགས་སུ་དཀོད་པ། རྟགས་ཀྱི་མཚན་ཉིད།

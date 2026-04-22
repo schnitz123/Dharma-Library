@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mode-of-arising-of-the-mahayana-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mode-of-arising-of-the-mahayana-grounds/","dg-note-properties":{}}
 ---
 
 ཆོས་ཉིད་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་ཆོས་མཆོག་ཆེན་པོའི་ཡེ་ཤེས།

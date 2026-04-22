@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/etymologies-of-the-two-truths/"}
+{"dg-publish":true,"permalink":"/madhyamaka/etymologies-of-the-two-truths/","dg-note-properties":{}}
 ---
 
 བུམ་པའི་ཆོས་ཉིད་ཆོས་ཅན། ཁྱོད་ལ་དོན་དམ་བདེན་པ་ཞེས་རྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། དོན་ཡང་ཡིན། དམ་པ་ཡང་ཡིན། བདེན་པ་ཡང་ཡིན་པས་དེ་ལྟར་རྗོད་པའི་ཕྱིར། 

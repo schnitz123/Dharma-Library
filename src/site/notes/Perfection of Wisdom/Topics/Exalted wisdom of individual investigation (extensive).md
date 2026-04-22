@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-individual-investigation-extensive/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-individual-investigation-extensive/","dg-note-properties":{}}
 ---
 
 སོ་སོར་རྟོག་པའི་ཡེ་ཤེས་ཆོས་ཅན། ངོ་བོའི་ཁྱད་པར་དང་ལྡན་ཏེ། 

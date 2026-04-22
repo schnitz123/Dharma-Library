@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/faculties-of-the-five-feelings/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/faculties-of-the-five-feelings/","dg-note-properties":{}}
 ---
 
 ལུས་ཚོར་བདེ་བའི་དབང་པོ་དང༌། བསམ་གཏན་གསུམ་པའི་སས་བསྡུས་ཀྱི་ཚོར་བ་བདེ་བའི་དབང་པོ་གང་རུང་གིས་སས་བསྡུས་པའི་ཚོར་བ་གང་ཞིག  སིམ་པར་མྱོང་བ། ཚོར་བ་ལྔའི་ནང་ཚན་དུ་གྱུར་པའི་ཚོར་བ་བདེ་བའི་དབང་པོའི་མཚན་ཉིད།

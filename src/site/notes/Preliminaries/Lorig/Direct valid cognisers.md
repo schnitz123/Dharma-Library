@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/direct-valid-cognisers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/direct-valid-cognisers/","dg-note-properties":{}}
 ---
 
 རྟོག་པ་དང་བྲལ་ཞིང་གསར་དུ་མི་སླུ་བའི་རིག་པ་དེ། མངོན་སུམ་གྱི་ཚད་མའི་མཚན་ཉིད།

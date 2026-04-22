@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-consequence/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-consequence/","dg-note-properties":{}}
 ---
 
 རང་ཉིད་ཐལ་འགྱུར་ཡང་དག་ཏུ་སོང་བའི་རྒོལ་བ་ཡོད་པ་ཡང་ཡིན། རང་ཉིད་ཐལ་འགྱུར་ཡང་དག་ཏུ་སོང་བའི་རྒོལ་བས། 

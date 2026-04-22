@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/function-of-the-mahayana-path-of-mediation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/function-of-the-mahayana-path-of-mediation/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་ཐེག་ཆེན་གྱི་སྒོམ་ལམ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་ཕན་ཡོན་དེ། ཐེག་ཆེན་གྱི་སྒོམ་ལམ་གྱི་བྱེད་པའི་མཚན་ཉིད། 

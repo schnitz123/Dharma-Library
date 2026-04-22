@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/preparation-of-the-first-concentration/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/preparation-of-the-first-concentration/","dg-note-properties":{}}
 ---
 
 ཉེར་བསྡོགས་ཀྱི་སས་བསྡུས་ཤིང་། རང་གི་ཐོབ་བྱར་གྱུར་པའི་བསམ་གཏན་དང་པོའི་དངོས་གཞི་སྙོམས་འཇུག་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་བསམ་གཏན་དང་པོའི་

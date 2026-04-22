@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mara-of-devaputra/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mara-of-devaputra/","dg-note-properties":{}}
 ---
 
 བདུད་བཞིའི་ནང་ཚན་གང་ཞིག བདུད་གཞན་གསུམ་ལས་འདའ་བ་ལ་བར་དུ་གཅོད་ཅིང༌། འདོད་ལྷའི་རིགས་སུ་གཏོགས་པ། ལྷའི་བུའི་བདུད་ཀྱི་མཚན་ཉིད། 

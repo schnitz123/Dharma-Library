@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/purpose-of-alternations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/purpose-of-alternations/","dg-note-properties":{}}
 ---
 
 བསམ་གཏན་སྤེལ་གོམས་བྱས་པ་ཆོས་ཅན། དགོས་པ་ཡོད་དེ། ཏིང་ངེ་འཛིན་ལ་རྩལ་བྱང་བར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར། 

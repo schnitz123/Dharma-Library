@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/other-topics-in-this-context/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/other-topics-in-this-context/","dg-note-properties":{}}
 ---
 
 Related to:

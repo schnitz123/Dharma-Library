@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/accumulated-actions-would-go-to-waste/"}
+{"dg-publish":true,"permalink":"/madhyamaka/accumulated-actions-would-go-to-waste/","dg-note-properties":{}}
 ---
 
 གཞན་ཡང་། ལས་བྱེད་པ་པོས་རང་གིས་བྱས་པའི་ལས་དེའི་འབྲས་བུ་རྣམ་སྨིན་མྱོང་བ་མེད་པར་ཐལ། ལས་བྱས་རྗེས་སུ་བྱེད་པ་པོ་རྒྱན་ཆད་ནས་མེད་པའི་ཕྱིར།

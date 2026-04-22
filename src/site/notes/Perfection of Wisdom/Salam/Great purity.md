@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/great-purity/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/great-purity/","dg-note-properties":{}}
 ---
 
 སྒྲིབ་གཉིས་མ་ལུས་པར་སྤངས་པའི་བྲལ་བ། རྣམ་དག་ཤིན་ཏུ་བའི་མཚན་ཉིད།

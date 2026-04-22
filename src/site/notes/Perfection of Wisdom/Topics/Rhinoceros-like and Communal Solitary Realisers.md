@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/rhinoceros-like-and-communal-solitary-realisers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/rhinoceros-like-and-communal-solitary-realisers/","dg-note-properties":{}}
 ---
 
 **Difference in traversing the path:**

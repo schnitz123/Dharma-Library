@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/adherence-to-signs-in-relation-to-bases-and-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/adherence-to-signs-in-relation-to-bases-and-paths/","dg-note-properties":{}}
 ---
 
 

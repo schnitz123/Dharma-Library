@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/four-correct-abandonments/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/four-correct-abandonments/","dg-note-properties":{}}
 ---
 
 ཡང་དག་སྤོང་བ་བཞི་ཡོད་དེ། 

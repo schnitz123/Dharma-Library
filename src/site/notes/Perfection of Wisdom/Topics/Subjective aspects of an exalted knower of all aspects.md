@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subjective-aspects-of-an-exalted-knower-of-all-aspects/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subjective-aspects-of-an-exalted-knower-of-all-aspects/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་རྣམ་མཁྱེན་གྱི་སྦྱོར་བ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་ཤེས་རྣམ་མཐར་ཐུག་གང་ཞིག 

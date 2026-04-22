@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/consequences/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/consequences/","dg-note-properties":{}}
 ---
 
 ཐལ་འགྱུར་དུ་བཀོད་པ། ཐལ་འགྱུར་གྱི་མཚན་ཉིད།

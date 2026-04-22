@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/letters/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/letters/","dg-note-properties":{}}
 ---
 
 མིང་ཚིག་གཉིས་ཀྱི་རྩོམ་གཞིར་གྱུར་པའི་སྐད་ཀྱི་གདངས་དེ། ཡི་གེའི་མཚན་ཉིད།

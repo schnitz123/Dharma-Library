@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/lorig/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/lorig/","dg-note-properties":{}}
 ---
 
 [[Preliminaries/Lorig/Objects\|Objects]] / [[Preliminaries/Lorig/Object-possessors\|Object-possessors]]

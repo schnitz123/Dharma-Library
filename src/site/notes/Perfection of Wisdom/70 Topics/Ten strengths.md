@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/ten-strengths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/ten-strengths/","dg-note-properties":{}}
 ---
 
 སྟོབས་བཅུ་ཡོད་དེ། 

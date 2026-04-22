@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/distinguishing-features-of-the-mahayana-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/distinguishing-features-of-the-mahayana-grounds/","dg-note-properties":{}}
 ---
 
 1. The way of surpassing perfections ཕར་ཕྱིན་ལྷག་ཚུལ་གྱི་ཁྱད་པར།

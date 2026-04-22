@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-partial-concordance-with-definite-discrimination/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-partial-concordance-with-definite-discrimination/","dg-note-properties":{}}
 ---
 
 གཙོ་བོ་ཐབས་ཀྱི་ཆས་ཁྱད་པར་དུ་བྱས་པའི་སྐབས་འདིར་དངོས་སུ་བསྟན་པའི་སེམས་དཔའི་དོན་མངོན་རྟོགས། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/vaibhashika/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/vaibhashika/","dg-note-properties":{}}
 ---
 
 བྱེ་བྲག་ཏུ་སྨྲ་བ་རྣམས་ཀྱིས་རང་གི་འབྲས་བུར་གྱུར་པའི་འཕགས་པའི་རྟོགས་པའི་ཉེར་ལེན་བྱེད་པའི་སེམས་ཅན་གྱི་རྒྱུད་ཀྱི་སེམས་བྱུང་མ་ཆགས་པའི་དགེ་བ་དེ།

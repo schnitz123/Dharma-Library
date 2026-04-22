@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/actual-meditative-absorptions-of-the-formless-realm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/actual-meditative-absorptions-of-the-formless-realm/","dg-note-properties":{}}
 ---
 
 དམིགས་པའི་སྒོ་ནས་རང་གི་འོག་ས་ལས་འདས་པའི་གཟུགས་མེད་ཀྱི་སས་བསྡུས་པའི་དགེ་བའི་རིག་པ། གཟུགས་མེད་ཀྱི་དངོས་གཞིའི་སྙོམས་འཇུག་གི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/motivation-gendun-drub/"}
+{"dg-publish":true,"permalink":"/abhidharma/motivation-gendun-drub/","dg-note-properties":{}}
 ---
 
 **In general, motivation is of two types:** སྤྱིར་ཀུན་སློང་ལ་རྣམ་པ་གཉིས་ཏེ། 

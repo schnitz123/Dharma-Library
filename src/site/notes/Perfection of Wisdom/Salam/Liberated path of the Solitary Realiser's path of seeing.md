@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/liberated-path-of-the-solitary-realiser-s-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/liberated-path-of-the-solitary-realiser-s-path-of-seeing/","dg-note-properties":{}}
 ---
 
 གཉིས་སྟོང་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་རང་རྒྱལ་གྱི་བདེན་པ་མངོན་རྟོགས་གང་ཞིག རང་འདྲེན་བྱེད་ཀྱི་བར་ཆད་མེད་ལམ་གྱི་<br>ངོ་སྐལ་གྱི་སྤང་བྱ་དངོས་སུ་སྤངས་པ་དེ། རང་རྒྱལ་གྱི་མཐོང་ལམ་རྣམ་གྲོལ་ལམ་གྱི་མཚན་ཉིད།

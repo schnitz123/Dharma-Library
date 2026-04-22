@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-the-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/practice-of-the-collection-of-the-grounds/","dg-note-properties":{}}
 ---
 
 ཚོགས་སྒྲུབ་གང་ཞིག རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་རྟེན་བྱེད་པ། སའི་ཚོགས་སྒྲུབ་ཀྱི་མཚན་ཉིད།

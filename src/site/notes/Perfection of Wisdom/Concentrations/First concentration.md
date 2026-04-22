@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/first-concentration/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/first-concentration/","dg-note-properties":{}}
 ---
 
 ཡན་ལག་གི་སྒོ་ནས་རང་གི་འོག་ས་འདོད་པ་ལ་འདོད་ཆགས་དང་བྲལ་བའི་བསམ་གཏན་དང་པོའི་དངོས་གཞིའི་སས་བསྡུས་ཀྱི་དགེ་བའི་རིག་པ། 

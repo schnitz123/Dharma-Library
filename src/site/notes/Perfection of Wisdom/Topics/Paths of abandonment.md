@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-abandonment/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-abandonment/","dg-note-properties":{}}
 ---
 
 སྐབས་འདིར་བསྟན་གྱི་སྤོང་བའི་ལམ་ཆོས་ཅན། དུ་མར་ཡོད་དེ། བདེན་པ་བཞི་ལ་དམིགས་པའི་བར་ཆད་མེད་པའི་ལམ་གྱི་རྣམ་པ་བཞི་ཡོད་པའི་ཕྱིར། 

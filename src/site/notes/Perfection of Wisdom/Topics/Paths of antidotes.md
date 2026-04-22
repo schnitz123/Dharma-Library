@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-antidotes/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/paths-of-antidotes/","dg-note-properties":{}}
 ---
 
 རང་གི་བསལ་བྱར་གྱུར་པའི་སྒྲོ་འདོགས་ཀྱི་ཞེན་ཡུལ་མེད་པར་རྟོགས་པའི་སྒོ་ནས་རང་གི་བསལ་བྱར་གྱུར་པའི་སྒྲོ་འདོགས་འཇོམས་པར་ནུས་པས་

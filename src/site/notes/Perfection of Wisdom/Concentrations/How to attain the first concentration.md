@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/how-to-attain-the-first-concentration/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/how-to-attain-the-first-concentration/","dg-note-properties":{}}
 ---
 
 

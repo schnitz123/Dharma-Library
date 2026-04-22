@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/non-returners-proceeding-to-the-form-realm/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/non-returners-proceeding-to-the-form-realm/","dg-note-properties":{}}
 ---
 
 འདོད་པའི་རྟེན་ཅན་གྱི་ཕྱིར་མི་འོང་གང་ཞིག །གཟུགས་སུ་ཉིང་མཚམས་སྦྱོར་བའི་རིགས་ཅན། གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་གི་མཚན་ཉིད།

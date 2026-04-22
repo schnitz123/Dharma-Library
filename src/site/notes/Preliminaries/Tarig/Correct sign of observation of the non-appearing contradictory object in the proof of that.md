@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-observation-of-the-non-appearing-contradictory-object-in-the-proof-of-that/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-observation-of-the-non-appearing-contradictory-object-in-the-proof-of-that/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་མི་སྣང་བའི་མ་དམིགས་པའི་རྟགས་ཡང་དག་ཀྱང་ཡིན། མ་ཡིན་དགག་དང་སྒྲུབ་པ་གང་རུང་ཡང་ཡིན་པའི་གཞི་མཐུན་པ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/phenomenon-source/"}
+{"dg-publish":true,"permalink":"/abhidharma/phenomenon-source/","dg-note-properties":{}}
 ---
 
 ཆོས་ཀྱི་སྐྱེ་མཆེད་དང་ཆོས་ཁམས་གཞག་ཏུ་ཡོད་དེ། 

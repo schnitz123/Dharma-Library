@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mode-of-traversing-the-paths-and-grounds-hinayana/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mode-of-traversing-the-paths-and-grounds-hinayana/","dg-note-properties":{}}
 ---
 
 གནས་སྐབས་ཉན་ཐོས་སུ་རིགས་ངེས་པའི་གང་ཟག་གི་རྒྱུད་ལ་ངེས་འབྱུང་གི་བསམ་པ་བཅོས་མ་མ་ཡིན་པ་སྐྱེས་པ་ན།

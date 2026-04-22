@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/proof-statement/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/proof-statement/","dg-note-properties":{}}
 ---
 
 **In general, a correct proof statement is:**

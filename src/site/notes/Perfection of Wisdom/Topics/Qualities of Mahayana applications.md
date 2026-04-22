@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/qualities-of-mahayana-applications/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/qualities-of-mahayana-applications/","dg-note-properties":{}}
 ---
 
 རང་ཐོབ་བྱེད་ཀྱི་ཐབས་སུ་གྱུར་པའི་ཐེག་ཆེན་གྱི་སྦྱོར་བ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་ཡོན་ཏན། ཐེག་ཆེན་གྱི་སྦྱོར་བའི་ཡོན་ཏན་གྱི་མཚན་ཉིད།

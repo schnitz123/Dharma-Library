@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-observation-of-the-contradictory-object-that-is-suitable-to-appear/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-observation-of-the-contradictory-object-that-is-suitable-to-appear/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་སྣང་རུང་མ་དམིགས་པའི་རྟགས་ཡང་དག་ཀྱང་ཡིན། མ་ཡིན་དགག་དང་སྒྲུབ་པ་གང་རུང་ཡང་ཡིན་པའི་གཞི་མཐུན་པ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/branches-of-the-third-concentration/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/branches-of-the-third-concentration/","dg-note-properties":{}}
 ---
 
 - **Branches of antidotes:** གཉེན་པོའི་ཡན་ལག

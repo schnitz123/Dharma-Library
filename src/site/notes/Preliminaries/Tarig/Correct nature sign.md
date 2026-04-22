@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-nature-sign/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-nature-sign/","dg-note-properties":{}}
 ---
 
 རང་བཞིན་གྱི་ཚུལ་གསུམ་ཡིན་པ། རང་བཞིན་གྱི་རྟགས་ཡང་དག་གི་མཚན་ཉིད།

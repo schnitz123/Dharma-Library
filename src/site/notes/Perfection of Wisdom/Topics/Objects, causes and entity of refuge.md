@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/objects-causes-and-entity-of-refuge/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/objects-causes-and-entity-of-refuge/","dg-note-properties":{}}
 ---
 
 རྒྱུ་གཉིས་པོ་དེ་ལ་བརྟེན་ནས་དཀོན་མཆོག་གསུམ་ལ་བསམ་པ་ཐག་པ་ནས་སྡུག་བསྔལ་མཐའ་དག་ལས་སྐྱོབ་པར་བློ་ལིངས་ཀྱིས་སྒྱུར་ཞིང་དམ་བཅའ་ལ་ཁས་ལེན་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པ། སྐྱབས་འགྲོའི་ངོ་བོ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/immeasurable-compassion/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/immeasurable-compassion/","dg-note-properties":{}}
 ---
 
 ཚད་མེད་གང་ཞིག །སེམས་ཅན་རྣམས་སྡུག་བསྔལ་དང་བྲལ་བར་འདོད་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པ། སྙིང་རྗེ་ཚད་མེད་ཀྱི་མཚན་ཉིད།

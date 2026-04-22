@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/thirty-seven-aspects-concordant-with-hearers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/thirty-seven-aspects-concordant-with-hearers/","dg-note-properties":{}}
 ---
 
 In the continuum of an Arya Buddha: སངས་རྒྱས་འཕགས་པའི་རྒྱུད་ཀྱི་

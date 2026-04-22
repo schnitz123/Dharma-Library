@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak-application-of-the-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/peak-application-of-the-path-of-seeing/","dg-note-properties":{}}
 ---
 
 མཐོང་སྤང་རྟོག་པའི་ས་བོན་གྱི་དངོས་གཉེན་བྱེད་པའི་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་གྱི་བདེན་པ་མངོན་རྟོགས་དེ། མཐོང་ལམ་རྩེ་སྦྱོར་གྱི་མཚན་ཉིད།

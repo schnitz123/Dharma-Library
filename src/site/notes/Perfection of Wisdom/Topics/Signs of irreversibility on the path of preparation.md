@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs-of-irreversibility-on-the-path-of-preparation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs-of-irreversibility-on-the-path-of-preparation/","dg-note-properties":{}}
 ---
 
 རང་གང་ལ་ལྡན་པའི་བྱང་སེམས་སྦྱོར་ལམ་པ་ཕྱིར་མི་ལྡོག་པར་ཡིད་ཆེས་པར་བྱེད་པའི་སྒྲུབ་བྱེད་རྣམ་དག་དེ། སྦྱོར་ལམ་པ་ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་མཚན་ཉིད།

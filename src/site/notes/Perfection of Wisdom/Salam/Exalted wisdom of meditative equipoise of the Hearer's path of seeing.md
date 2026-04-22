@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-meditative-equipoise-of-the-hearer-s-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-meditative-equipoise-of-the-hearer-s-path-of-seeing/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་དུ་གྱུར་པའི་བདག་མེད་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་ཉན་ཐོས་ཀྱི་བདེན་པ་མངོན་རྟོགས།<br>ཉན་ཐོས་ཀྱི་མཐོང་ལམ་མཉམ་གཞག་ཡེ་ཤེས་ཀྱི་མཚན་ཉིད།

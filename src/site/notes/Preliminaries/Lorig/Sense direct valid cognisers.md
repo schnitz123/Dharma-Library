@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/sense-direct-valid-cognisers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/sense-direct-valid-cognisers/","dg-note-properties":{}}
 ---
 
 རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་དབང་པོ་གཟུགས་ཅན་པ་ལ་བརྟེན་ནས་བྱུང་བའི་རྟོག་པ་དང་བྲལ་ཞིང་གསར་དུ་མི་སླུ་བའི་རིག་པ།

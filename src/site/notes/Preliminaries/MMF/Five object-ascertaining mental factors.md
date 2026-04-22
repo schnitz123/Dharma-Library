@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/five-object-ascertaining-mental-factors/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/five-object-ascertaining-mental-factors/","dg-note-properties":{}}
 ---
 
 1. Aspiration འདུན་པ།

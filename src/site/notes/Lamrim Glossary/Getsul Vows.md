@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamrim-glossary/getsul-vows/"}
+{"dg-publish":true,"permalink":"/lamrim-glossary/getsul-vows/","dg-note-properties":{}}
 ---
 
 རྩ་བ་བཞི་ཡན་ལག་དྲུག་སྟེ། བཅུ་ཇི་སྲིད་འཚོའི་བར་དུ་སྤོང་བར་མནོས་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་རབ་བྱུང་གི་སྡོམ་པར་དམིགས་པ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-proponents-of-partial-permanence/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-proponents-of-partial-permanence/","dg-note-properties":{}}
 ---
 
 ཚངས་ཆེན་གྱི་འཁོར་འགའ་ཞིག་མིར་སྐྱེས་ཏེ་མངོན་ཤེས་བསྒྲུབས་ནས་བལྟས་པས་ཚངས་པ་ཆེན་པོ་མ་ཤི་བར་མཐོང་ནས་ཚངས་པ་ཆེན་པོ་ནི་རྟག་ལ་ལྷ་གཞན་རྣམས་ནི་མི་རྟག་གོ་སྙམ་པ་དང༌། 

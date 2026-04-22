@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-complete-purities/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-complete-purities/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་དངོས་གཞི་ལ་བརྟེན་ནས་ལུས་འདོར་ལེན་སོགས་ལ་དབང་འབྱོར་པ་ཐོབ་པས་རབ་ཏུ་ཕྱེ་བའི་རིག་པ། 

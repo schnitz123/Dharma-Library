@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-of-joy-and-withdrawal/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-of-joy-and-withdrawal/","dg-note-properties":{}}
 ---
 
 དེ་ལྟར་འཇིག་རྟེན་པའི་འདོད་ཉོན་ཆེན་པོ་གསུམ་སྤངས་པ་ན་དེ་ནས་འདོད་ཉོན་སྤོང་བ་དང་། དེས་དབེན་པ་ལ་དགའ་བར་འགྱུར་ཞིང་།

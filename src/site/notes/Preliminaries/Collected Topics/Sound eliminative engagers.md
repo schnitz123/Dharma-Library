@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/sound-eliminative-engagers/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/sound-eliminative-engagers/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ལ་ཆ་ཤས་སུ་ཕྱེ་ནས་འཇུག་པའི་མཉན་བྱ། སེལ་འཇུག་གི་སྒྲའི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-presentations-of-conceptions-to-be-abandoned/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-presentations-of-conceptions-to-be-abandoned/","dg-note-properties":{}}
 ---
 
 **Chapter 1 (Path of Preparation):** [[Perfection of Wisdom/Topics/Conceptions that are objects of abandonment\|Conceptions that are objects of abandonment]]

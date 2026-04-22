@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-non-guardings/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-non-guardings/","dg-note-properties":{}}
 ---
 
 དེ་བཞིན་གཤེགས་པའི་སྐུ་གསུང་ཐུགས་ཀྱི་སྤྱོད་པ་ཉེས་སྤྱོད་མཐའ་དག་གིས་ཡོངས་སུ་དག་པ་སྟེ་དེའི་དེ་བཞིན་གཤེགས་པ་འདི་ལ་ཕྱིན་ཅི་ལོག་གི་ཀུན་སྤྱོད་ངན་པ་

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/persons-abiding-in-the-four-results/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/persons-abiding-in-the-four-results/","dg-note-properties":{}}
 ---
 
 **The eight persons:** སྐྱེས་བུ་ཟུང་བཞི་གང་ཟག་ཡ་བརྒྱད། / ཞུགས་གནས་བརྒྱད།

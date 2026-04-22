@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/property-of-the-probandum/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/property-of-the-probandum/","dg-note-properties":{}}
 ---
 
 བསྒྲུབ་བྱའི་ཆོས་སུ་བཟུང་བ། བསྒྲུབ་བྱའི་ཆོས་ཀྱི་མཚན་ཉིད།

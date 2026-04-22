@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-legs-of-magical-emanation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-legs-of-magical-emanation/","dg-note-properties":{}}
 ---
 
 ཉེས་པ་ལྔའི་གཉེན་པོར་སྤོང་བའི་འདུ་བྱེད་བརྒྱད་བརྟེན་པའི་ཏིང་ངེ་འཛིན་དུ་གྱུར་པའི་ལམ་ཞུགས་ཀྱི་མཁྱེན་པ། རྫུ་འཕྲུལ་གྱི་རྐང་པའི་མཚན་ཉིད་ཡིན།

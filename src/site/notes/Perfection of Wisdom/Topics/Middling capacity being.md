@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/middling-capacity-being/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/middling-capacity-being/","dg-note-properties":{}}
 ---
 
 རང་ཉིད་འཁོར་བའི་སྡུག་བསྔལ་མཐའ་དག་ལས་ཐར་པའི་བདེ་བ་ཙམ་བསྒྲུབ་པའི་ཕྱིར་དུ་བརྩོན་བཞིན་པའི་གང་ཟག་དེ་སྐྱེས་བུ་འབྲིང་ཡིན།

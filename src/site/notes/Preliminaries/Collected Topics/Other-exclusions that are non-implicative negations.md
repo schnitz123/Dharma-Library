@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/other-exclusions-that-are-non-implicative-negations/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/other-exclusions-that-are-non-implicative-negations/","dg-note-properties":{}}
 ---
 
 གཞན་སེལ་ཡང་ཡིན། རང་གི་དགག་བྱ་བཀག་ཤུལ་དུ་འཕངས་པའི་སྒྲུབ་པ་མེད་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པ། མེད་དགག་གི་གཞན་སེལ་གྱི་མཚན་ཉིད།

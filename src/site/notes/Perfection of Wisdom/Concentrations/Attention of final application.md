@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-of-final-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/attention-of-final-application/","dg-note-properties":{}}
 ---
 
 དེ་ལྟར་དཔྱད་པས་འཇིག་རྟེན་པའི་འདོད་ཉོན་ཆུང་ངུ་སྐོར་གསུམ་མ་སྤང་པར་མཐོང་ནས་དེ་སྤོང་བའི་ཕྱིར། 

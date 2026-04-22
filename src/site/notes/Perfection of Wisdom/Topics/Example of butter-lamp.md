@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/example-of-butter-lamp/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/example-of-butter-lamp/","dg-note-properties":{}}
 ---
 
 མར་མེ་སྐད་ཅིག་དང་པོ་ཆོས་ཅན། ཁྱོད་མར་མེ་སྐད་ཅིག་གཉིས་པ་ལ་ལྟོས་མེད་དུ་སྡོང་བུ་སྣུམ་ལྡན་རྫོགས་པར་སྲེག་ནུས་མ་ཡིན་ཏེ། 

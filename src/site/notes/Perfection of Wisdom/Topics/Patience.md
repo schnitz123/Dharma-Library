@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/patience/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/patience/","dg-note-properties":{}}
 ---
 
 མི་འཁྲུགས་པའི་སེམས་པ། བཟོད་པའི་ངོ་བོ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-maras/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-maras/","dg-note-properties":{}}
 ---
 
 **Divisions:**

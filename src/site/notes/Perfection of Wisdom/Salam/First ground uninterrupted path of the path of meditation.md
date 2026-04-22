@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/first-ground-uninterrupted-path-of-the-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/first-ground-uninterrupted-path-of-the-path-of-meditation/","dg-note-properties":{}}
 ---
 
 ས་དང་པོའི་བར་ཆད་མེད་ལམ་གང་ཞིག རང་གི་ངོ་སྐལ་གྱི་བདེན་འཛིན་ལྷན་སྐྱེས་ཀྱི་དངོས་གཉེན་བྱེད་པ་དེ།<br>ས་དང་པོའི་སྒོམ་ལམ་བར་ཆད་མེད་ལམ་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-positive-sign/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-positive-sign/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་རྟགས་ཡང་དག་གང་ཞིག  ཁྱོད་ཀྱི་རྟགས་ཀྱིས་དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་སུ་བཟུང་བྱ་ཡང་ཡིན། སྒྲུབ་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་སྲིད་པ། 

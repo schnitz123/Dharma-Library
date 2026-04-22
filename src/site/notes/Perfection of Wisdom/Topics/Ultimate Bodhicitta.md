@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ultimate-bodhicitta/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ultimate-bodhicitta/","dg-note-properties":{}}
 ---
 
 དོན་དམ་སེམས་བསྐྱེད་དང་ཀུན་རྫོབ་སེམས་བསྐྱེད་གང་རུང་གང་ཞིག རྫོགས་བྱང་གི་གནས་ལུགས་ལ་གཉིས་སྣང་ནུབ་ཅིང་ཤེས་རབ་ཁྱད་པར་ཅན་གྱི་

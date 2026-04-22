@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mara-of-the-afflictions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mara-of-the-afflictions/","dg-note-properties":{}}
 ---
 
 བདུད་བཞིའི་ནང་ཚན་གང་ཞིག གཙོ་བོར་ཐར་པ་ཐོབ་པ་ལ་བར་དུ་གཅོད་བྱེད་ཀྱི་སྒྲིབ་པའི་རིགས་སུ་གནས་པ། ཉོན་མོངས་པའི་བདུད་ཀྱི་མཚན་ཉིད། 

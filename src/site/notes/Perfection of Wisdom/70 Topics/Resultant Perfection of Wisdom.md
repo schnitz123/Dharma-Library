@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/resultant-perfection-of-wisdom/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/resultant-perfection-of-wisdom/","dg-note-properties":{}}
 ---
 
 ཁྱད་ཆོས་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་མཐར་ཕྱིན་པའི་ཡེ་ཤེས་དེ། འབྲས་བུ་ཤེར་ཕྱིན་གྱི་མཚན་ཉིད། 

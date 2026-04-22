@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/abandonment-of-the-seeds-of-the-two-obscurations-the-imprints-of-the-three-doors/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/abandonment-of-the-seeds-of-the-two-obscurations-the-imprints-of-the-three-doors/","dg-note-properties":{}}
 ---
 
 དེ་ལ་བརྟེན་ནས་སྒྲིབ་གཉིས་ཀྱི་བག་ཆགས་ཡང་དག་པར་བཅོམ་པ་སྟེ་སྤངས་པའི་མཁྱེན་པ། བག་ཆགས་ཡང་དག་པར་བཅོམ་པའི་ཡེ་ཤེས་ཀྱི་ངོ་བོ།

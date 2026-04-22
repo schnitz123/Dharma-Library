@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-that-beyond-extremes/"}
+{"dg-publish":true,"permalink":"/madhyamaka/emptiness-of-that-beyond-extremes/","dg-note-properties":{}}
 ---
 
 རྟག་ཆད་ཀྱི་མཐའ་དང་བྲལ་བ་དེ་ནི་ཆོས་ཅན། མཐའ་ལས་འདས་པ་ཞེས་བྱ་བར་བརྗོད་དེ། ཁྱོད་གང་ལ་རྟག་ཆད་ཀྱི་མཐའ་ནི་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར།

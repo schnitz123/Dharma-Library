@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/special-insight/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/special-insight/","dg-note-properties":{}}
 ---
 
 ཞི་གནས་ཀྱི་ངང་ནས་རང་གི་དམིགས་པ་ལ་དཔྱད་སྟོབས་ཀྱིས་དྲངས་པའི་ཤིན་སྦྱངས་ཀྱི་བདེ་བས་ཟིན་པའི་སྒོ་ནས་རང་ཡུལ་ལ་སོ་སོར་དཔྱོད་པར་བྱེད་པའི་ཤེས་རབ། 

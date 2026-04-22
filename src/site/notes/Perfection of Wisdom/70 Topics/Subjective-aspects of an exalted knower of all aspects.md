@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/subjective-aspects-of-an-exalted-knower-of-all-aspects/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/subjective-aspects-of-an-exalted-knower-of-all-aspects/","dg-note-properties":{}}
 ---
 
 There are **one hundred and ten** subjective-aspects of an exalted knower of all aspects:

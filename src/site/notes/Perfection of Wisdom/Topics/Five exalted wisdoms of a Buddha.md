@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-exalted-wisdoms-of-a-buddha/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/five-exalted-wisdoms-of-a-buddha/","dg-note-properties":{}}
 ---
 
 In general, there are five Buddha Exalted Wisdoms: སྤྱིར་སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་ལ།

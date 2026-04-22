@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/non-virtue/"}
+{"dg-publish":true,"permalink":"/abhidharma/non-virtue/","dg-note-properties":{}}
 ---
 
 ལུང་དུ་བསྟན་པ་ཡང་ཡིན། རྣམ་སྨིན་ནག་པའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ། མི་དགེ་བའི་མཚན་ཉིད། 

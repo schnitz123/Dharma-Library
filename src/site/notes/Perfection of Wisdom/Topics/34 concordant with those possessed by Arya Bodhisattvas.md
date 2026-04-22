@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/34-concordant-with-those-possessed-by-arya-bodhisattvas/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/34-concordant-with-those-possessed-by-arya-bodhisattvas/","dg-note-properties":{}}
 ---
 
 **Divisions:**

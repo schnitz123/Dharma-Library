@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-non-observation-of-the-related-object-that-is-suitable-to-appear/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-non-observation-of-the-related-object-that-is-suitable-to-appear/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་སྣང་རུང་མ་དམིགས་པའི་རྟགས་ཡང་དག་ཀྱང་ཡིན། མེད་དགག་ཀྱང་ཡིན་པའི་གཞི་མཐུན་པ། 

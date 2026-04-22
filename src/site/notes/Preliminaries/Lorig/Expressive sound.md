@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/expressive-sound/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/expressive-sound/","dg-note-properties":{}}
 ---
 
 བརྡའི་དབང་གིས་རང་གི་བརྗོད་བྱ་གོ་བར་བྱེད་པའི་གཉན་བྱ། རང་ཉིད་བརྗོད་བྱེད་ཀྱི་སྒྲའི་མཚན་ཉིད།

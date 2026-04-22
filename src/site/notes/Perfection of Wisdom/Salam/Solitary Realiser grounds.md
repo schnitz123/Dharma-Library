@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/solitary-realiser-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/solitary-realiser-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་རྟེན་བྱེད་པའི་རང་རྒྱལ་ལམ་ཞུགས་ཀྱི་མངོན་རྟོགས་དེ། རང་རྒྱལ་གྱི་སའི་མཚན་ཉིད།

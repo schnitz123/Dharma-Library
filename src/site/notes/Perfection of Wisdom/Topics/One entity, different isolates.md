@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/one-entity-different-isolates/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/one-entity-different-isolates/","dg-note-properties":{}}
 ---
 
 འདིར་ངོ་བོ་གཅིག་ལ་ལྡོག་པ་ཐ་དད་པ་བྱས་པ་མི་རྟག་པ་ལྟ་བུར་གནས་ཏེ། བདེན་པར་མེད་པ་དང་། ཀུན་རྫོབ་ཏུ་ཡོད་པ་གཉིས་ངོ་བོ་གཅིག་ལ་ལྡོག་པ་ཐ་དད་ཡིན་པའི་ཕྱིར་ཏེ། ཀུན་རྫོབ་ཏུ་ཡོད་པ་ལས་ཀྱང་བདེན་སྟོང་ངོ་བོ་གཞན་མ་ཡིན། བདེན་སྟོང་ལས་ཀྱང་ཀུན་རྫོབ་ཏུ་ཡོད་པ་ངོ་བོ་གཞན་མ་ཡིན་པའི་ཕྱིར་ཏེ། 

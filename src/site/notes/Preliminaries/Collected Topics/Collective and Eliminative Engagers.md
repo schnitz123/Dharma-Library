@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/collective-and-eliminative-engagers/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/collective-and-eliminative-engagers/","dg-note-properties":{}}
 ---
 
 རང་ཡུལ་ལ་ཆ་ཤས་སུ་ཕྱེ་ནས་འཇུག་པ། སེལ་འཇུག་གི་མཚན་ཉིད།

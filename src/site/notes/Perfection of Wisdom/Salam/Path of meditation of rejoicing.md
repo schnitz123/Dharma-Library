@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation-of-rejoicing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-meditation-of-rejoicing/","dg-note-properties":{}}
 ---
 
 རང་གཞན་གང་རུང་གི་དགེ་རྩ་ལ་དགའ་བ་སྒོམ་པའི་སྒྲ་དོན་འདྲེས་རུང་དུ་འཛིན་པའི་རྟོག་པ་དང་བཅས་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས།

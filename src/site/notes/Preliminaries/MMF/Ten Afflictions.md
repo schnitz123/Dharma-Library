@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/mmf/ten-afflictions/"}
+{"dg-publish":true,"permalink":"/preliminaries/mmf/ten-afflictions/","dg-note-properties":{}}
 ---
 
 **Five non-views:**

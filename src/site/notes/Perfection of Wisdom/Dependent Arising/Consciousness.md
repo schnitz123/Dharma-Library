@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/consciousness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/consciousness/","dg-note-properties":{}}
 ---
 
 རང་དང་རྟེན་འབྲེལ་ཚར་གཅིག་ཏུ་གཏོགས་པའི་འཕེན་བྱེད་ལས་ཀྱི་བག་ཆགས་བསྒོས་མ་ཐག་པའི་གཙོ་བོ་ཡིད་ཀྱི་རྣམ་རིག་དེ། རྣམ་ཤེས་ཀྱི་རྟེན་འབྲེལ་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-paths-knowing-the-paths-of-hearers/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/knower-of-paths-knowing-the-paths-of-hearers/","dg-note-properties":{}}
 ---
 
 སེམས་བསྐྱེད་བསྔོ་བ་སྟོང་ཉིད་རྟོགས་པའི་ཤེས་རབ་གསུམ་གྱིས་ཟིན་པའི་སྒོ་ནས་གདུལ་བྱ་ཉན་ཐོས་ཀྱི་རིགས་ཅན་རྗེས་སུ་གཟུང་བའི་ཕྱིར་དུ་ཤེས་པར་བྱ་བའི་མངོན་རྟོགས་ཀྱི་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་འཕགས་པའི་མཁྱེན་པ་དེ། ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་མཚན་ཉིད། 

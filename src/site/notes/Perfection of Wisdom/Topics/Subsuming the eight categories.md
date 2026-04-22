@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subsuming-the-eight-categories/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/subsuming-the-eight-categories/","dg-note-properties":{}}
 ---
 
 མངོན་རྟོགས་བརྒྱད་ཀྱི་རིམ་པ་བརྒྱད་དུ་ཕྱེ་ནས་བསྟན་པའི་འོག་ཏུ། དོན་དྲུག་ཏུ་བསྡུས་ནས་བསྟན་པ་ཆོས་ཅན། དགོས་པ་ཡོད་དེ། 

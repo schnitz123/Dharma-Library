@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/root-supplement-and-400-3-t/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/root-supplement-and-400-3-t/","dg-note-properties":{}}
 ---
 
 མྱུ་གུ་ཆོས་ཅན། ས་བོན་གྱི་དུས་སུ་མ་འོངས་པ་ཡིན་ཏེ། ས་བོན་ད་ལྟར་བའི་དུས་སུ་ཁྱོད་སྐྱེ་བཞིན་པ་གང་ཞིག དུས་དེར་ཁྱོད་མ་ཕྱིན་པའི་ཕྱིར། 

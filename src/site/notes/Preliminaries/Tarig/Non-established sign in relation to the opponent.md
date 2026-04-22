@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/non-established-sign-in-relation-to-the-opponent/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/non-established-sign-in-relation-to-the-opponent/","dg-note-properties":{}}
 ---
 
 1. **Non-established sign in relation to the defender** 

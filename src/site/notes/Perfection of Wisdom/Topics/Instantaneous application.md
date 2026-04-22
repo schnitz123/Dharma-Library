@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/instantaneous-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/instantaneous-application/","dg-note-properties":{}}
 ---
 
 མཁྱེན་གསུམ་གྱི་རྣམ་པ་ལ་བརྟན་པ་ཐོབ་པའི་སེམས་དཔའི་རྣལ་འབྱོར་མཐར་ཐུག་དེ། སྐད་ཅིག་སྦྱོར་གྱི་མཚན་ཉིད།

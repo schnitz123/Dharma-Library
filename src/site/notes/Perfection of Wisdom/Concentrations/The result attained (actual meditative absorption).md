@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/the-result-attained-actual-meditative-absorption/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/the-result-attained-actual-meditative-absorption/","dg-note-properties":{}}
 ---
 
 དངོས་གཞིས་བསྡུས་ཤིང་ཡན་ལག་དང་དམིགས་པ་གང་རུང་གི་སྒོ་ནས་རང་གི་འོག་ས་ལས་འདས་པའི་གོང་སས་བསྡུས་པའི་དགེ་བའི་རིག་པ་དེ། 

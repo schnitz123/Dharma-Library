@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/meaning-category/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/meaning-category/","dg-note-properties":{}}
 ---
 
 བུམ་པའི་དོན་སྤྱིའི་མཚན་ཉིད་ཡོད་དེ། བུམ་འཛིན་རྟོག་པ་ལ་བུམ་པ་མ་ཡིན་བཞིན་དུ་བུམ་པ་ལྟ་བུར་སྣང་བའི་སྒྲོ་བཏགས་ཀྱི་ཆ་དེ་དེ་ཡིན་པའི་ཕྱིར།

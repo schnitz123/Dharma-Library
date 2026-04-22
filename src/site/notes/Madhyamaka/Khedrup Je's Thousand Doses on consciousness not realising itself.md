@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/khedrup-je-s-thousand-doses-on-consciousness-not-realising-itself/"}
+{"dg-publish":true,"permalink":"/madhyamaka/khedrup-je-s-thousand-doses-on-consciousness-not-realising-itself/","dg-note-properties":{}}
 ---
 
 ཚད་མས་གཞལ་བྱ་གྲུབ་པ་ཙམ་གྱིས་ཚད་མ་ཡོད་པར་འགྲུབ་པའི་དོན་ཡང་ཇི་ལྟ་བུ་ཞེ་ན།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/mental-direct-perceivers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/mental-direct-perceivers/","dg-note-properties":{}}
 ---
 
 རང་གི་ཐུན་མོང་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་པའི་ཡིད་དབང་ལ་བརྟེན་ནས་སྐྱེས་པ་གང་ཞིག རྟོག་པ་དང་བྲལ་ཞིང་མ་འཁྲུལ་བའི་གཞན་རིག་གི་ཤེས་པ་དེ། 

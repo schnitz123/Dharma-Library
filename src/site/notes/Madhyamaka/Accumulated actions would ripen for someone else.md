@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/accumulated-actions-would-ripen-for-someone-else/"}
+{"dg-publish":true,"permalink":"/madhyamaka/accumulated-actions-would-ripen-for-someone-else/","dg-note-properties":{}}
 ---
 
 བྱས་པ་ལ་ཁོ་ན་རེ། ཇི་སྐད་བཤད་པའི་ཉེས་པ་མེད་དེ། བདག་སྔ་མས་བསགས་པའི་ལས་ཀྱི་འབྲས་བུ་ལ་བདག་ཕྱི་མས་ལོངས་སྤྱོད་པའི་ཕྱིར་ཞེ་ན། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ultimate/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ultimate/","dg-note-properties":{}}
 ---
 
 **Terminological division:**

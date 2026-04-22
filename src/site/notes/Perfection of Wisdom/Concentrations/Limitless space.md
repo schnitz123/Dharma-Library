@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/limitless-space/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/limitless-space/","dg-note-properties":{}}
 ---
 
 དམིགས་པའི་སྒོ་ནས་བསམ་གཏན་བཞི་པ་ལ་འདོད་ཆགས་དང་བྲལ་བའི་ནམ་མཁའ་མཐའ་ཡས་ཀྱི་སས་བསྡུས་པའི་དགེ་བའི་རིག་པ། 

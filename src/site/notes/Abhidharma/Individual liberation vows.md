@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abhidharma/individual-liberation-vows/"}
+{"dg-publish":true,"permalink":"/abhidharma/individual-liberation-vows/","dg-note-properties":{}}
 ---
 
 རང་གི་མི་མཐུན་ཕྱོགས་སུ་གྱུར་པའི་འཆལ་ཚུལ་གྱི་གཉེན་པོའི་རིགས་སུ་གནས་པས་རབ་ཏུ་ཕྱེ་བའི་ཆོས་འདི་པའི་སྤོང་བ་གཟུགས་ཅན་པ་ཡང་ཡིན། 

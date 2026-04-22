@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ripened-instantaneous-application/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/ripened-instantaneous-application/","dg-note-properties":{}}
 ---
 
 བྱ་རྫོགས་ཀྱི་སྐད་ཅིག་མའི་ཐུང་མཐའ་གཅིག་ལ་ཟག་མེད་རྣམ་པར་སྨིན་པའི་ཆོས་གཅིག་མངོན་དུ་བྱས་པ་ན་དེ་དང་རིགས་མཐུན་པའི་ཆོས་ཐམས་ཅད་

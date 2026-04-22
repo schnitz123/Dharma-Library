@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/sense-direct-perceivers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/sense-direct-perceivers/","dg-note-properties":{}}
 ---
 
 རང་གི་ཐུན་མོངས་མ་ཡིན་པའི་བདག་རྐྱེན་དུ་གྱུར་བའི་དབང་པོ་གཟུགས་ཅན་པ་ལ་བརྟེན་ནས་སྐྱེས་པ་གང་ཞིག རྟོག་པ་དང་བྲལ་ཞིང་མ་འཁྲུལ་པའི་རིག་པ།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-a-result-contradictory-with-a-nature-and-conveying-an-autonomous-sign-observing-a-nature-contradictory-with-a-cause/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-a-result-contradictory-with-a-nature-and-conveying-an-autonomous-sign-observing-a-nature-contradictory-with-a-cause/","dg-note-properties":{}}
 ---
 
 དང་པོའི་མཚན་གཞི་ཡོད་དེ། མེ་སྟོབས་ཆེན་པོས་ནོན་པའི་གཞིར་ཆོས་ཅན། མེ་སྟོབས་ཆེན་པོས་ཁྱབ་པར་ནོན་པ་མ་ཡིན་པར་ཐལ། 

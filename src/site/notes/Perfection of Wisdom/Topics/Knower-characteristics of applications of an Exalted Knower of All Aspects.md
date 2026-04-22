@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-characteristics-of-applications-of-an-exalted-knower-of-all-aspects/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-characteristics-of-applications-of-an-exalted-knower-of-all-aspects/","dg-note-properties":{}}
 ---
 
 དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱི་མཐོང་ཆོས་ལ་བདེ་བར་གནས་པ་སོགས་རྣམ་མཁྱེན་གྱི་རྣམ་པ་གང་རུང་ལ་དམིགས་པའི་སེམས་དཔའི་རྣལ་འབྱོར། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/subsequent-cognisers/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/subsequent-cognisers/","dg-note-properties":{}}
 ---
 
 རྟོགས་ཟིན་རྟོགས་པའི་རིག་པ། དཔྱད་ཤེས་ཀྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-non-observation-of-the-non-appearing-related-object-in-the-proof-of-that/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-non-observation-of-the-non-appearing-related-object-in-the-proof-of-that/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་མི་སྣང་བའི་མ་དམིགས་པའི་རྟགས་ཡང་དག་ཀྱང་ཡིན། མེད་དགག་ཀྱང་ཡིན་པའི་གཞི་མཐུན་པ། 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mahayana-grounds/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/mahayana-grounds/","dg-note-properties":{}}
 ---
 
 རང་གི་འབྲས་བུར་གྱུར་པའི་ཡོན་ཏན་དུ་མའི་རྟེན་དུ་གྱུར་པའི་ཐེག་ཆེན་ལམ་ཞུགས་ཀྱི་མངོན་རྟོགས། ཐེག་ཆེན་གྱི་སའི་མཚན་ཉིད།

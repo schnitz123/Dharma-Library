@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-belief/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-of-belief/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་རྟགས་ཡང་དག་གང་ཞིག  དེ་སྒྲུབ་ཀྱི་བསྒྲུབ་བྱ་ལ་ཡིད་ཆེས་ཀྱི་རྗེས་དཔག་ཚད་མ་སྐྱེད་བྱེད་དེ། ཡིད་ཆེས་ཀྱི་རྟགས་ཡང་དག་གི་མཚན་ཉིད།

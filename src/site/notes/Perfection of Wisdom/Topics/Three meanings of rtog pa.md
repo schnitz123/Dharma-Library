@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-meanings-of-rtog-pa/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/three-meanings-of-rtog-pa/","dg-note-properties":{}}
 ---
 
 སྤྱིར་རྟོག་པ་ལ་གསུང་རབ་ལས་མང་དུ་གསུངས་ཏེ།   

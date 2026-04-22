@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-individual-correct-knowledges/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/four-individual-correct-knowledges/","dg-note-properties":{}}
 ---
 
 རང་གི་བདག་རྐྱེན་དུ་གྱུར་པའི་རབ་མཐའི་བསམ་གཏན་ལ་བརྟེན་ནས་བཤད་བྱ་དང་འཆད་བྱེད་ལ་ཆགས་ཐོགས་སྤངས་པས་རབ་ཏུ་ཕྱེ་བའི་མཐར་ཐུག་གི་མཁྱེན་པ། 

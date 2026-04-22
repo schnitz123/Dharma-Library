@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/divisions-of-superficial-causes-of-error/"}
+{"dg-publish":true,"permalink":"/madhyamaka/divisions-of-superficial-causes-of-error/","dg-note-properties":{}}
 ---
 
 There are two divisions superficial causes of error: འཕྲལ་གྱི་འཁྲུལ་རྒྱུ་ལ་གཉིས་ཡོད་དེ།

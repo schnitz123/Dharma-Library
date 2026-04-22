@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/opposites/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/opposites/","dg-note-properties":{}}
 ---
 
 མ་ཡིན་པ་ལས་ལོག་པ་དང༌། ཡིན་པ་གཉིས་དོན་གཅིག

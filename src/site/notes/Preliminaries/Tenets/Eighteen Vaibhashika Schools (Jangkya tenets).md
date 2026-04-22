@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tenets/eighteen-vaibhashika-schools-jangkya-tenets/"}
+{"dg-publish":true,"permalink":"/preliminaries/tenets/eighteen-vaibhashika-schools-jangkya-tenets/","dg-note-properties":{}}
 ---
 
 Bhavaviveka's Blaze of Reasoning mentions three systems of categorisation:

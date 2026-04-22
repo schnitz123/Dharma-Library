@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/going-up/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/going-up/","dg-note-properties":{}}
 ---
 
 སྤེལ་གཞི་བསམ་གཟུགས་བརྒྱད་དང་སྙོམས་འཇུག་དགུ་པོ་གང་རུང་ལ་སྤེལ་ཆོས་འགོག་པ་དང་འདོད་སེམས་གང་རུང་སྤེལ་ནས་ལུགས་མཐུན་དུ་སྙོམས་པར་འཇུག་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས། ཡར་སོང་ཐོད་རྒལ་གྱི་སྙོམས་འཇུག་གི་མཚན་ཉིད།

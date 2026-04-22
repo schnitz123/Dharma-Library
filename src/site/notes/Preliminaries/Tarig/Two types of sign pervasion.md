@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/two-types-of-sign-pervasion/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/two-types-of-sign-pervasion/","dg-note-properties":{}}
 ---
 
 1. Sign that pervades the similar class in the proof of that

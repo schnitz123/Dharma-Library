@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-proving-the-meaning/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/correct-sign-proving-the-meaning/","dg-note-properties":{}}
 ---
 
 ཁྱོད་དེ་སྒྲུབ་ཀྱི་ཚུལ་གསུམ་གང་ཞིག །ཁྱོད་ཀྱི་རྟགས་ཀྱིས་དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་སུ་གཟུང་བྱ་ཡང་ཡིན། མཚན་ཉིད་ཀྱང་ཡིན་པའི་གཞི་མཐུན་སྲིད་པ། 

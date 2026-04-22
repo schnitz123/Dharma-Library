@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-engaging-in-the-activities-examples/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-engaging-in-the-activities-examples/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་རྣམས་ཀྱི་འཕྲིན་ལས་འབད་མེད་ལྷུན་གྲུབ་རྒྱུན་མི་འཆད་དུ་འཇུག་པ་ཡིན་ཏེ། 

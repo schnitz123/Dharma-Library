@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-alternation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mode-of-alternation/","dg-note-properties":{}}
 ---
 
 **Mode of alternation:**

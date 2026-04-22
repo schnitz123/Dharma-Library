@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/lorig/actual-terms/"}
+{"dg-publish":true,"permalink":"/preliminaries/lorig/actual-terms/","dg-note-properties":{}}
 ---
 
 དོན་དེ་ལ་འདོད་རྒྱལ་ཐོག་མར་བརྡའ་སྦྱར་བ་ཡང་ཡིན། དོན་དེའི་མིང་གི་གཙོ་བོ་ཡང་ཡིན་པའི་གཞི་མཐུན་པར་དམིགས་པ། དོན་དེའི་དངོས་མིང་གི་མཚན་ཉིད།

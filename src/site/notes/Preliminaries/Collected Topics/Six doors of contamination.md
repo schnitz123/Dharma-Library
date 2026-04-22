@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/six-doors-of-contamination/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/six-doors-of-contamination/","dg-note-properties":{}}
 ---
 
 From Asanga's Abhidharmasamuccaya:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-characteristics/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/knower-characteristics/","dg-note-properties":{}}
 ---
 
 **In relation to characterising that to be characterised:** (མཚོན་བྱ།)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-meditative-equipoise-of-the-mahayana-path-of-seeing/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/exalted-wisdom-of-meditative-equipoise-of-the-mahayana-path-of-seeing/","dg-note-properties":{}}
 ---
 
 རང་གི་ཡུལ་དུ་གྱུར་པའི་བདག་མེད་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་པའི་ཐེག་ཆེན་གྱི་བདེན་པ་མངོན་རྟོགས་གང་ཞིག རང་རྒྱུད་ལྡན་གྱི་གང་ཟག་གི་རྒྱུད་ལ་

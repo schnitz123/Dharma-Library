@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/purity-of-bodhisattva-s-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/purity-of-bodhisattva-s-path-of-meditation/","dg-note-properties":{}}
 ---
 
 སངས་རྒྱས་ཀྱི་རྣམ་དག་དེ་རྣམ་དག་ཤིན་ཏུ་བ་ཡིན་པ་དང༌། ཉན་རང་གི་རྣམ་དག་དེ་རྣམ་དག་ཤིན་ཏུ་བ་མ་ཡིན་པའི་ཁྱད་པར་འཐད་དེ། 

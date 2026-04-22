@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/tangible-source/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/tangible-source/","dg-note-properties":{}}
 ---
 
 རེག་བྱའི་སྐྱེ་མཆེད་ཀྱི་མཚན་ཉིད་ཡོད་དེ། ལུས་ཤེས་ཀྱི་མྱོང་བྱ་དེ་དེ་ཡིན་པའི་ཕྱིར།

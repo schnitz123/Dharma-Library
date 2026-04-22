@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/physical-and-mental-supports-of-the-five-paths/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/physical-and-mental-supports-of-the-five-paths/","dg-note-properties":{}}
 ---
 
 **In general:**

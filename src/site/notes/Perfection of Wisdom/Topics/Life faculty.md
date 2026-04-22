@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/life-faculty/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/life-faculty/","dg-note-properties":{}}
 ---
 
 དྲོད་དང་རྣམ་ཤེས་ཅི་རིགས་པའི་རྟེན་བྱེད་པའི་ཚེ་དེ། སྲོག་གི་དབང་པོའི་མཚན་ཉིད།

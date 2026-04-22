@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-a-nature-and-conveying-an-autonomous-sign-of-non-observation-of-a-pervader/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/consequence-observing-a-nature-and-conveying-an-autonomous-sign-of-non-observation-of-a-pervader/","dg-note-properties":{}}
 ---
 
 བརྒྱད་པའི་མཚན་གཞི་ཡོད་དེ། ཤིང་གིས་དབེན་པའི་བྲག་རྫོང་ན་ཆོས་ཅན། ཤིང་ཡོད་པར་ཐལ། ཤ་པ་ཡོད་པའི་ཕྱིར། ཞེས་པའི་ཐལ་འགྱུར་དེ་དེ་ཡིན་པའི་ཕྱིར།

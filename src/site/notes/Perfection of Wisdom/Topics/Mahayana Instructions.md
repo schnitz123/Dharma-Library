@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-instructions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/mahayana-instructions/","dg-note-properties":{}}
 ---
 
 ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་ཆེད་དུ་གཉེར་བྱའི་ཐབས་སྟོན་པའི་ཐེག་ཆེན་གྱི་ངག་དེ། ཐེག་ཆེན་གྱི་གདམས་ངག་གི་མཚན་ཉིད།

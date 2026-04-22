@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/nothingness/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/nothingness/","dg-note-properties":{}}
 ---
 
 དམིགས་པའི་སྒོ་ནས་རྣམ་ཤེས་མཐའ་ཡས་ལ་འདོད་ཆགས་དང་བྲལ་བའི་ཅི་ཡང་མེད་ཀྱི་སས་བསྡུས་པའི་དགེ་བའི་རིག་པ། 

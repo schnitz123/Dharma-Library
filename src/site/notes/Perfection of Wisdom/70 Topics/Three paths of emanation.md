@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/three-paths-of-emanation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/70-topics/three-paths-of-emanation/","dg-note-properties":{}}
 ---
 
 སྤྲུལ་པའི་ལམ་གསུམ་ཡོད་དེ། 

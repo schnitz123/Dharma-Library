@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-preparation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/salam/path-of-preparation/","dg-note-properties":{}}
 ---
 
 དོན་མངོན་རྟོགས། སྦྱོར་ལམ་གྱི་མཚན་ཉིད།

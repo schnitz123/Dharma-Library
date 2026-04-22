@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/discussion-of-view-of-the-transitory-collection/"}
+{"dg-publish":true,"permalink":"/madhyamaka/discussion-of-view-of-the-transitory-collection/","dg-note-properties":{}}
 ---
 
 **Three possibilities between vtc and apprehension of a self of persons:**

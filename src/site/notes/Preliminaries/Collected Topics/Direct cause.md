@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/collected-topics/direct-cause/"}
+{"dg-publish":true,"permalink":"/preliminaries/collected-topics/direct-cause/","dg-note-properties":{}}
 ---
 
 དངོས་སུ་སྐྱེད་བྱེད། དངོས་རྒྱུའི་མཚན་ཉིད།

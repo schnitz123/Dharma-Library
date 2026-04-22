@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/branches-of-the-concentrations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/branches-of-the-concentrations/","dg-note-properties":{}}
 ---
 
 1. [[Perfection of Wisdom/Concentrations/Branches of the first concentration\|Branches of the first concentration]] (5)

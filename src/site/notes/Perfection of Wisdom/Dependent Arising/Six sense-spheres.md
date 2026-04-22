@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/six-sense-spheres/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/dependent-arising/six-sense-spheres/","dg-note-properties":{}}
 ---
 
 དབང་པོ་དྲུག་ཚང་བར་དོད་པ་ནས་བཟུང་སྟེ། ཡུལ་དབང་རྣམ་ཤེས་གསུམ་འདུས་ནས་ཡུལ་གྱི་འགྱུར་བ་སྤྱོད་མི་ནུས་པའི་གནས་སྐབས་ཀྱི་རྣམ་སྨིན་གྱི་ཕུང་པོའི་

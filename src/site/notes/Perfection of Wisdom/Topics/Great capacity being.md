@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/great-capacity-being/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/great-capacity-being/","dg-note-properties":{}}
 ---
 
 སེམས་ཅན་ཐམས་ཅད་འཁོར་བའི་སྡུག་བསྔལ་མཐའ་དག་ལས་བསྒྲལ་བའི་ཕྱིར་དུ་བརྩོན་བཞིན་པའི་གང་ཟག་དེ་སྐྱེས་བུ་ཆེན་པོ་ཡིན།

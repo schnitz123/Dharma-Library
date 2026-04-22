@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/faults-of-the-applications/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/faults-of-the-applications/","dg-note-properties":{}}
 ---
 
 སྦྱོར་བ་སྐྱེ་བ་དང་གནས་པ་དང་རྫོགས་པ་གང་རུང་ལ་བར་དུ་གཅོད་བྱེད་ཀྱི་བདུད་ལས། སྦྱོར་བའི་སྐྱོན་གྱི་མཚན་ཉིད།

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/ultimately-proceed-to-the-peak-of-existence/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/20-sangha/ultimately-proceed-to-the-peak-of-existence/","dg-note-properties":{}}
 ---
 
 གཟུགས་སུ་ཉེར་འགྲོའི་ཕྱིར་མི་འོང་གང་ཞིག །སྲིད་རྩེའི་རྟེན་ལ་མྱང་འདས་མངོན་དུ་བྱེད་པའི་རིགས་ཅན། 

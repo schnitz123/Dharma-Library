@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/object-designated-as-the-property-of-the-negandum/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/object-designated-as-the-property-of-the-negandum/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་དགག་བྱའི་ཆོས་སུ་བཏགས་པའི་དོན་ཡིན་ན། དེ་སྒྲུབ་ཀྱི་དགག་བྱའི་ཆོས་ཡིན་པས་མ་ཁྱབ།

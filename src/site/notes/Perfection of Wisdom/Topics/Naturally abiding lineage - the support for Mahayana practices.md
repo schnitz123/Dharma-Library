@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/naturally-abiding-lineage-the-support-for-mahayana-practices/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/naturally-abiding-lineage-the-support-for-mahayana-practices/","dg-note-properties":{}}
 ---
 
 **Tenets:**

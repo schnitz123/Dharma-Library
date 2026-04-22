@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/calm-abiding/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/calm-abiding/","dg-note-properties":{}}
 ---
 
 སེམས་གནས་པའི་ཐབས་དགུ་ལ་བརྟེན་ནས་སེམས་རང་གི་དམིགས་པ་ལ་ཇི་ལྟར་འདོད་འདོད་དུ་མཉམ་པར་འཇོག་ནུས་པའི་ཤིན་སྦྱངས་ཀྱིས་ཟིན་པའི་ཏིང་ངེ་འཛིན་ནི། 

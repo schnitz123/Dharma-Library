@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs-of-irreversibility-on-the-path-of-meditation/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/signs-of-irreversibility-on-the-path-of-meditation/","dg-note-properties":{}}
 ---
 
 རང་གང་ལ་ལྡན་པའི་བྱང་སེམས་སྒོམ་ལམ་པ་བླ་མེད་རྫོགས་བྱང་ལས་ཕྱིར་མི་ལྡོག་པར་ཡིད་ཆེས་པར་བྱེད་པའི་སྒྲུབ་བྱེད་རྣམ་དག་དེ། 

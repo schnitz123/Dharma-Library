@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/division-by-way-of-the-opponent/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/division-by-way-of-the-opponent/","dg-note-properties":{}}
 ---
 
 རྟགས་ཡང་དག་ལ་རྒོལ་བའི་སྒོ་ནས་དབྱེ་ན།

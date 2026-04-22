@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/madhyamaka/compassion-observing-phenomena/"}
+{"dg-publish":true,"permalink":"/madhyamaka/compassion-observing-phenomena/","dg-note-properties":{}}
 ---
 
 སེམས་ཅན་མི་རྟག་པར་ཚད་མས་གྲུབ་ཟིན་པའི་གང་ཟག་གི་རྒྱུད་ཀྱི་སྙིང་རྗེ་གང་ཞིག 

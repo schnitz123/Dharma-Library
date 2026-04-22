@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/preliminaries/tarig/reverse-pervasion/"}
+{"dg-publish":true,"permalink":"/preliminaries/tarig/reverse-pervasion/","dg-note-properties":{}}
 ---
 
 དེ་སྒྲུབ་ཀྱི་དངོས་ཀྱི་བསྒྲུབ་བྱའི་ཆོས་ཀྱི་དོན་ལྡོག་དང་འབྲེལ་སྟོབས་ཀྱིས་དེ་སྒྲུབ་ཀྱི་མི་མཐུན་ཕྱོགས་ལ་འགོད་ཚུལ་དང་མཐུན་པར་མེད་པ་ཉིད་དུ་ཚད་མས་ངེས་པ་དེ། 

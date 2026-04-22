@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/concentrations/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/concentrations/","dg-note-properties":{}}
 ---
 
 [[Perfection of Wisdom/Concentrations/Preparations\|Preparations]] ཉེར་བསྡོགས།

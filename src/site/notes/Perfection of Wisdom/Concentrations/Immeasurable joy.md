@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/immeasurable-joy/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/concentrations/immeasurable-joy/","dg-note-properties":{}}
 ---
 
 ཚད་མེད་གང་ཞིག །སེམས་ཅན་རྣམས་བདེ་བ་དང་མི་འབྲལ་བར་འདོད་པས་རབ་ཏུ་ཕྱེ་བའི་རིགས་སུ་གནས་པ། དགའ་བ་ཚད་མེད་ཀྱི་མཚན་ཉིད།

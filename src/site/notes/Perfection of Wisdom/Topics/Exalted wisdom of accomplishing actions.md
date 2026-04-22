@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-accomplishing-actions/"}
+{"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/exalted-wisdom-of-accomplishing-actions/","dg-note-properties":{}}
 ---
 
 བྱ་བ་སྒྲུབ་པའི་ཡེ་ཤེས་ཆོས་ཅན། ཁྱོད་ལ་བྱ་བ་སྒྲུབ་པ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། འཇིག་རྟེན་གྱི་ཁམས་རྣམས་ཀུན་ཏུ་སྣ་ཚོགས་ཞིང་གྲངས་དཔག་ཏུ་མེད་པ་
