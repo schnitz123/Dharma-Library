@@ -27,7 +27,7 @@
   རྒྱུད་འདིའི་ལམ་གྱིས་སངས་རྒྱས་པའི་ལམ་རྣམས།
 
 
-![Lower Tantras salam.png](/img/user/Tantra/Lower%20Tantras%20salam.png)
+<img src="https://dharmalibrary.uk/pdf/Lower%20Tantras%20salam.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 
 ---

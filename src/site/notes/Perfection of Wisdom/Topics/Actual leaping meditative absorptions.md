@@ -20,7 +20,7 @@
 This is because from the eighth ground onwards there is no purpose in leaping meditative absorptions; because having perfected one's skill in concentrations, one enters absorption into all desires; because bodhisattvas who definitely emerge through one countless eon and Tathagatas do not enter absorption into that; because they enter absorption into bliss.
 
 ---
-![Pasted image 20240911203957.png](/img/user/Perfection%20of%20Wisdom/Topics/Pasted%20image%2020240911203957.png)
+<img src="https://dharmalibrary.uk/pdf/leapingabsorptions.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 ---
 **Abodes for leaping** ཐོད་རྒལ་གྱི་གནས།

@@ -23,7 +23,7 @@
 3. [[Tantra/Persons who have attained some mastery over exalted wisdom\|Persons who have attained some mastery over exalted wisdom]] ཡེ་ཤེས་ལ་ཅུང་ཟད་དབང་ཐོབ་པའི་གང་ཟག
 4. [[Tantra/Persons who have attained complete mastery over exalted wisdom\|Persons who have attained complete mastery over exalted wisdom]] ཡེ་ཤེས་ལ་ཡང་དག་པར་དབང་ཐོབ་པའི་གང་ཟག
 
-![four persons.png](/img/user/Tantra/four%20persons.png)
+<img src="https://dharmalibrary.uk/pdf/four%20persons.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 ---
 13

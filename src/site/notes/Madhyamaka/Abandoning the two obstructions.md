@@ -4,11 +4,11 @@
 
 **According to Jetsunpa:**
 
-![obj of ab (jets).png](/img/user/Madhyamaka/obj%20of%20ab%20(jets).png)
+<img src="https://dharmalibrary.uk/pdf/obj%20of%20ab%20(jets).png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
+
 
 **According to others (Panchen, Ngawang Palden, etc.):**
-
-![obj of ab (others).png](/img/user/Madhyamaka/obj%20of%20ab%20(others).png)
+<img src="https://dharmalibrary.uk/pdf/obj%20of%20ab%20(others).png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 ---
 *Panchen GM:*

@@ -26,7 +26,7 @@ Together with the response to objections.
 4. Extensive explanation of the branches (exegesis) ཚིག་དོན་ཡན་ལག་རྒྱས་བཤད།
 
 ---
-![sections of explanation.png](/img/user/Perfection%20of%20Wisdom/Topics/sections%20of%20explanation.png)
+<img src="https://dharmalibrary.uk/pdf/sections%20of%20explanation.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 ---
 Up a level: [[Perfection of Wisdom/Perfection of Wisdom\|Perfection of Wisdom]]

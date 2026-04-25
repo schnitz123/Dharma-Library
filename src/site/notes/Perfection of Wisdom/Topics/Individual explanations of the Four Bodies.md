@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/individual-explanations-of-the-four-bodies/","dg-note-properties":{}}
 ---
 
-1. [[Perfection of Wisdom/Topics/Nature body\|Nature body]] ངོ་བོ་ཉིད་སྐུ།
-2. [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]] ཡེ་ཤེས་ཆོས་སྐུ།
-3. [[Perfection of Wisdom/Topics/Complete enjoyment body\|Complete enjoyment body]] ལོངས་སྤྱོད་རྫོགས་སྐུ།
+1. [[Perfection of Wisdom/Topics/Nature body\|Nature body]] ངོ་བོ་ཉིད་སྐུ། svabhāvakāya / svabhāvikakāya
+2. [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]] ཡེ་ཤེས་ཆོས་སྐུ། jñāna-dharmakāya
+3. [[Perfection of Wisdom/Topics/Complete enjoyment body\|Complete enjoyment body]] ལོངས་སྤྱོད་རྫོགས་སྐུ། sambhogakāya
 	- [[Perfection of Wisdom/Topics/Individual explanations of the Marks and Signs\|Individual explanations of the Marks and Signs]]
-4. [[Perfection of Wisdom/Topics/Emanation body\|Emanation body]] སྤྲུལ་སྐུ།
+4. [[Perfection of Wisdom/Topics/Emanation body\|Emanation body]] སྤྲུལ་སྐུ། nirmāṇakāya
 	- [[Perfection of Wisdom/Topics/Twelve Deeds\|Twelve Deeds]]
 
 

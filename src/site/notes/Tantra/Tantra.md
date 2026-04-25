@@ -13,6 +13,6 @@
 
 
 ---
-[[Tantra/The eight dissolutions\|The eight dissolutions]] ཐིམ་རིམ།
+[[Tantra/The eight dissolutions (YGL)\|The eight dissolutions (YGL)]] ཐིམ་རིམ།
 
 [[Tantra/Yamantaka/Generation and Completion Stages of Yamantaka (Lhundrub Pandita)\|Generation and Completion Stages of Yamantaka (Lhundrub Pandita)]] ལྷུན་གྲུབ་པཎྜིི་ཏའིི་འཇིིགས་བྱེེད་བསྐྱེེད་རྫོོགས།

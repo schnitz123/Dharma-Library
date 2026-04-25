@@ -34,10 +34,10 @@ Sanskrit equivalent: Kaya refers to accumulation or collection.
 	5. Unripened Emanation Body རྣམ་པར་སྨིན་པ་མ་ཡིན་པའི་སྤྲུལ་སྐུ།
 
 **Division into four:**
-1. [[Perfection of Wisdom/Topics/Nature body\|Nature Body]] ངོ་བོ་ཉིད་སྐུ།
-2. [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]] ཡེ་ཤེས་ཆོས་སྐུ།
-3. [[Perfection of Wisdom/Topics/Complete enjoyment body\|Complete enjoyment body]] ལོངས་སྐུ།
-4. [[Perfection of Wisdom/Topics/Emanation body\|Emanation Body]] སྤྲུལ་སྐུ།
+1. [[Perfection of Wisdom/Topics/Nature body\|Nature Body]] ངོ་བོ་ཉིད་སྐུ། svabhāvakāya / svabhāvikakāya
+2. [[Perfection of Wisdom/Topics/Exalted wisdom Dharmakaya\|Exalted wisdom Dharmakaya]] ཡེ་ཤེས་ཆོས་སྐུ། jñāna-dharmakāya
+3. [[Perfection of Wisdom/Topics/Complete enjoyment body\|Complete enjoyment body]] ལོངས་སྐུ། sambhogakāya
+4. [[Perfection of Wisdom/Topics/Emanation body\|Emanation Body]] སྤྲུལ་སྐུ། nirmāṇakāya
 
 ---
 See also: [[Perfection of Wisdom/Topics/Resultant Dharmakaya (4-Bodies GM)\|Resultant Dharmakaya (4-Bodies GM)]]

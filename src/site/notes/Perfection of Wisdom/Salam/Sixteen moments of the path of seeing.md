@@ -90,7 +90,7 @@ Realising emptiness and implicitly realising the awareness realising emptiness d
 **Simultaneous arising:** One uninterrupted path and one liberated path. One entity different isolates.
 **Serial arising:** Sixteen moments.
 
-![Sixteen moments of path of seeing.png](/img/user/Perfection%20of%20Wisdom/Salam/Sixteen%20moments%20of%20path%20of%20seeing.png)
+<img src="https://dharmalibrary.uk/pdf/Sixteen%20moments%20of%20path%20of%20seeing.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 ---
 Up a level: [[Perfection of Wisdom/Salam/Path of seeing\|Path of seeing]]
