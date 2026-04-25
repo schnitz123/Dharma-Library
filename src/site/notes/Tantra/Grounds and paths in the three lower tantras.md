@@ -25,8 +25,8 @@
 **Path of No More Learning** མི་སློབ་ལམ།
 - The paths having attained Buddhahood through the path of this tantra.
   རྒྱུད་འདིའི་ལམ་གྱིས་སངས་རྒྱས་པའི་ལམ་རྣམས།
-
-
+<br><br>
+---
 <img src="https://dharmalibrary.uk/pdf/Lower%20Tantras%20salam.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 

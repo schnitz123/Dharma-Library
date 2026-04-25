@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tantra/the-four-empowerments/","dg-note-properties":{}}
 ---
 
-<img src="https://dharmalibrary.uk/pdf/empowerments%20chart.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
+<img src="https://dharmalibrary.uk/pdf/Empowerments%20Chart.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 **The Five Knowledge Empowerments:** རིག་པའི་དབང་ལྔ་།
 1. Water: to extinguish the fire of anger ཞེ་སྡང་མེ་གསོད་ཆུ་ཡི་དབང་།
