@@ -19,7 +19,7 @@ All three compassions exist from before entering the path (upon realising subtle
 The latter two compassions exist from before entering the path and up to Buddha-ground.
 
 ---
-
+<br>
 <img src="https://dharmalibrary.uk/pdf/compboundaries.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
 
 ---

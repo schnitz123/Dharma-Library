@@ -11,7 +11,7 @@
 4. Focusing on the **sound-basis** སྒྲའི་གཞི་ལ་གཞོལ་བ།
    Placing the letters of the mantra upon the moon-disc
 
-Together with [[Tantra/Vitality exertion\|Vitality exertion]]
+Together with [[Tantra/Vitality exertion (Three Lower Tantras)\|vitality exertion]].
 
 ---
 Up a level: [[Tantra/Action Tantra#^6234c5\|Action Tantra]]

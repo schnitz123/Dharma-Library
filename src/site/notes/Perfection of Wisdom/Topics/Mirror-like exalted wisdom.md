@@ -21,7 +21,8 @@ That subject, it is similar to a great source of exalted wisdom because it is th
 དེ་ཆོས་ཅན། ལོངས་སྤྱོད་རྫོགས་པའི་སངས་རྒྱས་ཉིད་ཅེས་གདགས་སུ་རུང་སྟེ། དེའི་གདགས་གཞི་མཐར་ཐུག་ཡིན་པའི་ཕྱིར། 
 That subject, it is suitable to be designated as Buddhahood of complete enjoyment because it is its final basis of designation.
 
-དེ་ཆོས་ཅན། མེ་ལོང་ལྟ་བུ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཡེ་ཤེས་གཞན་གསུམ་གྱི་གཟུགས་བརྙན་འབྱུང་བའི་རྟེན་དུ་གྱུར་པའི་མཐར་ཐུག་པའི་མཁྱེན་པ་ཡིན་པའི་ཕྱིར།
+དེ་ཆོས་ཅན། མེ་ལོང་ལྟ་བུ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། 
+ཡེ་ཤེས་གཞན་གསུམ་གྱི་གཟུགས་བརྙན་འབྱུང་བའི་རྟེན་དུ་གྱུར་པའི་མཐར་ཐུག་པའི་མཁྱེན་པ་ཡིན་པའི་ཕྱིར།
 That subject, there is a reason for calling it Mirror-like: Due to being a final exalted knower that is the support for the reflections of the other three exalted wisdoms.
 
 

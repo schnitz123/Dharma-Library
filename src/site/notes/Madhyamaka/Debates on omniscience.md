@@ -37,7 +37,7 @@ because [Jñānagarbha’s Two Truths] says "A single moment of the exalted know
 *Someone says:* The omniscience realising the modes does not realise varieties.
 
 རྟོགས་པར་ཐལ། དེས་སེམས་བསྐྱེད་སོགས་ཆོས་བཅུ་མངོན་སུམ་དུ་རྟོགས་པའི་ཕྱིར་ཏེ། རྣམ་མཁྱེན་ཡིན་པའི་ཕྱིར།
-*Response:* It follows that it does realise those because it directly realises the [[Perfection of Wisdom/70 Topics/70 Topics#^ea0876\|ten dharmas]] of mind generation and so forth; because it is an Exalted Wisdom of All Aspects [i.e. omniscience].
+*Response:* It follows that it does realise those because it directly realises the [[Perfection of Wisdom/70 Topics/70 Topics#^ea0876\|ten dharmas]] of mind generation and so forth; because it is an exalted knower of all aspects [i.e. omniscience].
 
 ཁོ་ན་རེ། དེ་ཆོས་ཅན། གཉིས་སྣང་དང་བཅས་པའི་བློ་ཡིན་པར་ཐལ། ཇི་སྙེད་པ་ལ་གཉིས་སྣང་དང་བཅས་པའི་བློ་ཡིན་པའི་ཕྱིར།
 འདོད་ན། གཉིས་སྣང་ནུབ་པའི་བློ་ཡིན་པར་ཐལ། ཇི་ལྟ་བ་ལ་གཉིས་སྣང་ནུབ་པའི་བློ་ཡིན་པའི་ཕྱིར་ན།

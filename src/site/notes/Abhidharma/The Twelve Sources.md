@@ -2,10 +2,14 @@
 {"dg-publish":true,"permalink":"/abhidharma/the-twelve-sources/","dg-note-properties":{}}
 ---
 
-**The six faculties:** eye- ear- nose- tongue- body- mental-
-**The six objects:** forms sounds smells tastes tangibility phenomenon-sources
+- [[Abhidharma/The six faculties\|The six faculties]]:
+	- [[Abhidharma/The five faculties\|The five physical faculties]] དབང་པོ་གཟུགས་ཅན་ལྔ།
+	- Mental faculty (ཡིད་དབང་།) = [[Abhidharma/Mental-source\|Mental-source]] (ཡིད་ཀྱི་སྐྱེ་མཆེད།)
+- [[Abhidharma/The six objects\|The six objects]]:
+	- [[Abhidharma/The five objects\|The five objects]] of form and so forth གཟུགས་སོགས་དོན་ལྔ་པོ།
+	- [[Abhidharma/Phenomenon-source\|Phenomenon-source]] (ཆོས་ཀྱི་སྐྱེ་མཆེད།)
 
-Alternatively:
+**Alternatively:**
 - **Ten:** Physical-sources (གཟུགས་ཅན་གྱི་སྐྱེ་མཆེད་བཅུ།) = Physical constituents (གཟུགས་ཅན་གྱི་ཁམས་བཅུ།)
 	- [[Abhidharma/The five faculties\|The five physical faculties]] དབང་པོ་གཟུགས་ཅན་ལྔ།
 	- [[Abhidharma/The five objects\|The five objects]] of form and so forth གཟུགས་སོགས་དོན་ལྔ་པོ།

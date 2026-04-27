@@ -23,7 +23,7 @@ This and tangible-object that is a subdivision of the five objects are mutually 
 	6. Hunger བཀྲེས་པའི་རེག་བྱ།
 	7. Thirst སྐོམ་པའི་རེག་བྱ།
 
-[[Abhidharma/The four great elements\|The four great elements]] འབྱུང་བ་ཆེན་པོ་བཞི།
+[[Abhidharma/The four elements\|The four elements]] འབྱུང་བ་ཆེན་པོ་བཞི།
 
 ---
 See: [[Preliminaries/Collected Topics/Tangible-source\|Tangible-source]] (Collected Topics)

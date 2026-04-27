@@ -11,7 +11,7 @@
 
 **Extensively divided, there are:**
 
-<img src="https://dharmalibrary.uk/pdf/Hin%20Grounds.png" style="width: 100%; height: auto; display: block;" data-eleventy-ignore>
+<img src="https://dharmalibrary.uk/pdf/Hin%20Grounds.png" style="width: 500px; height: auto; display: block;" data-eleventy-ignore>
 
 ---
 Up a level: [[Perfection of Wisdom/Salam/Presentation of grounds\|Presentation of grounds]]
