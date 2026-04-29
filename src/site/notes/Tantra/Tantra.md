@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tantra/tantra/","dg-note-properties":{}}
 ---
 
-**The four classes of secret mantra:** གསང་ཆེན་རྒྱུད་སྡེ་བཞི་ལ།
+**The four classes of secret mantra (Ngawang Pelden):** གསང་ཆེན་རྒྱུད་སྡེ་བཞི་ལ།
 1. [[Tantra/Action Tantra\|Action Tantra]] བྱ་རྒྱུད།
 2. [[Tantra/Performance Tantra\|Performance Tantra]] སྤྱོད་རྒྱུད།
 3. [[Tantra/Yoga Tantra\|Yoga Tantra]] རྣལ་འབྱོར་རྒྱུད།<br>
@@ -14,12 +14,17 @@
 	- [[Tantra/Generation Stage\|Generation Stage]]
 	- [[Tantra/Completion Stage\|Completion Stage]]
 
+---
 **Taking the three bodies into the path (YGL)**
 { #f96d10}
 
 - [[Tantra/Intro to death process\|Intro to death process]]
 - [[Tantra/The eight dissolutions\|The eight dissolutions]] ཐིམ་རིམ།
 - [[Tantra/Intermediate state\|Intermediate state]]
+- [[Tantra/Taking birth\|Taking birth]]
+	- [[Tantra/Development in the womb\|Development in the womb]]
+	- [[Tantra/Formation of channels, winds, and drops\|Formation of channels, winds, and drops]] རྩ་རླུང་ཐིག་ལེ་ཆགས་ཚུལ།
+- [[Tantra/Generation and Completion stage taking the three bodies\|Generation and Completion stage taking the three bodies]]
 
 
 ---

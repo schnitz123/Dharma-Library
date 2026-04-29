@@ -40,7 +40,7 @@ Finally, at the time of death, all the winds in the 72,000 channels gather in th
 
 རྩ་དབུ་མའི་སྟོད་སྨད་ཀྱི་རླུང་རྣམས་ཀྱང་མཐར་སྙིང་གའི་རྩ་འདབ་ཀྱི་དྷཱུ་ཏཱིའི་ནང་གི་ཁམས་དཀར་དམར་གའུ་ཁ་སྦྱར་གྱི་ཚུལ་དུ་ཡོད་པའི་དབུས་ན་
 ཤིན་ཏུ་ཕྲ་བའི་རླུང་སེམས་ངོ་བོ་གཅིག་པའི་ཆ་ཤས་སྲོག་འཛིན་གྱི་རླུང་མི་ཤིགས་པ་ལ་ཐིམ་པ་་་།
-Then, all the winds in the upper and lower parts of the central channel dissolve into the indestructible life-bearing wind, which is a part of the one-entity very subtle wind and mind and reside inside the closed sphere of the white and red constituents at the centre of the heart chakra in the central channel.
+Then, all the winds in the upper and lower parts of the central channel dissolve into the indestructible life-bearing wind, which is a part of the one-entity very subtle wind and mind and reside inside the closed sphere of the white and red constituents at the centre of the heart's channel-petals in the central channel.
 
 ་་་འི་སྒོ་ནས་འཆི་དགོས་ཏེ། 
 ལུས་ཀྱི་ཆ་ཤས་གང་ཡང་རུང་བ་ཞིག་ན་ཤིན་ཏུ་ཕྲ་བའི་རླུང་མ་གཏོགས་པའི་རྣམ་ཤེས་ཀྱི་རྟེན་བྱེད་པའི་རླུང་ཅུང་ཟད་ཅིག་གནས་ན་འཆི་བ་མི་སྲིད་པས་སོ།

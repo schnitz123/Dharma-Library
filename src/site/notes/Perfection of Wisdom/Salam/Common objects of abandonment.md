@@ -13,7 +13,7 @@
    i.e. afflictive obscurations
 2. Obscurations of obstruction ཐོགས་པའི་སྒྲིབ་པ།
    i.e. knowledge obscurations
-3. Obscurations of the lower དམན་པའི་སྒྲིབ་པ།
+3. Obscurations of the lower དམན་པའི་སྒྲིབ་པ། དམན་སྒྲིབ།
 
 གསུམ་པ་ནི། དམན་པའི་ཞི་བདེས་ཐུགས་ཕྲོགས་ནས་ཐེག་ཆེན་སེམས་བསྐྱེད་ལ་བར་དུ་གཅོད་པའི་སྒྲིབ་པ་ལྟ་བུ།
 The third are obscurations that are an obstacle to Mahayana mind generation through the mind being captivated by the peace of the Hinayana, for example.

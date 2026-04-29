@@ -294,9 +294,7 @@ Is the Clear Light of death in general a fully qualified Clear Light?
 1. Objective Clear Light - subtle emptiness སྟོང་ཉིད་ཕྲ་མོ་ཡུལ་གྱི་འོད་གསལ་དང༌།
 2. Subjective Clear Light - the exalted wisdom realising that དེ་རྟོགས་པའི་ཡེ་ཤེས་ཡུལ་ཅན་གྱི་འོད་གསལ་དུ་འཇོག་གོ །
 
-འཆི་བའི་རིམ་པ་འདི་རྣམས་སྔགས་བླ་མེད་ཀྱི་བསྐྱེད་རྫོགས་གཉིས་ཀྱི་འཆི་བ་ཆོས་སྐུར་འཁྱེར་བའི་ལམ་འཁྱེར་དང༌། 
-དཔེ་དང་དོན་གྱི་འོད་གསལ་རྣམས་ཀྱི་སྦྱང་གཞིའི་གཙོ་བོ་ཡིན་པས་འདི་རྣམས་ལ་གོ་བ་ལེགས་པར་ཆགས་པ་ཤིན་ཏུ་གལ་ཆེའོ།
-These stages of death are the main bases for training in terms of Highest Yoga Tantra's Generation and Completion stage practices of taking into the path in terms of taking death as the Dharmakaya and of the Example and Meaning Clear Lights. Therefore, it is very important to develop a proper understanding of these.
+
 
 ---
 Up a level: [[Tantra/Tantra#^f96d10\|Tantra]]
