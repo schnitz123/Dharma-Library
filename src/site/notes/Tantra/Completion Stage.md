@@ -11,12 +11,14 @@ Although a path arising through the winds entering, abiding, and dissolving into
 
 ---
 **Divisions:**
-1. Body isolation 
-2. Speech isolation 
-3. Mind isolation 
-4. Illusory body 
-5. Clear light 
-6. Union
+{ #87ee24}
+
+1. [[Tantra/Body isolation\|Body isolation]] ལུས་དབེན།
+2. [[Tantra/Speech isolation\|Speech isolation]] ངག་དབེན།
+3. [[Tantra/Mind isolation\|Mind isolation]] སེམས་དབེན།
+4. [[Tantra/Illusory body\|Illusory body]] སྒྱུ་ལུས།
+5. [[Tantra/Clear light\|Clear light]] འོད་གསལ།
+6. [[Tantra/Union\|Union]] ཟུང་འཇུག
 
 [[Tantra/Summary of the Six Stages\|Summary of the Six Stages]]
 

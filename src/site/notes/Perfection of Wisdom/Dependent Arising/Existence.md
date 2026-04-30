@@ -15,5 +15,7 @@ In general, existence and Saṃsāra are mutually inclusive.
 3. Prior-existence སྔོན་དུས་ཀྱི་སྲིད་པ།
 4. Death-existence འཆི་སྲིད།
 
+See: [[Tantra/Intermediate state#^dc20fc\|Four existence]] (3Bodies)
+
 ---
 Up a level: [[Perfection of Wisdom/Dependent Arising/Dependent Arising\|Dependent Arising]]

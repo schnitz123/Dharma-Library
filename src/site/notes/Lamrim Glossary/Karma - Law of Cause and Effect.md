@@ -38,6 +38,8 @@
 	3. Wrong Views ལོག་ལྟ།
 
 **The Five Immediate Actions:** མཚམས་མེད་པའི་ལས་ལྔ་།
+{ #e06011}
+
 1. Killing one’s mother མ་གསོད་པ།
 2. Killing one’s father ཕ་གསོད་པ།
 3. Killing an Arhat དགྲ་བཅོམ་པ་གསོད་པ།

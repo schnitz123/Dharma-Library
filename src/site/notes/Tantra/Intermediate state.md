@@ -85,25 +85,108 @@ Even if the intermediate state being sees their previous physical support, they 
 ལོ་བྱེ་བ་ཕྲག་ཤིན་ཏུ་མང་པོའི་བར་དུ་ཡང་སྐྱེ་བའི་རྐྱེན་མི་འཚོགས་པར་བར་དོར་གནས་པ་ཞིག་ཁས་ལེན་དགོས་པས་ཐལ་ཆེ་བར་འགྱུར་བའི་ཕྱིར་རོ།
 Some say that statements indicating the lifespan of the intermediate state to be seven days are made in terms of the days of the corresponding one of the six types [of migrations]. This is incorrect because in that case the intermediate states of the hells and of the Upper Realm gods would necessarily remain for up to seven days of those migrations and so forth and thereby it would be necessary to assert those who remain in the intermediate state without gathering the conditions for birth for many billions of years. This would be highly absurd.
 
-སྲིད་པ་འཕོ་ཚུལ་གྱི་ཁྱད་པར་ནི། དམྱལ་བར་སྐྱེ་ན་བཤང་ལམ་ནས་འཕོ་ལ། ཡི་དྭགས་སུ་སྐྱེ་ན་ཁ་དང༌། དུད་འགྲོར་སྐྱེ་ན་དྲི ་ཆུའི་ལམ་དང༌། མིར་སྐྱེ་ན་མིག་དང༌། འདོད་ལྷར་སྐྱེ་ན་ལྟེ་བ། གནོད་སྦྱིན་དུ་སྐྱེ་ན་སྣ། གྲུབ་པའི་ལྷ་དང་མིའམ་ཅིར་སྐྱེ་ན་རྣ་བ། གཟུགས་ཁམས་སུ་སྐྱེ་ན་སྨིན་མཚམས་ཀྱི་དབུས། གཟུགས་མེད་དུ་སྐྱེ་ན་སྤྱི་བོ་ནས་འཕོ་བར་རྒྱུད་བརྟག་པ་བརྒྱད་པ་སོགས་ལས་བཤད། འོ་ན། ས་སྡེ་སོགས་སུ་ལུས་འདོར་བ་ན་སྙིང་ག་ནས་རྣམ་ཤེས་འཕོ་བར་བཤད་པ་དང་འགལ་ལོ་ཞེ་ན། མི་འགལ་ཏེ་ལུས་ཀྱི་ནང་དུ་རྣམ་ཤེས་འཕོ་བ་ན་ཐོག་མར་སྙིང་ག་ནས་འཕོ་བ་ཡིན་ཡང༌། དེ་ནས་ལུས་ཀྱི་ཕྱི་རོལ་ཏུ་འཕོ་བ་ན་སྒོ ་སོ་སོ་ནས་འཕོ་བར་བཤད་པ་བཞིན་ཡིན་པའི་ཕྱིར།
+**The way of transferring existence:** སྲིད་པ་འཕོ་ཚུལ་གྱི་ཁྱད་པར་ནི། 
+- If born in the hells, they depart from the anus དམྱལ་བར་སྐྱེ་ན་བཤང་ལམ་ནས་འཕོ་ལ། 
+- If born as a preta, they depart from the mouth ཡི་དྭགས་སུ་སྐྱེ་ན་ཁ་དང༌། 
+- If born as an animal, they depart from the urinary tract དུད་འགྲོར་སྐྱེ་ན་དྲི་ཆུའི་ལམ་དང༌། 
+- If born as a human, they depart from the eyes མིར་སྐྱེ་ན་མིག་དང༌། 
+- If born as a Desire Realm god, they depart from the navel འདོད་ལྷར་སྐྱེ་ན་ལྟེ་བ། 
+- If born as yakṣa, they depart from the nose གནོད་སྦྱིན་དུ་སྐྱེ་ན་སྣ། 
+- If born as an accomplishment deity or a kinnara, they depart from the ear གྲུབ་པའི་ལྷ་དང་མིའམ་ཅིར་སྐྱེ་ན་རྣ་བ། 
+- If born in the Form realm, they depart from between the eyebrows གཟུགས་ཁམས་སུ་སྐྱེ་ན་སྨིན་མཚམས་ཀྱི་དབུས། 
+- If born in the Formless realm, they depart from the crown གཟུགས་མེད་དུ་སྐྱེ་ན་སྤྱི་བོ་ནས་འཕོ་བར་
 
-ཡང་མཛོད་ལས། རིམ་གྱིས་འཆི་ན་རྐང་བ་དང༌། །ལྟེ ་བ་སྙིང་གར་ཡིད་འཆི་འཕོ། །ཞེས་དང༌། འགྲེལ་བར། ངན་སོང་དུ་སྐྱེ་ན་རྐང་བ་དང༌། མིར་སྐྱེ་ན་ལྟེ་བ་དང༌།
-ལྷར་སྐྱེ་བ་དང་དགྲ་བཅོམ་པ་འཆི་ན་སྙིང་གར་རྣམ་ཤེས་འགག་གོ །ཞེས་གསུངས་པ་ཇི་ལྟར་ཡིན་སྙམ་ན། དེ་ནི་གནས་དེ་དག་ཏུ་ཡིད་འགགས་པའི་དོན་དུ་འགྲེལ་པ་ལས་བཤད་པ་ལྟར། རྐང་པ་ལ་སོགས་པའི་གནས་དེ་དག་ཏུ་ལུས་དབང་འགགས་པའི་སྟོབས་ཀྱིས་ཡིད་ཀྱི་རྣམ་ཤེས་འགགས་ཚུལ་སོ་སོ་བ་སྟོན་པ་ཙམ་ཡིན་གྱི།
-གནས་དེ་དག་ནས་རྣམ་ཤེས་ཕྱི་རོལ་ཏུ་འཕོ་བར་སྟོན་པ་མ་ཡིན་པས་སྔར་བཤད་པ་དང་འགལ་བ་མེད་དོ། །མཐོང་ཚུལ་གྱི་ཁྱད་པར་ནི་བར་དོ་རིགས་མཐུན་དང་ལྷའི་མིག་རྣམ་པར་དག་པས་མཐོང་བར་མཛོད་ལས་བཤད། དེ་ལ་ལྷའི་མིག་སྐྱེས་སྟོབས་ཀྱིས་ཐོབ་པ་ནི་མ་དག་པ་དང༌། བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པ་ནི་ལྷའི་མིག་དག་པ་ལ་འཇོག་གོ །བར་དོ་གོང་མ་གོང་མས་འོག་མ་འོག་མ་མཐོང་བའི་ལུགས་ཀྱང་མཛོད་འགྲེལ་ལས་བཤད།
+This is explained in Eighth Section of the Hevajra Tantra and so forth. རྒྱུད་བརྟག་པ་བརྒྱད་པ་སོགས་ལས་བཤད། 
+
+འོ་ན། ས་སྡེ་སོགས་སུ་ལུས་འདོར་བ་ན་སྙིང་ག་ནས་རྣམ་ཤེས་འཕོ་བར་བཤད་པ་དང་འགལ་ལོ་ཞེ་ན། མི་འགལ་ཏེ་ལུས་ཀྱི་ནང་དུ་རྣམ་ཤེས་འཕོ་བ་ན་ཐོག་མར་སྙིང་ག་ནས་འཕོ་བ་ཡིན་ཡང༌། དེ་ནས་ལུས་ཀྱི་ཕྱི་རོལ་ཏུ་འཕོ་བ་ན་སྒོ་སོ་སོ་ནས་འཕོ་བར་བཤད་པ་བཞིན་ཡིན་པའི་ཕྱིར།
+In that case, does this not contradict the explanation in the Yogācārabhūmi and other treatises, which state that when the body is discarded, the consciousness departs from the heart?
+There is no contradiction because although when the consciousness begins departing the body, initially it departs from the heart, it is explained to subsequently depart outside the body through these respective openings.
+
+ཡང་མཛོད་ལས། རིམ་གྱིས་འཆི་ན་རྐང་པ་དང༌། །ལྟེ་བ་སྙིང་གར་ཡིད་འཆི་འཕོ། །ཞེས་དང༌། འགྲེལ་བར། ངན་སོང་དུ་སྐྱེ་ན་རྐང་བ་དང༌། མིར་སྐྱེ་ན་ལྟེ་བ་དང༌།
+ལྷར་སྐྱེ་བ་དང་དགྲ་བཅོམ་པ་འཆི་ན་སྙིང་གར་རྣམ་ཤེས་འགག་གོ །ཞེས་གསུངས་པ་ཇི་ལྟར་ཡིན་སྙམ་ན། 
+Also, how come the Abhidharmakosha says "Respectively, when dying the mind dies and departs at the feet, at the navel, and at the heart." and its commentary says "If born in lower migrations, in the feet; if born as a human, in the navel; if born as a god and when a Foe-Destroyer dies, consciousness ceases at the heart."?
+
+དེ་ནི་གནས་དེ་དག་ཏུ་ཡིད་འགགས་པའི་དོན་དུ་འགྲེལ་པ་ལས་བཤད་པ་ལྟར། 
+རྐང་པ་ལ་སོགས་པའི་གནས་དེ་དག་ཏུ་ལུས་དབང་འགགས་པའི་སྟོབས་ཀྱིས་ཡིད་ཀྱི་རྣམ་ཤེས་འགགས་ཚུལ་སོ་སོ་བ་སྟོན་པ་ཙམ་ཡིན་གྱི།
+གནས་དེ་དག་ནས་རྣམ་ཤེས་ཕྱི་རོལ་ཏུ་འཕོ་བར་སྟོན་པ་མ་ཡིན་པས་སྔར་བཤད་པ་དང་འགལ་བ་མེད་དོ། 
+In accordance with the explanation in the commentary that the meaning is that the mind ceases in those places, it is merely indicating that through the force of the body-faculty ceasing in those places (the feet and so forth) there is a respective ceasing of the mental consciousness there; since it is not indicating that the consciousness departs outwards from those places, there is no contradiction with the previous explanation.
+
+མཐོང་ཚུལ་གྱི་ཁྱད་པར་ནི་བར་དོ་རིགས་མཐུན་དང་ལྷའི་མིག་རྣམ་པར་དག་པས་མཐོང་བར་མཛོད་ལས་བཤད། དེ་ལ་ལྷའི་མིག་སྐྱེས་སྟོབས་ཀྱིས་ཐོབ་པ་ནི་མ་དག་པ་དང༌། བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པ་ནི་ལྷའི་མིག་དག་པ་ལ་འཇོག་གོ །བར་དོ་གོང་མ་གོང་མས་འོག་མ་འོག་མ་མཐོང་བའི་ལུགས་ཀྱང་མཛོད་འགྲེལ་ལས་བཤད།
+**How they are perceived:** The Abhidharmakosha explains that they are perceived by those of similar type to the intermediate state and by those with a pure divine eye. The divine eye attained through birth is posited as impure, whereas that attained through meditation is posited as the pure divine eye. The Abhidharmakosha-bashya also explains how higher intermediate state beings perceive the lower ones.
 
 བོང་ཚོད་ཀྱི་ཁྱད་པར་ནི།
-འཛམ་བུ་གླིང་པའི་མིའི་བར་དོ་བྱིས་པ་ལོ་ལྔའམ་དྲུག་ལོན་པ་ལྟ་བུར་མཛོད་འགྲེལ་དུ་བཤད་ཀྱང་མཐའ་གཅིག་ཏུ་ངེས་པ་ཅན་མ་གསུངས་སོ། །
-རྣམ་པའི་ཁྱད་པར་ནི། ངན་འགྲོའི་བར་དོ་ཕྱར་བ་ནག་པོ་བརྐྱང་བའམ་མཚན་མོ་མུན་ནག་གིས་ཁྱབ་པ་ལྟ་བུ་དང༌། བདེ་འགྲོའི་བར་སྲིད་སྣམ་བུ་དཀར་པོ་བརྐྱང་པའམ་མཚན་མོ་ཟླ་འོད་ཀྱིས་ཁྱབ་པ་ལྟ་བུའི་ཉམས་འབྱུང་བར་སའི་དངོས་གཞིར་གསུངས།
-ཁ་དོག་གི་ཁྱད་པར་ནི།
-དམྱལ་བའི་བར་དོ་སྡོང་དུམ་མེས་ཚིག་པ་ལྟ་བུ་དང༌། ཡི་དྭགས་ཀྱི་བར་དོ་ཆུ་ལྟ་བུ། དུད་འགྲོའི་བར་དོ་དུ་བ་ལྟ་བུ། འདོད་པའི་ལྷ་མིའི་བར་དོ་གསེར་ལྟ་བུ། གཟུགས་ཁམས་པའི་བར་དོ་དཀར་པོ་སོགས་སུ་དགའ་བོ་མངལ་འཇུག་གི་མདོ་ལས་བཤད།
-བྱད་གཟུགས་ཀྱི་ཁྱད་པར་ནི།
-གང་དུ་སྐྱེ་འགྱུར་གྱི་འགྲོ་བ་དེའི་སྔོན་དུས་ཀྱི་སྲིད་པའི་ཤ་ཚུགས་ཅན་ནམ་ལུས་དབྱིབས་ཅན་ཡིན་པར་མཛོད་ལས་གསུངས་ཤིང༌། སྲིད་པ་བཞི་ནི། སྐྱེ་སྲིད་དུ་ཉིང་མཚམས་སྦྱར་བའི་སྐད་ཅིག་དང་པོ་སྐྱེ་སྲིད་དང༌། དེའི་སྐད་ཅིག་གཉིས་པ་ནས་འཆི་སྲིད་མ་གྲུབ་པའི་བར་གྱི་སྲིད་པ་ནི་སྔོན་དུས་ཀྱི་སྲིད་པ་དང༌། འཆི་བའི་སྐད་ཅིག་ཐ་མའམ་འཆི་བ་འོད་གསལ་ཉམས་སུ་མྱོང་བའི་དུས་ཀྱི་སྲིད་པ་ནི་འཆི་སྲིད་དང༌། འཆི་སྲིད་དང་སྐྱེ་སྲིད་གཉིས་ཀྱི་བར་དུ་བྱུང་བའི་སྲིད་པ་ནི་བར་སྲིད་དོ། །སྔོན་དུས་ཀྱི་སྲིད་པ་ཞེས་པའི་ཚིག་ཙམ་ལ་འཁྲུལ་ནས་བར་དོ་བ་དེ་སྐྱེ་བ་སྔ་མའི་ལུས་ཀྱི་རྣམ་པ་ཅན་དུ་འདོད་པ་དང༌། ཡང་ཕྱི་མའི་ལུས་ཀྱི་དབྱིབས་ཅན་དུ་བཤད་པ་མཐོང་ནས་ཞག་ཕྱེད་དང་བཞི་སྐྱེ་བ་སྔ་མ་དང༌། ཕྱེད་དང་བཞི་སྐྱེ་བ་ཕྱི་མའི་ལུས་ཀྱི་རྣམ་པ་ཅན་དུ་འདོད་པ་ནི་ཁུངས་རྣམ་དག་གང་ཡང་མེད་པའི་སྒྲོ་བཏགས་ཁོ་ནར་ལམ་རིམ་ཆེན་མོར་གསུང༌། དེས་ན་སྔོན་དུས་ཀྱི་སྲིད་པ་ཞེས་པའི་སྔོན་ནི་ཚེ་ཕྱི་མའི་འཆི་སྲིད་ལ་ལྟོས་པའི་སྔོན་ཡིན་གྱི་བར་དོ་ལ་ལྟོས་པའི་སྔོན་དུ་འཇོག་པ་མ་ཡིན་ནོ། །མཛོད་ལས་ཀྱང༌། སྔོན་དུས་སྲིད་འབྱུང་ཤ་ཚུགས་ཅན། །ཞེས་པའི་འབྱུང་ཞེས་པ་ནི་མ་འོངས་པའི་ཚིག་ཡིན་གྱི་འདས་ཚིག་མ་ཡིན་པའི་ཕྱིར་རོ། །
+འཛམ་བུ་གླིང་པའི་མིའི་བར་དོ་བྱིས་པ་ལོ་ལྔའམ་དྲུག་ལོན་པ་ལྟ་བུར་མཛོད་འགྲེལ་དུ་བཤད་ཀྱང་མཐའ་གཅིག་ཏུ་ངེས་པ་ཅན་མ་གསུངས་སོ།
+**Size:** Although the Abhidharmakosha-bashya explains that the intermediate state being of a Jambudvipa-human is about the size of a five or six year old child, it does not state it with absolute certainty.
 
-ཡང་གང་དུ་སྐྱེ་འགྱུར་གྱི་སེམས་ཅན་དེའི་རྣམ་པ་ཅན་དུ་བཤད་པ་ལ། འགའ་ཞིག་གིས་དེ་ལྟར་ན་དབང་པོ་མ་ཚང་བའི་འགྲོ་བ་དེའི་བར་དོ་བ་ཡང་དབང་པོ་མ་ཚང་བར་སྨྲ་བ་ནི་ཆེར་མི་འཐད་དེ། སྐྱེ་གནས་སུ་སྐྱེ་བའི་འོག་ཏུ་མིག་སོགས་མ་ཚང་དབང་བོ་བར་འབྱུང་གི་བར་དོ་ལ་དབང་པོ་མ་ཚང་བ་གང་ནས་ཀྱང་མ་བཤད་པའི་ཕྱིར་དང༌། རང་ཉིད་གང་དུ་སྐྱེ་འགྱུར་གྱི་འགྲོ་བའི་རྣམ་པ་ཅན་དུ་བཤད་པ་ཙམ་གྱིས་ཆ་ཀུན་ནས་འདྲ་བ་དགོས་ན་ཧ་ཅང་ཐལ་ཆེ་བར་འགྱུར་རོ། །
-བར་དོའི་འགྲོ་ཚུལ་གྱི་ཁྱད་པར་ནི།
-ལྷའི་བར་དོ་གྱེན་དང༌། མིའི་བར་དོ་ཐད་ཀ་དང༌། ངན་འགྲོའི་བར་དོ་སྤྱི་བོ་ཐུར་དུ་ཚུགས་ནས་འགྲོ་བར་ས་ཡི་དངོས་གཞིར་ལས་གསུང༌། དེ་ཡང་འདོད་གཟུགས་གཉིས་སུ་སྐྱེ་པ་ལ་བར་དོ་བརྒྱུད་དགོས་པས་ཡར་གྱི་མཚམས་མེད་ཀྱི་ལས་དང་མར་གྱི་མཚམས་མེད་གཉིས་ལ་བར་དོ་མེད་པར་འདོད་པ་མི་འཐད་པར་ལམ་རིམ་ཆེན་མོར་གསུང་ལ། གཟུགས་མེད་དུ་སྐྱེ་བ་ལ་བར་དོ་མེད་དེ་གང་དུ་ཤི་འཕོས་པའི་གནས་དེ་ཉིད་དུ་གཟུགས་མེད་ཀྱི་མིང་གཞིའི་ཕུང་པོ་འགྲུབ་བོ། དེ་ནས་གཟུགས་མེད་ཁམས་སུ་སྐྱེ་འགྱུར་གྱི་གང་ཟག་དེས་འཆི་བ་འོད་གསལ་གྱི་ངང་ནས་གཟུགས་མེད་ཀྱི་ཏིང་ངེ་འཛིན་མངོན་དུ་བྱེད་ཀྱི་འཆི་བ་འོད་གསལ་ལས་ལུགས་ལྡོག་ཏུ་ལངས་པའི་ཉེར་ཐོབ་ཀྱི་སེམས་མི་འཆར་ཏེ། དེ་འདྲའི་ཉེར་ཐོབ་ཀྱི་སེམས་ནི་བར་དོའི་སེམས་ཡིན་པའི་ཕྱིར་རོ། །
-གཟུགས་མེད་ལ་འདོད་གཟུགས་གཉིས་ལས་གཞན་དུ་གནས་ལོགས་པ་མེད་དོ། །བར་དོ་ཁྱད་པར་བ་སྐྱེ་བ་གཅིག་གིས་ཐོགས་པའི་བྱང་སེམས་དགའ་ལྡན་ནས་འཕོས་ནས་ཡུམ་གྱི་ལྷུམས་སུ་ཞུ་འཇུག་པའི་བར་དོ་ནི། གཞོན་ནུ་མཚན་དཔེས་བརྒྱན་པ། འོད་ཀྱིས་གླིང་བཞི་བྱེ་བ་ཕྲག་བརྒྱ་གསལ་བར་བྱེད་པར་མཛོད་འགྲེལ་དང་རྣམ་བཞག་རིམ་པར་གསུང་ལ། འོ་ན་བཙུན་པ་ཆོས་ལྡན་རབ་འབྱོར་གྱིས། གླང་པོ་ཆེ་དཀར་པོ་མཆེ་བ་དྲུག་ལྡན་གྱི་རྣམ་པས་ལྷུམས་སུ་ཞུགས་པ་དང་འགལ་ལོ་ཞེ་ན། དེའི་བཤད་པ་ལྟར་ཁས་ལེན་དགོས་པའང་མིན་ལ། འོན་ཀྱང་དེའི་ཡུམ་གྱི་རྨི་ལམ་དང་མཐུན་པར་བསྟན་པ་ཙམ་ཡིན་གྱི། མིར་སྐྱེ་འགྱུར་གྱི་བར་དོ་དུད་འགྲོའི་རྣམ་པ་ཅན་འདོད་ན་བསྟན་བཅོས་ཚད་ལྡན་མང་པོ་དང་འགལ་བའི་ཕྱིར།
-དེ་ནི་ཐེག་དམན་གྱི་ལུགས་ལ་སྒྲ་ཇི་བཞིན་པ་དང༌། ཐེག་ཆེན་གྱི་ལུགས་ལ་ཚུལ་བསྟན་ཙམ་དུ་ཁས་ལེན་ནོ། །
+**Aspect:** The Actuality of the Grounds indicates that: རྣམ་པའི་ཁྱད་པར་ནི། 
+- Intermediate state beings of the lower realm experience a spread out black flag or pervasive nighttime darkness ངན་འགྲོའི་བར་དོ་ཕྱར་བ་ནག་པོ་བརྐྱང་བའམ་མཚན་མོ་མུན་ནག་གིས་ཁྱབ་པ་ལྟ་བུ་དང༌། 
+- Intermediate state beings of the higher realms experience a spread out white cloth or pervasive nighttime moonlight བདེ་འགྲོའི་བར་སྲིད་སྣམ་བུ་དཀར་པོ་བརྐྱང་པའམ་མཚན་མོ་ཟླ་འོད་ཀྱིས་ཁྱབ་པ་ལྟ་བུའི་ཉམས་འབྱུང་བར་སའི་དངོས་གཞིར་གསུངས།
+
+**Colour:** The Nandagarbhāvakrānti-sūtra (Sūtra on Nanda Entering the Womb) explains: ཁ་དོག་གི་ཁྱད་པར་ནི།
+- The intermediate state of the hells is like a log burnt by fire དམྱལ་བའི་བར་དོ་སྡོང་དུམ་མེས་ཚིག་པ་ལྟ་བུ་དང༌། 
+- The intermediate state of the pretas is like water ཡི་དྭགས་ཀྱི་བར་དོ་ཆུ་ལྟ་བུ། 
+- The intermediate state of the animals is like smoke དུད་འགྲོའི་བར་དོ་དུ་བ་ལྟ་བུ། 
+- The intermediate state of the Desire Realm gods and humans is like gold འདོད་པའི་ལྷ་མིའི་བར་དོ་གསེར་ལྟ་བུ། 
+- The intermediate state of the Form Realm beings is white, and so forth.
+  གཟུགས་ཁམས་པའི་བར་དོ་དཀར་པོ་སོགས་སུ་དགའ་བོ་མངལ་འཇུག་གི་མདོ་ལས་བཤད།
+
+བྱད་གཟུགས་ཀྱི་ཁྱད་པར་ནི། གང་དུ་སྐྱེ་འགྱུར་གྱི་འགྲོ་བ་དེའི་སྔོན་དུས་ཀྱི་སྲིད་པའི་ཤ་ཚུགས་ཅན་ནམ་ལུས་དབྱིབས་ཅན་ཡིན་པར་མཛོད་ལས་གསུངས་ཤིང༌།
+**Physical form:** The Abhidharmakosha indicates that wherever a migrator will be born, its [intermediate state] will be the physical build or bodily shape of its prior-existence.
+
+**The four existences are:** སྲིད་པ་བཞི་ནི། 
+{ #dc20fc}
+
+1. Birth-existence: The first moment of connecting with a birth-existence 
+   སྐྱེ་སྲིད་དུ་ཉིང་མཚམས་སྦྱར་བའི་སྐད་ཅིག་དང་པོ་སྐྱེ་སྲིད་དང༌། 
+2. Prior-existence: From the next moment after that and up to but not including establishing the death-existence དེའི་སྐད་ཅིག་གཉིས་པ་ནས་འཆི་སྲིད་མ་གྲུབ་པའི་བར་གྱི་སྲིད་པ་ནི་སྔོན་དུས་ཀྱི་སྲིད་པ་དང༌། 
+3. Death-existence: The existence at the last moment of death or at the time of experiencing the clear light of death འཆི་བའི་སྐད་ཅིག་ཐ་མའམ་འཆི་བ་འོད་གསལ་ཉམས་སུ་མྱོང་བའི་དུས་ཀྱི་སྲིད་པ་ནི་འཆི་སྲིད་དང༌། 
+4. Intermediate-existence: The existence in between the death-existence and birth-existence
+   འཆི་སྲིད་དང་སྐྱེ་སྲིད་གཉིས་ཀྱི་བར་དུ་བྱུང་བའི་སྲིད་པ་ནི་བར་སྲིད་དོ། 
+
+སྔོན་དུས་ཀྱི་སྲིད་པ་ཞེས་པའི་ཚིག་ཙམ་ལ་འཁྲུལ་ནས་བར་དོ་བ་དེ་སྐྱེ་བ་སྔ་མའི་ལུས་ཀྱི་རྣམ་པ་ཅན་དུ་འདོད་པ་དང༌། 
+ཡང་ཕྱི་མའི་ལུས་ཀྱི་དབྱིབས་ཅན་དུ་བཤད་པ་མཐོང་ནས་ཞག་ཕྱེད་དང་བཞི་སྐྱེ་བ་སྔ་མ་དང༌། 
+ཕྱེད་དང་བཞི་སྐྱེ་བ་ཕྱི་མའི་ལུས་ཀྱི་རྣམ་པ་ཅན་དུ་འདོད་པ་ནི་ཁུངས་རྣམ་དག་གང་ཡང་མེད་པའི་སྒྲོ་བཏགས་ཁོ་ནར་ལམ་རིམ་ཆེན་མོར་གསུང༌།
+Some, misled by the term "prior-existence", assert that the intermediate state being has the aspect of the body of its previous birth and others, seeing explanations that it has the shape of the next life's body, assert that it has the aspect of the previous birth for 3.5 days and the aspect of the next birth for 3.5 days. The Lamrim Chenmo explains that these are exclusively reifications without any reliable source.
+
+དེས་ན་སྔོན་དུས་ཀྱི་སྲིད་པ་ཞེས་པའི་སྔོན་ནི་ཚེ་ཕྱི་མའི་འཆི་སྲིད་ལ་ལྟོས་པའི་སྔོན་ཡིན་གྱི་བར་དོ་ལ་ལྟོས་པའི་སྔོན་དུ་འཇོག་པ་མ་ཡིན་ནོ། 
+མཛོད་ལས་ཀྱང༌། སྔོན་དུས་སྲིད་འབྱུང་ཤ་ཚུགས་ཅན། །ཞེས་པའི་འབྱུང་ཞེས་པ་ནི་མ་འོངས་པའི་ཚིག་ཡིན་གྱི་འདས་ཚིག་མ་ཡིན་པའི་ཕྱིར་རོ།
+Therefore, the "prior" in prior-existence is prior relative to the death-existence of the next life and not prior relative to the intermediate state. This is because also the Abhidharmakosha says "Possessing the physical build of the prior-existence that will arise", using the future tense "will arise" and not the past tense.
+
+ཡང་གང་དུ་སྐྱེ་འགྱུར་གྱི་སེམས་ཅན་དེའི་རྣམ་པ་ཅན་དུ་བཤད་པ་ལ། 
+འགའ་ཞིག་གིས་དེ་ལྟར་ན་དབང་པོ་མ་ཚང་བའི་འགྲོ་བ་དེའི་བར་དོ་བ་ཡང་དབང་པོ་མ་ཚང་བར་སྨྲ་བ་ནི་ཆེར་མི་འཐད་དེ། 
+Also, in relation to the explanation that it will possess the aspect of whichever sentient being it will be born as, some say that in that case, the intermediate state being of a migration with incomplete faculties will also have incomplete faculties. This is very incorrect because:
+- Nowhere is it explained that the intermediate state that will give rise to one of incomplete eye-faculties and so forth after being born in the birth-state will have incomplete faculties; and
+  སྐྱེ་གནས་སུ་སྐྱེ་བའི་འོག་ཏུ་མིག་སོགས་མ་ཚང་དབང་བོ་བར་འབྱུང་གི་བར་དོ་ལ་དབང་པོ་མ་ཚང་བ་གང་ནས་ཀྱང་མ་བཤད་པའི་ཕྱིར་དང༌། 
+- It would be highly absurd if merely through explaining that it possesses the aspect of whichever migration one will be born in, it would have to be similar in all aspects.
+  རང་ཉིད་གང་དུ་སྐྱེ་འགྱུར་གྱི་འགྲོ་བའི་རྣམ་པ་ཅན་དུ་བཤད་པ་ཙམ་གྱིས་ཆ་ཀུན་ནས་འདྲ་བ་དགོས་ན་ཧ་ཅང་ཐལ་ཆེ་བར་འགྱུར་རོ།
+
+**Movement of the intermediate state:** The Actuality of the Grounds explains: བར་དོའི་འགྲོ་ཚུལ་གྱི་ཁྱད་པར་ནི།
+- The intermediate state of the gods move upwards ལྷའི་བར་དོ་གྱེན་དང༌། 
+- The intermediate state of humans move straight ahead མིའི་བར་དོ་ཐད་ཀ་དང༌། 
+- The intermediate state of the lower realms move head-first downwards 
+  ངན་འགྲོའི་བར་དོ་སྤྱི་བོ་ཐུར་དུ་ཚུགས་ནས་འགྲོ་བར་ས་ཡི་དངོས་གཞིར་ལས་གསུང༌། 
+
+དེ་ཡང་འདོད་གཟུགས་གཉིས་སུ་སྐྱེ་པ་ལ་བར་དོ་བརྒྱུད་དགོས་པས་ཡར་གྱི་མཚམས་མེད་ཀྱི་ལས་དང་མར་གྱི་མཚམས་མེད་གཉིས་ལ་བར་དོ་མེད་པར་འདོད་པ་མི་འཐད་པར་ལམ་རིམ་ཆེན་མོར་གསུང་ལ། གཟུགས་མེད་དུ་སྐྱེ་བ་ལ་བར་དོ་མེད་དེ་གང་དུ་ཤི་འཕོས་པའི་གནས་དེ་ཉིད་དུ་གཟུགས་མེད་ཀྱི་མིང་གཞིའི་ཕུང་པོ་འགྲུབ་བོ། 
+Moreover, the Lamrim Chenmo says that since those born in the Desire and Form Realms necessarily proceed via the intermediate state, it is incorrect to assert that there is no intermediate state for those who have [[Lamrim Glossary/Karma - Law of Cause and Effect#^e06011\|immediate actions]] for going up or down. Birth in the Formless realm has no intermediate state; the four name aggregates of the Formless Realm are established in the very place where one does and migrates.
+
+དེ་ནས་གཟུགས་མེད་ཁམས་སུ་སྐྱེ་འགྱུར་གྱི་གང་ཟག་དེས་འཆི་བ་འོད་གསལ་གྱི་ངང་ནས་གཟུགས་མེད་ཀྱི་ཏིང་ངེ་འཛིན་མངོན་དུ་བྱེད་ཀྱི་འཆི་བ་འོད་གསལ་ལས་ལུགས་ལྡོག་ཏུ་ལངས་པའི་ཉེར་ཐོབ་ཀྱི་སེམས་མི་འཆར་ཏེ། དེ་འདྲའི་ཉེར་ཐོབ་ཀྱི་སེམས་ནི་བར་དོའི་སེམས་ཡིན་པའི་ཕྱིར་རོ། 
+Therefore, the person who will be born in the Formless Realm actualises the Formless meditative stabilisation from within the clear light of death. The mind of Near-Attainment of the reverse process arising from the clear light of death does not dawn because such a mind of Near-attainment is a mind of the intermediate state.
+
+གཟུགས་མེད་ལ་འདོད་གཟུགས་གཉིས་ལས་གཞན་དུ་གནས་ལོགས་པ་མེད་དོ།
+Apart from the Desire and Form realms, the Formless Realm as no separate location.
+
+བར་དོ་ཁྱད་པར་བ་སྐྱེ་བ་གཅིག་གིས་ཐོགས་པའི་བྱང་སེམས་དགའ་ལྡན་ནས་འཕོས་ནས་ཡུམ་གྱི་ལྷུམས་སུ་ཞུ་འཇུག་པའི་བར་དོ་ནི། 
+གཞོན་ནུ་མཚན་དཔེས་བརྒྱན་པ། འོད་ཀྱིས་གླིང་བཞི་བྱེ་བ་ཕྲག་བརྒྱ་གསལ་བར་བྱེད་པར་མཛོད་འགྲེལ་དང་རྣམ་བཞག་རིམ་པར་གསུང་ལ།
+Regarding the special intermediate state - the intermediate state of the Bodhisattva obstructed by one birth, who transfers from Tushita and enters the mother's womb - it is indicated in the Abhidharmakosha-Bashya and in [Nāgabodhi's] Ordered Stages [of the Guhyasamāja Sādhana] to be youthful, ornamented by marks and signs, and illuminating billions of the four-continents with light.
+
+འོ་ན་བཙུན་པ་ཆོས་ལྡན་རབ་འབྱོར་གྱིས། གླང་པོ་ཆེ་དཀར་པོ་མཆེ་བ་དྲུག་ལྡན་གྱི་རྣམ་པས་ལྷུམས་སུ་ཞུགས་པ་དང་འགལ་ལོ་ཞེ་ན། 
+དེའི་བཤད་པ་ལྟར་ཁས་ལེན་དགོས་པའང་མིན་ལ། འོན་ཀྱང་དེའི་ཡུམ་གྱི་རྨི་ལམ་དང་མཐུན་པར་བསྟན་པ་ཙམ་ཡིན་གྱི། 
+མིར་སྐྱེ་འགྱུར་གྱི་བར་དོ་དུད་འགྲོའི་རྣམ་པ་ཅན་འདོད་ན་བསྟན་བཅོས་ཚད་ལྡན་མང་པོ་དང་འགལ་བའི་ཕྱིར།
+Does this not contradict the statement by the venerable Dharmasubhūti that he entered the womb in the form of a white elephant with six tusks?
+It is not necessary to assert that explanation literally and also it is merely indicating it in accordance with his mother's dream. If it is asserted that the intermediate state of one who will be born human has the aspect of an animal, then it would contradict many reliable treatises.
+
+དེ་ནི་ཐེག་དམན་གྱི་ལུགས་ལ་སྒྲ་ཇི་བཞིན་པ་དང༌། ཐེག་ཆེན་གྱི་ལུགས་ལ་ཚུལ་བསྟན་ཙམ་དུ་ཁས་ལེན་ནོ།
+That is asserted literally in the Hinayana system, whereas it is asserted to be a mere display in the Mahayana system.
 
 ---
 Up a level: [[Tantra/Tantra#^f96d10\|Tantra]]
