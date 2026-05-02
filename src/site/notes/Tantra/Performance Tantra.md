@@ -30,7 +30,7 @@ The Enlightenment of Vairocana says: "It is necessary to not give up the holy dh
 For both: 
 - Whispered and mental recitation without deteriorating the four branches 
   ཡན་ལག་བཞི་མ་ཉམས་པར་ཤུབ་བུ་དང་ཡིད་བཟླས་བྱ་བ།
-- [[Tantra/Vitality exertion (Three Lower Tantras)\|vitality exertion]] during mental recitation ཡིད་བཟླས་ཀྱི་ཚེ་སྲོག་རྩོལ་སྡོམ་པ།
+- [[Tantra/Prāṇāyāma (Three Lower Tantras)\|Prāṇāyāma]] during mental recitation ཡིད་བཟླས་ཀྱི་ཚེ་སྲོག་རྩོལ་སྡོམ་པ།
 
 
 *Yoga without signs* མཚན་མ་མེད་པའི་རྣལ་འབྱོར།

@@ -45,7 +45,7 @@ Which [[Tantra/The Four Empowerments\|empowerments]]? གང་བསྐུར�
 
 *The Four Concentrations:* རྒྱུད་སྡེ་འོག་མ་ནས་བཤད་པའི་བསམ་གཏན་བཞི།
 1. [[Tantra/Concentration of the four-branched recitation\|Concentration of the four-branched recitation]] བཟླས་བརྗོད་ཡན་ལག་བཞིའི་བསམ་གཏན། 
-   Focusing on the four bases, self-basis on [[Tantra/Six Deities\|Six Deities]], together with [[Tantra/Vitality exertion (Three Lower Tantras)\|vitality exertion]]
+   Focusing on the four bases, self-basis on [[Tantra/Six Deities\|Six Deities]], together with [[Tantra/Prāṇāyāma (Three Lower Tantras)\|prāṇāyāma]]
 { #6234c5}
 
 2. Concentration abiding in fire མེ་གནས་ཀྱི་བསམ་གཏན།
