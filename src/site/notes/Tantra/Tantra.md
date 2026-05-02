@@ -24,6 +24,7 @@
 - [[Tantra/Taking birth\|Taking birth]]
 	- [[Tantra/Development in the womb\|Development in the womb]]
 	- [[Tantra/Formation of channels, winds, and drops\|Formation of channels, winds, and drops]] རྩ་རླུང་ཐིག་ལེ་ཆགས་ཚུལ།
+	- [[Tantra/Ten winds\|Ten winds]]
 - [[Tantra/Generation and Completion stage taking the three bodies\|Generation and Completion stage taking the three bodies]]
 
 

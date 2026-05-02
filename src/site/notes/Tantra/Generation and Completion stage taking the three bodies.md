@@ -4,25 +4,25 @@
 
 འཆི་བའི་རིམ་པ་འདི་རྣམས་སྔགས་བླ་མེད་ཀྱི་བསྐྱེད་རྫོགས་གཉིས་ཀྱི་འཆི་བ་ཆོས་སྐུར་འཁྱེར་བའི་ལམ་འཁྱེར་དང༌། 
 དཔེ་དང་དོན་གྱི་འོད་གསལ་རྣམས་ཀྱི་སྦྱང་གཞིའི་གཙོ་བོ་ཡིན་པས་འདི་རྣམས་ལ་གོ་བ་ལེགས་པར་ཆགས་པ་ཤིན་ཏུ་གལ་ཆེའོ།
-These stages of death are the main bases for training in terms of Highest Yoga Tantra's Generation and Completion stage practices of taking into the path in terms of taking death as the Dharmakaya and of the Example and Meaning Clear Lights. Therefore, it is very important to develop a proper understanding of these.
+These stages of death are the main bases of purification in terms of Highest Yoga Tantra's Generation and Completion stage practices of taking into the path in terms of taking death as the Dharmakaya and of the Example and Meaning Clear Lights. Therefore, it is very important to develop a proper understanding of these.
 
 བར་དོའི་རྣམ་བཞག་འདི་དག་བླ་མེད་ཀྱི་བསྐྱེད་རིམ་གྱི་བར་དོ་ལོངས་སྐུར་འཁྱེར་བའི་ལམ་འཁྱེར་དང༌། 
 དག་མ་དག་གི་སྒྱུ་ལུས་ཀྱི་སྦྱང་གཞི་ཡིན་པས་ཞིབ་ཏུ་ཤེས་པ་གལ་ཆེའོ།
-This presentation of the intermediate state is the basis for training in terms of Highest Yoga Tantra's Generation and Completion Stage practices of taking into the path in terms of taking the intermediate state as the Sambhogakaya and of the Pure and Impure Illusory Bodies. Therefore, it is very important to understand in detail.
+This presentation of the intermediate state is the basis of purification in terms of Highest Yoga Tantra's Generation and Completion Stage practices of taking into the path in terms of taking the intermediate state as the Sambhogakaya and of the Pure and Impure Illusory Bodies. Therefore, it is very important to understand in detail.
 
 དེ་ལྟར་བར་དོ་མངལ་དུ་ཉིང་མཚམས་སྦྱར་ནས་སྐྱེ་བ་ལེན་པའི་རྣམ་གཞག་འདི་དག་ནི། བསྐྱེད་རིམ་པའི་སྐྱེ་བ་སྤྲུལ་སྐུར་འཁྱེར་བའི་ལམ་འཁྱེར་དང༌། རྫོགས་རིམ་པའི་དག་མ་དག་གི་སྒྱུ་ལུས་རྣམས་རགས་པའི་སྤྲུལ་སྐུ་འཛིན་པའམ་ཕུང་པོ་རྙིང་པ་ལ་ཞུགས་ཏེ་ཐ་མལ་པའི་མིག་ལམ་དུ་གྱུར་པ་དང་རྣམ་པ་མཐུན་ཞིང་དེ་དག་གི་སྦྱང་གཞི་ཡིན་ཏེ། 
-This presentation of taking birth through the intermediate state connecting with the womb as such is the basis for training in the Generation Stage practice of taking into the path in terms of taking birth as the Nirmanakaya as well as the Completion Stage practice of the Pure and Impure Illusory Bodies of assuming a coarse emanation body or entering into the old aggregates and thus being visible to ordinary beings.
+This presentation of taking birth through the intermediate state connecting with the womb as such is the basis of purification in the Generation Stage practice of taking into the path in terms of taking birth as the Nirmanakaya as well as the Completion Stage practice of the Pure and Impure Illusory Bodies of assuming a coarse emanation body or entering into the old aggregates and thus being visible to ordinary beings.
 
 དེ་ཡང་བསྐྱེད་རྫོགས་གཉིས་ཀྱི་སྦྱང་གཞི་ལ་ཁྱད་པར་མེད་པས།
-Since there is no difference in terms of the bases of training wrt the Generation and Completions Stages:
-- **Completion Stage:** The three - death, intermediate state, and birth of the basis - are taken as the bases of training and their three trainings of taking into the path are cultivated in a similar aspect to those three:
+Since there is no difference in terms of the bases of purification wrt the Generation and Completions Stages:
+- **Completion Stage:** The three - death, intermediate state, and birth of the basis - are taken as the bases of purification and their three purifiers of taking into the path are cultivated in a similar aspect to those three:
   བསྐྱེད་རིམ་ནི། གཞིའི་འཆི་བ་དང༌། བར་དོ་དང༌། སྐྱེ་བ་གསུམ་སྦྱང་གཞིར་བྱས་ནས་སྦྱོང་བྱེད་ལ་དེ་གསུམ་དང་རིམ་བཞིན་རྣམ་པ་མཐུན་པར་
 	1. Taking *death* as the Dharmakaya འཆི་བ་ཆོས་སྐུར་འཁྱེར་བའི་ལམ་འཁྱེར་དང༌།
 	2. Taking the *intermediate state* as the Sambhogakaya བར་དོ་ལོངས་སྐུར་འཁྱེར་བའི་ལམ་འཁྱེར་དང༌།
 	3. Taking *birth* as the Nirmanakaya སྐྱེ་བ་སྤྲུལ་སྐུར་འཁྱེར་བའི་ལམ་འཁྱེར་གསུམ་ཡན་ལག་དང་བཅས་པ་བསྒོམས་ཏེ།
 - Such that ordinary death, intermediate state, and birth having been purified, the three bodies whose aspects accurately accord with those three are actualised.
   རྒྱུད་ནས་ཐ་མལ་གྱི་འཆི་བ། བར་དོ། སྐྱེ་བ་གསུམ་སྦྱངས་ནས། དེ་གསུམ་དང་རྣམ་པ་ཇི་ལྟ་བ་བཞིན་མཐུན་པའི་སྐུ་གསུམ་མངོན་དུ་བྱེད་པ་ཡིན་ལ།<br><br>
-- **Generation Stage:** This is the actual training of those three through a path that accurately accords with the aspect of those three of the basis:
+- **Generation Stage:** This is the actual purification of those three through a path that accurately accords with the aspect of those three of the basis:
   རྫོགས་རིམ་ནི་གཞིའི་ཆོས་གསུམ་པོ་དེ་དང་རྣམ་པ་ཇི་ལྟ་བ་བཞིན་མཐུན་པའི་ལམ་གྱིས་དེ་གསུམ་དངོས་སུ་སྦྱོང་བྱེད་ཡིན་ཏེ།
 	1. Those accurately according with the aspect of the Clear Light of *death*: Appearance, Increase, Near-Attainment, as well as Clear Light on the occasions of Body Isolation, Speech Isolation, Mind Isolation, Illusory Body, and the Learner's Union དེ་ཡང་འཆི་བ་འོད་གསལ་དང་རྣམ་པ་ཇི་ལྟ་བ་བཞིན་མཐུན་པ་ནི། ལུས་དབེན། ངག་དབེན། སེམས་དབེན། སྒྱུ་ལུས། སློབ་པའི་ཟུང་འཇུག་རྣམས་ཀྱི་གནས་སྐབས་ཀྱི་སྣང་མཆེད་ཐོབ་གསུམ་འོད་གསལ་དང་བཅས་པ་ཡིན་ལ།
 	2. Those accurately according with the aspect of the *intermediate state*: The Third Stage Impure Illusory Body and the Pure Illusory Body of the Learner's Union

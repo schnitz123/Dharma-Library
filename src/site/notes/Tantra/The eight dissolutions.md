@@ -54,7 +54,7 @@ A shimmering blue appearances occurs like the appearance of water when hot-seaso
 4. Not hearing internal and external sounds ཕྱི་ནང་གི་སྒྲ་མི་ཐོས།
 5. The buzzing inside the ears no longer occurs རྣ་བའི་ནང་གི་འུར་སྒྲ་མི་འབྱུང་ངོ༌།
 
-*Inner signs:* "Smoke" དུ་བ་ལྟ་བུ་ཞེས་བྱ་བ། དུ་བ་འཁྲིགས་པའི་དཀྱིལ་ནས་དུད་ཁུང་ནས་དུ་བ་འབྱུང་བ་ལྟ་བུ་སྔོ་ཕོད་ཕོད་པ་ལྟ་བུའི་སྣང་བ་འཆར་རོ།
+*Inner signs:* "Smoke-like" དུ་བ་ལྟ་བུ་ཞེས་བྱ་བ། དུ་བ་འཁྲིགས་པའི་དཀྱིལ་ནས་དུད་ཁུང་ནས་དུ་བ་འབྱུང་བ་ལྟ་བུ་སྔོ་ཕོད་ཕོད་པ་ལྟ་བུའི་སྣང་བ་འཆར་རོ།
 An appearance like billowing greyish [smoke], like smoke billowing from a smokey chimney.
 
 ---
@@ -102,7 +102,7 @@ An appearance like billowing greyish [smoke], like smoke billowing from a smokey
    གཞི་དུས་ཀྱི་བྱ་སྒྲུབ་ཡེ་ཤེས་ནི་འཇིག་རྟེན་པའི་ཕྱིའི་བྱ་བ་དང་དགོས་པ་སོགས་དྲན་པའི་ཤེས་པ་ལ་བཤད་ཅིང༌།
    Sign: Not being mindful of any external worldly activities, purposes, and so forth
    འཇིག་རྟེན་པའི་ཕྱིའི་བྱ་བ་དང་དགོས་པ་སོགས་གང་ཡང་མི་དྲན།
-3. The ten winds (life-bearing and so forth) transfer from their respective places to the heart and the breath ceases to move in and out སྲོག་འཛིན་སོགས་རླུང་བཅུ་རང་རང་གི་གནས་ནས་སྙིང་གར་འཕོ་ཞིང་དབུགས་ཕྱི་ནང་དུ་རྒྱུ་བ་འཆད།
+3. The [[Tantra/Ten winds\|ten winds]] (life-bearing and so forth) transfer from their respective places to the heart and the breath ceases to move in and out སྲོག་འཛིན་སོགས་རླུང་བཅུ་རང་རང་གི་གནས་ནས་སྙིང་གར་འཕོ་ཞིང་དབུགས་ཕྱི་ནང་དུ་རྒྱུ་བ་འཆད།
 4. The tongue becomes thick and short, and its root becomes blue ལྕེ་སྦོམ་ཞིང་ཐུང་ལ་ལྕེའི་རྩ་བ་སྔོན་པོར་འགྱུར།
 5. No longer experiencing any of the six tastes with the tongue ལྕེས་རོ་དྲུག་གང་ཡང་མི་མྱོང༌། 
 
@@ -239,7 +239,7 @@ The *cause* such an appearance: The white and red drops dissolve into the white 
 It is not an appearance of external complete empty space.
 
 དེ་ལ་འཆི་བ་འོད་གསལ་དང་ཐམས་ཅད་སྟོང་པ་ཞེས་བྱ་སྟེ། འཆི་བ་དངོས་དེ་ཡིན་ནོ།
-This is called "death", "Clear Light", and "All empty". This is actual death.
+This is called "Clear Light of death" and "All empty". This is actual death.
 
 That is referred to as the Basis Dharmakāya: དེ་ནི་གཞིའི་ཆོས་སྐུ་དང༌།  
 - That complete emptiness is referred to as the Basis Svabhāvakāya སྟོང་སང་དེ་ལ་གཞིའི་ངོ་བོ་ཉིད་སྐུ་དང༌།
@@ -258,7 +258,7 @@ For yogis, it is said that there is no definite number of days during which they
 
 སྣང་མཆེད་ཐོབ་གསུམ་འོད་གསལ་དང་བཅས་པའི་ཐིམ་ཚུལ་དེ་ཡང།
 སེམས་སྔ་མ་སྔ་མའི་ནུས་པ་འགགས་ནས་ཕྱི་མ་ཕྱི་མ་གསལ་དུ་སོང་བ་ལ་སྔ་མ་ཕྱི་མ་ལ་ཐིམ་ཞེས་བྱའི། སྔ་མ་ཕྱི་མའི་རང་བཞིན་དུ་སོང་བ་ནི་མ་ཡིན་ནོ།
-The way in which Appearance, Increase, and Near-Attainment **dissolve** is said to be that as the capacity of the previous mind ceases, that of the latter becomes clearer. That it is called "the previous dissolving into the latter", but it is not the case that the previous transforms into the nature of the latter.
+The way in which Appearance, Increase, Near-Attainment, and Clear Light **dissolve** is said to be that as the capacity of the previous mind ceases, that of the latter becomes clearer. That it is called "the previous dissolving into the latter", but it is not the case that the previous transforms into the nature of the latter.
 
 སྟོན་གྱི་ནམ་མཁའ་དཔེར་བཟུང་བ་ནི། དབྱར་དུས་ཀྱི་ཆར་གྱིས་སའི་རྡུལ་བར་སྣང་ལ་ལྡང་བ་ལེགས་པར་མནན་པ་དང༌། 
 སྤྲིན་གྱི་སྒྲིབ་བྱེད་དང་བྲལ་བ་གཉིས་ཚོགས་ཤིན་ཏུ་དྭངས་པ་མང་དུ་འབྱུང་བ་སྟོན་གྱི་དུས་ཡིན་པས་སྟོན་དུས་ཀྱི་ནམ་མཁའ་དཔེར་བཟུང་བ་དང༌། 

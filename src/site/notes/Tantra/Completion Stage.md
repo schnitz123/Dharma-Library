@@ -2,9 +2,15 @@
 {"dg-publish":true,"permalink":"/tantra/completion-stage/","dg-note-properties":{}}
 ---
 
-བསྒོམས་སྟོབས་ཀྱིས་རླུང་དབུ་མར་ཞུགས་གནས་ཐིམ་གསུམ་བྱས་པ་ལས་བྱུང་བའི་སློབ་པའི་རྒྱུད་ཀྱི་རྣལ་འབྱོར་དེ། རྫོགས་རིམ་གྱི་མཚན་ཉིད། 
-ཡིན་པར་པཎ་ཆེན་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་གསུངས།
-**Definition by Panchen Losang Chokyi Gyaltsen:** A yoga in the continuum of a Learner that arises through the winds entering, abiding, and dissolving into the central channel through the force of meditation.
+བསྒོམས་སྟོབས་ཀྱིས་རླུང་དབུ་མར་ཞུགས་གནས་ཐིམ་གསུམ་བྱས་པ་ལས་བྱུང་བའི་སློབ་པའི་རྒྱུད་ཀྱི་རྣལ་འབྱོར་དེ། རྫོགས་རིམ་གྱི་མཚན་ཉིད།
+**Definition:** A yoga in the continuum of a Learner that arises through the winds entering, abiding, and dissolving into the central channel through the force of meditation.
+
+རྫོགས་པའི་རིམ་པ། མ་བརྟགས་པའི་རིམ་པ། རྣལ་མའི་རྣལ་འབྱོར། རིམ་པ་གཉིས་པའི་རྣལ་འབྱོར་རྣམས་དོན་གཅིག
+Completion stage, non-imagined stage, natural yoga, and yoga of the second stage are mutually inclusive.
+
+རིམ་པ་གཉིས་པའི་རྣལ་འབྱོར་ཆོས་ཅན། ཁྱོད་ལ་རྫོགས་རིམ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། 
+བློས་བཏགས་པ་ལ་མ་ལྟོས་པར་རང་གྲུབ་ཙམ་ནས་རྫོགས་པའི་ལུས་ཀྱི་རྩ་རླུང་ཐེག་ལེ་ལ་གནད་དུ་བསྣུན་ནས་བསྒོམ་པར་བྱ་བའི་རིམ་པ་ཡིན་པས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར།
+**Etymology:** The subject - yoga of the second stage - there is a reason for calling it the Completion Stage: It is a stage that that involves penetrating the vital points of the channels, winds, and drops of the body, which are already already complete through its establishment without depending on mental fabrication
 
 བསྐྱེད་རིམ་པའི་རྒྱུད་ལ་རླུང་དབུ་མར་ཞུགས་གནས་ཐིམ་གསུམ་བྱས་པ་ལས་བྱུང་བའི་ལམ་ཡོད་ཀྱང་། (i.e. དེ་ལས་བྱུང་བའི་དགའ་བཞི།) དེ་ནི་བསྐྱེད་རིམ་མཐར་ཕྱིན་པ་དང་ཕྱིའི་ཕྱག་རྒྱ་དང་སྦྱོར་བའི་བྱུང་བ་ཡིན་གྱི། ལུས་ལ་གནད་དུ་བསྣུན་པའི་ཐབས་ཁྱད་པར་ཅན་བསྒོམས་སྟོབས་ཀྱིས་བྱུང་བ་མིན་པས་རྫོགས་རིམ་དུ་མ་འཕོས།
 Although a path arising through the winds entering, abiding, and dissolving into the central channel exists in the continua of those on the generation stage (i.e. the four joys that arise through that), that arises through completion of the generation stage and uniting with an external mudra; it does not arise through the force of meditation, i.e. the special method of penetrating points on the body, and therefore does not become completion stage.
