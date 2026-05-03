@@ -8,11 +8,12 @@
 རྫོགས་པའི་རིམ་པ། མ་བརྟགས་པའི་རིམ་པ། རྣལ་མའི་རྣལ་འབྱོར། རིམ་པ་གཉིས་པའི་རྣལ་འབྱོར་རྣམས་དོན་གཅིག
 Completion stage, non-imagined stage, natural yoga, and yoga of the second stage are mutually inclusive.
 
-རིམ་པ་གཉིས་པའི་རྣལ་འབྱོར་ཆོས་ཅན། ཁྱོད་ལ་རྫོགས་རིམ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། 
-བློས་བཏགས་པ་ལ་མ་ལྟོས་པར་རང་གྲུབ་ཙམ་ནས་རྫོགས་པའི་ལུས་ཀྱི་རྩ་རླུང་ཐེག་ལེ་ལ་གནད་དུ་བསྣུན་ནས་བསྒོམ་པར་བྱ་བའི་རིམ་པ་ཡིན་པས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར།
+རིམ་པ་གཉིས་པའི་རྣལ་འབྱོར་ཆོས་ཅན། ཁྱོད་ལ་རྫོགས་རིམ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། བློས་བཏགས་པ་ལ་མ་ལྟོས་པར་རང་གྲུབ་ཙམ་ནས་རྫོགས་པའི་ལུས་ཀྱི་རྩ་རླུང་ཐེག་ལེ་ལ་གནད་དུ་བསྣུན་ནས་བསྒོམ་པར་བྱ་བའི་རིམ་པ་ཡིན་པས་དེ་ལྟར་བརྗོད་པའི་ཕྱིར།
 **Etymology:** The subject - yoga of the second stage - there is a reason for calling it the Completion Stage: It is a stage that that involves penetrating the vital points of the channels, winds, and drops of the body, which are already already complete through its establishment without depending on mental fabrication
 
-བསྐྱེད་རིམ་པའི་རྒྱུད་ལ་རླུང་དབུ་མར་ཞུགས་གནས་ཐིམ་གསུམ་བྱས་པ་ལས་བྱུང་བའི་ལམ་ཡོད་ཀྱང་། (i.e. དེ་ལས་བྱུང་བའི་དགའ་བཞི།) དེ་ནི་བསྐྱེད་རིམ་མཐར་ཕྱིན་པ་དང་ཕྱིའི་ཕྱག་རྒྱ་དང་སྦྱོར་བའི་བྱུང་བ་ཡིན་གྱི། ལུས་ལ་གནད་དུ་བསྣུན་པའི་ཐབས་ཁྱད་པར་ཅན་བསྒོམས་སྟོབས་ཀྱིས་བྱུང་བ་མིན་པས་རྫོགས་རིམ་དུ་མ་འཕོས།
+བསྐྱེད་རིམ་པའི་རྒྱུད་ལ་རླུང་དབུ་མར་ཞུགས་གནས་ཐིམ་གསུམ་བྱས་པ་ལས་བྱུང་བའི་ལམ་ཡོད་ཀྱང་། (i.e. དེ་ལས་བྱུང་བའི་དགའ་བཞི།) 
+དེ་ནི་བསྐྱེད་རིམ་མཐར་ཕྱིན་པ་དང་ཕྱིའི་ཕྱག་རྒྱ་དང་སྦྱོར་བའི་བྱུང་བ་ཡིན་གྱི། 
+ལུས་ལ་གནད་དུ་བསྣུན་པའི་ཐབས་ཁྱད་པར་ཅན་བསྒོམས་སྟོབས་ཀྱིས་བྱུང་བ་མིན་པས་རྫོགས་རིམ་དུ་མ་འཕོས།
 Although a path arising through the winds entering, abiding, and dissolving into the central channel exists in the continua of those on the generation stage (i.e. the four joys that arise through that), that arises through completion of the generation stage and uniting with an external mudra; it does not arise through the force of meditation, i.e. the special method of penetrating points on the body, and therefore does not become completion stage.
 
 ---
@@ -43,7 +44,9 @@ Although a path arising through the winds entering, abiding, and dissolving into
   དོན་གྱི་འོད་གསལ་ཐོབ་པ་ལ་བསྐལ་པ་གྲངས་མེད་གསུམ་གྱི་ཚོགས་བསགས་པའམ། 
   དེའི་དོད་ཐུབ་པའི་རིམ་པ་གསུམ་པའི་སྒྱུ་ལུས་གང་ཡང་རུང་བ་ཞིག་སྔོན་དུ་འགྲོ་དགོས་ཏེ། དེ་གཉིས་གང་རུང་སྔོན་དུ་མ་སོང་བར་ལམ་གཞན་གྱིས་སྤོང་མི་ནུས་པའི་སྒྲིབ་པ་ཤིན་ཏུ་ཕྲ་བ་མྱུར་དུ་ཟད་པར་བྱེད་པའི་ནུས་པ་དང་ལྡན་པའི་དོན་གྱི་འོད་གསལ་མངོན་དུ་བྱེད་མི་རུང་བའི་ཕྱིར།<br><br>
 - The attainment of the Third Stage Illusory Body is necessarily preceded by Actual Mind Isolation or a completion stage [practice] that can substitute it because without being preceded by the dissolution of all karmic winds into the indestructible drop at the heart exactly in accordance with the stages of death through the force of meditating on such completion stages [practices], the Illusory Body that exactly like the bardo cannot be attained.
-  རིམ་པ་གསུམ་པའི་སྒྱུ་ལུས་ཐོབ་པ་ལ་སེམས་དབེན་དངོས་སམ་དེའི་དོད་ཐུབ་པའི་རྫོགས་རིམ་སྔོན་དུ་འགྲོ་དགོས་ཏེ། དེ་འདྲ་བའི་རྫོགས་རིམ་བསྒོམས་སྟོབས་ཀྱིས་ལས་རླུང་ཐམས་ཅད་འཆི་རིམ་ཇི་ལྟ་བ་བཞིན་དུ་སྙིང་གའི་མི་ཤིགས་པ་ལ་ཐིམ་པ་སྔོན་དུ་མ་སོང་བར་བར་དོ་ཇི་མ་ཇི་བཞིན་པའི་སྒྱུ་ལུས་ཐོབ་མི་རུང་བའི་ཕྱིར།<br><br>
+  རིམ་པ་གསུམ་པའི་སྒྱུ་ལུས་ཐོབ་པ་ལ་སེམས་དབེན་དངོས་སམ་དེའི་དོད་ཐུབ་པའི་རྫོགས་རིམ་སྔོན་དུ་འགྲོ་དགོས་ཏེ། 
+  དེ་འདྲ་བའི་རྫོགས་རིམ་བསྒོམས་སྟོབས་ཀྱིས་ལས་རླུང་ཐམས་ཅད་འཆི་རིམ་ཇི་ལྟ་བ་བཞིན་དུ་སྙིང་གའི་མི་ཤིགས་པ་ལ་ཐིམ་པ་སྔོན་དུ་མ་སོང་བར་
+  བར་དོ་ཇི་མ་ཇི་བཞིན་པའི་སྒྱུ་ལུས་ཐོབ་མི་རུང་བའི་ཕྱིར།<br><br>
 - The attainment of Actual Mind Isolation or a completion stage [practice] that is able to substitute it is necessarily preceded Speech Isolation (the branch of prāṇāyāma called Vajra Recitation) or a completion stage [practice] that can substitute it because without completely releasing the knots at the heard through such a completion stage [practice], the Actual Mind Isolation or a completion stage [practice] that can substitute it cannot arise.
   སེམས་དབེན་དངོས་སམ་དེའི་དོད་ཐུབ་པའི་རྫོགས་རིམ་ཐོབ་པ་ལ་ངག་དབེན་རྡོ་རྗེ་བཟླས་པའི་མིང་གིས་བཏགས་པའི་སྲོག་རྩོལ་གྱི་ཡན་ལག་གམ་དེའི་དོད་ཐུབ་པའི་རྫོགས་རིམ་སྔོན་དུ་འགྲོ་དགོས་ཏེ། དེ་འདྲ་བའི་རྫོགས་རིམ་གྱིས་སྙིང་གའི་རྩ་མདུད་རྫོགས་པར་མགྲོལ་བར་སེམས་དབེན་དངོས་སམ་དེའི་དོད་ཐུབ་པའི་རྫོགས་རིམ་སྐྱེ་མི་རུང་བའི་ཕྱིར།<br><br>
 - The complete releasing of the knots at the heard through such a yoga in easy stages is necessarily preceded by Actual Body Isolation of a completion stage [practice] of similar type because releasing the knots at the heart is more difficult than the other knots and gathering the winds at other places is easier than gathering the winds at the heart.

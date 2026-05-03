@@ -10,9 +10,9 @@ Through meditating on subtle objects, there is the gathering of winds, the melti
   དེ་ལ་བརྟེན་ནས་རླུང་དབུ་མར་ཞུགས་གནས་ཐིམས་གསུམ་བྱས་པ་ལས་སྟོང་པ་བཞི་རྟགས་དང་བཅས་པ་འབྱུང་ལ།
 - When the winds enter the central channel, the downward-voiding wind reverses direction through the central channel and ignites tummo; the constituents melt, the bodhicittas continuously descend and drip, through which the ascending and descending four joys arise. རླུང་དབུ་མར་ཞུགས་པའི་ཚེ་དྷཱུ་ཏཱིའི་ལམ་ནས་ཐུར་སེལ་གྱེན་དུ་ལོག་པས་གཏུམ་མོ་འབར་ནས་ཁམས་ཞུ་སྟེ་བྱང་ཆུབ་ཀྱི་སེམས་གྱི་རྒྱུན་འབབ་པ་དང་འཛག་པ་ལས་ཡས་བབས་དང་མས་བརྟན་གྱི་དགའ་བ་བཞི་སྐྱེ་བའི་ཕྱིར།
 
-<img src="https://dharmalibrary.uk/pdf/fourjoys.png" style="width: 400px; height: auto; display: block; float: right; margin: 10px 0 20px 20px;" data-eleventy-ignore>དེ་ཡང་བྱང་སེམས་སྤྱི་བོ་ནས་མགྲིན་པ། དེ་ནས་སྙིང་ག།
+དེ་ཡང་བྱང་སེམས་སྤྱི་བོ་ནས་མགྲིན་པ། དེ་ནས་སྙིང་ག།
 དེ་ནས་ལྟེ་བ། དེ་ནས་གསང་གནས་སུ་སླེབ་པ་ན་དག་བ་བཞི་སྐྱེ།
-མས་བརྟན་གྱི་དགའ་བཞི་སྐྱེ་ཚུལ་ནི། བྱང་སེམས་གསང་གནས་ནས་ལྟེ་བ། 
+<img src="https://dharmalibrary.uk/pdf/fourjoys.png" style="width: 400px; height: auto; display: block; float: right; margin: 10px 0 20px 20px;" data-eleventy-ignore>མས་བརྟན་གྱི་དགའ་བཞི་སྐྱེ་ཚུལ་ནི། བྱང་སེམས་གསང་གནས་ནས་ལྟེ་བ། 
 དེ་ནས་སྙིང་ག་སོགས་སུ་སླེབ་པ་ན་སྐྱེ།
 The four descending joys arise as: The bodhicitta descends from the crown and arrives at the throat, then at the heart, then at the navel, then at the secret place.
 The four ascending joys arise as: The bodhicitta ascends from the secret place to the navel, then to the heart, and so forth.
@@ -20,6 +20,8 @@ The four ascending joys arise as: The bodhicitta ascends from the secret place t
 ཡས་བབས་ཀྱི་དགའ་བ་ལས་མས་བརྟན་གྱི་དགའ་བ་ཆེས་མཆོག་ཏུ་གྱུར་པ་ཡིན་ལ། 
 མས་བརྟན་གྱི་དགའ་བ་བཞི་པོ་གང་རུང་ཡིན་ན་ལྷན་སྐྱེས་ཀྱི་དགའ་བ་ཡིན་པས་ཁྱབ།
 The ascending joys are far superior to the descending joys; if it is any of the four ascending joys, then it is pervaded by being Innate Joy.
+
+See also: [[Tantra/the four empties and four joys\|the four empties and four joys]].
 
 **As such:**
 - When one is able to generate the descending and ascending innate joys, one connects them with emptiness of inherent existence as object and object-possessor in meditative equipoise.

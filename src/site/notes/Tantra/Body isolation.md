@@ -50,4 +50,5 @@ Among those: དེ་ལས།
 	- [[Tantra/Investigation and analysis\|Investigation and analysis]]
 
 ---
+Next: [[Tantra/Speech isolation\|Speech isolation]]
 Up a level: [[Tantra/Completion Stage#^87ee24\|Completion Stage]]
