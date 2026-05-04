@@ -29,6 +29,20 @@ body, html, .content, .nav-links, #lib-sidebar-desktop, p, li, h1, h2, h3, span,
     position: relative;
 }
 
+/* Reduce gap specifically for lists in the main content area */
+.content ul, 
+.content ol {
+    margin-top: 0.5em !important; /* Adjust this value (e.g., 0px or 5px) to your liking */
+}
+
+/* Optional: Ensure the very first list in a note doesn't hit the header too hard */
+.content h1 + ul, 
+.content h1 + ol,
+.content p + ul, 
+.content p + ol {
+    margin-top: 0.2em !important;
+}
+
 strong, b { color: #eac676; }
 em, h1 { color: #add8e6; }
 
