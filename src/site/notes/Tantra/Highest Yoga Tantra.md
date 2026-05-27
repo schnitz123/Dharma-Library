@@ -22,7 +22,7 @@ Complete [[Lamrim Glossary/Tantric vows\|tantric vows]].
 **How to cultivate the two stages** རིམ་གཉིས་སྒོམ་ཚུལ།
 { #482c37}
 
-- [[Tantra/Generation Stage\|Generation stage]] བསྐྱེད་རིམ།
+- [[Tantra/Generation Stage\|Generation Stage]] བསྐྱེད་རིམ།
 - [[Tantra/Completion Stage\|Completion stage]] རྫོགས་རིམ།
 
 ---

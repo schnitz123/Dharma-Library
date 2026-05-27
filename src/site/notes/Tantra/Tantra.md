@@ -29,6 +29,24 @@
 
 
 ---
+**YAMANTAKA**
+{ #4e4622}
 
 
-[[Tantra/Yamantaka/Generation and Completion Stages of Yamantaka (Lhundrub Pandita)\|Generation and Completion Stages of Yamantaka (Lhundrub Pandita)]] ལྷུན་གྲུབ་པཎྜིི་ཏའིི་འཇིིགས་བྱེེད་བསྐྱེེད་རྫོོགས།
+[[Tantra/Very short Yamantaka Sadhana\|Very short Yamantaka Sadhana]]
+[[Tantra/Short Yamantaka Sadhana\|Short Yamantaka Sadhana]]
+
+**Generation and Completion Stages of Yamantaka (Lhundrub Pandita)** ལྷུན་གྲུབ་པཎྜིི་ཏའིི་འཇིིགས་བྱེེད་བསྐྱེེད་རྫོོགས།
+- [[Tantra/Lhundrub Pandita/History of Yamantaka lineage\|History of Yamantaka lineage]]
+- [[Tantra/Lhundrub Pandita/Qualities of the Yamantaka tantra\|Qualities of the Yamantaka tantra]]
+- [[Tantra/Lhundrub Pandita/Generation stage\|Generation stage]]
+
+
+**Generation and Completion Stages of Yamantaka (Gyaltsen Senge)** ཁྲི་ཆེན་རྒྱལ་མཚན་སེང་གེ།
+- [[Tantra/Gyaltsen Sengge/Profound Path of the Great Secret - First Stage of the Yidam Vajrabhairava Solitary Hero\|Profound Path of the Great Secret - First Stage of the Yidam Vajrabhairava Solitary Hero]]
+  ཡི་དམ་རྡོ་རྗེ་འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པའི་རིམ་པ་དང་པོའི་ལེགས་བཤད་གསང་ཆེན་ཟབ་ལམ་ཞེས་བྱ་བ།
+{ #acd6b9}
+
+- [[Tantra/Gyaltsen Sengge/Cloud of Offerings Pleasing Manjushri - Completion Stage of Vajrabhairava Solitary Hero\|Cloud of Offerings Pleasing Manjushri - Completion Stage of Vajrabhairava Solitary Hero]]
+  དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པའི་རྫོགས་རིམ་གྱི་རྣམ་བཞག་འཇམ་དཔལ་དགྱེས་པའི་མཆོད་སྤྲིན། 
+{ #c0558f}

@@ -8,7 +8,9 @@
 The subject - the Gelong Glorious Candrakirti - due to the system of his Supplement to the Middle Way being endowed with the three - scriptures, reasoning, and instructions - it lacks the fault of being self-fabricated because it includes the main meaning of the reasonings taught in the Treatise on the Middle Way (Root Wisdom), as well as accurately explaining the definitive meaning scriptures and Nagarjuna's instructions.
 
 ཇི་ལྟར་དབུ་མའི་བསྟན་བཅོས་འདི་ལས་གཞན་དངོས་སྨྲ་བའི་གཞན་ལུགས་ནི་སྟོང་པ་ཉིད་ཅེས་བྱ་བའི་ཆོས་འདི་ནི་ཕྱིན་ཅི་མ་ལོག་པར་བརྗོད་པ་མེད་པ་དེ་བཞིན་དུ། 
-ཁོ་བོ་ཅག་གིས་ལུགས་གང་ཞིག་བརྒལ་ལན་དང་བཅས་ཏེ་ཐ་བསྙད་པ་འདིར་བྱུང་བའི་ལུགས་ཀྱང་བསྟན་བཅོས་གཞན་ན་ནི་མེད་དོ་ཅེས་མཁས་པ་རྣམས་ཀྱིས་ངེས་པར་མཛོད་ཅིག་སྟེ་མཛད་རིགས་ཏེ། རང་ངོས་ནས་གྲུབ་པ་ཐ་སྙད་དུ་ཡང་མེད་བཞིན་དུ་བྱ་བྱེད་ཀྱི་རྣམ་གཞག་ཆེས་འཐད་པའིེ་རྟེན་འབྲེལ་ཟབ་མོ་གཏན་ལ་ཕབས་པའི་ཕྱིར།
+ཁོ་བོ་ཅག་གིས་ལུགས་གང་ཞིག་བརྒལ་ལན་དང་བཅས་ཏེ་ཐ་བསྙད་པ་འདིར་བྱུང་བའི་ལུགས་ཀྱང་
+བསྟན་བཅོས་གཞན་ན་ནི་མེད་དོ་ཅེས་མཁས་པ་རྣམས་ཀྱིས་ངེས་པར་མཛོད་ཅིག་སྟེ་མཛད་རིགས་ཏེ། 
+རང་ངོས་ནས་གྲུབ་པ་ཐ་སྙད་དུ་ཡང་མེད་བཞིན་དུ་བྱ་བྱེད་ཀྱི་རྣམ་གཞག་ཆེས་འཐད་པའིེ་རྟེན་འབྲེལ་ཟབ་མོ་གཏན་ལ་ཕབས་པའི་ཕྱིར།
 Other than in this Treatise on the Middle Way, this dharma called "Emptiness" is not correctly explained in the system of others (the Proponents of Things); as such, it is suitable for the scholars to ascertain that our system together with the responses to objections explained does not exist in other treatises because it settles profound dependent-arising: that while establishment from its own side does not exist even conventionally, the presentation of agents and objects are thoroughly feasible.
 
 བསྟན་བཅོས་འདི་བརྩམས་པ་ལ་དགོས་པ་ཁྱད་པར་ཅན་ཡོད་དེ། འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱི་ཟབ་མོ་རྟོགས་པའི་བློའི་རྒྱ་མཚོ་ཤིན་ཏུ་རྒྱ་ཆེ་ལ་གཏིང་དཔག་པར་དཀའ་བའམ་

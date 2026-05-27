@@ -8,6 +8,8 @@ The subject - the Buddha Bhagavan - he only taught a single final vehicle withou
 མདོར་བསྡུ་ན། མཐར་ཐུག་ཐེག་པ་ལ་མི་འདྲ་བ་དུ་མ་མེད་དེ། སྒྲིབ་པ་ཐམས་ཅད་བྲལ་རུང་ཡིན་ཞིང་། ཆོས་ཉིད་ལ་ངོ་བོ་མི་འདྲ་བའི་དབྱེ་བ་མེད་པའི་ཕྱིར།
 In summary, many different final vehicles do not exist because 1) all obscurations are suitable to be eliminated and 2) dharmata has no divisions of different natures.
 
+Related to: [[Madhyamaka/Passages indicating the Cittamatra system are of interpretative meaning\|passages indicating the Cittamatra system are of interpretative meaning]].
+
 ---
 སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཆོས་ཅན། ཐོག་མ་ཉིད་དུ་གདུལ་བྱ་འགའ་ཞིག་ཐེག་པ་དམན་པའི་ལམ་ལ་འཇུག་པར་མཛད་པའི་རྒྱུ་མཚན་ཡོད་དེ། 
 འཇིག་རྟེན་ཏེ་གདུལ་བྱ་ཁ་ཅིག་སངས་རྒྱས་ཀྱི་སྤྱོད་ཡུལ་ཟབ་པས་གཏིང་དཔག་པར་དཀའ་བ་ལ་ཡིད་འཇུག་པར་མི་འགྱུར་བའི་ཕྱིར།

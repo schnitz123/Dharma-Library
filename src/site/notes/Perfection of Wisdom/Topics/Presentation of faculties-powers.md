@@ -2,13 +2,14 @@
 {"dg-publish":true,"permalink":"/perfection-of-wisdom/topics/presentation-of-faculties-powers/","dg-note-properties":{}}
 ---
 
-
 **Divisions:** (22) དབང་པོ་ལ་དབྱེ་ན་ཉེར་གཉིས་སུ་ཡོད་དེ།
 - **Fourteen of the thoroughly afflicted class** ཀུན་ནས་ཉོན་མོངས་ཕྱོགས་ཀྱི་དབང་པོ་བཅུ་བཞི།
-	- [[Perfection of Wisdom/Topics/Six Faculties\|Six Faculties]] of eyes and so forth མིག་སོགས་དབང་པོ་དྲུག
-	- Two [[Perfection of Wisdom/Topics/Faculties of men and women\|Faculties of men and women]] ཕོ་མོའི་དབང་པོ་གཉིས།
-	- [[Perfection of Wisdom/Topics/Life faculty\|Life faculty]] སྲོག་གི་དབང་པོ།
-	- Faculties of pleasant feeling, mental happiness, suffering, mental unhappiness, and equanimity
+	- Seven support-faculties: རྟེན་གྱི་དབང་པོ་བདུན།
+		- [[Perfection of Wisdom/Topics/Six Faculties\|Six Faculties]] of eyes and so forth མིག་སོགས་དབང་པོ་དྲུག
+		- [[Perfection of Wisdom/Topics/Life faculty\|Life faculty]] སྲོག་གི་དབང་པོ།
+	- Seven supported-faculties: རྟེན་ཅན་གྱི་དབང་པོ་བདུན།
+		- Two [[Perfection of Wisdom/Topics/Faculties of men and women\|Faculties of men and women]] ཕོ་མོའི་དབང་པོ་གཉིས།
+		- Faculties of pleasant feeling, mental happiness, suffering, mental unhappiness, and equanimity
 	  ཚོར་བ་བདེ་བ་དང་ཡིད་བདེ་བ་གཉིས། སྡུག་བསྔལ་དང་ཡིད་མི་བདེ་གཉིས། བཏང་སྙོམས་ཀྱི་དབང་པོ།
 	  [[Perfection of Wisdom/Topics/Faculties of the five feelings\|Faculties of the five feelings]]
 - **Eight of the completely pure class** རྣམ་བྱང་ཕྱོགས་ཀྱི་དབང་པོ་བརྒྱད།

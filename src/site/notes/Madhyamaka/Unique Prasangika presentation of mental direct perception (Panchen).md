@@ -3,7 +3,8 @@
 ---
 
 This way of positing mental direct perception is different from the Pramana system because in the continua of ordinary beings: ཡིད་ཀྱི་མངོན་སུམ་གྱི་འཇོག་ཚུལ་ཚད་མ་པ་དང་མི་འདྲ་སྟེ།
-- The sense direct perception apprehending form explicitly knows form prior to the mental direct perception apprehending form; སོ་སྐྱེའི་རྒྱུད་ཀྱི་གཟུགས་འཛིན་དབང་མངོན་གྱིས་གཟུགས་འཛིན་ཡིད་མངོན་གྱི་སྔ་རོལ་ཏུ་གཟུགས་དངོས་སུ་རིག
+- The sense direct perception apprehending form explicitly knows form prior to the mental direct perception apprehending form; 
+  སོ་སྐྱེའི་རྒྱུད་ཀྱི་གཟུགས་འཛིན་དབང་མངོན་གྱིས་གཟུགས་འཛིན་ཡིད་མངོན་གྱི་སྔ་རོལ་ཏུ་གཟུགས་དངོས་སུ་རིག
 - The mental direct perception apprehending form knows form through the force of that prior sense direct perception; and སོ་སྐྱེའི་རྒྱུད་ཀྱི་གཟུགས་འཛིན་ཡིད་མངོན་གྱིས་སྔ་མ་དབང་མངོན་དེའི་སྟོབས་ཀྱིས་གཟུགས་རིག་ཅིང༌།
 - It is by way of that that it becomes a valid cognition that eliminates superimpositions wrt form.
   དེའི་སྒོ་ནས་གཟུགས་ལ་སྒྲོ་འདོགས་གཅོད་བྱེད་ཀྱི་ཚད་མར་སོང་བ་ཡིན་པའི་ཕྱིར་ཏེ།

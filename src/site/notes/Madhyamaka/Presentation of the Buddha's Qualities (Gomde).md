@@ -7,7 +7,7 @@ The subject - the qualities of the Buddhas' strengths - there are ten because th
 1. [[Madhyamaka/Strength knowing sources and non-sources\|Strength knowing sources and non-sources]] གནས་དང་གནས་མ་ཡིན་པ་མཁྱེན་པའི་སྟོབས་དང་། 
 2. [[Madhyamaka/Strength knowing the thorough fruition of actions\|Strength knowing the thorough fruition of actions]] དེ་བཞིན་དུ་ལས་རྣམས་ཀྱི་རྣམ་པར་སྨིན་པའི་བློ་སྟེ་མཁྱེན་པའི་སྟོབས་དང་། 
 3. [[Madhyamaka/Strength knowing various dispositions\|Strength knowing various dispositions]] མོས་པ་སྣ་ཚོགས་ཐུགས་སུ་ཆུད་པའམ་མཁྱེན་པའི་སྟོབས་དང་། 
-4. [[Madhyamaka/Strength knowing the constituents\|Strength knowing the constituents]] ཁམས་ནི་སྣ་ཚོགས་པ་མཁྱེན་པའི་སྟོབས་དང་། 
+4. [[Madhyamaka/Strength knowing the various constituents\|Strength knowing the various constituents]] ཁམས་ནི་སྣ་ཚོགས་པ་མཁྱེན་པའི་སྟོབས་དང་། 
 5. [[Madhyamaka/Strength knowing supreme and non-supreme faculties\|Strength knowing supreme and non-supreme faculties]] དེ་བཞིན་དུ་དབང་པོ་མཆོག་དང་མཆོག་མ་ཡིན་པ་མཁྱེན་པའི་སྟོབས་དང་། 
 6. [[Madhyamaka/Strength knowing the paths proceeding to all existence and peace\|Strength knowing the paths proceeding to all existence and peace]] སྲིད་ཞི་ཐམས་ཅད་དུ་འགྲོ་བའི་ལམ་མཁྱེན་པའི་སྟོབས་དང་། 
 7. [[Madhyamaka/Strength knowing the concentrations, liberations, meditative stabilisations, meditative absorptions, and so forth\|Strength knowing the concentrations, liberations, meditative stabilisations, meditative absorptions, and so forth]] བསམ་གཏན་དང་རྣམ་པར་ཐར་པ་དང་ཏིང་ངེ་འཛིན་དང་སྙོམས་པར་འཇུག་པ་སོགས་བློ་སྟེ་མཁྱེན་པའི་སྟོབས་དང་། 
