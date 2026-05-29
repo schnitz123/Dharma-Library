@@ -37,6 +37,8 @@
 [[Tantra/Short Yamantaka Sadhana\|Short Yamantaka Sadhana]]
 
 **Generation and Completion Stages of Yamantaka (Lhundrub Pandita)** ལྷུན་གྲུབ་པཎྜིི་ཏའིི་འཇིིགས་བྱེེད་བསྐྱེེད་རྫོོགས།
+{ #e04bc4}
+
 - [[Tantra/Lhundrub Pandita/History of Yamantaka lineage\|History of Yamantaka lineage]]
 - [[Tantra/Lhundrub Pandita/Qualities of the Yamantaka tantra\|Qualities of the Yamantaka tantra]]
 - [[Tantra/Lhundrub Pandita/Generation stage\|Generation stage]]

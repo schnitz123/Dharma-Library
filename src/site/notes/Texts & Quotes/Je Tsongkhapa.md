@@ -15,6 +15,8 @@ O incredibly kind treasure of Venerable Wisdom!
 འབད་པ་ཆུང་ངུས་རླབས་ཆེན་ཚོགས་སྡུད་ལ། དགེ་ལ་རྗེས་སུ་ཡི་རང་མཆོག་ཏུ་གསུངས།
 In order to gather vast waves of accumulations with little effort
 Rejoicing in virtue is said to be supreme.
+{ #9eca7a}
+
 
 ---
 **From Song of Experience:** ལམ་རིམ་ཉམས་མགུར་ལས།

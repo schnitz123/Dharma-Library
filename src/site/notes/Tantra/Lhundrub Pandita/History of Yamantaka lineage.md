@@ -42,4 +42,4 @@ Following Mañjuśrī’s prophecy, Lalitavajra went to Oḍḍiyāna and receiv
 
 
 ---
-Up a level: [[Generation and Completion Stages of Yamantaka (Lhundrub Pandita)\|Generation and Completion Stages of Yamantaka (Lhundrub Pandita)]]
+Up a level: [[Tantra/Tantra#^e04bc4\|Tantra]]
