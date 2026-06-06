@@ -10,7 +10,7 @@
 6. Abandoning the Dharma ཆོས་སྤོང་།
 7. Stealing the ordained robes ངུར་སྨྲིག་འཕྲོག
 8. Engaging in the five immediate actions མཚམས་མེད་ལྔ་།
-9. Wrong views ལོག་ལྟ། (no need for four factors)
+9. Wrong views ལོག་ལྟ། *(no need for four factors)*
 10. Destroying villages and so forth གྲོང་སོགས་འཇོམས།
 11. Teaching emptiness to the untrained མ་སྦྱངས་སྟོང་ཉིད་བསྟན་དང་།
 12. Turning others away from complete enlightenment རྫོགས་བྱང་ལྡོག
@@ -19,7 +19,7 @@
 15. Lying about the profound ཟབ་བརྫུན་སྨྲ།
 16. Accepting offerings (taken) from the three jewels མཆོག་གསུམ་དཀོར་ལེན།
 17. Formulating bad regulations ཁྲིམས་ངན་འཆའ་བ།
-18. Giving up Bodhicitta སེམས་གཏོང་། (no need for four factors)
+18. Giving up Bodhicitta སེམས་གཏོང་། *(no need for four factors)*
 
 **The Four Factors for breaking a vow:** ཀུན་དཀྲིས་བཞི།
 1. Not seeing the faults ཉེས་དམིགས་མི་ལྟ་བ།

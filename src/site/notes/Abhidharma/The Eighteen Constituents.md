@@ -9,7 +9,7 @@
 ---
 **There are seven types of classifications of the constituents:** ཁམས་ཀྱི་རྣམ་པའི་རབ་དབྱེ་ལ་བདུན། 
 1. *Classifications in relation to nature:* ངོ་བོ་ལ་ལྟོས་པའི་རབ་དབྱེ། 
-	1. Demonstrative and non-demonstrative དང་པོ་ལ་བསྟན་ཡོད་བསྟན་མེད་ཀྱི་ཁྱད་པར། 
+	1. Demonstrable and non-demonstrable དང་པོ་ལ་བསྟན་ཡོད་བསྟན་མེད་ཀྱི་ཁྱད་པར། 
 	2. Obstructive and non-obstructive ཐོགས་བཅས་ཐོགས་མེད་ཀྱི་ཁྱད་པར།
 	3. Virtue, non-virtue, and unspecified དགེ་མི་དགེ་ལུང་མ་བསྟན་གསུམ་གྱི་ཁྱད་པར།
 	4. Inclusion in one of the three realms ཁམས་གསུམ་གང་རུང་དུ་གཏོགས་པ་དུ་ཡོད་ཀྱི་ཁྱད་པར།

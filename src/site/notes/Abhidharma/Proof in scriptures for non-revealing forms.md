@@ -6,9 +6,9 @@
 **The existence of non-revealing forms is established by both scriptures and reasoning:**
 
 Indications in sutra of the three: མདོ་ལས། 
-1. Forms that are demonstrative and obstructive བསྟན་དུ་ཡོད་ལ་ཐོགས་པ་དང་བཅས་པའི་གཟུགས།
-2. Forms that are non-demonstrative and obstructive  བསྟན་དུ་མེད་ལ་ཐོགས་པ་དང་བཅས་པའི་གཟུགས། 
-3. Forms that are non-demonstrative and non-obstructive བསྟན་མེད་ཐོགས་མེད་ཀྱི་གཟུགས་
+1. Forms that are demonstrable and obstructive བསྟན་དུ་ཡོད་ལ་ཐོགས་པ་དང་བཅས་པའི་གཟུགས།
+2. Forms that are non-demonstrable and obstructive  བསྟན་དུ་མེད་ལ་ཐོགས་པ་དང་བཅས་པའི་གཟུགས། 
+3. Forms that are non-demonstrable and non-obstructive བསྟན་མེད་ཐོགས་མེད་ཀྱི་གཟུགས་
 
 The latter is referring to these. གསུམ་གསུངས་པའི་ཕྱི་མ་འདི་ལ་དགོངས་པའི་ཕྱིར་དང༌། 
 

@@ -59,7 +59,7 @@ See: [[Perfection of Wisdom/Topics/Individual explanations of the Marks and Sign
 2. *From the oral tradition* མན་ངག་ལས་བྱུང་བ།
 	1. The individual proscriptive precepts སོ་སོའི་དགག་པའི་བསླབ་བྱ།
 		1. Not going for refuge to other deities ལྷ་གཞན་ལ་སྐྱབས་སུ་མི་འགྲོ་བ།
-		2. Abandoning harming sentient beings སེམས་ཅན་ལ་གནོད་འཚེ་སྤོང་བ།
+		2. Abandoning harm and violence sentient beings སེམས་ཅན་ལ་གནོད་འཚེ་སྤོང་བ།
 		3. Not associating with Outsiders མུ་སྟེག་ཅན་དང་མི་འགྲོགས་པ།
 	2. The individual prescriptive precepts སོ་སོའི་སྒྲུབ་པའི་བསླབ་བྱ།
 		1. Not judging an image of the Buddha’s body regardless of quality, and so forth

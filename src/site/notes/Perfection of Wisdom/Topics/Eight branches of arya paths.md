@@ -9,7 +9,7 @@
 1. Right view ཡང་དག་པའི་ལྟ་བ་འཕགས་པའི་ལམ་ཡན་ལག
 2. Right investigation ཡང་དག་པའི་རྟོག་པ་འཕགས་པའི་ལམ་ཡན་ལག
 3. Right speech ཡང་དག་པའི་ངག་འཕགས་པའི་ལམ་ཡན་ལག
-4. Right limits of actions ཡང་དག་པའི་ལས་ཀྱི་མཐའ་འཕགས་པའི་ལམ་ཡན་ལག
+4. Right aims of actions ཡང་དག་པའི་ལས་ཀྱི་མཐའ་འཕགས་པའི་ལམ་ཡན་ལག
 5. Right livelihood ཡང་དག་པའི་འཚོ་བ་འཕགས་པའི་ལམ་ཡན་ལག (see: [[Lamrim Glossary/The Meditation Session#^a4e35f\|Five wrong livelihoods]])
 6. Right striving ཡང་དག་པའི་རྩོལ་བ་འཕགས་པའི་ལམ་ཡན་ལག
 7. Right mindfulness ཡང་དག་པའི་དྲན་པ་འཕགས་པའི་ལམ་ཡན་ལག
