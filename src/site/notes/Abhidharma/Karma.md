@@ -28,6 +28,8 @@ This is because Sautrantika and above assert that karma are pervaded by being no
 2. Non-revealing karma རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་ལས།
 
 See: [[Abhidharma/Non-revealing forms\|Non-revealing forms]]
+{ #bd29c9}
+
 - [[Abhidharma/Proof in scriptures for non-revealing forms\|Proof in scriptures for non-revealing forms]]
 
 **Divisions:**

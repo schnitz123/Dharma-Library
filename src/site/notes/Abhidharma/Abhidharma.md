@@ -13,6 +13,16 @@
 		- [[Abhidharma/The Six Constituents\|The Six Constituents]] ཁམས་དྲུག
 
 **Chapter 2 - Presentation of the faculties**
+{ #997848}
+
+- Presentation of the faculties 
+- Production of compounded phenomena
+	- Production of physical phenomena 74
+	- Production of non-physical phenomena
+		- Minds and mental factors 76
+		- [[Abhidharma/Non-concomitant compositional factors\|Non-concomitant compositional factors]]
+- Causes, conditions, and results
+
 
 **Chapter 3 - Presentation of the world-system**
 { #9faaa3}

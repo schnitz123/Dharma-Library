@@ -7,7 +7,7 @@
 
 **Divisions (2):** དབྱེ་ན། 
 1. Concomitant compositional factors མཚུངས་ལྡན་འདུ་བྱེད་དང༌།
-2. Non-concomitant compositional factors མཚུངས་ལྡན་མ་ཡིན་པའི་འདུ་བྱེད་གཉིས། 
+2. [[Abhidharma/Non-concomitant compositional factors\|Non-concomitant compositional factors]] མཚུངས་ལྡན་མ་ཡིན་པའི་འདུ་བྱེད་གཉིས། 
  
 
 

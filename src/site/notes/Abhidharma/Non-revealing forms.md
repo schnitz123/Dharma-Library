@@ -63,4 +63,4 @@
 5. Conjured དབང་འབྱོར་བ།
 
 ---
-Up a level: [[Abhidharma/Form aggregate\|Form aggregate]]
+Up a level: [[Abhidharma/Form aggregate\|Form aggregate]] / [[Abhidharma/Karma#^bd29c9\|Karma]]
