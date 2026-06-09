@@ -23,21 +23,22 @@ This is because Sautrantika and above assert that karma are pervaded by being no
 	2. Verbal karma ངག་གི་ལས།
 
 **Bodily and verbal karma are both subdivided into:**
-1. Revealing karma རྣམ་པར་རིག་བྱེད་ཀྱི་ལས།
+1. [[Abhidharma/Revealing karma\|Revealing karma]] རྣམ་པར་རིག་བྱེད་ཀྱི་ལས།
    e.g. the physical actions of body (shape) and speech (sound)
-2. Non-revealing karma རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་ལས།
+{ #c50739}
 
-See: [[Abhidharma/Non-revealing forms\|Non-revealing forms]]
+2. Non-revealing karma རྣམ་པར་རིག་བྱེད་མ་ཡིན་པའི་ལས།
+   See: [[Abhidharma/Non-revealing forms\|Non-revealing forms]]
 { #bd29c9}
 
-- [[Abhidharma/Proof in scriptures for non-revealing forms\|Proof in scriptures for non-revealing forms]]
+	- [[Abhidharma/Proof in scriptures for non-revealing forms\|Proof in scriptures for non-revealing forms]]
+	- [[Abhidharma/Causes of non-revealing forms\|Causes of non-revealing forms]]
+	- [[Abhidharma/Nature of non-revealing forms\|Nature of non-revealing forms]]
 
-**Divisions:**
+**Divisions:** ([[Abhidharma/Other divisions of karma\|Other divisions of karma]])
 1. [[Abhidharma/Virtue\|Virtue]] དགེ་བ།
 2. [[Abhidharma/Non-virtue\|Non-virtue]] མི་དགེ་བ།
 3. [[Abhidharma/Unspecified\|Unspecified]] ལུང་དུ་མ་བསྟན།
-
-[[Abhidharma/Other divisions of karma\|Other divisions of karma]]
 
 ---
 
