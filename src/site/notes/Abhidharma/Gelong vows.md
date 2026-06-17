@@ -17,7 +17,7 @@ For their definitions replace the above with:
 
 The 253 are: ཉིས་བརྒྱ་ལྔ་བཅུ་རྩ་གསུམ་ནི། 
 - Four common downfalls ཕམ་པ་ཐུན་མོང་བ་བཞི།
-- Remaining thirteen ལྷག་མ་བཅུ་གསུམ།
+- Thirteen remainders ལྷག་མ་བཅུ་གསུམ།
 - Thirty transgressions requiring forfeiture སྤང་ལྟུང་སུམ་ཅུ།
 - Ninety simple transgressions འབའ་ཞིག་པ་དགུ་བཅུ། 
 - Four individually confessed སོར་བཤགས་བཞི། 

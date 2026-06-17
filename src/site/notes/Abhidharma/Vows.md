@@ -13,6 +13,8 @@
 སོ་ཐར་གྱི་སྡོམ་པ་ལ་གཟུགས་ཅན་གྱིས་ཁྱབ་ཀྱི་བསམ་གཏན་དང་ཟག་མེད་ཀྱི་སྡོམ་པ་གཟུགས་ཅན་ནི་མ་ཡིན་ཏེ། དེ་གཉིས་སེམས་ཀྱི་རྗེས་འབྲང་ཡིན་པའི་ཕྱིར་དང༌། ཡིད་ཀྱི་སྡོམ་པ་དང་དབང་པོའི་སྡོམ་པ་ཡོད་པའི་ཕྱིར།
 The individual liberation vows are pervaded by being physical. the concentration and uncontaminated vows are not physical 1) because those two follow upon the mind and 2) because mental vows and faculty vows exist.
 
+[[Abhidharma/Abandonment vows (Chim)\|Abandonment vows (Chim)]] སྤོང་བའི་སྡོམ་པ།
+
 ---
 སོ་ཐར་གྱི་སྡོམ་པ་སྐད་ཅིག་མ་དང་པོ་ཐོབ་ནས་མ་བཏང་གི་བར་དུ་ད་ལྟར་གྱི་རྣམ་པར་རིག་བྱེད་མ་ཡིན་པ་དང་ལྡན། 
 སྐད་ཅིག་གཉིས་པ་ཕྱིན་ཆད་འདས་པའི་རྣམ་པར་རིག་བྱེད་མ་ཡིན་པ་དང་ལྡན་པ་ཡིན་ཞིང༌། སྡོམ་མིན་ལ་གནས་པའང་ལྡན་ཚུལ་དེ་དང་འདྲའོ།
