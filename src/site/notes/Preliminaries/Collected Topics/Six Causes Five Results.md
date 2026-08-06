@@ -38,6 +38,8 @@
 
 ---
 **Five Results:**
+{ #c42e21}
+
 1. **Dominant / Environmental Result** བདག་པོའི་འབྲས་བུ། - Caused by 1.
    e.g. the impure container world-system.
 { #01307e}

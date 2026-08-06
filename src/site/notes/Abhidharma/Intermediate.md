@@ -7,7 +7,6 @@
 1. Specified; and
 2. Not being either a vow or non-vow.
 
-སྡོམ་མིན་ནི་གང་ཟག་གི་རྒྱུད་ཀྱི་སྲོག་གཅོད་ཀྱི་ལས་ལྟ་བུ།
 
 
 ---

@@ -18,11 +18,13 @@
 2. Intention བསམ་པ།
 	1. Motivation ཀུན་སློང་།
 	2. Discrimination འདུ་ཤེས།
-	3. Any of the three poisons དུག་གསུམ་གང་རུང་།
+	3. Any of the three poisons (in the case of non-virtues) དུག་གསུམ་གང་རུང་།
 3. Application སྦྱོར་བ།
 4. Completion མཐར་ཐུག
 
 **The Ten Non-Virtues:** མི་དགེ་བའི་བཅུ། 
+{ #171bef}
+
 1. Three pathways of actions through *Body* ལུས་ཀྱི་ལས་ཀྱི་ལམ་གསུམ།
 	1. Killing སྲོག་གཅོད་པ།
 	2. Stealing (Taking what is not given) མ་བྱིན་པ་ལེན་པ།
@@ -66,6 +68,8 @@
 3.	[[Preliminaries/Collected Topics/Six Causes Five Results#^01307e\|Environmental or dominant result]] བདག་པོའི་འབྲས་བུའམ། དབང་གི་འབྲས་བུ།
 
 **The causally concordant results of the Ten Non-Virtues:** མི་དགེ་བ་བཅུའི་རྒྱུ་མཐུན་པའི་འབྲས་བུ།
+{ #57d350}
+
 1. Short life and many sicknesses ཚེ་ཐུང་ལ་ནད་མང་བ།
 2. Few resources and even those are shared ལོངས་སྤྱོད་ཆུང་ལ་ལོངས་སྤྱོད་གཞན་དང་ཐུན་མོང་བ།
 3. People around you are disorderly and untrustworthy, contentious spouse
@@ -110,5 +114,5 @@
 4. The Power of the Support / Reliance རྟེན་གྱི་སྟོབས།
 
 ---
-See also: [[Perfection of Wisdom/Dependent Arising/Compositional actions\|Compositional actions]]
+See also: [[Perfection of Wisdom/Dependent Arising/Compositional actions\|Compositional actions]] / [[Abhidharma/The ten virtues and ten non-virtues\|The ten virtues and ten non-virtues]]
 Up a level: [[Lamrim Glossary/Lamrim Glossary\|Lamrim Glossary]]

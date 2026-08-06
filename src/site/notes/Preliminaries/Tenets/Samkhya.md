@@ -5,8 +5,8 @@
 **(Konchog Jigme Wangpo:)** Sāṃkhyas follow the Sage Kapila.
 
 They assert that objects of knowledge are definite in number as twenty-five; the twenty-five are:
-- Self 				[Puruṣa]
-- Principal-Generality			[Prakṛti]
+- Self 				[ / Being, Puruṣa]
+- Principal-Generality			[Pradhāna / Nature, Prakṛti]
 - The Great 			[Mahat / Intellect, buddhi]
 - Ego 				[Ahaṁkāra]
 - The Five Sense Objects 	[Tanmātra]

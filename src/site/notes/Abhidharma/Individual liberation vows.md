@@ -20,7 +20,7 @@ In this context, the individual liberation vows are pervaded by being physical b
 
 **By way of substance-type:** རྫས་རིགས་ཀྱི་སྒོ་ནས།
 1. [[Abhidharma/Gelong vows\|Gelong vows]] དགེ་སློང༌གི་སྡོམ་པ།
-2. [[Lamrim Glossary/Getsul Vows\|Getsul vows]] དགེ་ཚུལ་གྱི་སྡོམ་པ།
+2. [[Lamrim Glossary/Getsul Vows\|Getsul vows]] དགེ་ཚུལ་གྱི་སྡོམ་པ། + [[Abhidharma/Probationary nun vows\|Probationary nun vows]] དགེ་སློབ་མའི་སྡོམ་པ།
 3. [[Abhidharma/Lay (upāsaka) vows\|Lay (upāsaka) vows]] དགེ་བསྙེན་གྱི་སྡོམ་པ། 
 4. [[Abhidharma/Temporary vows\|Temporary vows]] བསྙེན་གནས་ཀྱི་སྡོམ་པ།
 

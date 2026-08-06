@@ -35,7 +35,7 @@ This is because Sautrantika and above assert that karma are pervaded by being no
 	- [[Abhidharma/Causes of non-revealing forms\|Causes of non-revealing forms]]
 	- [[Abhidharma/Nature of non-revealing forms\|Nature of non-revealing forms]]
 
-**Divisions:** ([[Abhidharma/Other divisions of karma\|Other divisions of karma]])
+**Divisions:** ([[Abhidharma/Fifteen divisions of karma\|Fifteen divisions of karma]])
 1. [[Abhidharma/Virtue\|Virtue]] དགེ་བ།
 2. [[Abhidharma/Non-virtue\|Non-virtue]] མི་དགེ་བ།
 3. [[Abhidharma/Unspecified\|Unspecified]] ལུང་དུ་མ་བསྟན།

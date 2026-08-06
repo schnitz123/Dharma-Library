@@ -37,6 +37,7 @@
 - [[Abhidharma/Karma\|Karma]]
 	- [[Abhidharma/Non-revealing forms\|Non-revealing forms]]
 	- [[Abhidharma/Vows\|Vows]]
+	- [[Abhidharma/Fifteen divisions of karma\|Fifteen divisions of karma]]
 - [[Abhidharma/Three Jewels\|Three Jewels]] / [[Abhidharma/Going for refuge\|Going for refuge]]
 
 **Chapter 5 - Presentation of the subtle-increasers**
