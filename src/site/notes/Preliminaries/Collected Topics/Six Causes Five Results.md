@@ -44,7 +44,7 @@
    e.g. the impure container world-system.
 { #01307e}
 
-2. **Personally Made Result** སྐྱེས་བུས་བྱེད་པའི་འབྲས་བུ། - Caused by 2 + 3.
+2. **Result created by persons** སྐྱེས་བུས་བྱེད་པའི་འབྲས་བུ། - Caused by 2 + 3.
    e.g. a harvest accomplished through effort by the farmer.
 { #bbf10b}
 

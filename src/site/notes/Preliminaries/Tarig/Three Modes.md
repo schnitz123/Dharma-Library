@@ -10,6 +10,10 @@
 Illustration of all three: product, i.e. the [[Preliminaries/Tarig/Correct sign\|correct sign]].
 
 [[Preliminaries/Tarig/Three modes in Pramanavartika\|Three modes in Pramanavartika]]
+Three modes in Jetsunpa's Pramanavartika:
+1. [[Preliminaries/Tarig/Property of the position (Jetsunpa)\|Property of the position (Jetsunpa)]]
+2. [[Preliminaries/Tarig/Forward pervasion (Jetsunpa)\|Forward pervasion (Jetsunpa)]]
+3. [[Preliminaries/Tarig/Reverse pervasion (Jetsunpa)\|Reverse pervasion (Jetsunpa)]]
 
 ---
 **The Eight Doors of a Consequence:** ཐལ་འགྱུར་སྒོ་བརྒྱད་ནི།

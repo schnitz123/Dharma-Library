@@ -2,22 +2,10 @@
 {"dg-publish":true,"permalink":"/preliminaries/tarig/three-modes-in-pramanavartika/","dg-note-properties":{}}
 ---
 
-རང་ཉིད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པ་ལ་རྟགས་ཚུལ་དང་པོར་སོང་བའི་གང་ཟག་གིས། རང་ཉིད་སྒྲའི་སྟེང་དུ་འགོད་ཚུལ་དང་མཐུན་པར་ཡོད་པ་ཉིད་དུ་ཚད་མས་ངེས་པ། 
-རང་ཉིད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་ཕྱོགས་ཆོས་ཡིན་པའི་མཚན་ཉིད།
-**Definition of being the property of the position in the proof that sound is impermanent:** 
-That ascertained by valid cognition as categorically existing on the basis of sound in accordance with the mode of statement by the person for whom it holds as the first mode of the sign in the proof that sound is impermanent.
+1. [[Preliminaries/Tarig/Property of the position (Jetsunpa)\|Property of the position (Jetsunpa)]]
+2. [[Preliminaries/Tarig/Forward pervasion (Jetsunpa)\|Forward pervasion (Jetsunpa)]]
+3. [[Preliminaries/Tarig/Reverse pervasion (Jetsunpa)\|Reverse pervasion (Jetsunpa)]]
 
-རང་ཉིད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པ་ལ་རྟགས་ཚུལ་གཉིས་པར་སོང་བའི་གང་ཟག་དེས། རང་ཉིད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་མཐུན་ཕྱོགས་ཁོ་ན་ལ་ཡོད་པར་ཚད་མས་ངེས་པ། 
-རང་ཉིད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་རྗེས་ཁྱབ་ཡིན་པའི་མཚན་ཉིད།
-**Definition of being the forward pervasion in the proof that sound is impermanent:** 
-That ascertained by valid cognition as only existing in the concordant class in the proof that sound is impermanent by the person for whom it holds as the second mode of the sign in the proof that sound is impermanent.
-
-རང་ཉིད་སྒྲ་མི་རྟག་སྒྲུབ་ལ་རྟགས་ཚུལ་གསུམ་པར་སོང་བའི་གང་ཟག་དེས་རང་ཉིད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་མི་མཐུན་ཕྱོགས་ལ་མེད་པ་ཁོ་ནར་ཚད་མས་ངེས་པ། 
-རང་ཉིད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་ལྡོག་ཁྱབ་ཡིན་པའི་མཚན་ཉིད།
-**Definition of being the reverse pervasion in the proof that sound is impermanent:** 
-That ascertained by valid cognition as categorically non-existent in the discordant class in the proof that sound is impermanent by the person for whom it holds as the third mode of the sign in the proof that sound is impermanent.
-
----
 མཚན་ཉིད་ཕྱི་མ་འདི་དེ་སྒྲུབ་ལ་སྦྱར་ན་ཚིག་སྐྱོན་འཇུག་པས། 
 Since a fault in the words is incurred if this latter definition is connected to “in the proof of that”, then:
 

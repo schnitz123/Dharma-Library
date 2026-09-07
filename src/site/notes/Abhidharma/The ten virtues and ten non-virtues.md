@@ -124,5 +124,89 @@ Since the preparation of killing (for example) acts to make the other suffer, th
 See: [[Lamrim Glossary/Karma - Law of Cause and Effect#^57d350\|Karma - Law of Cause and Effect]]
 See: [[Preliminaries/Collected Topics/Six Causes Five Results#^c42e21\|Six Causes Five Results]]
 
+**How many results:**
+- Contaminated and uncontaminated
+	- Actions of stained paths of abandonment: དྲི་བཅས་སྤོང་བའི་ལམ་དག་གི་ལས།
+		1. Fruitional result due to being contaminated virtue
+		   ཟག་བཅས་དགེ་བ་ཡིན་པས་རྣམ་སྨིན་གྱི་འབྲས་བུ་དང་བཅས།
+		2. Result created by persons, i.e. those arisen simultaneously with and those produced immediately after through the force of that
+		   དེའི་སྟོབས་ཀྱིས་ཅིག་ཅར་འབྱུང་བ་དང་། རྗེས་ཐོགས་དེ་མ་ཐག་ཏུ་སྐྱེས་པ་སྐྱེས་བུའི་བྱེད་འབྲས་དང་།
+		3. Dominant result, i.e. the compounded phenomenon that was not previously arisen
+		   དེའི་སྔོན་བྱུང་བ་མིན་པའི་འདུས་བྱས་ནི་བདག་པོའི་འབྲས་བུ་དང་།
+		4. Causally concordant result, i.e. the later similar class
+		   རིགས་འདྲ་ཕྱི་མ་རྣམས་ནི་རྒྱུ་མཐུན་གྱི་འབྲས་བུ་དང་།
+		5. Separation result due to being an uninterrupted path
+		   བར་ཆད་མེད་ལམ་ཡིན་པས་བྲལ་བའི་འབྲས་བུ་དང་བཅས།
+	- Actions of stainless paths of abandonment: Four results excluding the fruitional result
+	  དྲི་མེད་སྤོང་ལམ་གྱི་ལས་ཀྱི་འབྲས་བུ་ནི་རྣམ་སྨིན་མ་གཏོགས་པ་བཞིའི་འབྲས་བུར་བཅས།
+	- Contaminated virtuous and non-virtuous actions other than paths of abandonment: Four results excluding separation result
+	  ཟག་བཅས་སྤོང་ལམ་ལས་གཞན་དགེ་བ་དང་མི་དགེ་བ་གང་ཡིན་པའི་ལས་ཀྱི་འབྲས་བུའང་བྲལ་འབྲས་མ་གཏོགས་པ་བཞི།
+	- Actions other than uncontaminated paths of abandonment as well as unspecified actions: Three results excluding fruitional and separation results
+	  ཟག་པ་མེད་པའི་སྤོང་ལམ་ལས་ལྷག་མ་དང་། ལུང་བསྟན་མིན་གང་གི་ལས་ཀྱི་འབྲས་བུ་ནི་རྣམ་སྨིན་དང་བྲལ་འབྲས་མ་གཏོགས་པ་གསུམ།
+- Virtuous, non-virtuous, unspecified:
+	- Virtuous actions: དགེ་བའི་ལས་ཀྱི་
+		- Virtuous results: Four results excluding fruitional result
+		  འབྲས་བུ་དགེ་བ་ནི་རྣམ་སྨིན་མ་གཏོགས་པ་བཞི་དང་།
+		- Non-virtuous results: The two of result created by persons and dominant result
+		  འབྲས་བུ་མི་དགེ་བ་ནི་སྐྱེས་བདག་གཉིས་དང་།
+		- Unspecified results: Those two plus fruitional result
+		  འབྲས་བུ་ལུང་མ་བསྟན་ནི་དེའི་སྟེང་དུ་རྣམ་སྨིན་ཏེ་གསུམ།
+	- Non-virtuous actions: མི་དགེ་བའི་ལས་ཀྱི་
+		- Virtuous results: The two of result created by persons and dominant result
+		  འབྲས་བུ་དགེ་བ་ནི་སྐྱེས་བདག་གཉིས་དང་།
+		- Non-virtuous results: Those two plus causally concordant result
+		  མི་དགེ་བ་ནི་དེའི་སྟེང་དུ་རྒྱུ་མཐུན་ཏེ་གསུམ་དང་།
+		- Unspecified results: Four excluding separation result
+		  ལུང་མ་བསྟན་ནི་བྲལ་འབྲས་མ་གཏོགས་པ་བཞི།
+	- Unspecified actions: ལུང་དུ་བསྟན་པ་མིན་པའི་ལས་ཀྱི་
+		- Virtuous results: The two of result created by persons and dominant result
+		  འབྲས་བུ་དགེ་བ་ནི་སྐྱེས་བདག་གཉིས་དང་།
+		- Non-virtuous results: Those two plus causally concordant result
+		  མི་དགེ་བ་ནི་དེའི་སྟེང་དུ་རྒྱུ་མཐུན་ཏེ་གསུམ།
+		- Unspecified results: Similarly three
+		  ལུང་མ་བསྟན་ནི་དེ་བཞིན་དུ་གསུམ།
+- Past, present, future actions: 
+	- Past (past, present, future results): Four excluding separation result
+	  བྲལ་འབྲས་མ་གཏོགས་པ་བཞི།
+	- Present:
+		- Future result: Four excluding separation result
+		  བྲལ་འབྲས་མ་གཏོགས་པ་བཞི།
+		- Present result: The two of result created by persons and dominant result
+		  སྐྱེས་བདག་གཉིས།
+	- Future + future results: Three excluding causally concordant and separation results
+	  རྒྱུ་མཐུན་དང་བྲལ་འབྲས་མ་གཏོགས་པ་གསུམ།
+- Same and different level
+	- Same level + same level: Four excluding separation result
+	  བྲལ་འབྲས་མ་གཏོགས་པ་བཞི།
+	- Different level + different level:
+		- If uncontaminated: The three of result created by persons, dominant result, and causally concordant result
+		  སྐྱེས་བདག་གཉིས་དང་རྒྱུ་མཐུན་ཏེ་གསུམ།
+		- If contaminated: The two of result created by persons and dominant result
+		  སྐྱེས་བདག་གཉིས།
+- Learners, Non-Learners, neither
+	- Learners actions:
+		- Learners results: The three of result created by persons, dominant result, and causally concordant result
+		  སྐྱེས་བདག་གཉིས་དང་རྒྱུ་མཐུན་ཏེ་གསུམ་དང་།
+		- Non-Learners results: Same three གསུམ་དང་།
+		- Neither results: The three of separation result, result created by persons, and dominant result
+		  བྲལ་འབྲས་དང་སྐྱེས་བདག་གཉིས་ཏེ་གསུམ།
+	- Non-Learners actions:
+		- Learners results: Dominant result
+		  བདག་འབྲས་གཅིག་དང་།
+		- Non-Learners results: The three of result created by persons, dominant result, and causally concordant result
+		  སྐྱེས་བདག་གཉིས་དང་རྒྱུ་མཐུན་ཏེ་གསུམ་དང་།
+		- Neither results: The two of result created by persons and dominant result
+		  སྐྱེས་བདག་གཉིས།
+	- Neither actions:
+		- Learner results: The two of result created by persons and dominant result
+		  སྐྱེས་བདག་གཉིས།
+		- Non-Learner results: The same two
+		  དེ་གཉིས་དང་།
+		- Neither results: All five
+		  ལྔ་དང་བཅས།
+- Objects of abandonment of the path of seeing, meditation, and those not to be abandoned
+
+330
+
 ---
 Up a level: [[Abhidharma/Fifteen divisions of karma#^ea2804\|Fifteen divisions of karma]]
