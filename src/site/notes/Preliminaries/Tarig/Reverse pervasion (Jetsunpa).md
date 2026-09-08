@@ -26,4 +26,4 @@ If “categorically/only” is mentioned before “non-existent”, then a doubt
 There is a purpose for **stating “ascertained”** as part of the explained definition of that because it is in order to exclude “product” from being an indefinite reason with contradictory remainder in the proof that sound is impermanent; just like the proof that the being opposite who speaks is not all-knowing using the sign “speaking”.
 
 ---
-Up a level: [[Preliminaries/Tarig/Three modes in Pramanavartika\|Three modes in Pramanavartika]] / [[Preliminaries/Tarig/Three Modes\|Three Modes]]
+Up a level: [[Preliminaries/Tarig/Three modes in Pramanavartika (Jetsunpa)\|Three modes in Pramanavartika (Jetsunpa)]] / [[Preliminaries/Tarig/Three Modes\|Three Modes]]

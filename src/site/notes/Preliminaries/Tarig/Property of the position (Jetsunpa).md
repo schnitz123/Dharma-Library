@@ -21,4 +21,4 @@ The subject – **stating the word “ascertained”** as part of the explained 
 
 
 ---
-Up a level: [[Preliminaries/Tarig/Three modes in Pramanavartika\|Three modes in Pramanavartika]] / [[Preliminaries/Tarig/Three Modes\|Three Modes]]
+Up a level: [[Preliminaries/Tarig/Three modes in Pramanavartika (Jetsunpa)\|Three modes in Pramanavartika (Jetsunpa)]] / [[Preliminaries/Tarig/Three Modes\|Three Modes]]

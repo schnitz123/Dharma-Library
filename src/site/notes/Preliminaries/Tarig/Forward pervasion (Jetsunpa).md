@@ -29,4 +29,4 @@ If “only/categorically” is not stated before “existent” but rather is st
 There is a purpose for **stating “ascertained”** because it is in order to eliminate [the case where] the debater for whom “product” holds as the property of the position in the proof that sound is impermanent doubts whether or not product exists in the concordant class in the proof that sound is impermanent, just like the proof that the being opposite who speaks is free from attachment using the sign “speaking”.
 
 ---
-Up a level: [[Preliminaries/Tarig/Three modes in Pramanavartika\|Three modes in Pramanavartika]] / [[Preliminaries/Tarig/Three Modes\|Three Modes]]
+Up a level: [[Preliminaries/Tarig/Three modes in Pramanavartika (Jetsunpa)\|Three modes in Pramanavartika (Jetsunpa)]] / [[Preliminaries/Tarig/Three Modes\|Three Modes]]
