@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/tantra/tantra/","dg-note-properties":{}}
 ---
 
+*Disclaimer: The study and practice of Tantric texts and commentaries is usually restricted to practitioners who have received the appropriate empowerments etc. so please use your own judgement as to what is appropriate for you.*
+
 **The four classes of secret mantra (Ngawang Pelden):** གསང་ཆེན་རྒྱུད་སྡེ་བཞི་ལ།
 1. [[Tantra/Action Tantra\|Action Tantra]] བྱ་རྒྱུད།
 2. [[Tantra/Performance Tantra\|Performance Tantra]] སྤྱོད་རྒྱུད།
@@ -13,6 +15,8 @@
 4. [[Tantra/Highest Yoga Tantra\|Highest Yoga Tantra]] བླ་མེད་རྣལ་འབྱོར་རྒྱུད།
 	- [[Tantra/Generation Stage\|Generation Stage]]
 	- [[Tantra/Completion Stage\|Completion Stage]]
+
+[[Lamrim Glossary/Tantric vows\|Tantric vows]]
 
 ---
 **Taking the three bodies into the path (YGL)**

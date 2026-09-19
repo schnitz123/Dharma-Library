@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lamrim-glossary/tantric-vows/","dg-note-properties":{}}
 ---
 
-**Root Vows:** སྔགས་ཀྱི་རྩ་ལྟུང་བཅུ་བཞི།
+**Fourteen Root Vows:** སྔགས་ཀྱི་རྩ་ལྟུང་བཅུ་བཞི།
 1. Disrespecting one’s guru བླ་མ་ལ་བརྙས་སྨོད།
 2. Disregarding the trainings བསླབ་བྱར་ཁྱད་བསོད་བྱེད་པ།
 3. Expressing faults in one’s vajra siblings སྤུན་ལ་སྐྱོན་བརྗོད།
@@ -18,7 +18,7 @@
 13. Not holding one’s pledges དམ་ཚིག་མི་ལྡན།
 14. Belittling women བུད་མེད་སྨོད་པ།
 
-**Secondary Vows:** སྦོམ་པོ་བརྒྱད།
+**Eight Secondary Vows:** སྦོམ་པོ་བརྒྱད།
 1. Relying upon an unqualified consort མཚན་ཉིད་མི་ལྡན་ཕྱག་རྒྱར་བསྟེན།
 2. Engaging in union without the three discriminations འདུ་ཤེས་གསུམ་བྲལ་སྙོམས་འཇུག་བྱེད།
 3. Showing secret substances to an unsuitable vessel སྣོད་མི་རུང་ལ་གསང་རྫས་སྟོན།
@@ -33,8 +33,9 @@
 2. Needlessly transgressing the pratimoksha or bodhisattva vows དགོས་མེད་སོ་བྱང་བསླབ་ལས་འདས།
 3. Acting in contradiction to The Fifty Verses of Guru Devotion བླ་མ་ལྔ་བཅུའི་སྐབས་དང་འགལ་བ།
 
-**Pledges of Five Buddha Families:**
-1. The six pledges of Vairocana ཚུལ་ཁྲིམས་གསུམ་གཟུང་བ་དང་། སྐྱབས་སུ་འགྲོ་བ།
+**Pledges of Five Buddha Families:** (19)
+1. The six pledges of Vairocana (རྣམ་སྣང་།) 
+   ཚུལ་ཁྲིམས་གསུམ་གཟུང་བ་དང་། སྐྱབས་སུ་འགྲོ་བ།
 	1. The morality of restraining from non-virtuous conduct
 	2. The morality of performing virtuous actions
 	3. The morality of benefiting other sentient beings
@@ -42,21 +43,25 @@
 		1. The Buddha
 		2. The Dharma
 		3. The Sangha
-2. The four pledges of Akshobhya རྡོ་རྗེ། དྲིལ་བུ། ཕྱག་རྒྱ། སློབ་དཔོན་གཟུང་བ།
+2. The four pledges of Akshobhya (མི་བསྐྱོད་པ།) 
+   རྡོ་རྗེ། དྲིལ་བུ། ཕྱག་རྒྱ། སློབ་དཔོན་གཟུང་བ།
 	1. The mind pledge of the vajra – the symbol of the exalted wisdom of indivisible bliss and emptiness
 	2. The speech pledge of the bell – the symbol of the wisdom realizing emptiness
 	3. The pledge of mudra – generating oneself as the deity
 	4. The pledge of the vajra master – making offerings and remembering the vajra master six times a day
-3. The four pledges of Ratnasambhava ཟང་ཟིང་། ཆོས། མི་འཇིགས་པ། བྱམས་པའི་སྦྱིན་པ་བཞི།
+3. The four pledges of Ratnasambhava (རིན་ཆེན་འབྱུང་གནས།) 
+   ཟང་ཟིང་། ཆོས། མི་འཇིགས་པ། བྱམས་པའི་སྦྱིན་པ་བཞི།
 	1. Giving material things
 	2. Giving the Dharma
 	3. Giving protection
 	4. Giving love
-4. The three pledges of Amitabha ཕྱི་དང་། གསང་བ། ཐེག་པ་གསུམ་གྱི་ཆོས་གཟུང་བ།
+4. The three pledges of Amitabha (འོད་དཔག་མེད།) 
+   ཕྱི་དང་། གསང་བ། ཐེག་པ་གསུམ་གྱི་ཆོས་གཟུང་བ།
 	1. Preserving the external tantra teachings – action and performance tantras
 	2. Preserving the secret tantra teachings – yoga and highest yoga tantras
 	3. Preserving the teachings of the hearer, solitary realiser, and bodhisattva vehicles
-5. The two pledges of Amoghasiddhi མཆོད་པའི་ལས་ལ་བརྩོན་པ།
+5. The two pledges of Amoghasiddhi (དོན་ཡོད་གྲུབ་པ།) 
+   མཆོད་པའི་ལས་ལ་བརྩོན་པ།
 	1. Preserving and keeping the purity of the pledges of the other four buddha families
 	2. Making inner, outer, secret, and suchness offerings
 

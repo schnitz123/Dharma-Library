@@ -28,3 +28,16 @@
 - The four high empowerments གོང་མ་བཞི།
 - The four greatly high empowerments གོང་ཆེན་བཞི།
 - The empowerment of the great lord vajra-master རྡོ་རྗེ་སློབ་དཔོན་བདག་པོ་ཆེན་པོའི་དབང་།
+
+**In Cakrasamvara/Vajrayogini, there are eleven parts of the vase empowerment:** བུམ་དབང་བཅུ་གཅིག
+- The five of water, crown, vajra, bell and name ཆུའི་དབང་དང་། ཅོད་པན་གྱི་དབང་། རྡོ་རྗེའི་དབང་། དྲིལ་བུའི་དབང་། མིང་གི་དབང་།
+- The Vajra Master empowerment  རྡོ་རྗེ་སློབ་དཔོན་གྱི་དབང་།
+- The Mantra empowerment སྔགས་ཀྱི་དབང་། 
+- The Prophesy and Breath empowerment ལུང་བསྟན་དང་དབུགས་དབྱུང་གཉིས་གཅིག་ཏུ་མཛད་པའི་དབང་།
+- The Vajra Discipline empowerment རྡོ་རྗེའི་བརྟུལ་ཞུགས་ཀྱི་དབང་།
+- The Conduct Discipline empowerment སྤྱོད་པའི་བརྟུལ་ཞུགས་ཀྱི་དབང་། 
+- The Subsequent Permission empowerment རྗེས་གནང་གི་དབང་བཅས་བཅུ་གཅིག་གོ
+
+
+
+
