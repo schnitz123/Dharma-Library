@@ -6,7 +6,7 @@
 
 A concise manual on the Six Dharmas of Naropa.
 
-*Disclaimer:* This commentary is usually restricted to practitioners with the appropriate empowerments etc. Please use your own judgement as to whether it is appropriate for you.
+**Disclaimer:** This commentary is usually restricted to practitioners with the appropriate empowerments etc. Please use your own judgement as to whether it is appropriate for you.
 
 <a href="/pdf/Source%20of%20the%20Siddhi%20of%20Great%20Bliss.pdf" download>Download here</a>
 
