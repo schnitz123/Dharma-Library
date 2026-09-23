@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/website/translations/source-of-the-siddhi-of-great-bliss/","dg-note-properties":{}}
 ---
 
-<img src="/pdf/sixyogas_icon.png" class="gyurme-pic">Source of the Siddhi of Great Bliss by Nagtsang Tulku - version 0.2 uploaded 08/09/26
+<img src="/pdf/sixyogas_icon.png" class="gyurme-pic">Source of the Siddhi of Great Bliss by Nagtsang Tulku - version 0.3 uploaded 22/09/26
 
 A concise manual on the Six Dharmas of Naropa.
 
