@@ -5,7 +5,7 @@
 ས་དྲུག་པ་མངོན་དུ་ཕྱོགས་པ་སྟེ་མངོན་དུ་གྱུར་པར་སྟོང་ཉིད་ལ་མཉམ་པར་གཞག་པའི་སེམས་ཕུལ་དུ་བྱུང་བ་ལ་གནས་ཏེ། 
 དེ་ལ་བརྟེན་ནས་ས་འདིར་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་རྐྱེན་ཉིད་འདི་པ་ཙམ་གྱི་ཟབ་མོའི་དེ་ཁོ་ན་ཉིད་མངོན་སུམ་དུ་མཐོང་བའི་བྱང་སེམས་ས་དྲུག་པ་བ་དེ་ཆོས་ཅན། 
 འདིར་བསྟན་ཐུན་མོང་མ་ཡིན་པའི་འགོག་པའིེ་སྙོམས་འཇུག་ཐོབ་པར་འགྱུར་ཏེ། ཤེས་རབ་ལྷག་པར་ཐོབ་པ་ལ་གནས་པའི་སེམས་དཔའ་ཡིན་པའི་ཕྱིར།
-The subject - on the sixth ground, the Approaching or Manifest, in dependence upon abiding in the excellent mind that is in meditative equipoise on emptiness, the sixth ground bodhisattva directly perceives profound suchness that is the dependent-arising of mere conditionality - they attain the uncommon [[Madhyamaka/Absorption of cessation\|absorption of cessation]] indicated in this context because of being a bodhisattva abiding in the attainment of surpassing wisdom.
+The subject - on the sixth ground, the Approaching or Manifest, in dependence upon abiding in the excellent mind that is in meditative equipoise on emptiness, the sixth ground bodhisattva directly perceives profound suchness that is the dependent-arising of mere conditionality - they attain the uncommon [[Madhyamaka/Absorption of cessation\|Absorption of cessation]] indicated in this context because of being a bodhisattva abiding in the attainment of surpassing wisdom.
 
 ས་དྲུག་པའི་ཡེ་ཤེས་ཆོས་ཅན། ཁྱོད་ལ་མངོན་དུ་གྱུར་པ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཤེས་རབ་ལྷག་པའི་སྒོ་ནས་བདེན་པ་དང་། 
 རྟེན་འབྲེལ་གཟུགས་བརྙན་དང་འདྲ་བའི་ཆོས་ཉིད་མངོན་དུ་གྱུར་ཅིང་། ས་ལྔ་པར་བདེན་བཞི་ལ་མཁས་པའི་ཤེས་རབ་རྫོགས་པས། 

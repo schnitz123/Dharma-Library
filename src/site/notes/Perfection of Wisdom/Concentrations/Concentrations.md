@@ -10,7 +10,7 @@
 [[Perfection of Wisdom/Concentrations/The result attained (actual meditative absorption)\|The result attained (actual meditative absorption)]] དངོས་གཞི།
 - [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the concentrations\|Concentrations]] (4)
 - [[Perfection of Wisdom/Concentrations/Actual meditative absorptions of the Formless Realm\|Formless Absorptions]] (4)
-- [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|Absorption of cessation]]
+- [[Perfection of Wisdom/Topics/Absorption of cessation\|Absorption of cessation]] / [[Abhidharma/Absorption without discrimination\|Absorption without discrimination (Abhidharma)]]
 - [[Perfection of Wisdom/Concentrations/Progression through definite emergence (GJG)\|Progression through definite emergence (GJG)]]
 - [[Perfection of Wisdom/Topics/samsara chart\|samsara chart]]
 - [[Perfection of Wisdom/Concentrations/Persons who attain those\|Persons who attain those]]

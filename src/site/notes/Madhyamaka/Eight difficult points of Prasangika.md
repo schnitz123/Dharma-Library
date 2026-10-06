@@ -32,7 +32,7 @@
 5. The existence of yogic direct perception in the continua of ordinary beings
    ཚུར་མཐོང་གི་རྒྱུད་ལ་རྣལ་འབྱོར་མངོན་སུམ་ཡོད་པ།
 6. Nirvana without remainder is attained first ལྷག་མེད་མྱང་འདས་དང་པོ་ཐོབ་པ། (see: [[Madhyamaka/Hinayana Nirvana with and without remainder\|here]])
-7. The uncommon [[Madhyamaka/Absorption of cessation\|absorption of cessation]] is pervaded by being a consciousness
+7. The uncommon [[Madhyamaka/Absorption of cessation\|Absorption of cessation]] is pervaded by being a consciousness
    ཐུན་མོང་མ་ཡིན་པའི་འགོག་སྙོམས་ལ་ཤེས་པ་ཡིན་པས་ཁྱབ་པ།
 8. True cessations are pervaded by being emptiness འགོག་བདེན་ལ་སྟོང་ཉིད་ཀྱིས་ཁྱབ་པ།
 9. Not asserting real conventionalities ཡང་དག་ཀུན་རྫོབ་མི་བཞེད་པ།

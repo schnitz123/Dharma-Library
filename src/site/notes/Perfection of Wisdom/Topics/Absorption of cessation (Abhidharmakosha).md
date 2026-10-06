@@ -37,4 +37,5 @@ The absorption of cessation is mainly attained upon a Desire Realm of Form Realm
 
 
 ---
-Up a level: [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|Absorption of cessation (Svatantrika)]]
+See also: [[Abhidharma/Absorption of cessation\|Absorption of cessation (Abhidharma)]]
+Up a level: [[Perfection of Wisdom/Topics/Absorption of cessation\|Absorption of cessation]]

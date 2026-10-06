@@ -125,7 +125,7 @@ See: [[Lamrim Glossary/Karma - Law of Cause and Effect#^57d350\|Karma - Law of C
 See: [[Preliminaries/Collected Topics/Six Causes Five Results#^c42e21\|Six Causes Five Results]]
 
 **How many results:**
-- Contaminated and uncontaminated
+- *Contaminated and uncontaminated*
 	- Actions of stained paths of abandonment: དྲི་བཅས་སྤོང་བའི་ལམ་དག་གི་ལས།
 		1. Fruitional result due to being contaminated virtue
 		   ཟག་བཅས་དགེ་བ་ཡིན་པས་རྣམ་སྨིན་གྱི་འབྲས་བུ་དང་བཅས།
@@ -143,7 +143,7 @@ See: [[Preliminaries/Collected Topics/Six Causes Five Results#^c42e21\|Six Cause
 	  ཟག་བཅས་སྤོང་ལམ་ལས་གཞན་དགེ་བ་དང་མི་དགེ་བ་གང་ཡིན་པའི་ལས་ཀྱི་འབྲས་བུའང་བྲལ་འབྲས་མ་གཏོགས་པ་བཞི།
 	- Actions other than uncontaminated paths of abandonment as well as unspecified actions: Three results excluding fruitional and separation results
 	  ཟག་པ་མེད་པའི་སྤོང་ལམ་ལས་ལྷག་མ་དང་། ལུང་བསྟན་མིན་གང་གི་ལས་ཀྱི་འབྲས་བུ་ནི་རྣམ་སྨིན་དང་བྲལ་འབྲས་མ་གཏོགས་པ་གསུམ།
-- Virtuous, non-virtuous, unspecified:
+- *Virtuous, non-virtuous, unspecified:*
 	- Virtuous actions: དགེ་བའི་ལས་ཀྱི་
 		- Virtuous results: Four results excluding fruitional result
 		  འབྲས་བུ་དགེ་བ་ནི་རྣམ་སྨིན་མ་གཏོགས་པ་བཞི་དང་།
@@ -165,7 +165,7 @@ See: [[Preliminaries/Collected Topics/Six Causes Five Results#^c42e21\|Six Cause
 		  མི་དགེ་བ་ནི་དེའི་སྟེང་དུ་རྒྱུ་མཐུན་ཏེ་གསུམ།
 		- Unspecified results: Similarly three
 		  ལུང་མ་བསྟན་ནི་དེ་བཞིན་དུ་གསུམ།
-- Past, present, future actions: 
+- *Past, present, future actions:* 
 	- Past (past, present, future results): Four excluding separation result
 	  བྲལ་འབྲས་མ་གཏོགས་པ་བཞི།
 	- Present:
@@ -175,7 +175,7 @@ See: [[Preliminaries/Collected Topics/Six Causes Five Results#^c42e21\|Six Cause
 		  སྐྱེས་བདག་གཉིས།
 	- Future + future results: Three excluding causally concordant and separation results
 	  རྒྱུ་མཐུན་དང་བྲལ་འབྲས་མ་གཏོགས་པ་གསུམ།
-- Same and different level
+- *Same and different level*
 	- Same level + same level: Four excluding separation result
 	  བྲལ་འབྲས་མ་གཏོགས་པ་བཞི།
 	- Different level + different level:
@@ -183,7 +183,7 @@ See: [[Preliminaries/Collected Topics/Six Causes Five Results#^c42e21\|Six Cause
 		  སྐྱེས་བདག་གཉིས་དང་རྒྱུ་མཐུན་ཏེ་གསུམ།
 		- If contaminated: The two of result created by persons and dominant result
 		  སྐྱེས་བདག་གཉིས།
-- Learners, Non-Learners, neither
+- *Learners, Non-Learners, neither*
 	- Learners actions:
 		- Learners results: The three of result created by persons, dominant result, and causally concordant result
 		  སྐྱེས་བདག་གཉིས་དང་རྒྱུ་མཐུན་ཏེ་གསུམ་དང་།
@@ -204,9 +204,20 @@ See: [[Preliminaries/Collected Topics/Six Causes Five Results#^c42e21\|Six Cause
 		  དེ་གཉིས་དང་།
 		- Neither results: All five
 		  ལྔ་དང་བཅས།
-- Objects of abandonment of the path of seeing, meditation, and those not to be abandoned
+- *Objects of abandonment of the path of seeing, meditation, and those not to be abandoned*
+	- Seeing-Ab actions:
+		- Seeing-Ab results: The three of result created by persons, dominant results, and causally concordant results
+		- Meditation-Ab results: The four excluding separation results
+		- Non-ab results: The one of dominant results
+	- Meditation-Ab actions:
+		- Seeing-Ab results: The two of result created by persons and dominant results
+		- Meditation-Ab results: The four excluding separation results
+		- Non-ab results: The three of result created by persons, dominant results, and separation results
+	- Non-ab actions:
+		- Seeing-Ab results: The one of dominant results
+		- Meditation-Ab results: The two of result created by persons and dominant results
+		- Non-ab results: The three of result created by persons, dominant results, and separation results
 
-330
 
 ---
 Up a level: [[Abhidharma/Fifteen divisions of karma#^ea2804\|Fifteen divisions of karma]]

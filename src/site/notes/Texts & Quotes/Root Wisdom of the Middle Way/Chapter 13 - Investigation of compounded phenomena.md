@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/texts-and-quotes/root-wisdom-of-the-middle-way/chapter-13-investigation-of-compounded-phenomena/","dg-note-properties":{}}
 ---
 
-བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་གང་ཞིག །སླུ་བ་དེ་ནི་བརྫུན་ཞེས་གསུངས། །འདུ་བྱེད་ཐམས་ཅད་སླུ་བའི་ཆོས། །དེས་ན་དེ་དག་བརྫུན་པ་ཡིན། །
+བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་གང་ཞིག །བསླུ་བ་དེ་ནི་བརྫུན་ཞེས་གསུངས། །འདུ་བྱེད་ཐམས་ཅད་སླུ་བའི་ཆོས། །དེས་ན་དེ་དག་བརྫུན་པ་ཡིན། །
 The Bhagavan said that that which is a phenomenon and deceptive is a falsity.
 All compounded [phenomena] are deceptive phenomena; therefore, they are falsities. [1]
 

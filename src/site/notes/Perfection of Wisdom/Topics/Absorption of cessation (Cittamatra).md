@@ -31,4 +31,4 @@ The absorption of non-discrimination possesses these qualities: འདུ་ཤ�
 
 
 ---
-Up a level: [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|Absorption of cessation (Svatantrika)]]
+Up a level: [[Perfection of Wisdom/Topics/Absorption of cessation\|Absorption of cessation]]

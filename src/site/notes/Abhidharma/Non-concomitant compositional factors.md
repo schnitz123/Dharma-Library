@@ -10,10 +10,10 @@
 **Divisions (14):** དབྱེ་ན་བཅུ་བཞི་ཡོད་དེ། 
 - [[Abhidharma/Attainment\|Attainment]] ཐོབ་པ། 
 - [[Abhidharma/Non-attainment\|Non-attainment]] མ་ཐོབ་པ།
-- Homogeneity སྐལ་མཉམ། 89
-- Non-discrimination འདུ་ཤེས་མེད་པ།
-- Absorption of non-discrimination འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག
-- Absorption of cessation འགོག་པའི་སྙོམས་འཇུག
+- [[Abhidharma/Homogeneity\|Homogeneity]] སྐལ་མཉམ། 89
+- [[Abhidharma/Non-discrimination\|Non-discrimination]] འདུ་ཤེས་མེད་པ།
+- [[Abhidharma/Absorption without discrimination\|Absorption without discrimination]] འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག
+- [[Abhidharma/Absorption of cessation\|Absorption of cessation]] འགོག་པའི་སྙོམས་འཇུག
 - Life-force སྲོག
 - The four characteristics: མཚན་ཉིད་བཞི།
 	- Production

@@ -8,7 +8,7 @@ The definitions of both the [[Perfection of Wisdom/Concentrations/Actual meditat
 - The higher definitively emerging from the observed-objects of the lower
   གོང་མ་གོང་མས་རང་གི་འོག་མ་འོག་མའི་དམིགས་པ་ལས་ངེས་པར་འབྱུང་།
 
-Then, in the definition of the [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|absorption of cessation]] it specifies “distinguished by a ceasing of coarse concomitants” (མཚུངས་ལྡན་རགས་པ་བཀག་པས་རབ་ཏུ་ཕྱེ་བ།), with the two “concomitants” being singled out as the mental factors of Feeling and Discrimination.
+Then, in the definition of the [[Perfection of Wisdom/Topics/Absorption of cessation\|absorption of cessation]] it specifies “distinguished by a ceasing of coarse concomitants” (མཚུངས་ལྡན་རགས་པ་བཀག་པས་རབ་ཏུ་ཕྱེ་བ།), with the two “concomitants” being singled out as the mental factors of Feeling and Discrimination.
 
 Putting this information together, in terms of what is principally being definitively emerged from:
 - Concentrations: Definite emergence from the Feelings of the lower

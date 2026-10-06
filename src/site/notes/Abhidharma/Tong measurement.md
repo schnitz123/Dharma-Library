@@ -3,9 +3,9 @@
 ---
 
 **Summary:**
-- The thousand world-systems (སྟོང་དང་པོའི་འཇིག་རྟེན་གྱི་ཁམས།): refers to 1000 x (Desire Realm + First Concentration)
-- The million world-systems (སྟོང་བར་གྱི་འཇིག་རྟེན་གྱི་ཁམས།): refers to 1000 x the previous (i.e. 1,000,000)
-- The billion world-systems (སྟོང་གསུམ་གྱི་འཇིག་རྟེན་གྱི་ཁསམ།): refers to 1000 x the previous (i.e. 1,000,000,000)
+- 1st tong (སྟོང་དང་པོའི་འཇིག་རྟེན་གྱི་ཁམས།): refers to 1000 x (Desire Realm + First Concentration)
+- 2nd tong (སྟོང་བར་གྱི་འཇིག་རྟེན་གྱི་ཁམས།): refers to 1000 x the previous (i.e. 1,000,000)
+- 3rd tong (སྟོང་གསུམ་གྱི་འཇིག་རྟེན་གྱི་ཁསམ།): refers to 1000 x the previous (i.e. 1,000,000,000)
 
 
 ---

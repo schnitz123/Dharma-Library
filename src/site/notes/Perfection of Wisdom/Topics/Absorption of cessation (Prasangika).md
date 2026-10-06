@@ -12,4 +12,5 @@ There are two: Common and uncommon.
 **Definition of the uncommon:** An exalted wisdom in direct meditative equipoise on dharmata that is distinguished by the surpassing practice of the perfection of wisdom.
 
 ---
-Up a level: [[Perfection of Wisdom/Topics/Absorption of cessation (Svatantrika)\|Absorption of cessation (Svatantrika)]]
+See also: [[Madhyamaka/Absorption of cessation\|Absorption of cessation (Madhyamaka)]]
+Up a level: [[Perfection of Wisdom/Topics/Absorption of cessation\|Absorption of cessation]]
