@@ -20,11 +20,7 @@
     {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
     {% endif %}
-    <main class="content cm-s-obsidian print {{contentClasses}}">
-      <header>
-      {% if settings.dgShowInlineTitle === true %}
-        <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
-      {% endif %}
+   
 
 <button class="menu-toggle" id="lib-mobile-btn" onclick="document.getElementById('lib-sidebar-mobile').classList.toggle('is-open')">
   <span class="hamburger-line"></span>
@@ -119,7 +115,11 @@
 </div>
 
 
-
+ <main class="content cm-s-obsidian print {{contentClasses}}">
+      <header>
+      {% if settings.dgShowInlineTitle === true %}
+        <h1>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
+      {% endif %}
       <div class="header-meta">
         {% if settings.dgShowTags === true and tags %}
           <div class="header-tags">
