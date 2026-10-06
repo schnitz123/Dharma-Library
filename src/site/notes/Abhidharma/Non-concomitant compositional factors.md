@@ -10,21 +10,16 @@
 **Divisions (14):** དབྱེ་ན་བཅུ་བཞི་ཡོད་དེ། 
 - [[Abhidharma/Attainment\|Attainment]] ཐོབ་པ། 
 - [[Abhidharma/Non-attainment\|Non-attainment]] མ་ཐོབ་པ།
-- [[Abhidharma/Homogeneity\|Homogeneity]] སྐལ་མཉམ། 89
+- [[Abhidharma/Homogeneity\|Homogeneity]] སྐལ་མཉམ། 
 - [[Abhidharma/Non-discrimination\|Non-discrimination]] འདུ་ཤེས་མེད་པ།
 - [[Abhidharma/Absorption without discrimination\|Absorption without discrimination]] འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག
 - [[Abhidharma/Absorption of cessation\|Absorption of cessation]] འགོག་པའི་སྙོམས་འཇུག
-- Life-force སྲོག
-- The four characteristics: མཚན་ཉིད་བཞི།
-	- Production
-	- Disintegration
-	- Abiding
-	- Impermanence
-- The three collections: ཚོགས་གསུམ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། 
-	- [[Preliminaries/Lorig/Expressive sound\|Terms, phrases, and letters]]
+- [[Abhidharma/Life-force\|Life-force]] སྲོག
+- [[Abhidharma/The four characteristics\|The four characteristics]] (4): མཚན་ཉིད་བཞི།
+- [[Abhidharma/The three collections\|The three collections]] (3): ཚོགས་གསུམ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། 
 
 ལྡན་མིན་འདུ་བྱེད་ལ་དེར་གྲངས་མ་ངེས།
-Definite in number as those.
+Non-concomitant compositional factors are definite in number as those.
 
 
 
