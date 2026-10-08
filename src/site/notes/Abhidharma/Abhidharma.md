@@ -21,7 +21,10 @@
 	- Production of non-physical phenomena
 		- Minds and mental factors 76
 		- [[Abhidharma/Non-concomitant compositional factors\|Non-concomitant compositional factors]]
-- Causes, conditions, and results
+- Causes, conditions, and results:
+	- [[Abhidharma/Six Causes\|Six Causes]]
+	- [[Abhidharma/Five Results\|Five Results]]
+	- Four Conditions 105
 
 
 **Chapter 3 - Presentation of the world-system**
