@@ -9,7 +9,7 @@
 5. Stealing offerings to the three jewels དཀོན་མཆོག་དཀོར་འཕྲོག
 6. Abandoning the Dharma ཆོས་སྤོང་།
 7. Stealing the ordained robes ངུར་སྨྲིག་འཕྲོག
-8. Engaging in the five immediate actions མཚམས་མེད་ལྔ་།
+8. Engaging in the [[Abhidharma/Five uninterrupted actions\|five uninterrupted actions]] མཚམས་མེད་ལྔ་།
 9. Wrong views ལོག་ལྟ། *(no need for four factors)*
 10. Destroying villages and so forth གྲོང་སོགས་འཇོམས།
 11. Teaching emptiness to the untrained མ་སྦྱངས་སྟོང་ཉིད་བསྟན་དང་།

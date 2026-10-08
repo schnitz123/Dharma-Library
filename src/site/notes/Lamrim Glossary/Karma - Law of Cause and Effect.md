@@ -39,7 +39,7 @@
 	2. Harmful intent གནོད་སེམས།
 	3. Wrong Views ལོག་ལྟ།
 
-**The Five Immediate Actions:** མཚམས་མེད་པའི་ལས་ལྔ་།
+**The Five Uninterrupted Actions:** མཚམས་མེད་པའི་ལས་ལྔ་།
 { #e06011}
 
 1. Killing one’s mother མ་གསོད་པ།

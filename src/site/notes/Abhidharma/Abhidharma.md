@@ -22,6 +22,8 @@
 		- Minds and mental factors 76
 		- [[Abhidharma/Non-concomitant compositional factors\|Non-concomitant compositional factors]]
 - Causes, conditions, and results:
+{ #d6a303}
+
 	- [[Abhidharma/Six Causes\|Six Causes]]
 	- [[Abhidharma/Five Results\|Five Results]]
 	- Four Conditions 105
@@ -36,6 +38,8 @@
 [[Abhidharma/Tong measurement\|Tong measurement]]
 
 **Chapter 4 - Presentation of karma**
+{ #1ab0c5}
+
 - [[Abhidharma/Karma - Intro\|Karma - Intro]]
 - [[Abhidharma/Karma\|Karma]]
 	- [[Abhidharma/Non-revealing forms\|Non-revealing forms]]

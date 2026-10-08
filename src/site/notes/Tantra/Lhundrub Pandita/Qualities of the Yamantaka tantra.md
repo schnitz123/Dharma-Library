@@ -24,7 +24,7 @@
 Moreover, the threatening mudrā issues a command to mundane and supramundane deities to "Listen up!", symbolising that he possesses the final essential points of both Father and Mother Tantras. 
 
 སྐྱེས་བུ་གསལ་ཤིང་ལ་བཙུགས་པས་མི་དགེ་བ་བཅུ་དང་ཆོས་སྤོོང་བ་དང་མཚམས་མེད་ལྔ་སོོགས་བྱས་པའི་སྡིག་པ་ཆེ་བ་རྣམས་ཀྱང་བཙན་ཐབས་སུ་འཚང་རྒྱ་བར་མཚོོན་པ་དང་། 
-The person impaled on a stake symbolises that even those who have engaged in the ten non-virtues, abandoned the Dharma, and engaged in the five immediate actions can be enlightened through forceful means. 
+The person impaled on a stake symbolises that even those who have engaged in the ten non-virtues, abandoned the Dharma, and engaged in the five uninterrupted actions can be enlightened through forceful means. 
 
 རྭ་གཉིས་ཀྱིས་ཡུལ་བདེན་པ་གཉིས་ཀྱི་གནས་ཚུལ་ལམ་ཐབས་ཤེས་གཉིས་རྒྱུད་ལ་ཇི་ལྟར་བསྐྱེད་པ་བཞིན་འབྲས་བུའི་སྐུ་ཐོོབ་ཚུལ་མ་ཚང་བ་མེད་པར་རྫོོགས་པ་མཚོོན་པར་ཡང་གསུངས།
 The two horns symbolise how the mode of being of the two truths, or the path of method and wisdom, is generated in one’s continuum, leading to the complete and perfect attainment of the resultant body.

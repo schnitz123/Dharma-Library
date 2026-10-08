@@ -111,7 +111,7 @@ The actions thoroughly completing the particular attributes of the class of birt
 ---
 **10. The three obscurations:** སྒྲིབ་པ་གསུམ་བཤད་པ།
 1. *Karmic obscurations* ལས་ཀྱི་སྒྲིབ་པ།
-   The [[Lamrim Glossary/Karma - Law of Cause and Effect#^e06011\|Five Immediate Actions]] since birth in the hells in the next life cannot be limited or hindered by other actions or migrations
+   The [[Abhidharma/Five uninterrupted actions\|Five uninterrupted actions]] since birth in the hells in the next life cannot be limited or hindered by other actions or migrations
    སྐྱེ་བ་ཕྱི་མ་ཁོ་ན་ལ་དམྱལ་བར་སྐྱེ་བ་ལ་ལས་དང་འགྲོ་བ་གཞན་གྱིས་མཚམས་སམ་བར་བཅད་པར་མི་ནུས་པས་མཚམས་མེད་པ་ལྔའི་ལས་རྣམས།
 2. *Afflicted obscurations* ཉོན་མོངས་པའི་སྒྲིབ་པ།
    i.e. strong afflictions ཉོན་མོངས་པ་ཤས་ཆེན་པོ་ནི་ཉོན་མོངས་པའི་སྒྲིབ་པ་ཡིན་ནོ།
@@ -130,8 +130,13 @@ The actions thoroughly completing the particular attributes of the class of birt
 འཕགས་པའི་ལམ་དང་དྲོ་བར་གྱུར་པ་ལ་སོགས་པ་འཕགས་པའི་ལམ་ལ་སྦྱོར་བར་བྱེད་པའི་དགེ་བ་ལ་སྒྲིབ་པ་དང་གེགས་སུ་གྱུར་པའི་ཕྱིར་རོ།
 They are asserted as three obscurations because they obscure and obstruct the arya paths and virtues that prepare one for the arya paths (such as heat and so forth).
 
-chim2: 156
+**11.** [[Abhidharma/Five uninterrupted actions\|Five uninterrupted actions]]
+{ #07df4f}
+
+
+**12.** [[Abhidharma/Five proximate to the uninterrupted actions\|Five proximate to the uninterrupted actions]]
+{ #091205}
 
 
 ---
-Up a level: [[Abhidharma/Abhidharma\|Abhidharma]] / [[Abhidharma/Karma\|Karma]]
+Up a level: [[Abhidharma/Abhidharma#^1ab0c5\|Abhidharma]] / [[Abhidharma/Karma\|Karma]]

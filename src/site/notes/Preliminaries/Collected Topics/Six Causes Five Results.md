@@ -64,6 +64,6 @@
 
 
 ---
-
+See also: [[Abhidharma/Abhidharma#^d6a303\|Abhidharma]]
 See also: [[Preliminaries/Collected Topics/Cause and Effect\|Cause and Effect]] / [[Preliminaries/Collected Topics/Conditions\|Conditions]]
 Up a level: [[Preliminaries/Collected Topics/Collected Topics\|Collected Topics]]
