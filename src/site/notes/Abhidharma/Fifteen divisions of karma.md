@@ -130,12 +130,50 @@ The actions thoroughly completing the particular attributes of the class of birt
 འཕགས་པའི་ལམ་དང་དྲོ་བར་གྱུར་པ་ལ་སོགས་པ་འཕགས་པའི་ལམ་ལ་སྦྱོར་བར་བྱེད་པའི་དགེ་བ་ལ་སྒྲིབ་པ་དང་གེགས་སུ་གྱུར་པའི་ཕྱིར་རོ།
 They are asserted as three obscurations because they obscure and obstruct the arya paths and virtues that prepare one for the arya paths (such as heat and so forth).
 
+---
 **11.** [[Abhidharma/Five uninterrupted actions\|Five uninterrupted actions]]
 { #07df4f}
 
 
-**12.** [[Abhidharma/Five proximate to the uninterrupted actions\|Five proximate to the uninterrupted actions]]
+**12.** [[Abhidharma/The five proximate to the uninterrupted actions\|The five proximate to the uninterrupted actions]]
 { #091205}
+
+
+---
+**13. Three bases of meritorious activities** རྟེན་བསོད་ནམས་བྱ་བའི་གཞི་གསུམ།
+{ #7e1010}
+
+1. Meritorious activities arisen from [[Abhidharma/Generosity\|generosity]] སྦྱིན་པ་ལས་བྱུང་བའི་བསོད་ནམས་བྱ་བའི་གཞི། 
+2. Meritorious activities arisen from [[Abhidharma/Ethics\|ethics]] ཚུལ་ཁྲིམས་ལས་བྱུང་བའི་བསོད་ནམས་བྱ་བའི་གཞི། 
+3. Meritorious activities arisen from [[Abhidharma/Meditation\|meditation]] སྒོམ་པ་ལས་བྱུང་བའི་བསོད་ནམས་བྱ་བའི་གཞི།
+
+They are:
+- Meritorious due to giving rise to pleasant results འབྲས་བུ་ཡིད་དུ་འོང་བ་འབྱུང་བས་ན་བསོད་ནམས།
+- Activities due to being in the nature of actions ལས་ཀྱི་ངོ་བོ་ཡིན་པས་ན་བྱ་བ།
+- Bases due to being the bases for engaging motivational intentions ཀུན་སློང་གི་སེམས་པ་འཇུག་པའི་གཞི་ཡིན་པས་ན་དེའི་གཞི།
+
+---
+**14. Three root virtues of partial concordance:** ཆ་མཐུན་གྱི་དགེ་རྩ་གསུམ།
+1. Partial concordance with merit: Those that induce pleasant fruitions 
+   བསོད་ནམས་ཆ་མཐུན་རྣམ་སྨིན་ཡིད་འོང་འབྱིན་པ། 
+2. Partial concordance with liberation: Those that function to attain nirvana 
+   ཐར་པ་ཆ་མཐུན་མྱང་འདས་འཐོབ་པར་བྱེད་པ། 
+3. Partial concordance with definite discrimination: The four of heat and so forth
+   ངེས་འབྱེད་ཆ་མཐུན་འོག་ནས་བཤད་པའི་དྲོད་སོགས་བཞི།
+
+---
+**15. Three actions allowed due to being suitable:** རིགས་པས་རབ་བཅུག་པའི་ལས།
+1. Actions of body
+   e.g. writing the letters of the alphabet, carving reliefs of deities, and so forth
+   དེ་ལ་ཀ་ལ་སོགས་པའི་ཡིག་འབྲུའི་གཟུགས་འདྲི་བ་དང་། ལྷ་ལ་སོགས་པའི་འབུར་གྱི་རྒྱ་རྐོ་བ་ནི་ལུས་ཀྱི་ལས་དང་། 
+2. Actions of speech
+   e.g. poetry, as well as counting
+   དངོས་པོ་གཅིག་ལ་སོགས་པ་བགྲང་བ་དང་བཅས་པའི་སྙན་ངག་ནི་ངག་གི་ལས་སོ།
+3. Actions of mind
+   e.g. calculations such as "ten times ten is one hundred" and so forth
+   བཅུ་པ་བཅུ་ལ་བརྒྱའོ་ཞེས་བྱ་བ་ལ་སོགས་པའི་གྲངས་བསྡོམས་ཏེ་འཛིན་པ་ནི་ཡིད་ཀྱི་ལས།
+
+
 
 
 ---
