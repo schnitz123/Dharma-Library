@@ -49,6 +49,10 @@
 - [[Abhidharma/Three Jewels\|Three Jewels]] / [[Abhidharma/Going for refuge\|Going for refuge]]
 
 **Chapter 5 - Presentation of the subtle-increasers**
+{ #6941bc}
+
+
+[[Abhidharma/Subtle-increasers\|Subtle-increasers]]
 
 **Chapter 6 - Presentation of paths and persons**
 - [[Abhidharma/Abhidharmakosha/Chapter 6\|Root text - Chapter 6]]
