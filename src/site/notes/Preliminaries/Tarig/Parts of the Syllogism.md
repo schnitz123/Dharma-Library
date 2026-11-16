@@ -27,7 +27,7 @@ The subject - sound - it is impermanent because it is a product. For example, li
 **C:**
 - [[Preliminaries/Tarig/Sign\|Sign]]               རྟགས། 
 - Reason གཏན་ཚིགས།
-- All three modes: ཚུལ་གསུམ།
+- All three modes (if correct): ཚུལ་གསུམ།
 	- [[Preliminaries/Tarig/Property of the position\|Property of the position]] ཕྱོགས་ཆོས།
 	- [[Preliminaries/Tarig/Forward pervasion\|Forward pervasion]] རྗེས་ཁྱབ།
 	- [[Preliminaries/Tarig/Reverse pervasion\|Reverse pervasion]] ལྡོག་ཁྱབ།

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/preliminaries/tarig/negandum/","dg-note-properties":{}}
 ---
 
-i.e. "that to be negated" དགག་བྱ།
+i.e. "that to be negated" དགག་པར་བྱ་བ།
+Also translated as "object of negation" in the context of Madhyamaka reasonings etc.
 
 Refers to the opposite of the [[Preliminaries/Tarig/Probandum\|probandum]], i.e. the subject and the negation of the predicate (A = ¬B)
 

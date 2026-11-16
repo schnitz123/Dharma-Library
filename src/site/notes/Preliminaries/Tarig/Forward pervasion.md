@@ -31,7 +31,7 @@ This definition is not definitive, because "sound" is also that.
 				1. Because a correct opponent in the proof that sound is impermanent exists
 				   སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་ཕྱི་རྒོལ་ཡང་དག་ཡོད་པའི་ཕྱིར།
 2. X is related to impermanent because:
-	1. Product and product are [[Preliminaries/Collected Topics/Related as same nature\|related as same nature]] ཁྱོད་མི་རྟག་པ་ལ་བདག་གཅིག་ཏུ་འབྲེལ་བའི་ཕྱིར།
+	1. X and impermanent are [[Preliminaries/Collected Topics/Related as same nature\|related as same nature]] ཁྱོད་མི་རྟག་པ་ལ་བདག་གཅིག་ཏུ་འབྲེལ་བའི་ཕྱིར།
 3. X is ascertained with valid cognition as categorically existing, in accordance with the mode of statement, only in the similar class in the proof that sound is impermanent because:
 	1. The mode of statement in the proof of that using the sign "product" is an "is" statement;
 	   ཁྱོད་ཀྱི་རྟགས་ཀྱིས་དེ་སྒྲུབ་ཀྱི་འགོད་ཚུལ་ཡིན་འགོད་གང་ཞིག
@@ -39,8 +39,8 @@ This definition is not definitive, because "sound" is also that.
 		1. Because the mode of proof in the proof of that using the sign "product" is either an "is" proof or an "exists" proof ཁྱོད་ཀྱི་རྟགས་ཀྱིས་དེ་སྒྲུབ་ཀྱི་སྒྲུབ་ཚུལ་ཡིན་སྒྲུབ་དང༌། ཡོད་སྒྲུབ་གང་རུང་གང་ཞིག
 			1. Because it is stated as a sign in the proof of that ཁྱོད་དེ་སྒྲུབ་ཀྱི་རྟགས་སུ་བཀོད་པའི་ཕྱིར།
 		2. It is not the latter ཕྱི་མ་མ་ཡིན་པའི་ཕྱིར།
-	3. Product is impermanent ཁྱོད་མི་རྟག་པ་ཡིན།
-	4. If it is a product, then it is necessarily impermanent ཁྱོད་ཡིན་ན། མི་རྟག་པ་ཡིན་དགོས་པའི་ཕྱིར།
+	3. X is impermanent ཁྱོད་མི་རྟག་པ་ཡིན།
+	4. If it is x, then it is necessarily impermanent ཁྱོད་ཡིན་ན། མི་རྟག་པ་ཡིན་དགོས་པའི་ཕྱིར།
 
 ---
 See also [[Preliminaries/Tarig/Two types of sign pervasion\|Two types of sign pervasion]].
