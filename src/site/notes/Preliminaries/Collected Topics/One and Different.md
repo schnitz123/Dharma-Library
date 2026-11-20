@@ -29,7 +29,7 @@ Those two as the subject, it follows that they are not *one substance of establi
 
 སོ་སོ་བའི་ཆོས་དེ། ཐ་དད་པའི་མཚན་ཉིད།
 **Definition of different:** Diverse phenomena.
-See: [[Preliminaries/Collected Topics/Contradiction and Relation#^a53f9f\|Relation]]
+See: [[Preliminaries/Collected Topics/Contradiction and Relation#^35857a\|Relation]]
 
 ---
 

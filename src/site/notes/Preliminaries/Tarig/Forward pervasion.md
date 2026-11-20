@@ -9,7 +9,7 @@ That ascertained by valid cognition as categorically existing, in accordance wit
 **Illustration:** product.
 This definition is not definitive, because "sound" is also that.
 
-ཁྱོད་ཀྱི་རྟགས་ཀྱིས་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་རྟགས་ཆོས་གཉིས་ལྡན་གྱི་མཐུན་དཔེ་ཡང་དག་ཡོད། ཁྱོད་མི་རྟག་པ་ལ་འབྲེལ། ཁྱོད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་མཐུན་ཕྱོགས་ཁོ་ན་ལ་འགོད་ཚུལ་དང་མཐུན་པར་ཡོད་པ་ཉིད་དུ་ཚད་མས་ངེས་པ་ཁྱོད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་རྗེས་ཁྱབ་ཡིན་པའི་མཚན་ཉིད།
+ཁྱོད་ཀྱི་རྟགས་ཀྱིས་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་རྟགས་ཆོས་གཉིས་ལྡན་གྱི་མཐུན་དཔེ་ཡང་དག་ཡོད། ཁྱོད་མི་རྟག་པ་ལ་འབྲེལ། ཁྱོད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་མཐུན་ཕྱོགས་ཁོ་ན་ལ་འགོད་ཚུལ་དང་མཐུན་པར་ཡོད་པ་ཉིད་དུ་ཚད་མས་ངེས་པ། ཁྱོད་སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་རྗེས་ཁྱབ་ཡིན་པའི་མཚན་ཉིད།
 **Definition of x being the forward pervasion in the proof that sound is impermanent:**
 1. There exists a correct similar example possessing the sign and predicate in the proof that sound is impermanent using the sign "x";
 2. x is related to impermanent; and
